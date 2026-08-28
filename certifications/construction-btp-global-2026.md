@@ -1194,9 +1194,9 @@ Sources :
 
 ## Coordination SPS
 
-- **Coordonnateur SPS niveau 1 — conception / réalisation selon compétence** — REG/QUAL
-- **Coordonnateur SPS niveau 2** — REG/QUAL
-- **Coordonnateur SPS niveau 3** — REG/QUAL
+- **Coordonnateur SPS niveau 1 — conception / réalisation selon compétence** — REG/QUAL — 🇫🇷 FR
+- **Coordonnateur SPS niveau 2** — REG/QUAL — 🇫🇷 FR
+- **Coordonnateur SPS niveau 3** — REG/QUAL — 🇫🇷 FR
 
 La France encadre la formation spécifique et la certification des organismes de formation CSPS ; l'aptitude du coordonnateur dépend du parcours réglementaire et de l'actualisation de formation.
 

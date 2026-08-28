@@ -107,10 +107,10 @@ Catalogue : https://learn.microsoft.com/credentials/certifications/
 
 ## Google Cloud
 
-| Certification | Prix |
-|---|---:|
-| Associate Cloud Engineer | **125 $** |
-| Professional Cloud Architect | **200 $** |
+| Certification | Prix | Portée |
+| --- | ---: | :---: |
+| Associate Cloud Engineer | **125 $** | 🌍 INT |
+| Professional Cloud Architect | **200 $** | 🌍 INT |
 
 Sources :
 - https://cloud.google.com/learn/certification/cloud-engineer
@@ -118,12 +118,12 @@ Sources :
 
 ## HashiCorp
 
-| Certification | Prix |
-|---|---:|
-| Terraform Associate | **70,50 $ + taxes** |
-| Vault Associate | **70,50 $ + taxes** |
-| Terraform Authoring & Operations Professional | **295 $** |
-| Vault Operations Professional | **295 $** |
+| Certification | Prix | Portée |
+| --- | ---: | :---: |
+| Terraform Associate | **70,50 $ + taxes** | 🌍 INT |
+| Vault Associate | **70,50 $ + taxes** | 🌍 INT |
+| Terraform Authoring & Operations Professional | **295 $** | 🌍 INT |
+| Vault Operations Professional | **295 $** | 🌍 INT |
 
 Les examens Professional comprennent actuellement une politique de retake avantageuse selon le produit.
 
@@ -156,16 +156,16 @@ Référence : https://learn.finops.org/
 
 SUSE est particulièrement agressif sur le prix des examens et n'impose généralement pas la formation associée.
 
-| Certification | Prix |
-|---|---:|
-| SUSE Certified Deployment Specialist in SUSE AI | **99 $** |
-| SCA SUSE Linux Enterprise Server 15 / 16 | **149 $** |
-| SCA SUSE Rancher Prime | **149 $** |
-| SCA Rancher Kubernetes Engine 2 | **149 $** |
-| SCA SUSE NeuVector | **149 $** |
-| SCA SUSE Multi-Linux Manager | **149 $** |
-| Deployment Specialist Multi-Linux Manager | **149 $** |
-| SCE Linux Enterprise High Availability | **195 $** |
+| Certification | Prix | Portée |
+| --- | ---: | :---: |
+| SUSE Certified Deployment Specialist in SUSE AI | **99 $** | 🌍 INT |
+| SCA SUSE Linux Enterprise Server 15 / 16 | **149 $** | 🌍 INT |
+| SCA SUSE Rancher Prime | **149 $** | 🌍 INT |
+| SCA Rancher Kubernetes Engine 2 | **149 $** | 🌍 INT |
+| SCA SUSE NeuVector | **149 $** | 🌍 INT |
+| SCA SUSE Multi-Linux Manager | **149 $** | 🌍 INT |
+| Deployment Specialist Multi-Linux Manager | **149 $** | 🌍 INT |
+| SCE Linux Enterprise High Availability | **195 $** | 🌍 INT |
 
 Sources : https://www.suse.com/training/
 
@@ -173,13 +173,13 @@ Sources : https://www.suse.com/training/
 
 Tarification européenne constatée :
 
-| Credential | Coût |
-|---|---:|
-| Linux Essentials | **110 €** |
-| Security Essentials / Web Development Essentials équivalents | **110 €** selon examen |
-| DevOps Tools Engineer | **176 €** |
-| BSD Specialist | **176 €** |
-| LPIC-1 | **2 × 176 € = 352 €** |
+| Credential | Coût | Portée |
+| --- | ---: | :---: |
+| Linux Essentials | **110 €** | 🌍 INT |
+| Security Essentials / Web Development Essentials équivalents | **110 €** selon examen | 🌍 INT |
+| DevOps Tools Engineer | **176 €** | 🌍 INT |
+| BSD Specialist | **176 €** | 🌍 INT |
+| LPIC-1 | **2 × 176 € = 352 €** | 🌍 INT |
 
 LPIC-2 et LPIC-3 sont moins intéressants pour notre classement « moins de 500 € depuis zéro », car leurs prérequis font monter le coût total du parcours.
 
@@ -267,12 +267,12 @@ Source : https://www.nutanix.com/support-services/training-certification/certifi
 
 ## Cisco
 
-| Certification | Prix |
-|---|---:|
-| CCST | **125 $** |
-| CCNA | **300 $** |
-| CCNA Cybersecurity | **300 $** |
-| CCNA Automation | **300 $** |
+| Certification | Prix | Portée |
+| --- | ---: | :---: |
+| CCST | **125 $** | 🌍 INT |
+| CCNA | **300 $** | 🌍 INT |
+| CCNA Cybersecurity | **300 $** | 🌍 INT |
+| CCNA Automation | **300 $** | 🌍 INT |
 
 Source : https://www.cisco.com/site/us/en/learn/training-certifications/certifications/
 
@@ -357,10 +357,10 @@ L'ancienne offre gratuite CC n'est plus ouverte aux nouveaux candidats.
 
 Tarifs EMEA vérifiés :
 
-| Certification | Prix examen |
-|---|---:|
-| Certified in Cybersecurity — CC | **191,04 €** |
-| SSCP | **239,04 €** |
+| Certification | Prix examen | Portée |
+| --- | ---: | :---: |
+| Certified in Cybersecurity — CC | **191,04 €** | 🌍 INT |
+| SSCP | **239,04 €** | 🌍 INT |
 
 Attention : des **Annual Maintenance Fees** s'appliquent après certification.
 
@@ -385,10 +385,10 @@ Sources : https://www.isaca.org/credentialing
 
 ## Cloud Security Alliance
 
-| Certification | Prix |
-|---|---:|
-| CCZT — Certificate of Competence in Zero Trust | **175 $** |
-| CCSK — Certificate of Cloud Security Knowledge | **445 $** |
+| Certification | Prix | Portée |
+| --- | ---: | :---: |
+| CCZT — Certificate of Competence in Zero Trust | **175 $** | 🌍 INT |
+| CCSK — Certificate of Cloud Security Knowledge | **445 $** | 🌍 INT |
 
 Le token CCSK comprend généralement plusieurs tentatives selon les conditions en vigueur.
 
@@ -398,18 +398,18 @@ Source : https://cloudsecurityalliance.org/education
 
 Tarifs US 2026 indicatifs :
 
-| Certification | Prix approx. |
-|---|---:|
-| Tech+ | **129 $** |
-| Data+ | **264 $** |
-| Network+ | **399 $** |
-| Linux+ | **399 $** |
-| Cloud+ | **399 $** |
-| Server+ | **399 $** |
-| Project+ | **399 $** |
-| Security+ | **439 $** |
-| CySA+ | **439 $** |
-| PenTest+ | **439 $** |
+| Certification | Prix approx. | Portée |
+| --- | ---: | :---: |
+| Tech+ | **129 $** | 🌍 INT |
+| Data+ | **264 $** | 🌍 INT |
+| Network+ | **399 $** | 🌍 INT |
+| Linux+ | **399 $** | 🌍 INT |
+| Cloud+ | **399 $** | 🌍 INT |
+| Server+ | **399 $** | 🌍 INT |
+| Project+ | **399 $** | 🌍 INT |
+| Security+ | **439 $** | 🌍 INT |
+| CySA+ | **439 $** | 🌍 INT |
+| PenTest+ | **439 $** | 🌍 INT |
 
 Les tarifs européens / TVA doivent être vérifiés avant achat.
 
@@ -434,10 +434,10 @@ Source : https://learn.mongodb.com/pages/certification
 
 ## Snowflake
 
-| Certification | Prix |
-|---|---:|
-| SnowPro Core | **175 $** |
-| SnowPro Advanced | **375 $** |
+| Certification | Prix | Portée |
+| --- | ---: | :---: |
+| SnowPro Core | **175 $** | 🌍 INT |
+| SnowPro Advanced | **375 $** | 🌍 INT |
 
 Source : https://learn.snowflake.com/en/certifications/
 
@@ -489,14 +489,14 @@ Source : https://www.sumologic.com/help/docs/get-started/training-certification-
 
 Exemples de la grille actuelle :
 
-| Certification | Prix |
-|---|---:|
-| NCA AI Infrastructure & Operations | **125 $** |
-| NCA Accelerated Data Science | **125 $** |
-| NCP Accelerated Data Science | **200 $** |
-| NCP AI Networking | **400 $** |
-| NCP AI Rack & Interconnect | **400 $** |
-| NCP AI Infrastructure Professional | **400 $** |
+| Certification | Prix | Portée |
+| --- | ---: | :---: |
+| NCA AI Infrastructure & Operations | **125 $** | 🌍 INT |
+| NCA Accelerated Data Science | **125 $** | 🌍 INT |
+| NCP Accelerated Data Science | **200 $** | 🌍 INT |
+| NCP AI Networking | **400 $** | 🌍 INT |
+| NCP AI Rack & Interconnect | **400 $** | 🌍 INT |
+| NCP AI Infrastructure Professional | **400 $** | 🌍 INT |
 
 Les examens affichés à **500 $** sont placés en zone limite : la TVA / conversion peut faire dépasser le budget réel de 500 €.
 
@@ -628,16 +628,16 @@ Le catalogue iSQI permet d'accéder à de nombreux examens sans acheter une form
 
 Tarifs « à partir de » observés :
 
-| Certification | Prix indicatif |
-|---|---:|
-| ISTQB Certified Tester Foundation Level | **à partir de 75 €** |
-| ISTQB Testing with Generative AI | **à partir de 75 €** |
-| ISTQB AI Testing | **à partir de 75 €** |
-| ISTQB Test Automation Engineering | **à partir de 100 €** |
-| TMAP Quality for Cross-Functional Teams | **à partir de 95 €** |
-| A4Q Selenium Tester Foundation | **à partir de 120 €** |
-| Practical Tester by A4Q | **à partir de 130 €** |
-| ISTQB Advanced Test Analyst | **à partir de 135 €** |
+| Certification | Prix indicatif | Portée |
+| --- | ---: | :---: |
+| ISTQB Certified Tester Foundation Level | **à partir de 75 €** | ❓ UNV |
+| ISTQB Testing with Generative AI | **à partir de 75 €** | ❓ UNV |
+| ISTQB AI Testing | **à partir de 75 €** | ❓ UNV |
+| ISTQB Test Automation Engineering | **à partir de 100 €** | ❓ UNV |
+| TMAP Quality for Cross-Functional Teams | **à partir de 95 €** | ❓ UNV |
+| A4Q Selenium Tester Foundation | **à partir de 120 €** | ❓ UNV |
+| Practical Tester by A4Q | **à partir de 130 €** | ❓ UNV |
+| ISTQB Advanced Test Analyst | **à partir de 135 €** | ❓ UNV |
 
 Prix variables selon pays et taxes.
 

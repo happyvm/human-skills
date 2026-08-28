@@ -423,12 +423,12 @@ PECB mérite une rubrique TCO à part entière car le coût dépend fortement de
 
 Le handbook PECB actuel indique :
 
-| Niveau | Examen | Application certification | Coût minimal |
-|---|---:|---:|---:|
-| Foundation | 500 $ | 200 $ | **700 $ ≈ 601 €** |
-| Manager | 700 $ | 500 $ | **1 200 $ ≈ 1 030 €** |
-| Lead | 1 000 $ | 500 $ | **1 500 $ ≈ 1 288 €** |
-| Transition | 500 $ | 200 $ | **700 $ ≈ 601 €** |
+| Niveau | Examen | Application certification | Coût minimal | Portée |
+| --- | ---: | ---: | ---: | :---: |
+| Foundation | 500 $ | 200 $ | **700 $ ≈ 601 €** | 🌍 INT |
+| Manager | 700 $ | 500 $ | **1 200 $ ≈ 1 030 €** | 🌍 INT |
+| Lead | 1 000 $ | 500 $ | **1 500 $ ≈ 1 288 €** | 🌍 INT |
+| Transition | 500 $ | 200 $ | **700 $ ≈ 601 €** | 🌍 INT |
 
 Pour les certifications non Foundation/Provisional/Transition, l'AMF est généralement de **120 $ par an**, avec la première année incluse dans certains scénarios.
 
