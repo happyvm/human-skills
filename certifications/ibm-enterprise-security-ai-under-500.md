@@ -15,6 +15,8 @@ verified: 2026-08-28
 
 > IBM a encore en 2026 un des catalogues enterprise les plus larges à prix raisonnable. Vérification : 28 août 2026.
 
+**Auto-formation officielle et gratuite (IBM, toute la gamme ci-dessous) :** [IBM SkillsBuild](https://skillsbuild.org/) — 1000+ cours gratuits en cybersécurité, data, cloud et IA.
+
 ---
 
 # Vue rapide

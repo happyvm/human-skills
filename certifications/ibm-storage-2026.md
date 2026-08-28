@@ -28,6 +28,8 @@ IBM utilise plusieurs types de credential qui ne doivent pas être confondus :
 
 Le dépôt conserve donc le type de preuve exact au lieu d'appeler tout « certification ».
 
+**Auto-formation officielle et gratuite (IBM, toute la gamme ci-dessous) :** [IBM SkillsBuild](https://skillsbuild.org/) — 1000+ cours gratuits, dont *Introduction to IBM Storage and Cloud* (DL08015G).
+
 ---
 
 # IBM Storage Scale Administrator — actif, mais modèle hybride

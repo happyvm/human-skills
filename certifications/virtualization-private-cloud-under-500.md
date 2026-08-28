@@ -36,6 +36,8 @@ verified: 2026-08-28
 
 # VMware by Broadcom
 
+**Auto-formation officielle :** [Broadcom VMware Education](https://www.broadcom.com/support/education/vmware) — VMware Learning Zone (digital learning) ; entitlements gratuits pour les clients VMware Cloud Foundation.
+
 Le changement important du programme VMware est la suppression, depuis mai 2024, des formations et certifications préalables obligatoires pour les familles **VCP, VCAP et Specialist** concernées.
 
 Broadcom a également harmonisé le tarif de ces examens à **250 $ USD**.
@@ -125,6 +127,8 @@ Cela change fortement le rapport coût / valeur d'une certification VMware.
 # Nutanix
 
 Nutanix conserve une grille particulièrement accessible.
+
+**Auto-formation officielle et gratuite :** [Nutanix University](https://www.nutanix.com/support-services/training-certification/training) (via MyNutanix) — cours gratuits de ~60 min et campagnes périodiques d'examen offert après formation.
 
 ## NCA
 
