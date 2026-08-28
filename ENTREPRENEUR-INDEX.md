@@ -18,7 +18,7 @@ verified: 2026-08-28
 
 ---
 
-# 1. Les cinq catalogues principaux
+# 1. Les six catalogues principaux
 
 | Axe | Catalogue |
 |---|---|
@@ -27,6 +27,7 @@ verified: 2026-08-28
 | Meilleures compétences fonctionnelles mondiales | [`certifications/entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md) |
 | Financer / scaler / e-commerce / IP | [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md) |
 | Reprendre / transmettre / franchise / risk / conformité France | [`certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md`](certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md) |
+| ETA / family business / ESS / export / activités réglementées | [`certifications/entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md) |
 
 ---
 
@@ -133,10 +134,74 @@ closing
 
 À voir :
 
-- **CCI France RS7413 — Reprise d'entreprise : développer un projet entrepreneurial réussi** ;
-- Bpifrance Université — **Parcours Transmission** ;
+- **CCI France RS7413 — Reprise d'entreprise** ;
+- Bpifrance Université — Parcours Transmission ;
 - CFI FMVA / business valuation ;
+- **IESE Search Fund & Entrepreneurial Acquisitions Bootcamp** pour une démarche ETA structurée ;
 - WorldCC pour le cycle contractuel B2B.
+
+## ETA / Search Fund
+
+```text
+thèse d'acquisition
+sourcing
+fundraising
+screening
+LOI
+due diligence
+valuation
+financement
+closing
+prise de fonction CEO
+création de valeur
+exit
+```
+
+À voir :
+
+- **IESE Search Fund & Entrepreneurial Acquisitions Bootcamp — 4 500 € général en 2026** ;
+- CCI RS7413 pour la couche reprise France ;
+- CFI FMVA / valuation ;
+- WorldCC / négociation ;
+- [`certifications/entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md).
+
+## Entreprise familiale
+
+```text
+famille
++ propriété
++ entreprise
++ succession
++ continuité
++ gouvernance
+```
+
+À voir :
+
+- reprise / transmission France ;
+- gouvernance ;
+- finance / valorisation ;
+- **Family Enterprise Advisor — FEA** comme référence internationale des conseillers d'entreprises familiales.
+
+> Le FEA complet coûte **19 495 CAD + taxes** en 2026 et cible d'abord les conseillers professionnels. Pour un dirigeant familial, apprendre les méthodes est intéressant ; collectionner la désignation n'est généralement pas rationnel.
+
+## ESS / entrepreneuriat social
+
+```text
+utilité sociale
+viabilité économique
+gouvernance
+ancrage territorial
+impact
+management responsable
+```
+
+À voir :
+
+- **RNCP38126 — Entrepreneur de l'économie sociale et solidaire — niveau 7** ;
+- **RNCP41817 — Responsable d'entreprise d'économie sociale et solidaire — niveau 6** ;
+- **RNCP41704 — Manager de proximité dans l'ESS — niveau 6** ;
+- ESG / impact / gouvernance dans les catalogues connexes.
 
 ## Franchise
 
@@ -162,6 +227,18 @@ FFF Animation de réseau — certificat FFF
 IFA Foundations / CFE uniquement si dimension internationale
 ```
 
+### Multi-unit / international
+
+```text
+unit economics
+animation réseau
+franchise operations
+leadership
+growth
+```
+
+À voir : **IFA Foundations of Franchising — 2 400 $** puis CFE si la franchise devient une fonction professionnelle centrale.
+
 ## E-commerce → marketplace
 
 À voir : Amazon Ads Academy, Shopify Verified Skills, Google Ads / Analytics, WIPO DL-101.
@@ -181,7 +258,42 @@ Le certificat INPI 2026 **« Exploiter avec succès l'innovation grâce à la PI
 
 ## Internationalisation
 
-À voir : CCI **RS7383**, ICC Incoterms, ICC FTA, ICC Digital Trade Strategy, ICC Export/Import, FCIB si risque crédit international important.
+```text
+préparation export
+Incoterms
+import/export
+credit risk
+implantation
+recrutement local / V.I.E
+```
+
+À voir :
+
+- Team France Export comme guichet d'accompagnement ;
+- CCI **RS7383 / CCE import-export** ;
+- ICC Incoterms / Export-Import / FTA / Digital Trade ;
+- FCIB si risque crédit international important ;
+- **V.I.E Business France** quand une présence commerciale/opérationnelle locale devient justifiée.
+
+Le V.I.E est un **dispositif**, pas une certification. Il peut aller jusqu'à 24 mois et son coût dépend du pays, de la durée, du chiffre d'affaires et des aides disponibles.
+
+## Activité réglementée — vérifier avant de collectionner les certifs
+
+```text
+activité envisagée
+       ↓
+est-elle réglementée ?
+       ↓
+OUI → qualification / carte / capacité / autorisation d'abord
+       ↓
+ENSUITE → certifications business complémentaires
+```
+
+Routeur officiel :
+
+- https://entreprendre.service-public.fr/vosdroits/R60814
+
+Exemples : taxi/VTC, immobilier, sécurité privée, transport, certaines activités artisanales/BTP, alimentaire, finance/assurance.
 
 ## Transmission / sortie
 
@@ -221,6 +333,10 @@ Bpifrance Université :
   BFR clients / fournisseurs
   transmission
   CIR / CII
+
+Team France Export :
+  diagnostic / accompagnement export
+  selon région et maturité
 ```
 
 Bpifrance Université peut délivrer des attestations / certificats de réussite de formation, mais ses CGU précisent que ces certificats **n'ont pas de valeur légale** : on ne les confond pas avec une certification professionnelle.
@@ -242,6 +358,8 @@ Bpifrance Université peut délivrer des attestations / certificats de réussite
 | Formation interne | Exercer la mission de formateur en entreprise | RS7379 |
 | International | Réaliser une opération d'import-export | RS7383 |
 | Reprise | Reprise d'entreprise : développer un projet entrepreneurial réussi | **RS7413 — ~1 650–1 695 €** |
+| ESS dirigeant | Entrepreneur de l'économie sociale et solidaire | **RNCP38126 — niveau 7** |
+| ESS direction | Responsable d'entreprise de l'économie sociale et solidaire | **RNCP41817 — niveau 6** |
 | PI innovation | Exploiter avec succès l'innovation grâce à la PI | **INPI — 6 000 €** |
 
 ---
@@ -269,6 +387,8 @@ Bpifrance Université peut délivrer des attestations / certificats de réussite
 | Franchise internationale | IFA CFE | **499 / 915 $ + parcours** |
 | Franchise bootcamp | IFA Foundations | **2 400 $** |
 | Risk management | RIMS-CRMP | **375 / 525 $** |
+| ETA / search fund | IESE Search Fund Bootcamp | **4 500 € général** |
+| Family business advising | FEA | **19 495 CAD + taxes** |
 
 ---
 
@@ -311,10 +431,13 @@ EXÉCUTER OU DÉLÉGUER
 |---|---|---|
 | Comptabilité | marge, cash, bilan, résultat | tenue / clôture / fiscalité |
 | Levée | valo, dilution, cap table | documentation juridique complexe |
-| Reprise | valorisation, dette, risques | due diligence juridique/fiscale/sociale |
+| Reprise / ETA | valorisation, dette, risques, transition | due diligence juridique/fiscale/sociale |
+| Family business | gouvernance, succession, rôles | structuration patrimoniale / médiation complexe |
 | Franchise | economics, royalties, KPI | DIP / contrat / contentieux |
 | Risk / assurance | scénarios, franchises, plafonds | placement / wording complexe |
 | PI | actifs, territoires, stratégie | brevet / opposition / litige |
+| ESS | modèle économique + gouvernance | ingénierie juridique/fiscale spécifique |
+| Export | marché, Incoterms, pricing, risque | douane / fiscalité / implantation complexe |
 | Paie | coût salarié, bulletin, contrôles | production mensuelle |
 | Cyber | MFA, backup, accès, incident | architecture / audit / SOC |
 | Vente | offre, qualification, closing | difficile à déléguer trop tôt |
@@ -337,14 +460,15 @@ OUTIL RÉELLEMENT UTILISÉ
 certification éditeur pertinente
 ```
 
-Bons imports : WorldCC, ICC, IAPP CIPP/E, HRCI aPHRi, ASQ, Scrum.org, AMA, HubSpot, Xero, CFI, VC University, WIPO, RIMS, IFA, FCIB.
+Bons imports : WorldCC, ICC, IAPP CIPP/E, HRCI aPHRi, ASQ, Scrum.org, AMA, HubSpot, Xero, CFI, VC University, WIPO, RIMS, IFA, FCIB, IESE Search Funds.
 
-À ne pas transposer aveuglément : PHR/SPHR US, CIPP/US, US CPA/tax, payroll US, securities licensing US, franchise law US, bankruptcy/collections law locales.
+À ne pas transposer aveuglément : PHR/SPHR US, CIPP/US, US CPA/tax, payroll US, securities licensing US, franchise law US, bankruptcy/collections law locales, qualifications professionnelles locales non reconnues en France.
 
 ---
 
 # 9. Catalogues connexes
 
+- [`certifications/entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md)
 - [`certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md`](certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md)
 - [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
 - [`certifications/entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md)
@@ -361,10 +485,10 @@ Bons imports : WorldCC, ICC, IAPP CIPP/E, HRCI aPHRi, ASQ, Scrum.org, AMA, HubSp
 
 # 10. Prochaines extensions
 
-- ESS / impact / entreprises à mission ;
-- Team France Export / VIE / douane avancée ;
-- search funds / entrepreneurship through acquisition ;
-- family business / gouvernance familiale ;
-- multi-unit / master franchise ;
-- certifications éditeurs de facturation électronique / ERP à mesure que l'écosystème 2026 se stabilise ;
-- qualifications métiers artisan / commerce lorsque l'activité réglementée l'exige.
+- search fund France : dette d'acquisition / holding / LBO entrepreneur ;
+- family governance owner-targeted à TCO inférieur au FEA ;
+- société à mission : credentials de personne réellement reconnus ;
+- B Corp / impact entrepreneur ;
+- coopératives / SCOP / SCIC ;
+- V.I.E partagé / dispositifs régionaux ;
+- qualifications métiers sectorielles avec routeur plus fin vers chaque catalogue spécialisé.
