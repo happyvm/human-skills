@@ -6,13 +6,14 @@ Catalogue vivant de **certifications, examens, credentials et attestations profe
 
 ## Objectif
 
-Répondre à trois questions :
+Répondre à quatre questions :
 
 1. **Qu'est-ce que je peux passer gratuitement ?**
 2. **Quelles certifications valent leur coût selon mon budget ?**
-3. **Dans quel ordre les passer pour construire un profil cohérent ?**
+3. **Quel est le vrai TCO du credential, pas seulement le prix du voucher ?**
+4. **Dans quel ordre les passer pour construire un profil cohérent ?**
 
-Le dépôt couvre IT et hors IT : cloud, infrastructure, cyber, data, architecture, observabilité, automatisation, projet, leadership, finance, business, langues, risque, RGPD, Lean/Six Sigma, marketing et autres domaines.
+Le dépôt couvre IT et hors IT : cloud, infrastructure, cyber, data, architecture, observabilité, automatisation, projet, leadership, finance, business, langues, risque, RGPD, Lean/Six Sigma, marketing, supply chain, change management, ressources humaines et autres domaines.
 
 ---
 
@@ -30,6 +31,11 @@ Le dépôt couvre IT et hors IT : cloud, infrastructure, cyber, data, architectu
 - [`certifications/tools-platforms-under-500.md`](certifications/tools-platforms-under-500.md) — Datadog, Confluent, dbt, UiPath, HPE, IBM, ServiceNow, Elastic, MOS, Adobe, Autodesk, etc.
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md) — PMI, Scrum.org, ISACA, TOGAF, Lean Six Sigma, CFA Investment Foundations, langues, business.
 
+## Au-delà de 500 € — analyse par TCO
+
+- [`certifications/paid-over-500.md`](certifications/paid-over-500.md) — CISSP/CCSP, ISACA, IAPP, GIAC/SANS, OffSec, Cisco Pro/Expert, Red Hat multi-examens, PECB/ISO, ITIL/PRINCE2, PMI, GARP, CFA, ASQ, ASCM, TOGAF, etc.
+- [`certifications/management-transformation-over-500.md`](certifications/management-transformation-over-500.md) — Prosci, SABSA, IIBA CBAP, DAMA CDMP avancé, HRCI, SAFe, FinOps, procurement / CPSM.
+
 ## Roadmap
 
 - [`roadmap.md`](roadmap.md) — logique de construction du profil et ordre de passage recommandé.
@@ -37,7 +43,7 @@ Le dépôt couvre IT et hors IT : cloud, infrastructure, cyber, data, architectu
 ## Recherche et sources
 
 - [`sources/community-repositories.md`](sources/community-repositories.md) — anciens et nouveaux dépôts GitHub utilisés comme **radars**, avec leur fiabilité 2026.
-- [`research/over-500-watchlist.md`](research/over-500-watchlist.md) — certifications >500 déjà rencontrées, à analyser dans la prochaine passe.
+- [`research/over-500-watchlist.md`](research/over-500-watchlist.md) — reste à chiffrer / tarifs partenaires / programmes non encore consolidés.
 
 ---
 
@@ -49,20 +55,41 @@ FREE-CONDITIONAL
 < 100 €
 100–250 €
 250–500 €
-500–1 000 €       ← prochaine tranche détaillée
+500–1 000 €
 1 000–2 500 €
 2 500–5 000 €
 > 5 000 €
 ```
 
-Le classement cherche à utiliser le **coût total permettant réellement d'obtenir le credential**, pas seulement le prix marketing d'un examen.
+À partir de 500 €, le dépôt conserve autant que possible **trois montants différents** :
+
+```text
+EXAM PRICE
+    Prix du voucher / examen.
+
+FIRST-CYCLE TCO
+    Ce qu'il faut réellement payer pour obtenir et activer le credential.
+
+LONG-TERM TCO
+    Maintenance, renouvellement, membership et obligations sur plusieurs années.
+```
+
+Le classement cherche donc à utiliser le **coût total permettant réellement d'obtenir le credential**, pas seulement le prix marketing d'un examen.
 
 Ainsi :
 
 ```text
-Examen à 99 €
-+ licence obligatoire à 500 €
-= certification > 500 € pour un candidat qui ne possède pas déjà la licence
+Examen IAPP CIPP/E ≈ 472 € au change actuel
++ Certification Maintenance Fee obligatoire pour un non-membre
+= credential actif > 500 €
+```
+
+ou :
+
+```text
+Examen Red Hat ≈ 429 € au prix catalogue USD
+× plusieurs examens obligatoires
+= parcours RHCE / RHCA > 500 €
 ```
 
 ---
@@ -73,7 +100,7 @@ Examen à 99 €
 
 Examen formel, généralement surveillé, pratique ou contrôlé.
 
-Exemples : AWS, Cisco, CNCF, VMware/Broadcom, HashiCorp, Scrum.org, ISACA, HTB, TCM, TOGAF.
+Exemples : AWS, Cisco, CNCF, Red Hat, HashiCorp, Scrum.org, ISACA, HTB, TCM, TOGAF.
 
 ## Credential appliqué
 
@@ -102,22 +129,37 @@ Source officielle actuelle
    ↓
 Prix examen
    ↓
+Prix régional / TVA / devise
+   ↓
 Prérequis
    ↓
 Formation obligatoire ?
    ↓
 Licence / abonnement obligatoire ?
    ↓
-Frais d'application / maintenance ?
+Frais d'application / membership ?
    ↓
-Retakes
+Maintenance / CPE / PDU / CPD ?
    ↓
-Coût total du credential
+Retakes / déplacements ?
+   ↓
+First-cycle TCO
+   ↓
+Long-term TCO
    ↓
 Date de vérification
 ```
 
 Les promotions temporaires sont séparées du tarif normal.
+
+Pour convertir les prix USD en euros lors de la revue du 28 août 2026, le dépôt utilise à titre indicatif le dernier taux de référence BCE disponible au moment de la recherche :
+
+```text
+27 août 2026
+1 EUR = 1,1645 USD
+```
+
+Les conversions ne remplacent jamais le prix final du checkout.
 
 ---
 
@@ -174,6 +216,28 @@ Exemples :
 | CSA CCSK | **445 $** |
 | PMI-ACP | **495 $ non-membre** |
 | TCM PNPT / PSAP | **499 $** |
+| CISSP | **719,04 € + maintenance** |
+| CCSP | **575,04 € + maintenance** |
+| Cisco CCNP | **700 $ pour core + concentration** |
+| SABSA Foundation | **~3 200 € HT via AEP Europe observé** |
+| Prosci Change Management | **3 386 € online / 3 810 € présentiel hors taxes** |
+| SANS + GIAC | **~9 k€ pour un cours + cert dans certains événements Europe** |
+
+---
+
+# Frontières et pièges de classement
+
+Un montant en dollars supérieur à 500 n'implique pas automatiquement un coût supérieur à 500 €.
+
+Exemples au change de la revue :
+
+- 550 $ ≈ 472 € ;
+- 575 $ ≈ 494 € ;
+- 595 $ ≈ 511 €.
+
+Il faut donc éviter les catégories naïves du type `>500 $ == >500 €`.
+
+De même, un examen `<500 €` peut appartenir au catalogue `>500 €` si son **TCO obligatoire** dépasse le seuil.
 
 ---
 
@@ -186,15 +250,23 @@ Pour chaque nouvelle entrée, conserver si possible :
 - domaine ;
 - prix officiel ;
 - monnaie ;
+- conversion EUR indicative ;
 - TVA / taxes ;
 - prérequis ;
 - formation obligatoire ou facultative ;
 - licence / abonnement requis ;
 - nombre de tentatives ;
 - expiration / renouvellement ;
+- frais d'application ;
+- membership ;
 - frais de maintenance ;
+- CPE / PDU / CPD ;
+- coût retake ;
+- déplacement éventuel ;
+- first-cycle TCO ;
+- three-year / long-term TCO ;
 - URL officielle ;
 - date de vérification ;
-- statut : actif / conditionnel / promotion / deprecated.
+- statut : actif / conditionnel / promotion / deprecated / research.
 
 À terme, le but est d'obtenir une **cartographie internationale du TCO des certifications professionnelles**, plutôt qu'une simple collection de liens.
