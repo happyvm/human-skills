@@ -39,6 +39,8 @@ verified: 2026-08-28
 
 Prosci est un bon exemple de credential où **formation et certification sont un même produit**.
 
+**Auto-formation officielle et gratuite (partielle) :** [prosci.com/resources/downloads](https://www.prosci.com/resources/downloads) — eBooks, worksheets, checklists et vidéos gratuits en amont du programme certifiant payant.
+
 ## Change Management Certification Programme
 
 Tarifs Prosci Europe observés pour septembre 2026 :
@@ -143,6 +145,8 @@ Source :
 
 # 3. IIBA CBAP — Certified Business Analysis Professional
 
+**Auto-formation officielle et gratuite :** [Global Business Analysis Core Standard](https://www.iiba.org/) sur iiba.org — accessible même aux non-membres.
+
 IIBA publie actuellement :
 
 - application : **145 $** ;
@@ -184,6 +188,8 @@ Total       550 $
 ---
 
 # 4. DAMA CDMP — Data Management
+
+**Auto-formation officielle :** [damadmbok.org/resources](https://www.damadmbok.org/resources) — papers et case studies gratuits ; un practice exam gratuit est inclus à l'achat de l'examen.
 
 DAMA International facture actuellement **311 $ par examen online**, frais de proctoring compris.
 
@@ -227,6 +233,8 @@ Sources :
 
 # 5. HRCI — SPHR et GPHR
 
+**Auto-formation officielle et gratuite :** [Exam Content Outlines](https://www.hrci.org/certifications/exam-preparation-resources) — gratuits, base des packages payants (practice exams, flashcards).
+
 HRCI publie la grille suivante :
 
 | Credential | Application | Exam | Total |
@@ -252,6 +260,8 @@ Sources :
 ---
 
 # 6. SHRM — correction 2026
+
+**Auto-formation officielle et gratuite (partielle) :** [shrm.org/credentials/certification/exam-preparation](https://www.shrm.org/credentials/certification/exam-preparation) — questions retirées gratuites (10 par set) et démo gratuite du SHRM Learning System.
 
 Une ancienne version du handbook 2026 montrait des tarifs supérieurs. La **page officielle actuelle SHRM** affiche désormais pour la fenêtre fin 2026 :
 
@@ -286,6 +296,8 @@ Sources :
 # 7. SAFe — nouveau modèle proctored exam
 
 Scaled Agile a modifié certains chemins en 2026.
+
+**Auto-formation officielle et gratuite :** [scaledagile.com/resources](https://scaledagile.com/resources/) — Resource Center et framework SAFe explorables gratuitement.
 
 Pour plusieurs credentials, il est désormais possible d'acheter directement un **proctored exam sans formation obligatoire**, notamment :
 
