@@ -3,9 +3,9 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **97**
-- credential-like table rows scanned: **1397**
+- credential-like table rows scanned: **1394**
 - exact normalized names present in 2+ files: **82**
-- specialist↔specialist file pairs with exact overlap: **13**
+- specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
 
 ## Interpretation
@@ -18,7 +18,6 @@
 
 | Shared exact names | Catalogue A | Catalogue B | Examples |
 |---:|---|---|---|
-| 3 | `data-database-platforms-under-500.md` | `observability-sre-devops-under-500.md` | Elastic Certified Analyst, Elastic Engineer / Observability Engineer, Elastic SIEM Analyst |
 | 3 | `arista-academy-certification-2026.md` | `network-datacenter-advanced-under-500.md` | Expert practical exam, Professional practical exam, Specialist practical exam |
 | 3 | `ibm-enterprise-security-ai-under-500.md` | `mainframe-enterprise-software.md` | IBM Db2 13 for z/OS DBA Professional, IBM MQ 9.4 Administrator Professional, IBM z/OS v3.x Administrator Professional |
 | 3 | `hpe-morpheus-private-cloud-2026.md` | `virtualization-private-cloud-under-500.md` | Nutanix NCM-MCI, Nutanix NCP-MCI, VMware VCP-VCF Architect |
@@ -36,7 +35,6 @@
 
 | Exact overlaps | Domain A | Domain B |
 |---:|---|---|
-| 3 | `data-database` | `observability` |
 | 3 | `network` | `network` |
 | 3 | `mainframe` | `security` |
 | 3 | `virtualization` | `virtualization` |
@@ -51,21 +49,6 @@
 | 1 | `observability` | `observability` |
 
 ## Exact duplicate-name groups — specialist files
-
-### Elastic Certified Analyst
-
-- `data-database-platforms-under-500.md:35` — `| Elastic Certified Analyst | **400 $** | performance-based |`
-- `observability-sre-devops-under-500.md:173` — `| Elastic Certified Analyst | **400 $** |`
-
-### Elastic Engineer / Observability Engineer
-
-- `data-database-platforms-under-500.md:37` — `| Elastic Engineer / Observability Engineer | **500 $** | performance-based |`
-- `observability-sre-devops-under-500.md:39` — `| Elastic Engineer / Observability Engineer | **500 $** | performance-based |`
-
-### Elastic SIEM Analyst
-
-- `data-database-platforms-under-500.md:36` — `| Elastic SIEM Analyst | **400 $** | performance-based |`
-- `observability-sre-devops-under-500.md:174` — `| Elastic Certified SIEM Analyst | **400 $** |`
 
 ### IAPP AIGP
 
@@ -252,8 +235,8 @@
 | 19 | `language` |
 | 18 | `kubernetes-platform` |
 | 16 | `industrial-ot` |
-| 15 | `data-database` |
 | 13 | `sustainability` |
+| 12 | `data-database` |
 | 10 | `safety-occupational` |
 | 9 | `project-management` |
 | 8 | `identity-iam` |

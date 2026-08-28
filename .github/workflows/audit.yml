@@ -1,0 +1,38 @@
+name: Catalogue audit
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Geography registry sync
+        run: python3 tools/sync-geography.py --check
+
+      - name: Entry-level geography annotations
+        run: python3 tools/annotate-entry-geography.py --check
+
+      - name: Entry-level geography completeness
+        run: python3 tools/audit-entry-geography.py
+
+      - name: Entrepreneur canonical ownership
+        run: python3 tools/audit-entrepreneur-duplicates.py
+
+      - name: Internal Markdown links
+        run: python3 tools/check-internal-links.py
+
+      - name: Cross-catalogue overlap report is up to date
+        run: |
+          python3 tools/audit-catalog-overlaps.py
+          python3 tools/audit-catalog-bullet-overlaps.py
+          git diff --exit-code -- metadata/catalog-overlap-analysis.md metadata/catalog-bullet-overlap-analysis.md

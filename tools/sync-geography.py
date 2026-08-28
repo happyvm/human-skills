@@ -159,8 +159,28 @@ def main() -> int:
     problems: list[str] = []
     missing = sorted(disk_paths - reg_paths)
     stale = sorted(reg_paths - disk_paths)
-    if missing:
-        problems.append("missing from registry: " + ", ".join(missing))
+
+    # A file only needs a registry fallback entry when it has no valid,
+    # explicit frontmatter scope of its own. Files added after the initial
+    # backfill are expected to carry their own scope and stay out of the
+    # registry entirely.
+    unresolved_missing = []
+    for rel in missing:
+        text = (ROOT / rel).read_text(encoding="utf-8")
+        try:
+            front, _ = split_frontmatter(text)
+        except ValueError as exc:
+            problems.append(f"{rel}: {exc}")
+            continue
+        current = get_scope(front)
+        if not current or current == ["unverified"]:
+            unresolved_missing.append(rel)
+
+    if unresolved_missing:
+        problems.append(
+            "missing from registry and no explicit frontmatter scope: "
+            + ", ".join(unresolved_missing)
+        )
     if stale:
         problems.append("registry entries without file: " + ", ".join(stale))
 

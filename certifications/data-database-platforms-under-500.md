@@ -32,9 +32,6 @@ verified: 2026-08-28
 | EDB PostgreSQL Professional exam | **200 $** | Associate + Advanced course requis |
 | Databricks Data Engineer Associate | **200 $ + taxes** | validité 2 ans |
 | SnowPro Advanced | **375 $** | role-based |
-| Elastic Certified Analyst | **400 $** | performance-based |
-| Elastic SIEM Analyst | **400 $** | performance-based |
-| Elastic Engineer / Observability Engineer | **500 $** | performance-based |
 
 ---
 
@@ -263,18 +260,7 @@ C'est une entrée importante parce que beaucoup de vieux dépôts GitHub indique
 
 # Elastic — data/search proche de la frontière
 
-Elastic propose des examens **performance-based** :
-
-- Elastic Certified Analyst — **400 $** ;
-- Elastic Certified SIEM Analyst — **400 $** ;
-- Elastic Certified Engineer — **500 $** ;
-- Elastic Certified Observability Engineer — **500 $**.
-
-Source :
-
-- https://www.elastic.co/training/certification/faq
-
-Le retake nécessite un nouvel achat plein tarif et un délai d'attente.
+Elastic (Analyst / SIEM Analyst / Engineer / Observability Engineer, 400–500 $, performance-based) est détaillé une seule fois dans [`observability-sre-devops-under-500.md`](observability-sre-devops-under-500.md), sa fiche canonique.
 
 ---
 
@@ -302,7 +288,7 @@ Le tarif France exact de chaque subscription / examen doit être relevé au chec
 4. **SnowPro Core — 175 $** ;
 5. **Databricks Data Engineer Associate — 200 $** ;
 6. **SnowPro Advanced — 375 $** ;
-7. Elastic selon besoin pratique.
+7. Elastic selon besoin pratique — voir [`observability-sre-devops-under-500.md`](observability-sre-devops-under-500.md).
 
 ---
 

@@ -102,6 +102,8 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 ## Structure du dépôt
 
 - [`OBSIDIAN.md`](OBSIDIAN.md) — conventions du vault (frontmatter, tags `tier/…`/`domain/…`, gabarit de nouvelle fiche) pour ouvrir ce dépôt comme coffre Obsidian.
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) — comment ajouter/modifier une fiche et lancer les vérifications automatiques.
+- [`LICENSE`](LICENSE) — CC BY 4.0 pour le contenu, MIT pour les scripts de `tools/`.
 
 ---
 

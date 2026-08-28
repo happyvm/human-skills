@@ -288,8 +288,8 @@ board / lender reporting
 ## Couche métier
 
 - **CFI FPAP** pour budget / forecast / reporting / business partnering ;
-- **ACCA CertIFR** pour un socle IFRS ;
-- **ACCA DipIFR** pour les profils finance expérimentés.
+- **ACCA CertIFR** pour un socle IFRS ; — 🌍 INT · UK-origin
+- **ACCA DipIFR** pour les profils finance expérimentés. — 🌍 INT · UK-origin
 
 ## Couche outil
 

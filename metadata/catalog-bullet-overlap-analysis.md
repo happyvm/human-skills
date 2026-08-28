@@ -2,7 +2,7 @@
 
 > Strict companion audit for named credential bullets (`- **Name** — CERT — ...`). Price/metadata bullets are excluded.
 
-- named credential-like bullets scanned: **357**
+- named credential-like bullets scanned: **359**
 - specialist duplicate bullet groups: **0**
 - specialist file pairs with bullet overlap: **0**
 

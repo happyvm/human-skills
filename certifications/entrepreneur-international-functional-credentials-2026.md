@@ -433,7 +433,7 @@ C'est presque exactement le credential étranger qu'il faut préférer à un `aP
 
 - **aucune expérience RH requise** ;
 - conçu pour les personnes hors États-Unis ;
-- HRCI le positionne aussi pour les personnes qui **gèrent des gens sans formation RH formelle**.
+- HRCI le positionne aussi pour les personnes qui **gèrent des gens sans formation RH formelle**. — 🌍 INT
 
 ### Prix
 
