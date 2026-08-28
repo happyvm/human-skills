@@ -40,6 +40,8 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 
 ## Entrepreneuriat, startup & création d'entreprise
 
+- [`ENTREPRENEUR-INDEX.md`](ENTREPRENEUR-INDEX.md) — parcours cœur fondateur / indépendant / repreneur / TPE-PME.
+- [`GROUP-MANAGEMENT-INDEX.md`](GROUP-MANAGEMENT-INDEX.md) — extension holding / groupe / CorpDev / treasury / PMI / carve-out.
 - [`certifications/entrepreneurship-startup-business-creation-2026.md`](certifications/entrepreneurship-startup-business-creation-2026.md) — gratuit → >5 000 € : IBM SkillsBuild, HP LIFE, OpenLearn, Certiport ESB, CCI France, BGE, CréActifs, Cnam, NCFE/SFEDI, HBS Online et HEC Paris.
 
 ## Infrastructure, cloud, réseau & plateformes

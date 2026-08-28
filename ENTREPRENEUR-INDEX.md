@@ -62,7 +62,7 @@ basculer vers [`GROUP-MANAGEMENT-INDEX.md`](GROUP-MANAGEMENT-INDEX.md).
 
 ---
 
-# 2. Les sept catalogues cœur Entrepreneur
+# 2. Les huit catalogues cœur Entrepreneur
 
 | Axe | Catalogue |
 |---|---|
@@ -73,6 +73,7 @@ basculer vers [`GROUP-MANAGEMENT-INDEX.md`](GROUP-MANAGEMENT-INDEX.md).
 | Reprise / franchise / risk / financement France | [`certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md`](certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md) |
 | ETA / family business / ESS / export / activités réglementées | [`certifications/entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md) |
 | Pratique France : recouvrement / assurance / aides / PI / e-facture | [`certifications/entrepreneur-france-practical-resources-2026.md`](certifications/entrepreneur-france-practical-resources-2026.md) |
+| Secteurs : artisanat / agriculture / UK / microcredentials | [`certifications/entrepreneur-artisan-agri-uk-microcredentials-2026.md`](certifications/entrepreneur-artisan-agri-uk-microcredentials-2026.md) |
 
 ---
 

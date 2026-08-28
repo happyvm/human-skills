@@ -559,22 +559,17 @@ prix voucher Certiport US
 
 ---
 
-# 13. Watchlist entrepreneuriat
+# 13. Watchlist entrepreneuriat — état après consolidation
 
-À vérifier / enrichir lors des prochaines passes :
+La watchlist historique a été consolidée. Les sujets artisanat / agriculture / SFEDI / Certiport / CréActifs / microcredentials sont désormais suivis dans :
 
-1. tarifs 2026 exacts par organisme habilité pour **CréActifs RS7004 / RS7005** ;
-2. prix régionaux France / Europe de **Certiport ESB v2 Universal French** ;
-3. portefeuille SFEDI actif après les retraits de qualifications 2025-2026 ;
-4. certifications entrepreneuriat social / ESS françaises ;
-5. reprise / transmission d'entreprise ;
-6. franchise ;
-7. financement / levée de fonds / venture capital pour fondateurs ;
-8. entrepreneuriat artisanal CMA ;
-9. entrepreneuriat agricole ;
-10. export / internationalisation de PME ;
-11. incubateurs / accélérateurs délivrant un credential réellement vérifiable ;
-12. microcredentials universitaires européens à TCO raisonnable.
+- [`entrepreneur-artisan-agri-uk-microcredentials-2026.md`](entrepreneur-artisan-agri-uk-microcredentials-2026.md) ;
+- [`entrepreneur-france-practical-resources-2026.md`](entrepreneur-france-practical-resources-2026.md) ;
+- [`../ENTREPRENEUR-INDEX.md`](../ENTREPRENEUR-INDEX.md).
+
+Les sujets avancés groupe / LBO / treasury / PMI / carve-out ont été sortis du cœur Entrepreneur et routés vers [`../GROUP-MANAGEMENT-INDEX.md`](../GROUP-MANAGEMENT-INDEX.md).
+
+Il ne reste ici aucune TODO entrepreneur structurante non routée. Les prix régionaux, aides et nouveaux microcredentials restent naturellement à revérifier à la date d'achat.
 
 ---
 
