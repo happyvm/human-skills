@@ -39,6 +39,8 @@ verified: 2026-08-28
 
 Le **Certified Anti-Money Laundering Specialist (CAMS)** est l'un des credentials AML les plus connus mondialement.
 
+**Auto-formation officielle (ACAMS, gamme CAMS/CAFS/CGSS ci-dessous) :** [acams.org/en/training/webinars](https://www.acams.org/en/training/webinars) — plus de 1000 h de contenu, une partie gratuite, avec crédits pour la certification/recertification.
+
 ## Prix 2026
 
 ### Standard CAMS package

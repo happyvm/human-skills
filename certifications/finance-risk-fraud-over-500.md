@@ -36,6 +36,8 @@ verified: 2026-08-28
 
 # 1. ACFE — Certified Fraud Examiner (CFE)
 
+**Auto-formation officielle :** [acfe.com/training-events-and-products](https://www.acfe.com/training-events-and-products/cfe-exam-preparation) — CFE Exam Prep Toolkit et Fraud Examiners Manual (accès gratuit inclus pour les CFE actifs).
+
 L'ACFE facture actuellement :
 
 - **CFE Exam Application : 480 $** ;
@@ -79,6 +81,8 @@ Sources :
 # 2. PRMIA — Professional Risk Manager (PRM)
 
 Le programme PRM actuel a été restructuré autour de **deux examens**.
+
+**Auto-formation officielle et partiellement gratuite :** [prmia.org](https://prmia.org/Public/PRM/PRM_Exam_Preparation_Resources.aspx) — ressources Associate PRM gratuites, PRM Handbooks et self-paced learning courses.
 
 ## Prix par examen / bundle
 

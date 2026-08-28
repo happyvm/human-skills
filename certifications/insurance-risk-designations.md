@@ -21,6 +21,8 @@ verified: 2026-08-28
 
 Le CAS est le grand parcours actuariel Property & Casualty / General Insurance nord-américain.
 
+**Auto-formation officielle et gratuite :** [casact.org/resources](https://www.casact.org/resources) — practice items et solutions gratuits par examen (retired items).
+
 La progression mène à :
 
 - **ACAS — Associate of the Casualty Actuarial Society** ;
@@ -70,6 +72,8 @@ CAS dispose de programmes de réductions / waivers pour certains candidats, pays
 # 2. CPCU — Chartered Property Casualty Underwriter
 
 Le CPCU est l'un des principaux designations P&C / risk management aux États-Unis.
+
+**Auto-formation officielle et gratuite :** [The Institutes — CPCU sample courses](https://web.theinstitutes.org/cpcu-sample-courses) — cours d'essai gratuits (30-60 min) par module CPCU.
 
 ## Requirements
 
@@ -169,6 +173,8 @@ Source générale :
 # 5. Chartered Insurance Institute — Diploma in Insurance
 
 Le CII britannique fonctionne par **crédits**, et non par un nombre fixe d'examens identique pour tout le monde.
+
+**Auto-formation officielle (toute la gamme CII/ACII/FCII ci-dessous) :** [cii.co.uk/learning](https://www.cii.co.uk/learning) — eLibrary, revision aids et online revision courses via MyCII.
 
 ## Diploma in Insurance
 
