@@ -268,20 +268,33 @@ Pour un profil grands comptes :
 - QRadar ;
 - Guardium.
 
-## Broadcom / CA
+## Broadcom / CA — pas de certification proctorée identifiée
 
-- Mainframe software ;
-- ACF2 ;
-- Top Secret ;
-- Endevor ;
-- OPS/MVS ;
-- Automic.
+Vérifié : Broadcom propose des **formations web gratuites** pour ACF2 et Top Secret (incluses pour les clients sous maintenance active), mais **aucun examen de certification formel proctoré** n'a été identifié pour ACF2, Top Secret ou Endevor — contrairement à IBM RACF (également en watchlist, même conclusion probable) ou à Control-M chez BMC.
 
-## BMC
+Source :
 
-- Control-M ;
+- https://community.broadcom.com/education/discussion/new-web-based-training-for-acf2-and-top-secret-1
+
+Restant à vérifier : OPS/MVS, Automic — mêmes limites attendues (formation client, pas de certification publique).
+
+## BMC — Control-M confirmé, prix sur devis
+
+BMC dispose bien de certifications **Control-M** structurées :
+
+- **BMC Certified Associate** — Operators, Schedulers, Administrators (par version, ex. 21.x, Control-M SaaS) ;
+- **BMC Certified Professional** — Consultants (niveau avancé, online proctored).
+
+Prix : **non publié** — chaque page d'examen renvoie vers « Contact An Advisor », comme pour BMC Helix ITSM déjà documenté dans `itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md`.
+
+Source :
+
+- https://www.bmc.com/education/it-certifications.html
+
+**Verdict :** existence confirmée mais TCO indisponible publiquement — cohérent avec le modèle de vente BMC déjà observé côté ITSM.
+
 - Helix ;
-- MainView / BMC AMI.
+- MainView / BMC AMI — statut de certification non encore vérifié.
 
 ## SAP
 
