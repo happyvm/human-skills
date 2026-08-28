@@ -1,6 +1,6 @@
 # human-skills
 
-Catalogue vivant de **certifications, examens, credentials et attestations professionnelles**, classés par coût, domaine et valeur potentielle sur un CV.
+Catalogue vivant de **certifications, examens, credentials et attestations professionnelles**, classés par coût, domaine, type de preuve et TCO.
 
 > **Dernière revue globale : 28 août 2026**
 
@@ -13,7 +13,7 @@ Répondre à quatre questions :
 3. **Quel est le vrai TCO du credential, pas seulement le prix du voucher ?**
 4. **Dans quel ordre les passer pour construire un profil cohérent ?**
 
-Le dépôt couvre IT et hors IT : cloud, infrastructure, cyber, data, architecture, observabilité, automatisation, projet, leadership, finance, business, langues, risque, RGPD, Lean/Six Sigma, marketing, supply chain, change management, audit, ressources humaines, AML/compliance et autres domaines.
+Le dépôt couvre IT et hors IT : cloud, infrastructure, stockage, backup, cyber, data, architecture, observabilité, automation, projet, leadership, finance, business, langues, risque, RGPD, Lean/Six Sigma, marketing, supply chain, change management, audit, gouvernance, ressources humaines, AML/compliance et autres domaines.
 
 ---
 
@@ -21,23 +21,29 @@ Le dépôt couvre IT et hors IT : cloud, infrastructure, cyber, data, architectu
 
 ## Gratuit
 
-- [`certifications/free-it.md`](certifications/free-it.md) — certifications et credentials IT gratuits vérifiés en 2026.
+- [`certifications/free-it.md`](certifications/free-it.md) — Oracle, Commvault, Neo4j, KNIME, Microsoft Applied Skills, Qualys, Calico, etc.
 - [`certifications/free-non-it.md`](certifications/free-non-it.md) — anglais, management, projet, RGPD, Lean/Six Sigma, business, marketing, etc.
 
 ## Jusqu'à environ 500 €
 
 - [`certifications/paid-under-500.md`](certifications/paid-under-500.md) — catalogue général.
-- [`certifications/practical-cyber-under-500.md`](certifications/practical-cyber-under-500.md) — HTB, TCM, TryHackMe, BTL1, INE, BSCP et certifications hands-on.
+- [`certifications/practical-cyber-under-500.md`](certifications/practical-cyber-under-500.md) — HTB, TCM, Altered Security, Zero-Point, CREST Practitioner, TryHackMe, BTL1, INE, BSCP.
 - [`certifications/tools-platforms-under-500.md`](certifications/tools-platforms-under-500.md) — Datadog, Confluent, dbt, UiPath, HPE, IBM, ServiceNow, Elastic, MOS, Adobe, Autodesk, etc.
+- [`certifications/storage-data-protection-under-500.md`](certifications/storage-data-protection-under-500.md) — NetApp, Dell, Pure Storage, Hitachi Vantara, Nutanix, VAST, Cohesity, NetBackup/Veritas, Huawei.
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md) — PMI, Scrum.org, ISACA, TOGAF, Lean Six Sigma, CFA Investment Foundations, langues, business.
 
 ## Au-delà de 500 € — analyse par TCO
 
-- [`certifications/paid-over-500.md`](certifications/paid-over-500.md) — catalogue général : ISC2, ISACA, IAPP, GIAC/SANS, OffSec, Cisco Pro/Expert, Red Hat, PECB/ISO, PeopleCert, PMI, GARP, CFA, ASQ, ASCM, TOGAF, etc.
-- [`certifications/management-transformation-over-500.md`](certifications/management-transformation-over-500.md) — Prosci, SABSA, IIBA CBAP, DAMA CDMP avancé, HRCI, SAFe, FinOps, procurement / CPSM.
-- [`certifications/audit-finance-project-over-500.md`](certifications/audit-finance-project-over-500.md) — IIA CIA/CRMA, IMA CMA, ACCA, IPMA France, SMaP Change, ACMP CCMP, APMG Change Management.
-- [`certifications/finance-risk-fraud-over-500.md`](certifications/finance-risk-fraud-over-500.md) — CAIA, PRMIA PRM/ERM, CFE, CTP, credit/counterparty risk.
-- [`certifications/compliance-aml-fpa-over-500.md`](certifications/compliance-aml-fpa-over-500.md) — CAMS, CAFS, CGSS, Advanced CAMS, ICA AML/GRC/Financial Crime et AFP FPAC.
+- [`certifications/paid-over-500.md`](certifications/paid-over-500.md) — catalogue général : ISC2, ISACA, IAPP, GIAC/SANS, OffSec, Cisco, Red Hat, PECB, PeopleCert, PMI, GARP, CFA, ASQ, ASCM, TOGAF, etc.
+- [`certifications/cyber-premium-over-500.md`](certifications/cyber-premium-over-500.md) — CREST Registered/Certified, OffSec, OSCE3/OSEE, GIAC/SANS, Altered Security bundles, Zero-Point bundles.
+- [`certifications/iso-grc-europe-over-500.md`](certifications/iso-grc-europe-over-500.md) — AFNOR, BSI, PECB, CQI/IRCA, ISO 27001, 42001 et autres normes.
+- [`certifications/management-transformation-over-500.md`](certifications/management-transformation-over-500.md) — Prosci, SABSA, IIBA CBAP, DAMA CDMP avancé, HRCI, SAFe, FinOps, procurement.
+- [`certifications/finops-veeam-over-500.md`](certifications/finops-veeam-over-500.md) — FinOps Certified Professional et nouveau parcours Veeam VMCE+/VMCSE 2026.
+- [`certifications/audit-finance-project-over-500.md`](certifications/audit-finance-project-over-500.md) — IIA CIA/CRMA, IMA CMA, ACCA, IPMA France, SMaP Change, ACMP CCMP, APMG.
+- [`certifications/finance-risk-fraud-over-500.md`](certifications/finance-risk-fraud-over-500.md) — CAIA, PRMIA, CFE, CTP, credit/counterparty risk.
+- [`certifications/compliance-aml-fpa-over-500.md`](certifications/compliance-aml-fpa-over-500.md) — CAMS, CAFS, CGSS, Advanced CAMS, ICA AML/GRC/Financial Crime, AFP FPAC.
+- [`certifications/supply-chain-procurement-over-500.md`](certifications/supply-chain-procurement-over-500.md) — ASCM/APICS CPIM/CSCP/CLTD/CTSC, CSCMP SCPro, ISM CPSM/CPSD, CIPS/MCIPS.
+- [`certifications/governance-board-over-500.md`](certifications/governance-board-over-500.md) — NACD.DC, IoD Chartered Director, Chartered Governance Institute.
 
 ## Roadmap
 
@@ -46,7 +52,7 @@ Le dépôt couvre IT et hors IT : cloud, infrastructure, cyber, data, architectu
 ## Recherche et sources
 
 - [`sources/community-repositories.md`](sources/community-repositories.md) — anciens et nouveaux dépôts GitHub utilisés comme **radars**, avec leur fiabilité 2026.
-- [`research/over-500-watchlist.md`](research/over-500-watchlist.md) — reste à chiffrer / tarifs partenaires / programmes non encore consolidés.
+- [`research/over-500-watchlist.md`](research/over-500-watchlist.md) — uniquement ce qui reste réellement à consolider.
 
 ---
 
@@ -61,45 +67,60 @@ FREE-CONDITIONAL
 500–1 000 €
 1 000–2 500 €
 2 500–5 000 €
-> 5 000 €
+5 000–10 000 €
+> 10 000 €
 ```
 
-À partir de 500 €, le dépôt conserve autant que possible **trois montants différents** :
+À partir de 500 €, le dépôt conserve autant que possible trois mesures :
 
 ```text
 EXAM PRICE
-    Prix du voucher / examen.
+    Voucher / examen.
 
 FIRST-CYCLE TCO
-    Ce qu'il faut réellement payer pour obtenir et activer le credential.
+    Coût minimal réaliste pour obtenir et activer le credential.
 
 LONG-TERM TCO
-    Maintenance, renouvellement, membership et obligations sur plusieurs années.
+    Maintenance, renouvellement, membership, CPD/CPE/PDU et obligations sur plusieurs années.
 ```
 
-Le classement utilise donc le **coût total permettant réellement d'obtenir le credential**, pas seulement le prix marketing d'un examen.
+---
 
-Exemples :
+# Cas qui montrent pourquoi le TCO est indispensable
 
 ```text
 IAPP CIPP/E
-Exam ≈ 472 € au change actuel
-+ Certification Maintenance Fee obligatoire pour un non-membre
-= credential actif > 500 €
+550 $ exam
++ maintenance obligatoire pour conserver le credential actif
+→ TCO > prix du voucher
 ```
 
 ```text
-Red Hat
-Exam ≈ 429 € au prix catalogue USD
-× plusieurs examens obligatoires
-= certains parcours > 500 €
+Veeam VMCE+
+exam price
++ 3 formations obligatoires
+→ parcours premium même si le voucher est raisonnable
 ```
 
 ```text
-ACFE CFE
-Exam application = 480 $
-+ membership ACFE obligatoire
-= TCO réel > prix du voucher
+OSCE3
+pas un examen unique
+= OSEP + OSWE + OSED
+→ plusieurs milliers de dollars depuis zéro
+```
+
+```text
+NACD.DC
+certification package 3 995 $
++ membership NACD actif requis
+→ coût et éligibilité très différents d'une simple certification professionnelle
+```
+
+```text
+Commvault Engineer / Expert
+ILT 3 000–5 000 $
+mais standalone exam curriculum = 0 $
+→ il faut distinguer formation facultative et coût obligatoire
 ```
 
 ---
@@ -108,13 +129,23 @@ Exam application = 480 $
 
 ## Certification professionnelle
 
-Examen formel, généralement surveillé, pratique ou contrôlé.
+Examen formel, surveillé, pratique ou contrôlé.
 
-Exemples : AWS, Cisco, CNCF, Red Hat, HashiCorp, Scrum.org, ISACA, HTB, TCM, TOGAF, CIA, CAMS.
+Exemples : AWS, Cisco, CNCF, Red Hat, HashiCorp, ISC2, ISACA, CREST, HTB, TCM, Commvault.
+
+## Qualification professionnelle
+
+Programme plus large avec examens / assessment et parfois niveau académique ou statut professionnel.
+
+Exemples : IoD Certificate in Company Direction, Chartered Governance Institute, CFA, ACCA.
+
+## Certification de personne
+
+Exemple : certaines certifications AFNOR ICA, distinctes d'une simple formation ISO.
 
 ## Credential appliqué
 
-Évaluation pratique éditeur ne suivant pas nécessairement le modèle d'un examen proctoré classique.
+Évaluation pratique éditeur ne suivant pas nécessairement le modèle proctoré classique.
 
 Exemple : Microsoft Applied Skills.
 
@@ -124,18 +155,18 @@ Exemple : Microsoft Applied Skills.
 
 ## Attestation / certificat de formation
 
-Prouve qu'un parcours a été suivi, mais n'est pas assimilé à une certification professionnelle.
-
-Exemple : CNIL Atelier RGPD.
+Prouve qu'un parcours a été suivi, sans être assimilé automatiquement à une certification professionnelle.
 
 ---
 
 # Méthode de vérification
 
 ```text
-Découverte
+Découverte / ancien dépôt GitHub
    ↓
 Source officielle actuelle
+   ↓
+Credential encore actif ?
    ↓
 Prix examen
    ↓
@@ -145,9 +176,11 @@ Prérequis
    ↓
 Formation obligatoire ?
    ↓
+Credential préalable obligatoire ?
+   ↓
 Licence / abonnement obligatoire ?
    ↓
-Frais d'application / membership ?
+Application / membership ?
    ↓
 Maintenance / CPE / PDU / CPD ?
    ↓
@@ -160,13 +193,12 @@ Long-term TCO
 Date de vérification
 ```
 
-Les promotions temporaires sont séparées du tarif normal.
-
-Pour convertir les prix USD en euros lors de la revue du 28 août 2026, le dépôt utilise à titre indicatif le dernier taux de référence BCE disponible au moment de la recherche :
+Pour les conversions USD/EUR de la revue du 28 août 2026, référence indicative utilisée :
 
 ```text
 27 août 2026
 1 EUR = 1,1645 USD
+1 USD ≈ 0,8587 EUR
 ```
 
 Les conversions ne remplacent jamais le prix final du checkout.
@@ -175,7 +207,7 @@ Les conversions ne remplacent jamais le prix final du checkout.
 
 # Dépôts communautaires retrouvés
 
-Plusieurs listes historiques ont servi de point de départ :
+Radars utilisés pour retrouver d'anciennes gratuités et niches :
 
 - `munchy-bytes/FreeDevCertifications` ;
 - `ArslanYM/Free-Certifications` ;
@@ -184,15 +216,7 @@ Plusieurs listes historiques ont servi de point de départ :
 - `orgito1015/free-cybersecurity-certifications` ;
 - `surajbhan-3/Free-IT-Certification-and-badges_list`.
 
-Ils sont très utiles comme **sources de découverte**, mais pas comme références tarifaires : beaucoup de gratuités 2020–2022 sont aujourd'hui payantes ou retirées.
-
-Exemples :
-
-- GitLab : anciennes listes gratuites, examens actuels payants ;
-- Sumo Logic : formation gratuite mais certification désormais 100–150 $ ;
-- Redis Certified Developer : retirée ;
-- Zerto University : décommissionnée et migrée vers HPE ;
-- ISC2 CC : ancienne campagne gratuite terminée pour les nouveaux candidats.
+Ils sont utiles pour la **découverte**, jamais comme source de prix 2026 sans revérification.
 
 ---
 
@@ -200,91 +224,78 @@ Exemples :
 
 | Credential | Prix indicatif |
 |---|---:|
+| Commvault Professional / Engineer / Expert standalone curricula | **0 €** |
 | Neo4j Certified Professional | **0 €** |
 | KNIME L1 | **0 €** |
 | CNIL Atelier RGPD | **0 €** |
-| CSSC Six Sigma White Belt | **0 $** |
 | HashiCorp Terraform Associate | **70,50 $** |
-| GitHub Certifications | **99 $ global / tarif régional** |
+| GitHub Certifications | **99 $ global / régionalisation** |
 | Datadog | **100 $** |
-| SUSE AI Deployment Specialist | **99 $** |
 | AWS Solutions Architect Associate | **128 €** |
 | Confluent Kafka | **150 $** |
-| ISACA COBIT Foundation | **175 $** |
+| NetApp exam | **200 $** |
+| Cohesity Protection / Security | **200 $** |
+| Pure Storage Associate | **200 $** |
 | Scrum.org PSM I | **200 $** |
-| dbt Analytics Engineering | **200 $** |
+| Dell Proven Professional | **230 $** |
+| Altered Security CRTP | **249 $** |
 | HTB CPTS / CDSA / COAE | **~250 $ TTC indicatif** |
-| F5 Certified Administrator BIG-IP | **250 $ total online** |
+| F5 BIG-IP Administrator path | **~250 $ online** |
 | VMware/Broadcom VCP | **250 $** |
-| TCM PJPT / PSAA / PAPA | **249 $** |
-| Linux Foundation Associate family | **250 $** |
+| CREST Practitioner | **275 £ + taxes** |
+| Altered Security CRTE | **299 $ / 30 jours** |
 | Cisco CCNA | **300 $** |
+| VAST VCP-AD1 | **300 $** |
 | TryHackMe PT1 / SAL1 | **301 €** |
 | CFA Investment Foundations | **350 $** |
+| Zero-Point RTO | **365 £** |
 | TOGAF EA Foundation | **395 $** |
 | LFCS / CKA / CKS | **445 $** |
-| CSA CCSK | **445 $** |
 | PMI-ACP | **495 $ non-membre** |
 | TCM PNPT / PSAP | **499 $** |
 | IPMA Level D France | **440 € HT / ~528 € TTC** |
+| CREST Registered | **600 £ + taxes** |
 | CISSP | **719,04 € + maintenance** |
-| CCSP | **575,04 € + maintenance** |
-| Cisco CCNP | **700 $ core + concentration** |
-| CIA | **990 $ membre / 1 515 $ non-membre** avant éventuel membership |
-| ACMP CCMP | **595/795 $ + 21 h de formation admissible** |
-| IMA CMA | **~1 715 $ première année professionnel** |
-| CAMS | **2 095 $ privé + membership** |
-| CAIA Charter | **2 390 $ d'examens early + membership** |
-| ICA Advanced AML | **2 540 € + 220 € membership + taxes** |
-| SABSA Foundation | **~3 200 € HT via AEP Europe observé** |
-| Prosci Change Management | **3 386 € online / 3 810 € présentiel hors taxes** |
-| ICA Diploma AML | **5 085 € + membership + taxes** |
-| SANS + GIAC | **~9 k€ pour un cours + cert dans certains événements Europe** |
+| GARP FRM complet standard depuis zéro | **2 000 $ + taxes** |
+| CGI Advanced Certificate Corporate Governance | **2 050 £** |
+| FinOps Certified Professional | **~1 999 $ catalogue 2026 à confirmer checkout** |
+| ASCM CSCP bundle | **2 620–3 650 $** |
+| BSI ISO 27001 Lead Auditor | **2 795 € + TVA** |
+| Prosci Change Management | **3 386 € online / 3 810 € présentiel HT** |
+| NACD Directorship Certification package | **3 995 $** |
+| OSCE3 via 3 OffSec Course+Cert | **~5 247 $** |
+| IoD Certificate in Company Direction | **12 250–15 950 £ HT** |
 
 ---
 
-# Frontières et pièges de classement
+# Maintenance des données
 
-Un montant en dollars supérieur à 500 n'implique pas automatiquement un coût supérieur à 500 €.
-
-Exemples au change de la revue :
-
-- 550 $ ≈ 472 € ;
-- 575 $ ≈ 494 € ;
-- 595 $ ≈ 511 €.
-
-À l'inverse, une certification affichée sous 500 € HT peut dépasser le seuil pour un particulier en TTC : **IPMA Level D France = 440 € HT, soit environ 528 € TTC à 20 % de TVA**.
-
-De même, un examen `<500 €` peut appartenir au catalogue `>500 €` si son **TCO obligatoire** dépasse le seuil à cause d'une adhésion, de plusieurs examens, d'une formation ou d'une maintenance obligatoire.
-
----
-
-# Maintenance
-
-Pour chaque nouvelle entrée, conserver si possible :
+Pour chaque entrée, conserver si possible :
 
 - nom exact ;
 - organisme ;
 - domaine ;
+- niveau de preuve ;
 - prix officiel ;
 - monnaie ;
 - conversion EUR indicative ;
 - TVA / taxes ;
 - prérequis ;
-- formation obligatoire ou facultative ;
-- licence / abonnement requis ;
-- nombre de tentatives ;
+- formation obligatoire/facultative ;
+- credentials préalables ;
+- licence / abonnement ;
+- tentatives ;
 - expiration / renouvellement ;
-- frais d'application ;
+- application ;
 - membership ;
-- frais de maintenance ;
+- maintenance ;
 - CPE / PDU / CPD ;
-- coût retake ;
-- déplacement éventuel ;
+- retake ;
+- déplacement ;
 - first-cycle TCO ;
-- three-year / long-term TCO ;
-- URL officielle ;
+- long-term TCO ;
+- source officielle ;
 - date de vérification ;
 - statut : actif / conditionnel / promotion / deprecated / research.
 
-À terme, le but est d'obtenir une **cartographie internationale du TCO des certifications professionnelles**, plutôt qu'une simple collection de liens.
+Le but final est une **cartographie internationale du TCO des certifications et qualifications professionnelles**, pas une simple collection de liens.
