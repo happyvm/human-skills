@@ -124,7 +124,9 @@ Source :
 
 - https://developer.hashicorp.com/terraform/tutorials/pro-cert/pro-orientation
 
-**Statut prix : 🟡 à relever au checkout** — le credential est actif mais le prix n'est pas exposé de façon suffisamment claire dans les pages de contenu consultées pour le figer ici.
+**Prix confirmé : 295 $.** Examen online proctoré (Certiverse), 4 h + 15 min de pause, lab-based avec **un retake gratuit inclus**, validité 2 ans.
+
+**Valeur : ⭐⭐⭐⭐⭐** pour un profil Terraform confirmé — retake gratuit rare à ce niveau de prix.
 
 ---
 
@@ -326,17 +328,14 @@ Pour un profil infrastructure / architecture :
 
 # À poursuivre
 
-- CyberArk current public pricing ;
-- SailPoint ;
-- Ping Identity ;
-- Entra / Microsoft Identity ;
-- BeyondTrust ;
-- Delinea ;
-- HashiCorp Terraform Professional price ;
-- OpenTofu certification éventuelle ;
+- CyberArk — prix toujours non public sur Pearson VUE, re-vérifié (structure Trustee/Defender/Sentry/Guardian confirmée avec codes exacts : ACC-DEF, EPM-DEF, PAM-DEF, PAM-SEN, CPC-SEN, SECRET-SEN, GUARD — voir `cyberark-certification-status-2026.md`) ;
+- Entra / Microsoft Identity — déjà couvert via SC-300 dans `public-cloud-multicloud-under-500.md` ;
 - Jenkins / CloudBees current certification ;
 - GitLab current exams and mandatory training TCO ;
 - Sonar / Snyk / Checkmarx ;
 - DevSecOps Foundation / PeopleCert ;
-- secrets management competitors ;
 - policy-as-code / OPA credentials.
+
+Vérifié : **OpenTofu n'a pas de certification officielle** — seulement un cours gratuit Linux Foundation *Getting Started with OpenTofu* (LFEL1009, badge numérique). Terraform Authoring & Operations Professional confirmé à **295 $** (voir ci-dessus). Delinea a une vraie certification (voir `identity-iam-pam-under-500.md`) mais prix non public, comme CyberArk.
+
+**Auto-formation officielle et gratuite :** [Getting Started with OpenTofu (LFEL1009)](https://training.linuxfoundation.org/express-learning/getting-started-with-opentofu-lfel1009/) — cours gratuit avec badge.
