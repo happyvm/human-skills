@@ -14,6 +14,7 @@
 | `certifications/construction-btp-site-schemes-2026.md` | 0 | 0 | 39 | 0 |
 | `certifications/construction-btp-specialties-2026.md` | 0 | 0 | 44 | 0 |
 | `certifications/entrepreneur-essential-operations-2026.md` | 5 | 44 | 0 | 0 |
+| `certifications/entrepreneur-international-functional-credentials-2026.md` | 3 | 34 | 0 | 0 |
 | `certifications/entrepreneurship-startup-business-creation-2026.md` | 15 | 60 | 0 | 0 |
 | `certifications/facilities-energy-qhse.md` | 1 | 12 | 2 | 0 |
 | `certifications/food-safety-trade-logistics.md` | 1 | 11 | 1 | 0 |
@@ -30,9 +31,9 @@
 
 ## Totaux
 
-- catalogues `mixed` analysés : **23** ;
-- tableaux avec colonne `Portée` : **66** ;
-- lignes credential annotées : **440** ;
+- catalogues `mixed` analysés : **24** ;
+- tableaux avec colonne `Portée` : **69** ;
+- lignes credential annotées : **474** ;
 - bullets credential annotés : **389** ;
 - entrées restant `❓ UNV` : **0**.
 
@@ -40,15 +41,17 @@
 
 - `🇦🇺 AU` : **3**
 - `🇨🇦 CA` : **2**
+- `🇪🇺 EUR / 🌍 INT` : **1**
 - `🇫🇷 FR` : **64**
 - `🇬🇧 UK` : **51**
 - `🇸🇬 SG` : **4**
 - `🇺🇸 US` : **124**
-- `🌍 INT` : **372**
+- `🌍 INT` : **401**
 - `🌍 INT · DE-origin` : **12**
 - `🌍 INT · UK-origin` : **84**
 - `🌍 INT · US std` : **57**
-- `🌍 INT · US-centric` : **45**
+- `🌍 INT · US-centric` : **46**
+- `🌍 INT · US-origin` : **3**
 - `🌐 MIX` : **6**
 - `🌐 REG` : **5**
 
