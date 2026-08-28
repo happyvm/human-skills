@@ -30,6 +30,8 @@ verified: 2026-08-28
 
 # New Relic
 
+**Auto-formation officielle et gratuite :** [learn.newrelic.com](https://learn.newrelic.com/) — New Relic University.
+
 ## New Relic Verified Foundation — NVF
 
 New Relic confirme l'existence de plusieurs certifications Observability et indique que la **New Relic Verified Foundation** est gratuite.
@@ -164,6 +166,8 @@ Des échanges récents dans la communauté Dynatrace indiquent un coût d'enviro
 
 Dynatrace propose en revanche des environnements d'essai et playground gratuits pour apprendre la plateforme ; cela ne doit pas être transformé en certification gratuite.
 
+**Auto-formation officielle :** [Dynatrace University](https://www.dynatrace.com/service-support/education-services/) — sandbox Playground gratuit + trial 15 jours.
+
 ### Verdict
 
 Certification payante probable : vérifier le checkout avant achat.
@@ -171,6 +175,8 @@ Certification payante probable : vérifier le checkout avant achat.
 ---
 
 # Grafana Labs
+
+**Auto-formation officielle et gratuite :** [learn.grafana.com](https://learn.grafana.com/) (GROT Academy) et [grafana.com/tutorials](https://grafana.com/tutorials/).
 
 Grafana Labs a énormément enrichi son Learning Hub en 2026 :
 

@@ -31,6 +31,8 @@ verified: 2026-08-28
 
 # HashiCorp Vault
 
+**Auto-formation officielle et gratuite (Vault et Terraform ci-dessous) :** [developer.hashicorp.com/tutorials](https://developer.hashicorp.com/tutorials) — tutoriels hands-on gratuits en ligne de commande.
+
 ## Vault Associate (003)
 
 - prix : **70,50 $ + taxes/frais locaux** ;
@@ -170,6 +172,8 @@ Source :
 
 - https://www.okta.com/services/certification/
 
+**Auto-formation officielle :** [learning.okta.com](https://learning.okta.com/) — cours gratuits et premium, learning plans et practice exams gratuits pour Administrator/Professional.
+
 ## Okta Certified Professional
 
 Depuis le **6 juillet 2026**, Okta a retiré l'ancien Professional Hands-On Configuration Exam et impose désormais le **Professional Performance Exam**, 100 % pratique :
@@ -218,6 +222,8 @@ Red Hat utilise désormais un prix catalogue standard de **500 $ par examen de c
 Source pricing général :
 
 - https://docs.redhat.com/en/documentation/red_hat_learning_subscription/1-latest/html/red_hat_certification_program_guide/index
+
+**Auto-formation officielle et gratuite :** [Red Hat Learning Community](https://learn.redhat.com/) et [RedHatOfficial/free-red-hat-learning](https://github.com/RedHatOfficial/free-red-hat-learning).
 
 ## EX294 — Ansible / RHCE track
 

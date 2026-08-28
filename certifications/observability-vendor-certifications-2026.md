@@ -71,6 +71,8 @@ Advanced exam          150 $
 
 Cisco maintient plusieurs certifications AppDynamics formelles à **300 $**.
 
+**Auto-formation officielle :** [learn.appdynamics.com](https://learn.appdynamics.com/certifications) — AppDynamics University, learning plans self-paced (Standard/Enterprise) ou instructor-led (Premium).
+
 ## Associate Administrator — 500-425 CAAA
 
 - prix : **300 $** ;
@@ -108,6 +110,8 @@ Source :
 # New Relic — programme actif, tarification publique opaque
 
 New Relic dispose d'un programme de certification actif.
+
+**Auto-formation officielle et gratuite :** [learn.newrelic.com](https://learn.newrelic.com/) — New Relic University, formation self-paced ou instructor-led et certifications, entièrement gratuites.
 
 Credentials officiellement cités :
 
@@ -180,6 +184,8 @@ Encore une fois : **promotion**, pas tarif normal.
 
 Dynatrace University dispose toujours de certifications Associate / Professional et les examens actuels ont évolué vers davantage de pratique.
 
+**Auto-formation officielle :** [Dynatrace University](https://www.dynatrace.com/service-support/education-services/) — learning paths, blueprint d'examen et practice exam ; sandbox Playground gratuit + trial 15 jours pour la pratique.
+
 La communauté Dynatrace décrit en juin 2026 un nouvel examen Associate Managed comprenant :
 
 - partie théorique ;
@@ -198,6 +204,8 @@ Ne pas figer les anciens montants de blogs ou de forums comme prix 2026.
 ---
 
 # Grafana Labs
+
+**Auto-formation officielle et gratuite :** [learn.grafana.com](https://learn.grafana.com/) (GROT Academy, cours hands-on de 30 min) et [grafana.com/tutorials](https://grafana.com/tutorials/).
 
 Grafana Labs publie :
 
