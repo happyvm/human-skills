@@ -7,13 +7,18 @@ ROOT = Path(__file__).resolve().parents[1]
 CERT_DIR = ROOT / "certifications"
 REPORT = ROOT / "metadata" / "entrepreneur-duplicate-audit.md"
 
-# Marker -> canonical file. The audit only inspects markdown TABLE ROWS in
-# entrepreneur catalogues; prose cross-links and root indexes are allowed.
+# Marker -> canonical file.
+# The audit only treats a non-canonical TABLE ROW as a duplicate when the row
+# looks like a credential detail row (nature / scope / price). Plain status or
+# routing tables are allowed.
 CANONICAL = {
+    # Core creation
     "Certiport ESB": "entrepreneurship-startup-business-creation-2026.md",
     "CréActifs RS7004": "entrepreneurship-startup-business-creation-2026.md",
     "CréActifs RS7005": "entrepreneurship-startup-business-creation-2026.md",
     "SFEDI": "entrepreneurship-startup-business-creation-2026.md",
+
+    # Core operations France
     "RS6951": "entrepreneur-essential-operations-2026.md",
     "RS7378": "entrepreneur-essential-operations-2026.md",
     "RS7380": "entrepreneur-essential-operations-2026.md",
@@ -24,6 +29,8 @@ CANONICAL = {
     "RS7382": "entrepreneur-essential-operations-2026.md",
     "RS7379": "entrepreneur-essential-operations-2026.md",
     "RS7383": "entrepreneur-essential-operations-2026.md",
+
+    # Portable global skills
     "HubSpot": "entrepreneur-international-functional-credentials-2026.md",
     "Google Ads": "entrepreneur-international-functional-credentials-2026.md",
     "Xero": "entrepreneur-international-functional-credentials-2026.md",
@@ -37,6 +44,8 @@ CANONICAL = {
     "IAPP": "entrepreneur-international-functional-credentials-2026.md",
     "ICC Incoterms": "entrepreneur-international-functional-credentials-2026.md",
     "ICC Export/Import": "entrepreneur-international-functional-credentials-2026.md",
+
+    # Growth
     "CFI FMVA": "entrepreneur-growth-finance-ecommerce-ip-2026.md",
     "CFI CBCA": "entrepreneur-growth-finance-ecommerce-ip-2026.md",
     "VC University": "entrepreneur-growth-finance-ecommerce-ip-2026.md",
@@ -45,22 +54,54 @@ CANONICAL = {
     "Shopify": "entrepreneur-growth-finance-ecommerce-ip-2026.md",
     "CICM": "entrepreneur-growth-finance-ecommerce-ip-2026.md",
     "Harvard PON": "entrepreneur-growth-finance-ecommerce-ip-2026.md",
+
+    # Reprise / franchise / risk
     "RS7413": "entrepreneur-transfer-franchise-risk-financing-france-2026.md",
+    "IFA Certified Franchise Executive": "entrepreneur-transfer-franchise-risk-financing-france-2026.md",
+    "IFA Foundations of Franchising": "entrepreneur-transfer-franchise-risk-financing-france-2026.md",
     "RIMS-CRMP": "entrepreneur-transfer-franchise-risk-financing-france-2026.md",
     "FCIB": "entrepreneur-transfer-franchise-risk-financing-france-2026.md",
-    "CMA France RS6996": "entrepreneur-artisan-agri-uk-microcredentials-2026.md",
-    "CMA France RS6994": "entrepreneur-artisan-agri-uk-microcredentials-2026.md",
-    "RS7277": "entrepreneur-artisan-agri-uk-microcredentials-2026.md",
+
+    # France practical
     "AMRAE ST046": "entrepreneur-france-practical-resources-2026.md",
     "AMRAE ST047": "entrepreneur-france-practical-resources-2026.md",
     "AFDCC": "entrepreneur-france-practical-resources-2026.md",
     "INPI Pass PI": "entrepreneur-france-practical-resources-2026.md",
     "EUIPO SME Fund": "entrepreneur-france-practical-resources-2026.md",
+
+    # Sectoral
+    "CMA France RS6996": "entrepreneur-artisan-agri-uk-microcredentials-2026.md",
+    "CMA France RS6994": "entrepreneur-artisan-agri-uk-microcredentials-2026.md",
+    "RS7277": "entrepreneur-artisan-agri-uk-microcredentials-2026.md",
+
+    # Group management ownership
+    "CFA Institute Private Equity Certificate": "entrepreneur-holding-lbo-impact-cooperative-governance-2026.md",
+    "CFA Institute Advanced Private Equity Certificate": "entrepreneur-holding-lbo-impact-cooperative-governance-2026.md",
+    "CFI FPAP": "entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md",
+    "ACCA CertIFR": "entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md",
+    "ACCA DipIFR": "entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md",
+    "IMAA CPMI": "entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md",
+    "IMAA International M&A Expert": "entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md",
+    "ACT Certificate in Treasury Fundamentals": "entrepreneur-treasury-cash-pooling-epm-carveout-2026.md",
+    "ACT Award in International Cash Management": "entrepreneur-treasury-cash-pooling-epm-carveout-2026.md",
+    "ACT Certificate in International Cash Management": "entrepreneur-treasury-cash-pooling-epm-carveout-2026.md",
+    "CFI Loan Covenants": "entrepreneur-treasury-cash-pooling-epm-carveout-2026.md",
+    "IMAA SCDE": "entrepreneur-treasury-cash-pooling-epm-carveout-2026.md",
+    "Swift Certified Expert": "entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md",
+    "Kyriba": "entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md",
+    "AFP Certified Treasury Professional": "entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md",
 }
 
 FILES = sorted(CERT_DIR.glob("entrepreneur*.md"))
 violations = []
 seen = {k: [] for k in CANONICAL}
+
+DETAIL_RE = re.compile(
+    r"(?:\bCERT\b|\bQUAL\b|\bCOURSE\b|\bBADGE\b|\bAID\b|\bREG\b|"
+    r"€|\$|£|CAD|provider-dependent|sur devis|"
+    r"🇫🇷|🇪🇺|🇬🇧|🇺🇸|🌍|🌐)",
+    re.IGNORECASE,
+)
 
 for path in FILES:
     name = path.name
@@ -73,7 +114,7 @@ for path in FILES:
         for marker, canonical in CANONICAL.items():
             if marker.lower() in line.lower():
                 seen[marker].append((name, lineno, line))
-                if name != canonical:
+                if name != canonical and DETAIL_RE.search(line):
                     violations.append((marker, canonical, name, lineno, line))
 
 missing = []
@@ -86,31 +127,34 @@ out = [
     "",
     f"- entrepreneur catalogues scanned: **{len(FILES)}**",
     f"- canonical markers checked: **{len(CANONICAL)}**",
-    f"- non-canonical table occurrences: **{len(violations)}**",
-    f"- canonical markers missing from owner table: **{len(missing)}**",
+    f"- non-canonical detailed table occurrences: **{len(violations)}**",
+    f"- canonical markers not found in owner table: **{len(missing)}**",
     "",
 ]
 
 if violations:
-    out += ["## Non-canonical table occurrences", ""]
+    out += ["## Non-canonical detailed table occurrences", ""]
     for marker, canonical, name, lineno, line in violations:
         out.append(f"- `{marker}`: `{name}:{lineno}`; owner `{canonical}` — `{line}`")
     out.append("")
 else:
-    out += ["## Non-canonical table occurrences", "", "Aucune.", ""]
+    out += ["## Non-canonical detailed table occurrences", "", "Aucune.", ""]
 
 if missing:
-    out += ["## Missing canonical markers", ""]
+    out += [
+        "## Canonical markers not found in an owner table",
+        "",
+        "Informational only: some canonical credentials are intentionally detailed in prose rather than a table.",
+        "",
+    ]
     for marker, canonical in missing:
-        out.append(f"- `{marker}` absent d'un tableau de `{canonical}`")
+        out.append(f"- `{marker}` — owner `{canonical}`")
     out.append("")
 else:
-    out += ["## Missing canonical markers", "", "Aucun.", ""]
+    out += ["## Canonical markers not found in an owner table", "", "Aucun.", ""]
 
 REPORT.write_text("\n".join(out) + "\n", encoding="utf-8")
 print("\n".join(out))
 
-# Duplicate ownership is a hard error. Missing markers are informational because
-# some detailed credentials are intentionally described in prose rather than tables.
 if violations:
     sys.exit(1)
