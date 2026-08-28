@@ -24,12 +24,14 @@ Le dépôt global couvre aussi de nombreux domaines hors IT, mais cette page ser
 | Commvault Professional / Engineer / Expert standalone | **0 €** |
 | Qualys VMDR / Policy Audit / CSAM | **0 €** |
 | Microsoft Applied Skills ciblés | **0 €** |
+| Azure Local Accreditation | **0 €** — achievement Learn |
+| Windows Server 2025 Accreditation | **0 €** — achievement Learn |
 | Neo4j Professional / GDS | **0 €** |
 | IBM QRadar SIEM Foundation Badge | **0 $** |
 | New Relic Verified Foundation | **0 $** |
 | SailPoint Knowledge Credentials | **0 $** |
 | Infoblox Associate / Operator | **29 $** |
-| Juniper JNCIA via Open Learning voucher | **50 $** |
+| Juniper JNCIA / JNCIA-DevOps via Open Learning voucher | **50 $** |
 | Infoblox Professional / Administrator | **69 $** |
 | HashiCorp Terraform Associate | **70,50 $** |
 | HashiCorp Vault Associate | **70,50 $** |
@@ -37,6 +39,7 @@ Le dépôt global couvre aussi de nombreux domaines hors IT, mais cette page ser
 | GitHub certification | **99 $** |
 | Apache CloudStack Certification by ShapeBlue | **100 $** |
 | IBM AIX v7.3 Administrator Specialty | **100 $** |
+| Nokia NSP IP Network Automation Professional | **125 $** |
 
 ---
 
@@ -76,9 +79,10 @@ OpenNebula Certified Admin       899 €  >500
 
 ---
 
-# 4. Windows Server / Microsoft infrastructure
+# 4. Windows Server / Azure Local / Microsoft infrastructure
 
 - [`certifications/microsoft-windows-infrastructure-2026.md`](certifications/microsoft-windows-infrastructure-2026.md)
+- [`certifications/microsoft-azure-local-hci-2026.md`](certifications/microsoft-azure-local-hci-2026.md)
 
 Transition importante 2026 :
 
@@ -89,9 +93,15 @@ AZ-802 Windows Server Administrator
 1 examen = 126 € en France
 ```
 
-Microsoft publie également le parcours **Windows Server 2025 Accreditation 2026**, gratuit sur Microsoft Learn, qui inclut l'évaluation d'Azure Local. Il s'agit d'un achievement Learn et non d'une certification role-based.
+Microsoft publie :
 
-Inclut également AD DS Applied Skill, AZ-104, SC-300, SC-500, DP-300 et renouvellement Microsoft gratuit.
+```text
+Azure Local Accreditation 2025       0 €  achievement Learn
+Windows Server 2025 Accreditation    0 €  achievement Learn
+AZ-802                              126 €  vraie certification role-based
+```
+
+Aucune certification role-based ni Applied Skill **spécifiquement Azure Local** n'a été identifiée dans le catalogue public au 28 août 2026. Les Accreditation sont utiles mais ne doivent pas être confondues avec une certification proctored ou un Applied Skills lab-based.
 
 ---
 
@@ -123,8 +133,6 @@ EX480  MultiCluster Management
 Le tarif US autour de **500 $** ne doit pas être traduit automatiquement par « moins de 500 € ». Un voucher KIOSK EMEA est affiché à **530 € HT** chez un partenaire Red Hat, donc le coût TTC français dépasse nettement 500 €.
 
 Une première tentative échouée d'un Individual Exam peut toutefois donner droit à **un retake gratuit** dans la période d'éligibilité.
-
-Pour un classement strict France/Europe, les examens Red Hat sont donc à ranger plutôt dans la tranche **500–700 €** que dans le catalogue ≤500 €.
 
 ---
 
@@ -169,23 +177,24 @@ Opportunité ponctuelle : **Ping YOUniverse London — 14 septembre 2026** annon
 
 ---
 
-# 8. Networking, Wi-Fi, DDI, open networking & AI infrastructure
+# 8. Networking, automation, DDI, open networking & AI infrastructure
 
 - [`certifications/networking-wireless-ai-infra.md`](certifications/networking-wireless-ai-infra.md)
 - [`certifications/network-datacenter-advanced-under-500.md`](certifications/network-datacenter-advanced-under-500.md)
+- [`certifications/network-automation-under-500-2026.md`](certifications/network-automation-under-500-2026.md)
 - [`certifications/open-networking-sonic-ai-fabrics-2026.md`](certifications/open-networking-sonic-ai-fabrics-2026.md)
 
-Couvre Juniper, CWNP, Nokia, MEF SD-WAN, Infoblox, Extreme, NVIDIA AI Networking, Arista, SONiC/open networking et Huawei.
+Couvre Juniper, CWNP, Nokia, MEF SD-WAN, Infoblox, Extreme, Cisco DevNet, NVIDIA AI Networking, Arista, SONiC/open networking et Huawei.
 
 ```text
 Infoblox Associate / Operator          29 $
-Juniper JNCIA via Open Learning        50 $
+Juniper JNCIA-DevOps Open Learning     50 $
 Infoblox Professional / Administrator  69 $
-Juniper JNCIS                           75 $
 Infoblox Expert                         99 $
-Juniper JNCIP                          100 $
+Nokia NSP Network Automation Pro       125 $
 NVIDIA NCA-AIIO                        125 $
 Extreme Administrator             325 € / 375 $
+Cisco DevNet Associate                  300 $
 NVIDIA NCP-AIN / AII / ARI             400 $
 Extreme Professional                   495 $  régional
 NVIDIA NCP-AIO                          500 $
@@ -195,9 +204,17 @@ NVIDIA NCP-AIO                          500 $
 
 ### SONiC
 
-Aucune certification professionnelle officielle SONiC clairement proposée par la SONiC Foundation/Linux Foundation n'a été identifiée lors de cette revue. On conserve donc SONiC comme compétence pratique/watchlist plutôt que d'inventer un credential.
+Aucune certification professionnelle officielle SONiC clairement proposée par la SONiC Foundation/Linux Foundation n'a été identifiée lors de cette revue. SONiC reste donc une compétence pratique/watchlist plutôt qu'un credential inventé.
 
-Pour les AI fabrics, **NVIDIA NCP-AIN à 400 $** est actuellement le proxy certifiant le plus pertinent : Spectrum-X, RoCE, BGP/EVPN, InfiniBand, Cumulus, NetQ, ConnectX/SuperNIC, BlueField/DPU, DOCA et Kubernetes networking.
+### Très bon combo network automation
+
+```text
+JNCIA-DevOps                    50 $
+Nokia NSP Automation Pro       125 $
+Total                           175 $
+```
+
+Cisco DevNet Associate complète cette stack à 300 $.
 
 ---
 
@@ -220,11 +237,20 @@ Fortinet FCP                    ~400 $ minimum
 # 10. Storage & data protection
 
 - [`certifications/storage-data-protection-under-500.md`](certifications/storage-data-protection-under-500.md)
+- [`certifications/rubrik-certification-status-2026.md`](certifications/rubrik-certification-status-2026.md)
 - [`certifications/finops-veeam-over-500.md`](certifications/finops-veeam-over-500.md)
 
 Couvre NetApp, Dell Technologies, Pure Storage, Hitachi Vantara, Nutanix Storage, VAST Data, IBM Storage, Cohesity, Commvault, Veritas/NetBackup, Rubrik, Veeam et Huawei.
 
 Notable : plusieurs **Commvault Engineer/Expert** restent obtenables sans payer l'ILT via curricula/exam paths gratuits au moment de la revue.
+
+### Rubrik
+
+RCSA dispose d'un **parcours de préparation officiel gratuit** et le bootcamp 4 jours n'est pas obligatoire. En revanche, l'accès au final exam nécessite un credential support/partner actif et le prix public du final exam n'est pas clairement exposé sans portal : ne pas inventer un prix.
+
+### Veeam 2026
+
+VMCE+ est live depuis le **1er juin 2026** et exige trois formations avant l'examen : VBR, Veeam ONE et Recovery Orchestrator. Un exemple France affiche **3 440 € HT rien que pour le cours VBR v13 de 4 jours** ; le TCO VMCE+ from-zero est donc clairement premium/employer-funded.
 
 ---
 
@@ -327,7 +353,7 @@ Couvre Uptime Institute, BICSI, Schneider Electric, energy, facilities et QHSE.
 
 - [`certifications/finops-veeam-over-500.md`](certifications/finops-veeam-over-500.md)
 
-Le Practitioner et les credentials moins coûteux sont également référencés dans les catalogues généraux.
+FinOps Practitioner/Engineer peuvent rester sous ou autour de 500 $ selon exam-only/self-paced, tandis que Professional implique un TCO nettement supérieur avec credentials préalables.
 
 ---
 
@@ -338,8 +364,9 @@ Le Practitioner et les credentials moins coûteux sont également référencés 
 0 $      New Relic Verified Foundation
 0 $      SailPoint Knowledge Credentials
 0 €      OCI Architect Associate
+0 €      Azure Local / Windows Server 2025 Learn achievements
 29 $     Infoblox Associate / Operator
-50 $     Juniper JNCIA via Open Learning
+50 $     Juniper JNCIA / JNCIA-DevOps via Open Learning
 69 $     Infoblox Professional / Administrator
 70,50 $  Terraform Associate
 70,50 $  Vault Associate
@@ -347,18 +374,19 @@ Le Practitioner et les credentials moins coûteux sont également référencés 
 99 $     GitHub Actions / Advanced Security
 100 $    Apache CloudStack by ShapeBlue
 100 $    IBM AIX v7.3 Administrator
+125 $    Nokia NSP Network Automation Professional
 125 $    NVIDIA NCA-AIIO
 126 €    Microsoft AZ-802 / AZ-104 / SC-500
 128 €    AWS Solutions Architect Associate
 149 $    SUSE Rancher / RKE2
-150 $    Confluent Kafka / MongoDB
-150 $    Sumo Logic Advanced
+150 $    Confluent Kafka / MongoDB / Sumo Logic Advanced
 175 $    SnowPro Core
 200 $    IBM z/OS / MQ / Db2 / QRadar / Guardium
 200 $    Palo Alto Professional
 200 $    Nutanix NCP
 250 $    VMware VCP / CNCF associates / F5 BIG-IP Admin
 295 $    Vault Operations Professional
+300 $    Cisco DevNet Associate
 300 $    Palo Alto Architect / Check Point CCSA
 365 €    Ping Identity Professional
 400 $    OpenStack COA
@@ -366,33 +394,33 @@ Le Practitioner et les credentials moins coûteux sont également référencés 
 445 $    CKA / CKS / LFCS / CNPE
 ```
 
-### Juste au-dessus du plafond européen
+### Juste au-dessus / premium
 
 ```text
-~530 € HT  Red Hat Individual/KIOSK exam — exemple EMEA observé
-            + 1 retake gratuit après un premier échec selon politique
+~530 € HT   Red Hat Individual/KIOSK exam — exemple EMEA
+3 440 € HT  Veeam VBR v13 ILT France — seulement 1 des 3 blocs VMCE+
 ```
 
 ---
 
 # Recherche IT active
 
-Les grosses watchlists **OpenStack/OpenNebula/CloudStack**, **CyberArk/SailPoint/Ping/BeyondTrust**, **New Relic/Sumo/Dynatrace**, **Infoblox/Extreme/NVIDIA**, **SONiC/AI fabrics**, **Red Hat/OpenShift avancé** et **IBM AIX/QRadar/Guardium** ont maintenant une première fiche dédiée.
+Les grosses watchlists **OpenStack/OpenNebula/CloudStack**, **Azure Local**, **CyberArk/SailPoint/Ping/BeyondTrust**, **New Relic/Sumo/Dynatrace**, **Infoblox/Extreme/NVIDIA**, **network automation**, **SONiC/AI fabrics**, **Red Hat/OpenShift avancé**, **Rubrik/Veeam** et **IBM AIX/QRadar/Guardium** ont maintenant une première fiche dédiée.
 
 Priorités restantes :
 
-1. **Azure Local / HCI / Windows Server 2025** — credential technique réellement vérifiable au-delà du learning achievement ;
-2. **CyberArk** — prix checkout 2026 par examen et prérequis de formation exacts ;
-3. **BeyondTrust** — TCO certification par produit et modalités Success Elevated ;
-4. **Grafana Labs** — surveiller l'apparition éventuelle d'un examen professionnel officiel ;
-5. **Arista** — prix standalone des examens Academy Certification ;
-6. **Red Hat** — confirmer prix France checkout/TTC exacts par examen et bundles utiles ;
-7. **RACF / CICS / IMS** — vérifier si de nouveaux credentials IBM live apparaissent ;
-8. **Rubrik** — prix final examen et éventuels vouchers ;
-9. **Veeam VMCE+/VMCSE France** — TCO exact ;
-10. **mainframe advanced / enterprise middleware** hors IBM ;
-11. **AI infrastructure / GPU clusters / MLOps** — approfondir vendors et hardware stacks ;
-12. **SRE / platform engineering** — poursuivre les vendors émergents ;
-13. **open-source storage / Ceph** — certification standalone hors Red Hat ;
-14. **network automation** — Arista, Cisco DevNet, Juniper automation, Nokia automation ;
-15. **Ultra Ethernet / OCP networking / DPU-SuperNIC** — surveiller l'arrivée de credentials officiels.
+1. **CyberArk** — prix checkout 2026 par examen et prérequis exacts ;
+2. **BeyondTrust** — TCO certification par produit / customer entitlement ;
+3. **Grafana Labs** — surveiller l'apparition éventuelle d'un examen professionnel officiel ;
+4. **Arista** — prix standalone des examens Academy Certification ;
+5. **Red Hat** — confirmer prix France checkout/TTC exacts par examen et bundles utiles ;
+6. **Rubrik** — prix RCSA Final Exam depuis un portal client/partner éligible ;
+7. **Veeam** — prix Pearson VMCE+/VMCSE France et abonnement PRO individuel ;
+8. **RACF / CICS / IMS** — vérifier si de nouveaux credentials IBM live apparaissent ;
+9. **mainframe advanced / enterprise middleware** hors IBM ;
+10. **AI infrastructure / GPU clusters / MLOps** — approfondir AMD, Intel, NVIDIA, hardware/OEM stacks ;
+11. **SRE / platform engineering** — poursuivre les vendors émergents ;
+12. **open-source storage / Ceph** — certification standalone hors Red Hat ;
+13. **Ultra Ethernet / OCP networking / DPU-SuperNIC** — surveiller l'arrivée de credentials officiels ;
+14. **enterprise Linux hors Red Hat** — SUSE, Canonical, Oracle Linux, vendor-neutral ;
+15. **middleware / messaging / integration** — Kafka déjà couvert, approfondir IBM, Solace, MuleSoft, Boomi, Kong, Tyk, Apigee.
