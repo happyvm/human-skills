@@ -225,12 +225,40 @@ Un profil international peut cumuler NEBOSH + CSP/CMIOSH, mais le TCO et les pr�
 
 ---
 
+# 11. CIH — Certified Industrial Hygienist (hors BCSP)
+
+Credential distinct de BCSP, délivré par le **Board for Global EHS Credentialing (BGC)** — nouveau nom de l'ABIH (American Board of Industrial Hygiene).
+
+Sources tierces cohérentes (portail officiel gobgc.org inaccessible lors de la vérification) :
+
+- application fee : **160 $** ;
+- exam fee : **370 $** ;
+- **TCO premier cycle ≈ 530 $** ;
+- renouvellement annuel : **180 $** (90 $ pour une année partielle).
+
+**Verdict :** à vérifier directement sur gobgc.org avant inscription (portail inaccessible pendant la vérification) ; complémentaire à BCSP pour un profil hygiène industrielle plutôt que safety généraliste.
+
+---
+
+# 12. IHMM — CHMM (hors BCSP)
+
+**Certified Hazardous Materials Manager**, délivré par l'Institute of Hazardous Materials Management. Portail officiel `ihmm.org` inaccessible lors de la vérification (403) — chiffres ci-dessous issus de sources tierces cohérentes uniquement.
+
+- application fee : **185 $** ;
+- exam fee : **375 $** ;
+- **TCO premier cycle ≈ 560 $** ;
+- retake : **160 $** ;
+- 140 questions scénario, 3 h, score cible 700/1000 ;
+- recertification tous les **5 ans** + maintenance annuelle.
+
+**Verdict :** à reconfirmer directement sur ihmm.org avant achat — non vérifié sur le store officiel lui-même.
+
+---
+
 # À poursuivre
 
 - BCSP recertification cycle exact par credential ;
 - BCSP international regional programs ;
-- CIH — Certified Industrial Hygienist ;
-- IHMM CHMM / CHMP ;
 - AIHA credentials ;
 - process safety CCPSC ;
 - ASSP credentials ;
