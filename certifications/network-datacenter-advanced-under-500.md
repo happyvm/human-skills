@@ -9,15 +9,16 @@
 | Infoblox | Associate / Operator exams | **29 $** | ✅ exceptionnellement peu cher |
 | Infoblox | Professional / Administrator exams | **69 $** | ✅ très fort ROI |
 | Infoblox | Expert exams | **99 $** | ✅ très fort ROI |
-| Extreme Networks | Administrator | **375 $** / parfois **325 €** EMEA | ✅ sous 500 |
-| Extreme Networks | Professional | **495 $** / exemples EMEA >500 € | ⚠️ dépend de la région |
 | NVIDIA | NCA AI Infrastructure & Operations | **125 $** | ✅ sous 500 |
-| NVIDIA | NCP AI Networking | **400 $** | ✅ sous 500 |
-| NVIDIA | NCP AI Infrastructure | **400 $** | ✅ sous 500 |
-| NVIDIA | NCP AI Rack & Interconnect | **400 $** | ✅ sous 500 |
+| Arista | Associate practical exam | **295 $** | ✅ performance-based |
+| Arista | Specialist practical exam | **295 $** | ✅ performance-based |
+| Extreme Networks | Administrator | **375 $** / parfois **325 €** EMEA | ✅ sous 500 |
+| Arista | Professional practical exam | **395 $** | ✅ sous 500 |
+| NVIDIA | NCP AI Networking / Infrastructure / Rack | **400 $** | ✅ sous 500 |
+| Extreme Networks | Professional | **495 $** / exemples EMEA >500 € | ⚠️ dépend de la région |
 | NVIDIA | NCP AI Operations | **500 $** | ⚠️ exactement à la limite |
 | NVIDIA | NCP InfiniBand | retirée | ❌ remplacée |
-| Arista | Academy Digital Network Foundations | **495 $** hors ambiguïté examen | ⚠️ TCO cert à vérifier |
+| Arista | Expert practical exam | **1 995 $** | ❌ >500 |
 
 ---
 
@@ -51,7 +52,7 @@ Le DDI Associate couvre notamment DNS, resource records, DHCP, Dynamic DNS, IPAM
 
 ### Verdict
 
-À **29–99 $**, Infoblox doit être classé tout en haut de la shortlist réseau. Même pour quelqu'un qui n'utilise pas Infoblox quotidiennement, **DDI/DNS/DHCP/IPAM** sont des compétences d'infrastructure très transférables.
+À **29–99 $**, Infoblox doit être classé tout en haut de la shortlist réseau.
 
 Sources :
 
@@ -79,7 +80,7 @@ Un calendrier de formation EMEA montre également des prix localisés, par exemp
 
 ### Verdict
 
-L'Administrator est clairement dans la cible <500. Le Professional est à traiter **au cas par cas selon pays et ATP**, car la conversion/localisation tarifaire peut faire dépasser le plafond.
+L'Administrator est clairement dans la cible <500. Le Professional est à traiter **au cas par cas selon pays et ATP**.
 
 Sources :
 
@@ -103,13 +104,11 @@ NVIDIA a profondément remanié son catalogue networking autour de l'infrastruct
 | NVIDIA-Certified Professional AI Rack and Interconnect — NCP-ARI | **400 $** |
 | NVIDIA-Certified Professional AI Operations — NCP-AIO | **500 $** |
 
-Le **NCP-AIN** vise les professionnels capables de déployer et gérer une infrastructure réseau NVIDIA pour workloads IA. L'examen dure environ 120 minutes et coûte 400 $.
+Le **NCP-AIN** vise les professionnels capables de déployer et gérer une infrastructure réseau NVIDIA pour workloads IA.
 
 ## InfiniBand
 
 L'ancienne certification **NCP-IB InfiniBand Professional** est désormais **retirée**. NVIDIA renvoie vers le nouveau **Professional AI Networking Exam**.
-
-C'est important pour éviter de préparer un credential obsolète à partir d'anciens guides ou dépôts GitHub.
 
 ### Verdict
 
@@ -130,21 +129,47 @@ Sources :
 
 ---
 
-# Arista
+# Arista — prix exacts 2026
 
-Arista Academy propose désormais des tracks très structurés et fortement lab-based.
+Arista Academy utilise désormais un programme role-based et performance-based avec practical lab exams.
 
-Le **Network Foundations Track** en Academy Digital est affiché à **495 $** et donne accès à plus de 45 heures de contenu self-paced et 40 heures de lab par sous-track. Un examen pratique Associate de deux heures est proposé en option.
+Point essentiel : **aucune formation n'est obligatoire pour tenter un examen**. Les Academy Digital tracks constituent des parcours de préparation, pas des prerequisites.
 
-Les tracks Data Center, Campus, WAN Routing et Automation montent à **1 995 $** et l'All-Access Pass à **4 995 $/an**.
+## Prix examens standalone
 
-### Attention coût
+Le document officiel Academy Overview 2026 publie :
 
-Le site public ne rend pas suffisamment clair le **prix standalone de l'examen Associate** pour conclure que certification + formation restent réellement sous 500 $. On conserve donc Arista en **watchlist TCO** plutôt que de le déclarer low-cost.
+```text
+Associate / Foundation practical      295 $
+Specialist practical                  295 $
+Professional practical                395 $
+Expert practical                    1 995 $
+Expert recertification                 TBD
+```
 
-Source :
+Les trois premiers niveaux entrent donc dans notre seuil de 500 $.
+
+## Formation optionnelle
+
+```text
+Network Foundations Track          495 $
+Data Center Track                1 995 $
+Campus Track                     1 995 $
+Routing / Automation Track       1 995 $
+All-Access Pass                  4 995 $ / an
+```
+
+Le All-Access Pass inclut un voucher gratuit pour un Associate ou Specialist exam, mais pour un candidat expérimenté le standalone exam est nettement plus économique.
+
+Voir la fiche détaillée :
+
+- [`arista-academy-certification-2026.md`](arista-academy-certification-2026.md)
+
+Sources :
 
 - https://www.training.arista.com/
+- https://www.training.arista.com/learning-pathways
+- https://www.training.arista.com/hubfs/Guides/Arista_Academy_Overview_Detailed.pdf
 
 ---
 
@@ -155,11 +180,15 @@ Source :
 69 $    Infoblox Professional / Administrator
 99 $    Infoblox Expert
 125 $   NVIDIA NCA-AIIO
+295 $   Arista Associate
+295 $   Arista Specialist
 325 €   Extreme Administrator — exemple EMEA
 375 $   Extreme Administrator — tarif US observé
+395 $   Arista Professional
 400 $   NVIDIA NCP-AIN / NCP-AII / NCP-ARI
 495 $   Extreme Professional — tarif US observé
 500 $   NVIDIA NCP-AIO
+1995 $  Arista Expert
 ```
 
-Le **meilleur nouveau filon de cette passe est Infoblox** : trois niveaux de certification pour moins de 100 $ chacun.
+Le réseau datacenter a désormais plusieurs parcours low-cost très crédibles : **Infoblox pour DDI**, **Arista pour EOS/fabric/automation**, **NVIDIA pour AI networking**.
