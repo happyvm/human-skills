@@ -15,6 +15,8 @@ verified: 2026-08-28
 
 > Oracle University utilise désormais un modèle d'`Exam Subscription` : une tentative technologique est valorisée à **245 $ US**, avec prix local converti selon le pays. Vérification : 28 août 2026.
 
+**Auto-formation officielle et gratuite :** [Oracle University — MyLearn](https://mylearn.oracle.com/) — parcours self-paced sans carte bancaire requise.
+
 ---
 
 # Prix d'une tentative Oracle Technology
