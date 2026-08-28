@@ -208,6 +208,22 @@ Mais ils ne doivent pas être comparés sur le seul « prix d'un badge ».
 
 ---
 
+# 8. Scrum.org PSPO — au-delà du niveau I
+
+Complément aux fiches Scrum.org déjà documentées ailleurs dans le dépôt (PSM/PSPO I à 200 $).
+
+- **PSPO I : 200 $** ;
+- **PSPO II : 500 $** ;
+- **PSPO III : prix officiel non confirmé** — une réduction de 40 % existe pour les élèves des classes Scrum.org officielles *Advanced*, ce qui suggère un tarif standard nettement supérieur à PSPO II, à vérifier directement au checkout.
+
+Source :
+
+- https://www.scrum.org/assessments/professional-scrum-product-owner-ii-certification
+
+**Verdict :** PSPO II à 500 $ reste un signal fort pour un profil Product Owner confirmé, avant d'envisager PSPO III dont le TCO doit être vérifié au cas par cas.
+
+---
+
 # À poursuivre
 
 - AIPMM Agile Certified Product Manager/Product Owner ;
@@ -217,7 +233,7 @@ Mais ils ne doivent pas être comparés sur le seul « prix d'un badge ».
 - Product-Led Alliance ;
 - Reforge certificates ;
 - Pendo / Amplitude product analytics credentials ;
-- Scrum.org PSPO II / III ;
+- Scrum.org PSPO III — prix officiel exact (PSPO I/II confirmés ci-dessus) ;
 - SAFe Product Owner / Product Manager ;
 - Productboard / Aha! platform credentials ;
 - pricing professional certifications : PPS CPP / CPPS ;
