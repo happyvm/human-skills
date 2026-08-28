@@ -14,43 +14,41 @@ verified: 2026-08-28
 
 > Parcours **fondateur, indépendant, repreneur et dirigeant de TPE/PME**.
 >
-> L'objectif n'est pas de transformer le dirigeant en comptable, avocat, DPO ou trésorier : il doit **comprendre, contrôler, décider, puis exécuter ou déléguer**.
+> Principe : **un credential = une fiche canonique**. L'index recommande et route ; il ne recopie plus les fiches techniques, TCO détaillés ou prérequis.
 
 ---
 
-# 1. Frontière du parcours
+# 1. Frontière
 
-## Ici : Entrepreneur
+## Entrepreneur
 
 ```text
 créer
-valider un marché
+valider
 vendre
-fixer ses prix
-piloter marge / cash / BFR
+pricing / marge
+cash / BFR
 facturer / encaisser
-contractualiser
-protéger ses données et sa PI
-acheter / gérer ses fournisseurs
+contrats / fournisseurs
+livrer / améliorer
+cyber / RGPD / PI
 recruter / manager
-financer
-lever des fonds
+financer / lever
+exporter
 reprendre / transmettre
 franchiser
-exporter
 ```
 
-## Hors cœur : Group Management
+## Group Management
 
-Dès qu'apparaissent :
+Quand apparaissent réellement :
 
 ```text
-private credit avancé
+LBO / private credit avancé
 consolidation groupe
 EPM
 cash pooling complexe
 TMS / SWIFT
-payment factory
 CorpDev récurrent
 PMI industriel
 carve-out / TSA
@@ -58,419 +56,116 @@ sell-side VDD
 portfolio governance
 ```
 
-basculer vers [`GROUP-MANAGEMENT-INDEX.md`](GROUP-MANAGEMENT-INDEX.md).
+→ [`GROUP-MANAGEMENT-INDEX.md`](GROUP-MANAGEMENT-INDEX.md)
 
 ---
 
-# 2. Les huit catalogues cœur Entrepreneur
+# 2. Catalogues cœur — propriété canonique
 
-| Axe | Catalogue |
+| Domaine | Fiche canonique |
 |---|---|
-| Créer / lancer | [`certifications/entrepreneurship-startup-business-creation-2026.md`](certifications/entrepreneurship-startup-business-creation-2026.md) |
-| Faire fonctionner | [`certifications/entrepreneur-essential-operations-2026.md`](certifications/entrepreneur-essential-operations-2026.md) |
-| Meilleures compétences fonctionnelles mondiales | [`certifications/entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md) |
-| Financer / scaler / e-commerce / IP | [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md) |
-| Reprise / franchise / risk / financement France | [`certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md`](certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md) |
-| ETA / family business / ESS / export / activités réglementées | [`certifications/entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md) |
-| Pratique France : recouvrement / assurance / aides / PI / e-facture | [`certifications/entrepreneur-france-practical-resources-2026.md`](certifications/entrepreneur-france-practical-resources-2026.md) |
-| Secteurs : artisanat / agriculture / UK / microcredentials | [`certifications/entrepreneur-artisan-agri-uk-microcredentials-2026.md`](certifications/entrepreneur-artisan-agri-uk-microcredentials-2026.md) |
+| Création / micro / BGE / CréActifs / ESB / NCFE-SFEDI / Cnam | [`entrepreneurship-startup-business-creation-2026.md`](certifications/entrepreneurship-startup-business-creation-2026.md) |
+| Opérations françaises / CCI | [`entrepreneur-essential-operations-2026.md`](certifications/entrepreneur-essential-operations-2026.md) |
+| Credentials internationaux portables | [`entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md) |
+| Croissance / finance / VC / e-commerce / WIPO | [`entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md) |
+| Reprise / franchise / risk / credit international | [`entrepreneur-transfer-franchise-risk-financing-france-2026.md`](certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md) |
+| ETA / family business / ESS / export / activités réglementées | [`entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md) |
+| Recouvrement / assurance / aides / INPI / e-facture France | [`entrepreneur-france-practical-resources-2026.md`](certifications/entrepreneur-france-practical-resources-2026.md) |
+| Artisanat / agriculture / radar sectoriel | [`entrepreneur-artisan-agri-uk-microcredentials-2026.md`](certifications/entrepreneur-artisan-agri-uk-microcredentials-2026.md) |
+
+La convention détaillée est suivie dans [`metadata/entrepreneur-canonical-ownership.md`](metadata/entrepreneur-canonical-ownership.md).
 
 ---
 
-# 3. Le parcours entrepreneur utile
+# 3. Parcours P0 / P1 / P2
+
+## P0 — avant et juste après le lancement
+
+À maîtriser en priorité :
 
 ```text
-IDÉE
- ↓
-VALIDATION
- ↓
-CRÉATION
- ↓
-PREMIERS CLIENTS
- ↓
-VENTE / MARKETING
- ↓
-PRICING / MARGE
- ↓
-FACTURATION / ENCAISSEMENT
- ↓
-CASH / BFR
- ↓
-LIVRAISON / QUALITÉ
- ↓
-CONTRATS / FOURNISSEURS
- ↓
-CYBER / RGPD / PI
- ↓
-RECRUTEMENT / MANAGEMENT
- ↓
-FINANCEMENT / LEVÉE
- ↓
-CROISSANCE / EXPORT
- ↓
-REPRISE / FRANCHISE / TRANSMISSION
+marché / offre
+vente
+marketing de base
+pricing
+marge
+cash / BFR
+facturation / encaissement
+contrats essentiels
+cyber / RGPD minimum
 ```
+
+### Credentials / ressources à regarder
+
+- création : IBM SkillsBuild, HP LIFE, OpenLearn ou une certification France selon besoin ;
+- vente / marketing : HubSpot, Google, Semrush ;
+- finance workflow : Xero ;
+- gestion France : CCI RS7378 si besoin d'un parcours certifiant ;
+- RGPD : CNIL Atelier RGPD ;
+- facturation / recouvrement : fiche pratique France.
+
+Les prix et modalités sont dans leurs fiches canoniques, pas ici.
 
 ---
 
-# 4. P0 — ce qu'un entrepreneur doit comprendre très tôt
-
-## Vente
-
-À voir :
-
-- HubSpot Inbound Sales — gratuit ;
-- HubSpot Revenue Operations — gratuit ;
-- CCI RS6951 Prospection si besoin d'un cadre français certifiant.
-
-## Marketing / acquisition
-
-- HubSpot Digital Marketing — gratuit ;
-- Google Ads certifications — gratuit ;
-- Google Analytics Certification — gratuit ;
-- Semrush Academy — gratuit.
-
-## Argent
-
-Le dirigeant doit savoir lire :
+## P1 — première structuration
 
 ```text
-CA
-marge brute
-marge contributive
-coûts fixes
-point mort
-cash
-BFR
-DSO
-DPO
-stock
-prévisionnel
+projet / exécution
+relation client
+achats / fournisseurs
+recrutement
+management
+paie / administration
+assurance / gestion des risques
+PI si actifs immatériels
 ```
 
-À voir :
+À regarder selon besoin :
 
-- Xero L1 → L2 → L3 — gratuit ;
-- CCI RS7378 gestion / finance / trésorerie ;
-- CFI CBCA si besoin de comprendre la logique prêteur ;
-- CFI FMVA si valorisation / levée / reprise deviennent importantes.
-
-## Facturer / encaisser
-
-En France en 2026 :
-
-```text
-facturation électronique
-+ données clients propres
-+ Plateforme Agréée
-+ relance
-+ gestion des impayés
-```
-
-Point d'entrée : [`entrepreneur-france-practical-resources-2026.md`](certifications/entrepreneur-france-practical-resources-2026.md).
-
----
-
-# 5. Recouvrement : ne pas laisser du cash mourir dans le poste clients
-
-Options françaises 2026 trouvées :
-
-```text
-CCI Caen                  350 € / 1 jour
-CCI Pays de la Loire      440 € / 1 jour
-CCI Campus Alsace         495 € / 1 jour
-```
-
-Puis seulement si le sujet devient une vraie fonction :
-
-```text
-AMRAE Credit Management
-        ↓
-AFDCC
-        ↓
-FCIB si international
-```
-
-Le but du patron : comprendre les règles de crédit client, piloter le DSO et savoir quand passer du commercial au juridique.
-
----
-
-# 6. Contrats, achats et fournisseurs
-
-## Contrats
-
-```text
-CGV / devis / commande
-responsabilités
-SLA
-limitation de responsabilité
-IP
-confidentialité
-paiement
-résiliation
-litiges
-```
-
-À voir :
-
-- WorldCC pour méthode contract management internationale ;
-- conseil juridique France lorsque le droit local domine.
-
-## Achats
-
-- CCI RS7380 ;
-- CIPS / CPSM uniquement lorsque les achats deviennent une vraie fonction stratégique.
-
----
-
-# 7. Projet, qualité et opérations
-
-```text
-promettre
-      ↓
-livrer
-      ↓
-mesurer
-      ↓
-améliorer
-```
-
-À voir :
-
-- Scrum.org PSM I — 200 $ ;
-- CCI RS7385 gestion de projet ;
-- ASQ Yellow / Green Belt si process / industrie / qualité.
-
-Une certification projet ne compense jamais l'absence de discipline opérationnelle.
-
----
-
-# 8. RH / management
-
-## Premier recrutement
-
-À voir :
-
+- CCI RS7385 projet ;
+- Scrum.org PSM I ;
+- CCI RS7380 achats ;
+- CCI RS7376 relation client ;
 - CCI RS6952 recrutement ;
 - CCI RS7377 management ;
-- CCI RS7382 paie ;
-- CCI RS7379 formation interne.
-
-## International portable
-
-- HRCI aPHRi — adapté aux personnes gérant des équipes sans parcours RH formel ;
-- PHRi uniquement avec expérience suffisante.
-
-Droit du travail / paie / obligations employeur : **France first**.
+- HRCI aPHRi ;
+- WIPO DL-101 + INPI ;
+- AMRAE / assurance dirigeant si exposition réelle.
 
 ---
 
-# 9. Cyber / RGPD / continuité
-
-Minimum dirigeant :
+## P2 — seulement si le modèle l'exige
 
 ```text
-MFA
-backups testés
-patching
-comptes admin séparés
-sensibilisation phishing
-protection postes
-procédure incident
-prestataires maîtrisés
-RGPD minimum
-assurance cyber analysée
+levée de fonds
+export / import
+e-commerce marketplace
+franchise
+reprise / ETA
+quality / Six Sigma
+privacy avancée
+credit management
+risk management formalisé
 ```
 
-À voir :
+Exemples :
 
-- CNIL Atelier RGPD — gratuit ;
-- France Num / ANSSI — ressources gratuites TPE/PME ;
-- catalogue cyber du repo si l'entrepreneur est lui-même professionnel IT/cyber.
-
-L'assurance cyber ne remplace pas les mesures de sécurité.
-
----
-
-# 10. Assurance du dirigeant et de l'entreprise
-
-Avant de chercher une certification risk :
-
-```text
-biens
-RC pro
-perte d'exploitation
-cyber
-homme-clé
-responsabilité dirigeant
-flotte
-transport
-risques métier obligatoires
-```
-
-À voir :
-
-- Bercy / Bpifrance — ressources gratuites ;
-- AMRAE ST046 — formation dirigeants ;
-- AMRAE assurance cyber si exposition importante ;
-- RIMS-CRMP / ARM seulement lorsque le risk management devient une vraie responsabilité structurée.
+- FMVA / VC University si vraie levée ;
+- ICC / FCIB si international ;
+- Amazon Ads / Shopify uniquement si plateformes réellement utilisées ;
+- FFF / IFA si franchise ;
+- CCI RS7413 / IESE si reprise ;
+- ASQ si opérations process-heavy ;
+- IAPP si data/privacy devient une responsabilité substantielle.
 
 ---
 
-# 11. Propriété intellectuelle
+# 4. Parcours par budget
 
-Parcours conseillé :
+## 0 €
 
-```text
-WIPO DL-101                  0 €
-      ↓
-INPI Prédiagnostic PI        0 €
-      ↓
-INPI Programme Start-up      0 € si profil
-      ↓
-Pass PI                      50 % sous conditions
-      ↓
-conseil spécialisé / dépôts
-      ↓
-certificat INPI 6 000 € seulement si référent PI interne nécessaire
-```
-
-Pour les PME UE, vérifier aussi le **EUIPO SME Fund** avant de payer certains dépôts.
-
----
-
-# 12. Financement et aides
-
-## France
-
-Avant de payer un cabinet de chasse aux subventions :
-
-- Bpifrance Création ;
-- Bpifrance Université ;
-- Aides-entreprises.fr ;
-- Service Public Entreprendre ;
-- dispositifs régionaux ;
-- France Travail selon situation.
-
-Les dispositifs changent : le repo retient la méthode de recherche et les grandes familles, pas une promesse d'éligibilité éternelle.
-
-## Levée de fonds
-
-```text
-finance / modèle
-      ↓
-CFI FMVA
-      ↓
-cap table / term sheet
-      ↓
-VC University si vraie levée venture
-      ↓
-conseil juridique
-```
-
-## Deeptech UE
-
-EIC Accelerator uniquement si le projet correspond réellement au profil innovation / scale-up.
-
----
-
-# 13. Reprise d'entreprise
-
-France :
-
-```text
-CCI RS7413
-+ Bpifrance Transmission
-+ business valuation
-+ financement
-+ due diligence
-```
-
-Pour une acquisition entrepreneuriale plus ambitieuse : IESE Search Fund Bootcamp peut compléter.
-
-Le détail LBO / private credit avancé est volontairement sorti vers [`GROUP-MANAGEMENT-INDEX.md`](GROUP-MANAGEMENT-INDEX.md).
-
----
-
-# 14. Franchise
-
-## Futur franchisé
-
-```text
-FFF Devenir Franchisé     50 €
-      ↓
-DIP / economics réseau
-      ↓
-contrat revu si enjeu matériel
-      ↓
-formation métier franchiseur
-```
-
-## Créer son réseau
-
-- FFF Créer et développer son réseau ;
-- FFF Animation de réseau ;
-- IFA Foundations / CFE seulement si la franchise devient centrale ou internationale.
-
----
-
-# 15. E-commerce
-
-À voir selon stack :
-
-- Google Ads / Analytics ;
-- HubSpot ;
-- Semrush ;
-- Amazon Ads Academy si Amazon ;
-- Shopify Verified Skills si Shopify est réellement utilisé.
-
-Une certification marketplace sans business sur la marketplace = zéro priorité.
-
----
-
-# 16. Export
-
-Parcours :
-
-```text
-Team France Export
-      ↓
-CCI RS7383
-      ↓
-ICC Incoterms
-      ↓
-ICC Export/Import
-      ↓
-FCIB si risque client international
-      ↓
-V.I.E si stratégie d'implantation adaptée
-```
-
-Droit, douane et fiscalité locale restent à traiter par marché.
-
----
-
-# 17. Activités réglementées
-
-Avant toute certification business :
-
-```text
-activité
-  ↓
-réglementée ?
-  ↓
-qualification / carte / capacité / autorisation
-  ↓
-assurance obligatoire ?
-  ↓
-certifications business complémentaires
-```
-
-Ne jamais investir dans le marketing d'une activité que l'entreprise n'a pas légalement le droit d'exercer.
-
----
-
-# 18. Stack gratuite de départ
+Priorité aux ressources qui apportent une compétence exploitable immédiatement :
 
 ```text
 IBM SkillsBuild — Be an Entrepreneur
@@ -481,42 +176,130 @@ Google Ads / Analytics
 Semrush Academy
 Xero L1 → L2 → L3
 CNIL Atelier RGPD
-France Num cyber
-France Num facturation électronique
+France Num cyber / e-facture
 WIPO DL-101
-INPI Prédiagnostic PI si innovation
+INPI Prédiagnostic PI si éligible
 Bpifrance Université
 Aides-entreprises.fr
 ```
 
+Ne pas passer tout le catalogue gratuit : choisir selon le **goulot d'étranglement réel**.
+
 ---
 
-# 19. Stack payante à bon rendement
+## < 500 €
 
-| Besoin | Option | Ticket indicatif |
+Tickets particulièrement intéressants :
+
+| Besoin | Option | Ordre de grandeur |
 |---|---|---:|
-| Recouvrement / contrats | CCI Caen | **350 €** |
-| Recouvrement | CCI Pays de la Loire | **440 €** |
-| Recouvrement + attestations | CCI Campus Alsace | **495 €** |
 | Projet | Scrum.org PSM I | **200 $** |
-| Marketing | AMA PCM | **249–349 $** |
-| Process | ASQ Yellow / Green | **334–483 $** |
-| HR international | HRCI aPHRi | **400 $** |
+| Marketing vendor-neutral | AMA PCM | **249–349 $** |
+| Process / qualité | ASQ Yellow / Green | **334–483 $** |
 | Export | ICC Incoterms | **399 $** |
-| Finance / valuation | CFI FMVA | **497 $/an** |
-| Crédit | CFI CBCA | **497 $/an** |
-| Privacy UE | IAPP CIPP/E | **550 $ + maintenance** |
-| Risk dirigeant France | AMRAE ST046 | **830 / 980 € HT** |
-| Assurance cyber | AMRAE ST047 | **680 / 828 € HT** |
-| Contrats B2B | WorldCC CCM Associate | **780 $ + membership** |
-| Venture | VC University | **1 500–1 850 $** |
-| Reprise France | CCI RS7413 | **~1 650–1 695 €** |
-| ETA | IESE Search Fund Bootcamp | **4 500 €** |
-| Référent PI interne | INPI certificat PI | **6 000 €** |
+| RH international | HRCI aPHRi | **400 $** |
+| Recouvrement France | CCI selon centre | **350–495 €** |
+| Micro artisanale | CMA RS6994 | **450–525 €** observés |
+
+Les prix complets restent dans les fiches propriétaires.
 
 ---
 
-# 20. Le principe de délégation
+## 500–2 500 €
+
+À acheter uniquement contre un besoin identifié :
+
+- CCI opérationnelles ;
+- CFI FMVA / CBCA ;
+- IAPP CIPP/E ;
+- WorldCC CCM Associate ;
+- AMRAE dirigeant / cyber ;
+- CCI RS7413 reprise ;
+- VC University ;
+- IFA Foundations ;
+- BGE / CréActifs / autres parcours création.
+
+---
+
+## > 2 500 €
+
+Ce niveau doit répondre à un **enjeu économique ou professionnel clair** :
+
+- CICM credit management ;
+- HEC / HBS multi-course ;
+- IESE Search Fund Bootcamp ;
+- INPI référent PI ;
+- Cnam RNCP ;
+- parcours premium spécialisés.
+
+À ce niveau, comparer systématiquement :
+
+```text
+coût
+temps
+aide / financement
+valeur du credential
+alternative gratuite / moins chère
+besoin réel de compétence interne
+possibilité de délégation
+```
+
+---
+
+# 5. Routeur par besoin
+
+| Problème réel | Commencer par |
+|---|---|
+| Je veux créer en France | fiche création |
+| Je suis en micro | CCI/BGE/CMA selon activité |
+| Je ne vends pas assez | fiche internationale : HubSpot / marketing |
+| Je ne maîtrise pas mes chiffres | CCI RS7378 / Xero / CFI selon niveau |
+| Mes clients paient mal | fiche pratique France recouvrement |
+| Je recrute | CCI RS6952 / HRCI selon contexte |
+| J'ai des contrats B2B lourds | WorldCC + juriste France |
+| Je dois protéger marque / logiciel / invention | WIPO → INPI |
+| Je veux lever | FMVA → VC University si besoin |
+| Je veux exporter | Team France Export → CCI/ICC/FCIB |
+| Je veux acheter une entreprise | CCI RS7413 → ETA/finance si nécessaire |
+| Je veux devenir franchisé | FFF d'abord |
+| Mon activité est artisanale | CMA RS6996 / RS6994 |
+| Mon activité est agricole | RS7277 |
+| Mon activité est réglementée | vérifier qualification/carte/autorisation avant tout |
+| J'ai plusieurs filiales et du M&A récurrent | Group Management |
+
+---
+
+# 6. Ce qu'on ne doit plus dupliquer
+
+Les éléments suivants peuvent être **cités** ailleurs, mais leurs données détaillées doivent rester dans une seule fiche :
+
+```text
+HubSpot / Google / Xero
+Scrum.org PSM I
+AMA / ASQ
+WorldCC
+HRCI
+IAPP
+ICC
+Salesforce
+CFI FMVA / CBCA
+VC University
+WIPO
+Amazon Ads / Shopify
+CCI opérationnelles
+CCI RS7413
+FFF / IFA
+RIMS / ARM / FCIB
+recouvrement CCI / AMRAE / AFDCC
+INPI / Pass PI / EUIPO
+CMA / RS7277
+```
+
+Si une autre fiche a besoin du credential : **nom + lien canonique**, pas une deuxième copie du TCO.
+
+---
+
+# 7. Principe de délégation
 
 ```text
 COMPRENDRE
@@ -531,44 +314,22 @@ EXÉCUTER OU DÉLÉGUER
 | Fonction | À comprendre | Souvent à déléguer |
 |---|---|---|
 | Comptabilité | marge, cash, bilan, résultat | tenue / clôture / fiscalité |
-| Recouvrement | DSO, relance, encours | judiciaire / procédures complexes |
-| Contrats | risques / obligations / economics | rédaction complexe / litige |
-| RH | besoin, recrutement, management | paie / droit social complexe |
-| Assurance | scénarios, plafonds, franchises | placement / wording / sinistres |
+| Recouvrement | DSO, relance, encours | contentieux |
+| Contrats | obligations, risques, economics | rédaction complexe / litige |
+| RH | recrutement, management | droit social / paie complexe |
+| Assurance | scénarios, plafonds, franchises | placement / wording |
 | Cyber | exposition et priorités | expertise technique avancée |
-| PI | actifs / territoires / valeur | brevets / opposition / contentieux |
+| PI | actifs, territoires, valeur | brevets / opposition / contentieux |
 | Financement | dette, dilution, garanties | structuration complexe |
 | Reprise | valo, cash, dette, risques | due diligence spécialisée |
-| Export | marché, pricing, risque | douane / fiscalité / implantation |
+| Export | marché, pricing, risque | douane / fiscalité locale |
 
 ---
 
-# 21. Règle France / étranger
+# 8. Extensions
 
-```text
-DROIT / FISCAL / RÉGLEMENTAIRE LOCAL
-        ↓
-France / Europe
-
-MÉTHODE MÉTIER PORTABLE
-        ↓
-meilleur credential mondial
-
-OUTIL RÉELLEMENT UTILISÉ
-        ↓
-certification éditeur si elle apporte une vraie valeur
-
-RESSOURCE PUBLIQUE GRATUITE SUFFISANTE
-        ↓
-ne pas acheter une certification pour le principe
-```
-
----
-
-# 22. Extensions
-
-- [`GROUP-MANAGEMENT-INDEX.md`](GROUP-MANAGEMENT-INDEX.md) — LBO avancé, private credit, consolidation, treasury groupe, EPM, CorpDev, PMI, carve-out, SWIFT/TMS, sell-side.
-- [`IT-INDEX.md`](IT-INDEX.md) — si l'activité ou le dirigeant est IT.
-- [`CONSTRUCTION-BTP-INDEX.md`](CONSTRUCTION-BTP-INDEX.md) — si activité construction / BTP.
+- [`GROUP-MANAGEMENT-INDEX.md`](GROUP-MANAGEMENT-INDEX.md) — holding, LBO avancé, private credit, consolidation, treasury groupe, EPM, CorpDev, PMI, carve-out, SWIFT/TMS, sell-side.
+- [`IT-INDEX.md`](IT-INDEX.md) — activité / profil IT.
+- [`CONSTRUCTION-BTP-INDEX.md`](CONSTRUCTION-BTP-INDEX.md) — construction / BTP.
 
 Le cœur Entrepreneur s'arrête volontairement avant la spécialisation fonctionnelle de grand groupe.
