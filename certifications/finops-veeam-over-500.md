@@ -80,33 +80,44 @@ Professional from-zero TCO
 
 # 2. Veeam — nouveau programme 2026
 
-Veeam a retiré les anciens examens **VMCE** et **VMCA** et lancé un nouveau programme basé sur :
+Veeam a retiré les anciens examens **VMCE** et **VMCA** et lancé une nouvelle génération basée sur :
 
-- VMCE+ ;
-- VMCSE.
+- **VMCE+ — Veeam Certified Engineer+** ;
+- **VMCSE — Veeam Certified Security Expert**.
 
-## VMCE+
+L'ancien VMCE a été prolongé jusqu'au **31 mars 2026**, puis remplacé par VMCE+.
 
-Veeam indique explicitement que la formation pertinente est un **hard requirement** avant l'examen.
+## VMCE+ — live depuis juin 2026
+
+VMCE+ a été officiellement lancé le **1er juin 2026**.
+
+Veeam indique explicitement que les formations pertinentes constituent un **hard requirement** avant l'examen.
 
 Pour être éligible à VMCE+, le candidat doit compléter trois formations :
 
 1. **Veeam Backup & Replication: Configure, Manage, and Recover** ;
 2. **Veeam Data Platform: Monitor, Manage, Analyze (Veeam ONE)** ;
-3. **Veeam Data Platform: Scale, Automate, Secure (Veeam Orchestrator)**.
+3. **Veeam Data Platform: Scale, Automate, Secure (Veeam Recovery Orchestrator)**.
 
 Puis :
 
-4. réussir l'examen VMCE+.
+4. réussir l'examen VMCE+ proctoré.
 
-Source officielle :
+Le programme Veeam University PRO décrit environ **55+ heures** de formation self-paced pour la séquence VMCE+.
+
+Sources officielles :
 
 - https://www.veeam.com/support/training/vmce-training-faq.html
 - https://www.veeam.com/support/training/vmce-certification.html
+- https://www.veeam.com/support/training/veeam-university-pro.html
+
+Confirmation de lancement :
+
+- https://community.veeam.com/vmce-study-hall-134/vmce-certification-officially-released-13397
 
 ### Exception transition
 
-Un titulaire VMCE v12 ou une personne ayant déjà suivi la formation VBR v12/v13 peut satisfaire le prérequis VBR et n'avoir à compléter que Veeam ONE + Orchestrator avant VMCE+.
+Un titulaire VMCE v12 ou une personne ayant déjà suivi la formation VBR v12/v13 peut satisfaire le prérequis VBR et n'avoir à compléter que Veeam ONE + Orchestrator avant VMCE+ selon les règles de transition publiées au lancement.
 
 Mais l'examen VMCE+ couvre bien les trois domaines.
 
@@ -120,33 +131,52 @@ VMCSE est le niveau supérieur orienté :
 - résilience ;
 - ransomware defense ;
 - conformité ;
+- Zero Trust ;
+- intégration avec frameworks cybersécurité et SIEM/SOAR ;
 - enterprise data protection.
 
 **VMCE+ est un hard requirement pour VMCSE.**
 
-Le parcours ajoute des formations Veeam Data Platform Enterprise Data Security selon le track actif.
+Le parcours ajoute :
+
+- **Veeam Data Platform: Enterprise Data Security** ;
+- environ **16+ heures** self-paced dans la présentation University PRO ;
+- puis l'examen VMCSE.
+
+La page officielle Veeam Certification expose désormais le workflow permettant de programmer VMCE+ et VMCSE depuis le compte Veeam / Pearson Professional Assessments. Le prix public France de l'examen reste toutefois absent de la FAQ publique : vérifier dans le compte au moment de l'inscription.
 
 ---
 
 # Coût réel Veeam
 
-Le prix public de l'examen VMCE+/VMCSE n'est pas clairement publié sur la FAQ : Veeam renvoie vers Pearson VUE pour le tarif final.
+Le prix public de l'examen VMCE+/VMCSE n'est toujours pas clairement publié dans la FAQ : Veeam renvoie vers Pearson pour le tarif final régional.
 
-En revanche, la partie formation permet déjà de démontrer que le TCO dépasse souvent largement 500 €.
+Mais la partie formation suffit déjà à démontrer que le TCO dépasse très largement 500 € lorsqu'on part de zéro.
 
-## Exemple France — Instructor-Led
+## Exemple France 2026 — formation VBR seule
 
-Un centre de formation Veeam en France affiche la formation v13 **Veeam Backup & Replication: Configure, Manage, and Recover** autour de **3 300 € HT** pour quatre jours.
+Un organisme de formation français affiche en 2026 le cours officiel :
 
-Les formations Veeam ONE et Orchestrator nécessaires au nouveau VMCE+ sont disponibles principalement via **Veeam University PRO eLearning** dans le modèle de lancement 2026.
+**Veeam Backup & Replication: Configure, Manage and Recover v13**
 
-### Modèle PRO
+```text
+Durée       4 jours / 28 h
+Prix        3 440 € HT
+```
 
-Veeam University PRO propose les contenus alignés sur les nouvelles certifications. Les offres passent notamment par des partenaires / distributeurs et peuvent être vendues sous forme de subscriptions multi-utilisateurs.
+Ce tarif ne couvre que **le premier des trois blocs de formation VMCE+** dans un scénario instructor-led.
 
-Le prix individuel public France n'est pas assez transparent pour figer un TCO universel.
+Source tarifaire France :
 
-### Conclusion
+- https://www.ittcert.fr/ContentV11/doc/pdf/programme/fr/fra/fr/VAZ.pdf
+
+## Veeam ONE + Orchestrator
+
+Les deux autres blocs nécessaires au VMCE+ sont proposés principalement via **Veeam University PRO eLearning** dans le modèle 2026.
+
+Veeam indique que les tarifs PRO passent par le réseau VMAEC / partenaires et ne publie pas un tarif individuel France universel directement sur la page publique.
+
+### Conclusion TCO VMCE+
 
 ```text
 VMCE+ from zero
@@ -156,7 +186,28 @@ VMCE+ from zero
 + exam
 ```
 
-Il s'agit donc clairement d'un parcours **premium**, même si le voucher d'examen lui-même reste potentiellement modéré.
+Même sans connaître le prix exact de l'examen, le simple exemple français à **3 440 € HT** pour VBR démontre que VMCE+ doit être classé comme parcours **premium / employer-funded** et non comme certification low-cost.
+
+---
+
+# TCO VMCSE
+
+```text
+VMCSE from zero
+= VMCE+ from-zero TCO
++ Enterprise Data Security training
++ VMCSE exam
+```
+
+Le coût réel depuis zéro est donc supérieur encore au parcours VMCE+.
+
+---
+
+# Rubrik : contraste intéressant
+
+À comparer avec Rubrik University, qui propose un **RCSA exam preparation learning plan gratuit** et indique que le cours instructor-led de quatre jours est recommandé mais **pas obligatoire** pour le credential RCSA.
+
+Chez Veeam, la formation est explicitement obligatoire pour être éligible à l'examen : les deux vendors ont donc une philosophie de TCO très différente.
 
 ---
 
@@ -192,8 +243,8 @@ first_cycle_tco
 
 ## Veeam
 
-- prix Pearson VUE VMCE+ France ;
-- prix Pearson VUE VMCSE France ;
+- prix Pearson VMCE+ France ;
+- prix Pearson VMCSE France ;
 - abonnement Veeam University PRO individuel EMEA ;
-- prix des nouveaux modules de formation officiels ;
-- durée / renouvellement de VMCE+ et VMCSE.
+- prix séparés Veeam ONE / Orchestrator / Enterprise Data Security ;
+- durée / règles de renouvellement VMCE+ et VMCSE.
