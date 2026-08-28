@@ -196,6 +196,23 @@ C'est l'un des modèles de maintenance les moins chers du catalogue.
 
 ---
 
+# Azure Virtual Desktop Specialty — AZ-140
+
+Confirmé actif et à jour (revue Microsoft Learn du 15 août 2026).
+
+- prix : **165 $** (grille US ; contrôler la régionalisation France comme pour les autres examens Microsoft) ;
+- un seul examen, score cible 700 ;
+- couvre host pools, session hosts, FSLogix storage ;
+- public cible : administrateur serveur/desktop avec expertise AVD.
+
+Source :
+
+- https://learn.microsoft.com/en-us/credentials/certifications/azure-virtual-desktop-specialty/
+
+**Valeur : ⭐⭐⭐⭐** pour un profil EUC/VDI orienté Azure — voir aussi `euc-vdi-endpoint-under-500-2026.md` pour les alternatives Citrix/Omnissa/Parallels.
+
+---
+
 # Roadmap Windows / Microsoft infra 2026
 
 ```text
@@ -219,14 +236,13 @@ Le choix doit évidemment dépendre du rôle : infrastructure, hybrid cloud, ide
 # À poursuivre
 
 - Hyper-V / SCVMM credentials Microsoft actuels : souvent intégrés plutôt que dédiés ;
-- Azure Local / Azure Stack HCI ;
-- Windows 365 / AVD ;
-- Intune ;
-- Defender XDR ;
-- Purview ;
+- Azure Local / Azure Stack HCI — voir `microsoft-azure-local-hci-2026.md` ;
+- Intune — déjà couvert via MD-102 (Endpoint Administrator, ~165 $ grille US) ;
+- Defender XDR — probablement couvert via SC-200 (Security Operations Analyst), à documenter ;
+- Purview — à documenter, périmètre en partie couvert par MS-102/AB-650 ;
 - Entra advanced paths ;
 - SC-500 sortie de bêta / langues ;
-- AZ-802 sortie de bêta / date GA ;
+- AZ-802 — toujours en beta au 28 août 2026 (re-vérifié sur Microsoft Learn), aucune date de GA annoncée ;
 - AB-650 — prix exact une fois sorti de beta, et date de disponibilité générale exacte ;
 - PowerShell credentials externes / vendor-neutral ;
 - Windows Server 2025 focused credentials.
