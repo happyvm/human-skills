@@ -1,187 +1,79 @@
 # Watchlist — certifications / parcours restant à chiffrer
 
-> Les certifications >500 € déjà vérifiées ont été déplacées vers les catalogues définitifs :
+> Les certifications déjà vérifiées ont été déplacées dans les catalogues thématiques sous `certifications/`.
 >
-> - [`../certifications/paid-over-500.md`](../certifications/paid-over-500.md)
-> - [`../certifications/management-transformation-over-500.md`](../certifications/management-transformation-over-500.md)
->
-> Cette page ne conserve désormais que les **tarifs incomplets, régionaux, partenaires ou à consolider**.
+> Cette page ne conserve que les **tarifs incomplets, régionaux, partenaires ou à consolider**.
 >
 > **Dernière revue : 28 août 2026**
 
 ---
 
-# Priorité haute
+# Priorité haute — IT / architecture
 
 ## Veeam VMCE+ / VMCSE
 
-Statut 2026 confirmé :
+- nouveau programme 2026 confirmé ;
+- formation pertinente obligatoire ;
+- VMCE+ prérequis de VMCSE ;
+- prix Pearson VUE et prix de formation France/EMEA encore à récupérer.
 
-- VMCA / VMCE historiques retirés ;
-- VMCE+ et VMCSE annoncés / lancés sur le nouveau programme ;
-- formation pertinente **obligatoire** avant l'examen ;
-- VMCE+ requis avant VMCSE ;
-- prix final examen à confirmer via Pearson VUE ;
-- prix formation France / EMEA à collecter.
-
-Source :
-
-- https://www.veeam.com/support/training/vmce-training-faq.html
-
-À récupérer :
-
-```text
-VMCE+ training France
-VMCE+ exam France
-VMCSE training France
-VMCSE exam France
-first-cycle TCO
-```
-
----
+Source : https://www.veeam.com/support/training/vmce-training-faq.html
 
 ## FinOps Certified Professional
 
-Le Practitioner est déjà suffisamment documenté, mais le niveau Professional demande plusieurs credentials / prérequis.
+Le Practitioner est documenté. Reste à reconstruire :
 
-À récupérer :
-
-- prix exact du Professional ;
-- prérequis actifs 2026 ;
-- coût des credentials préalables ;
-- validité / renouvellement ;
+- prérequis 2026 ;
+- credentials préalables ;
+- prix exact Professional ;
+- renouvellement ;
 - TCO depuis zéro.
-
-Sources à surveiller :
-
-- https://www.finops.org/
-- https://learn.finops.org/
-
----
 
 ## SABSA Practitioner / Master
 
-Foundation est maintenant documenté avec formation AEP obligatoire et exemple de tarif Europe.
-
-Reste à chiffrer :
+Foundation est documenté avec formation AEP obligatoire. Reste :
 
 - Advanced modules ;
 - Practitioner ;
 - Master ;
-- nombre de modules nécessaires ;
 - frais de certification ;
-- membership / maintien éventuel ;
-- TCO France / Europe.
-
-Source :
-
-- https://sabsa.org/certification/
-
----
-
-## Prosci PCACP — full path
-
-L'examen final est connu, mais il faut reconstruire le TCO exact depuis zéro :
-
-```text
-Prosci Change Management Certification
-+ Model Mastery 1
-+ Model Mastery 2
-+ Model Mastery 3
-+ Model Mastery 4
-+ PCACP exam
-```
-
-Le programme initial est déjà autour de 3,4–3,8 k€ hors taxes en Europe.
-
-Sources :
-
-- https://www.prosci.com/solutions/pcacp
-- https://eu-store.prosci.com/training.html
-
----
-
-# Architecture / infrastructure / cloud
+- membership ;
+- TCO Europe.
 
 ## VMware / Broadcom avancé
 
 À examiner :
 
-- VCP actuels ;
-- VCAP éventuels / nouveaux remplaçants ;
-- VMware Cloud Foundation certification tracks ;
-- formations obligatoires ou facultatives ;
-- programme 2026 après évolution Broadcom.
-
----
+- VCF certification tracks 2026 ;
+- titres multi-examens ;
+- niveaux supérieurs au VCP ;
+- éventuelles formations obligatoires.
 
 ## Nutanix
 
-À chiffrer :
+À chiffrer : NCP, NCM et parcours avancés, avec prix EMEA et retakes.
 
-- NCP ;
-- NCM ;
-- NCA et parcours avancés ;
-- éventuels bundles / retakes ;
-- coût régional EMEA.
+## HPE avancé
 
----
+Les prix d'examens unitaires sont documentés. Construire le TCO des titres : ATP, ASE, Master ASE, Aruba, GreenLake, storage.
 
-## HPE
+## Dell / NetApp / Pure / VAST / IBM Storage
 
-Les examens unitaires ont été documentés dans `<500`, mais il faut construire le TCO des titres multi-examens :
+Construire une cartographie stockage enterprise :
 
-- ATP ;
-- ASE ;
-- Master ASE ;
-- Aruba / networking ;
-- GreenLake / hybrid cloud ;
-- storage.
-
----
-
-## Dell Technologies
-
-À rechercher :
-
-- Proven Professional ;
-- Specialist ;
-- Expert ;
-- storage / backup / cloud ;
-- coût total multi-examens.
-
----
-
-## NetApp
-
-À rechercher :
-
-- NCDA ;
-- NCIE ;
-- Specialist ;
-- ONTAP / StorageGRID / cloud ;
-- renouvellement.
-
----
-
-## Pure Storage / VAST / IBM Storage
-
-Objectif : couvrir les credentials stockage enterprise, notamment :
-
+- Dell Technologies Proven Professional ;
+- NetApp NCDA / NCIE / Specialist ;
 - Pure Storage ;
 - VAST Data ;
 - IBM Storage ;
-- éventuellement Hitachi Vantara ;
-- Dell PowerStore / PowerMax ;
+- Hitachi Vantara ;
 - HPE Alletra / GreenLake.
 
 ---
 
 # ISO / GRC / audit
 
-PECB exam-only est maintenant documenté.
-
-Reste à comparer les organismes / ATO européens :
+PECB exam-only est documenté. Comparer maintenant les organismes européens :
 
 - AFNOR Compétences ;
 - BSI ;
@@ -190,7 +82,7 @@ Reste à comparer les organismes / ATO européens :
 - TÜV ;
 - DNV ;
 - LRQA ;
-- PECB Partners France.
+- partenaires PECB France.
 
 Normes prioritaires :
 
@@ -206,121 +98,80 @@ ISO 50001
 ISO 27701
 ```
 
-Pour chaque organisme :
-
-```text
-course price
-exam included?
-retake included?
-certificate/application included?
-maintenance?
-prerequisites?
-```
+Pour chaque fournisseur : cours, examen, retake, application au titre, maintenance et TCO.
 
 ---
 
 # Projet / portefeuille / change
 
-## IPMA France / Europe
+## APMG Change Management — France
 
-À chiffrer :
-
-- Level D ;
-- Level C ;
-- Level B ;
-- Level A ;
-- dossier / entretien / assessment ;
-- renouvellement.
-
----
-
-## APMG Change Management
-
-À comparer avec Prosci :
-
-- Foundation ;
-- Practitioner ;
-- coût examen seul si disponible ;
-- coût ATO ;
-- renouvellement.
-
----
-
-## ACMP CCMP
+Le Practitioner UK est documenté à £448 TTC au prix normal, mais le tarif France exact reste régional.
 
 À récupérer :
 
-- application ;
-- examen ;
-- formation requise ;
-- renouvellement / PDUs ;
-- coût Europe.
+- Foundation France ;
+- Practitioner France ;
+- bundle Foundation + Practitioner ;
+- durée de validité / renouvellement.
 
----
+## Prosci PCACP — full path
+
+Reconstituer le coût module par module :
+
+```text
+Prosci Change Management Certification
++ 4 Model Mastery Programs
++ PCACP exam
+```
 
 ## PeopleCert avancé
 
-Foundation / Practitioner principaux déjà couverts.
+Mapper :
 
-Reste à mapper :
-
-- MSP Foundation / Practitioner ;
+- MSP ;
 - MoP ;
 - P3O ;
 - ITIL Practice Manager ;
 - ITIL Managing Professional ;
 - ITIL Strategic Leader ;
-- nouveaux parcours ITIL Version 5 ;
-- coût depuis zéro et coût incrémental pour un détenteur Foundation.
+- ITIL Version 5 ;
+- coût depuis zéro et coût incrémental.
 
----
+## SAFe avancé
 
-# Agile / transformation
-
-## SAFe
-
-Le nouveau modèle proctored exam à 495 $ + taxes est documenté pour plusieurs Foundation credentials.
-
-À chiffrer précisément :
+À chiffrer :
 
 - Lean Portfolio Management ;
 - Release Train Engineer ;
 - Architect ;
 - Practice Consultant ;
-- AI-Native Value Architect ;
-- AI-Native Change Agent ;
-- AI-Native Trainer ;
-- formation obligatoire par track ;
-- renewal annuel par credential.
+- AI-Native Value Architect / Change Agent / Trainer ;
+- formations obligatoires ;
+- renewals annuels.
 
 ---
 
-# Data / business analysis / gouvernance
+# Data / business analysis
 
 ## DAMA CDMP maintenance
 
-Examens Associate / Practitioner / Master documentés.
-
-Reste à consolider :
+Associate / Practitioner / Master sont documentés côté examens. Reste :
 
 - renouvellement ;
-- coût exact maintenance ;
+- maintenance ;
 - Specialist supplémentaires ;
-- stratégie Master / Fellow.
-
----
+- Master / Fellow long-term TCO.
 
 ## IIBA avancé
 
-CBAP documenté.
-
-Reste à mapper :
+CBAP est documenté. Reste :
 
 - specialized certifications ;
 - bundles ;
 - membership France ;
-- coût 3 ans ;
-- CBAP + Agile / Data / Cybersecurity Analysis.
+- CBAP + Agile / Data / Cybersecurity Analysis ;
+- TCO 3 ans.
 
 ---
 
@@ -328,37 +179,15 @@ Reste à mapper :
 
 ## ISM CPSM
 
-Une grille 2026 a été retrouvée via une source ASCM qui rapporte les tarifs ISM, mais le checkout officiel doit être vérifié directement.
-
-À confirmer :
-
-- 495 $ / exam membre ;
-- 795 $ / exam non-membre ;
-- trois examens ;
-- application non-membre ;
-- membership ;
-- recertification ;
-- Learning System facultatif.
-
----
+Tarifs 2026 trouvés via une synthèse ASCM, mais checkout officiel ISM à confirmer.
 
 ## CSCMP SCPro
 
 À chiffrer complètement.
 
----
+## CIPS / MCIPS
 
-## CIPS
-
-À analyser par niveau :
-
-- Level 2 ;
-- Level 3 ;
-- Level 4 Diploma ;
-- Level 5 ;
-- Level 6 ;
-- MCIPS ;
-- membership + examens + centres + supports.
+Analyser Levels 2 à 6 : membership, examens, centres, supports et TCO vers MCIPS.
 
 ---
 
@@ -366,23 +195,11 @@ Une grille 2026 a été retrouvée via une source ASCM qui rapporte les tarifs I
 
 ## SHRM
 
-Les examens actuels sont redescendus `<500 €`, mais il reste à calculer :
-
-- coût de membership ;
-- recertification ;
-- 60 PDC ;
-- TCO 3 ans ;
-- intérêt du Prep System facultatif.
+Examens actuels documentés `<500 €`. Reste : membership, recertification, 60 PDC et TCO 3 ans.
 
 ## HRCI
 
-SPHR / GPHR sont documentés.
-
-Reste :
-
-- frais de recertification les plus récents par credential ;
-- coût des crédits ;
-- multi-credential discounts.
+SPHR / GPHR documentés. Consolider : recertification par credential, crédits et multi-credential discounts.
 
 ## Governance / board
 
@@ -392,49 +209,62 @@ Reste :
 - Chartered Governance Institute ;
 - NACD ;
 - programmes européens de board director ;
-- gouvernance des risques / audit committees.
+- audit committee / risk governance credentials.
 
 ---
 
-# Finance / risque
+# Finance / comptabilité / risk
 
-CFA et GARP sont désormais documentés.
+Désormais documentés : CFA, CAIA, GARP FRM/SCR/RAI, PRMIA PRM/ERM, IIA CIA/CRMA, IMA CMA, ACCA, AFP CTP/FPAC, ACFE CFE.
 
-À continuer :
+Reste à approfondir :
 
-- CAIA ;
-- FRM + SCR + RAI combinés ;
-- PRMIA PRM ;
-- CFA ESG / Sustainable Investing ;
-- certifications audit interne IIA : CIA, CRMA ;
-- ACCA / CIMA / CMA ;
-- contrôle de gestion ;
-- treasury.
+- **CIMA / CGMA Professional Qualification** — exact TCO 2026 par route ;
+- AICPA CPA selon juridiction ;
+- AFP FPAC recertification ;
+- PRMIA membership et renouvellement ;
+- CAIA TCO 5 ans ;
+- CFA Sustainable Investing / ESG ;
+- actuarial qualifications ;
+- AMF / finance réglementaire française ;
+- treasury credentials européens.
+
+---
+
+# AML / compliance / financial crime
+
+CAMS, CAFS, CGSS, Advanced CAMS principaux, ICA Certificate/Advanced/Diploma AML et FPAC sont documentés.
+
+Reste :
+
+- ACAMS membership 3 ans et maintenance complète ;
+- autres Advanced CAMS ;
+- ICA Diploma in Governance, Risk and Compliance ;
+- ICA Diplomas Sanctions / Financial Crime ;
+- ICA postgraduate programmes ;
+- certifications KYC / transaction monitoring ;
+- qualifications compliance françaises.
 
 ---
 
 # Cyber premium
 
-GIAC/SANS et OffSec principaux sont documentés.
+GIAC/SANS et OffSec principaux sont documentés. À poursuivre :
 
-À poursuivre :
-
-- SANS graduate / multi-course bundles ;
 - GIAC Security Expert (GSE) ;
+- SANS graduate / multi-course bundles ;
 - OffSec OSCE3 depuis zéro ;
 - OSEE ;
 - CREST ;
 - CARTP / CRTP / CRTE ;
 - Zero-Point Security ;
 - Altered Security ;
-- Black Hills / Antisyphon credentials éventuels ;
+- Black Hills / Antisyphon ;
 - cyber management / board credentials.
 
 ---
 
 # Format de collecte
-
-Pour chaque entrée encore en recherche :
 
 ```yaml
 name:
