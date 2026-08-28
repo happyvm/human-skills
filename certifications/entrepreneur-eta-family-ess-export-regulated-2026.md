@@ -29,13 +29,13 @@ verified: 2026-08-28
 | Besoin | Credential / dispositif | Nature | Coût / TCO 2026 | Pertinence FR | Portée |
 |---|---|---|---:|:---:|:---:|
 | ETA / search fund | IESE Search Fund & Entrepreneurial Acquisitions Bootcamp | COURSE | **4 500 €** général ; 4 050 € alumni ; 3 825 € IESE Alumni Assn. | TRÈS HAUTE | 🇪🇺 EUR / 🌍 INT |
-| Reprise France | CCI France RS7413 — Reprise d'entreprise | CERT | **≈1 650–1 695 €** selon CCI observée | TRÈS HAUTE | 🇫🇷 FR |
+| Reprise France | voir catalogue reprise canonique | ROUTE | — | TRÈS HAUTE | 🇫🇷 FR |
 | ESS dirigeant | RNCP38126 — Entrepreneur de l'économie sociale et solidaire | QUAL — niveau 7 | provider-dependent | TRÈS HAUTE si ESS | 🇫🇷 FR |
 | ESS direction | RNCP41817 — Responsable d'entreprise d'économie sociale et solidaire | QUAL — niveau 6 | provider-dependent | HAUTE si ESS | 🇫🇷 FR |
 | ESS management | RNCP41704 — Manager de proximité dans l'ESS | QUAL — niveau 6 | provider-dependent | MOYENNE/HAUTE | 🇫🇷 FR |
 | Family business advising | Family Enterprise Advisor — FEA | CERT / designation | **19 495 CAD + taxes** programme 2026 | MOYENNE pour dirigeant ; TRÈS HAUTE pour conseiller | 🌍 INT · CA-origin |
-| Franchise | IFA Foundations of Franchising | COURSE | **2 400 $** | HAUTE si réseau structuré | 🌍 INT · US-origin |
-| Franchise | IFA Certified Franchise Executive — CFE | CERT / designation | TCO multi-composants | HAUTE si franchiseur / multi-unit | 🌍 INT · US-origin |
+| Franchise | voir catalogue franchise canonique | ROUTE | — | HAUTE si réseau structuré | 🌍 INT · US-origin |
+| Franchise avancée | voir catalogue franchise canonique | ROUTE | — | HAUTE si franchiseur / multi-unit | 🌍 INT · US-origin |
 | Export France | CCE — Réaliser une opération d'import-export | CERT | provider-dependent / CPF selon centre | TRÈS HAUTE | 🇫🇷 FR |
 | Internationalisation RH | V.I.E — Business France | DISPOSITIF | devis selon pays, durée, CA et aides | TRÈS HAUTE si implantation export | 🇫🇷 FR / 🌍 INT |
 | Activité réglementée | Vérification officielle Entreprendre.Service-Public.fr | REG / routeur | **0 €** | TRÈS HAUTE avant création/reprise | 🇫🇷 FR |

@@ -40,7 +40,7 @@ verified: 2026-08-28
 | TMS | Kyriba Academy Customer Certification | CERT vendor | **via account manager / contrat client** | HAUTE uniquement si Kyriba | 🌍 INT |
 | Digital treasury niche | AFP + Kyriba Stablecoins & On-chain Liquidity Certificate | COURSE + certificate | public général non stabilisé ; accès gratuit annoncé pour premiers clients Kyriba éligibles | MOYENNE / watch | 🌍 INT |
 | Sell-side / divestiture | IMAA Certified Separation, Carve-Out and Divestment Expert — SCDE | CERT / in-house | **sur devis / in-house** | HAUTE si carve-out | 🌍 INT |
-| M&A / deal prep | IMAA International M&A Expert | CERT | **3 290 $** self-paced bundle observé | HAUTE si deals répétés | 🌍 INT |
+| M&A / deal prep | voir catalogue CorpDev / M&A canonique | ROUTE | — | HAUTE si deals répétés | 🌍 INT |
 | Due diligence foundations | CFI Due Diligence / M&A courses | COURSE + completion certificate | inclus selon abonnement CFI ; Self-Study **497 $/an** | HAUTE comme méthode | 🌍 INT |
 | Procurement | ISM CPSM | CERT | examens seuls **~1 485 $ membre / 2 385 $ non-membre** | HAUTE si achats matériels | 🌍 INT · US-origin |
 | Procurement | CIPS Level 4 → 6 / MCIPS path | QUAL | **variable selon pays / centre / exemptions** | TRÈS HAUTE si fonction achats | 🌍 INT · UK-origin |
@@ -282,11 +282,11 @@ SPA NEGOTIATION
 
 | Sujet | Credential / ressource | Nature | Pertinence | Portée |
 |---|---|---|---|:---:|
-| Modèle / valuation | CFI FMVA / IB & PE Modeling | CERT | HAUTE | 🌍 INT |
+| Modèle / valuation | voir parcours finance / valuation canonique | ROUTE | HAUTE | 🌍 INT |
 | Due diligence | CFI Due Diligence / M&A courses | COURSE | HAUTE | 🌍 INT |
-| Process M&A | IMAA International M&A Expert | CERT | HAUTE si deals répétés | 🌍 INT |
-| Carve-out / TSA | IMAA SCDE | CERT / in-house | HAUTE si périmètre à séparer | 🌍 INT |
-| Contrats | WorldCC CCM | CERT | HAUTE B2B complexe | 🌍 INT |
+| Process M&A | voir catalogue CorpDev / M&A canonique | ROUTE | HAUTE si deals répétés | 🌍 INT |
+| Carve-out / TSA | voir catalogue carve-out / TSA canonique | ROUTE | HAUTE si périmètre à séparer | 🌍 INT |
+| Contrats | voir catalogue contract management canonique | ROUTE | HAUTE B2B complexe | 🌍 INT |
 | Cyber | credentials cyber du repo | CERT / QUAL | selon exposition | 🌍 INT / MIX |
 
 ### Règle

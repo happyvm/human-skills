@@ -35,10 +35,10 @@ verified: 2026-08-28
 | Treasury fondations | ACT Certificate in Treasury Fundamentals — CertTF | QUAL / CERT | **905 £ cours + 150 £ membership + 160 £ assessment = 1 215 £** hors TVA | TRÈS HAUTE groupe | 🌍 INT · UK-origin |
 | Cash management | ACT Award in International Cash Management — AwardICM | QUAL / CERT | **905 £ + 150 £ + 160 £ = 1 215 £** hors TVA | TRÈS HAUTE | 🌍 INT · UK-origin |
 | Cash management avancé | ACT Certificate in International Cash Management — CertICM | QUAL / CERT | **2 400 £ + 250 £ + 240 £ = 2 890 £** hors TVA | TRÈS HAUTE si groupe international | 🌍 INT · UK-origin |
-| Dette / crédit | CFI CBCA® | CERT | **497 $/an Self-Study** standard | TRÈS HAUTE | 🌍 INT |
+| Dette / crédit | voir catalogue croissance / crédit canonique | ROUTE | — | TRÈS HAUTE | 🌍 INT |
 | Covenants | CFI Loan Covenants | COURSE + certificat | inclus selon abonnement CFI ; Self-Study **497 $/an** | TRÈS HAUTE si dette | 🌍 INT |
-| FP&A / board reporting | CFI FPAP™ | CERT | **497 $/an Self-Study** standard | TRÈS HAUTE | 🌍 INT |
-| IFRS entrée | ACCA CertIFR | CERT | **310 £** cours + assessment ; **200 £ assessment only** | HAUTE | 🌍 INT · UK-origin |
+| FP&A / board reporting | voir catalogue finance groupe canonique | ROUTE | — | TRÈS HAUTE | 🌍 INT |
+| IFRS entrée | voir catalogue finance groupe canonique | ROUTE | — | HAUTE | 🌍 INT · UK-origin |
 | Consolidation Oracle | Oracle Financial Consolidation and Close 2026 Implementation Professional | CERT vendor | examen / formation selon pays et abonnement | HAUTE uniquement si Oracle EPM | 🌍 INT |
 | Planning Oracle | Oracle Planning + AI 2026 Implementation Professional | CERT vendor | examen / formation selon pays et abonnement | HAUTE uniquement si Oracle EPM | 🌍 INT |
 | EPM OneStream | OneStream OCA — Implementation Foundations | CERT vendor | tarif examen à vérifier dans portail OneStream | HAUTE uniquement si OneStream | 🌍 INT |

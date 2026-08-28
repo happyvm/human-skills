@@ -31,9 +31,9 @@ verified: 2026-08-28
 | Fonction | Credential / parcours | Nature | Coût / TCO 2026 | Pertinence FR | Portée |
 |---|---|---|---:|:---:|:---:|
 | Private markets / private credit | CFA Institute Private Markets & Alternative Investments Certificate | CERT | **890 $** public | HAUTE | 🌍 INT |
-| LBO / dette | CFA Institute Private Equity Certificate | CERT | **890 $** | TRÈS HAUTE | 🌍 INT |
-| Dette / gouvernance PE avancée | CFA Institute Advanced Private Equity Certificate | CERT | **890 $** après PE Certificate | HAUTE / premium | 🌍 INT |
-| Crédit bancaire / dette | CFI CBCA® | CERT | **497 $/an Self-Study** standard | TRÈS HAUTE | 🌍 INT |
+| LBO / dette | voir catalogue holding / LBO canonique | ROUTE | — | TRÈS HAUTE | 🌍 INT |
+| Dette / gouvernance PE avancée | voir catalogue holding / LBO canonique | ROUTE | — | HAUTE / premium | 🌍 INT |
+| Crédit bancaire / dette | voir catalogue croissance / crédit canonique | ROUTE | — | TRÈS HAUTE | 🌍 INT |
 | FP&A / reporting groupe | CFI FPAP™ | CERT | **497 $/an Self-Study** standard | TRÈS HAUTE | 🌍 INT |
 | IFRS entrée | ACCA CertIFR | CERT | **310 £** public cours + assessment ; **200 £** assessment only | HAUTE | 🌍 INT · UK-origin |
 | IFRS avancé | ACCA DipIFR | QUAL | **≈ 249 £ minimum UK indicatif** hors préparation (89 £ inscription + 160 £ examen Dec. 2026) | HAUTE si IFRS | 🌍 INT · UK-origin |
