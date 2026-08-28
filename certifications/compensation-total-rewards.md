@@ -33,6 +33,8 @@ verified: 2026-08-28
 
 # 1. WorldatWork — CCP
 
+**Auto-formation officielle et gratuite (partielle) :** [worldatwork.org/tools](https://worldatwork.org/tools/category/total-rewards) — outils et guides gratuits (dont *Total Rewards Model: A Guide*), newsletter Workspan Weekly gratuite.
+
 ## Certified Compensation Professional
 
 Credential historique spécialisé en compensation.
