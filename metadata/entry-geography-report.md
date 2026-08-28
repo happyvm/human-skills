@@ -20,6 +20,7 @@
 | `certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md` | 1 | 12 | 0 | 0 |
 | `certifications/entrepreneur-international-functional-credentials-2026.md` | 3 | 34 | 0 | 0 |
 | `certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md` | 2 | 19 | 0 | 0 |
+| `certifications/entrepreneur-treasury-cash-pooling-epm-carveout-2026.md` | 3 | 27 | 0 | 0 |
 | `certifications/entrepreneurship-startup-business-creation-2026.md` | 15 | 60 | 0 | 0 |
 | `certifications/facilities-energy-qhse.md` | 1 | 12 | 2 | 0 |
 | `certifications/food-safety-trade-logistics.md` | 1 | 11 | 1 | 0 |
@@ -36,9 +37,9 @@
 
 ## Totaux
 
-- catalogues `mixed` analysés : **29** ;
-- tableaux avec colonne `Portée` : **79** ;
-- lignes credential annotées : **556** ;
+- catalogues `mixed` analysés : **30** ;
+- tableaux avec colonne `Portée` : **82** ;
+- lignes credential annotées : **583** ;
 - bullets credential annotés : **389** ;
 - entrées restant `❓ UNV` : **0**.
 
@@ -53,12 +54,12 @@
 - `🇬🇧 UK` : **51**
 - `🇸🇬 SG` : **4**
 - `🇺🇸 US` : **128**
-- `🌍 INT` : **424**
+- `🌍 INT` : **447**
 - `🌍 INT · CA-origin` : **3**
 - `🌍 INT · DE-origin` : **12**
 - `🌍 INT · FR delivery` : **1**
 - `🌍 INT · FR-origin delivery` : **1**
-- `🌍 INT · UK-origin` : **89**
+- `🌍 INT · UK-origin` : **93**
 - `🌍 INT · US std` : **57**
 - `🌍 INT · US-centric` : **46**
 - `🌍 INT · US-origin` : **12**
