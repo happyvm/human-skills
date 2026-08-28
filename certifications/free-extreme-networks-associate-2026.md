@@ -26,9 +26,7 @@ Sources :
 
 # Certifications gratuites confirmées
 
-## Extreme Networks Associate — Introduction to Future Networking
-
-Credly classe ce credential :
+## 1. Extreme Networks Associate — Introduction to Future Networking
 
 ```text
 Type     Certification
@@ -47,17 +45,13 @@ Compétences :
 - ExtremeCloud IQ ;
 - bits, bytes et binary.
 
-Critères :
-
-1. regarder le contenu du cours YouTube ;
-2. créer un compte Extreme Academy Certifications ;
-3. passer l'examen.
+Critères : cours vidéo + compte Extreme Academy Certifications + examen.
 
 Source : https://www.credly.com/org/extreme-networks/badge/extreme-networks-associate-introduction-to-future-networking
 
 ---
 
-## Extreme Networks Associate — Building Secure and Robust Wireless Networks
+## 2. Extreme Networks Associate — Building Secure and Robust Wireless Networks
 
 ```text
 Type     Certification
@@ -75,13 +69,11 @@ Compétences :
 - resilience ;
 - management.
 
-Critères : cours vidéo + compte Certifications + examen.
-
 Source : https://www.credly.com/org/extreme-networks/badge/extreme-networks-associate-building-secure-and-robust-wireless-networks
 
 ---
 
-## Extreme Networks Associate — Building Scalable and Mission Critical Networks
+## 3. Extreme Networks Associate — Building Scalable and Mission Critical Networks
 
 ```text
 Type     Certification
@@ -103,7 +95,120 @@ Source : https://www.credly.com/org/extreme-networks/badge/extreme-networks-asso
 
 ---
 
-## Extreme Networks Associate — Advance Your Career
+## 4. Extreme Certified Associate in Network Security Basics
+
+Credential actuel :
+
+```text
+Type     Certification
+Level    Foundational
+Cost     Free
+```
+
+Compétences :
+
+- network security fundamentals ;
+- security terminology ;
+- sécurité organisationnelle ;
+- Zero Trust Network Access ;
+- concepts d'implémentation.
+
+Critères publiés : compléter les vidéos de formation + compte Extreme Academy Certifications.
+
+Source : https://www.credly.com/org/extreme-networks/badge/extreme-certified-associate-in-network-security-bas
+
+### Valeur
+
+⭐⭐⭐⭐ pour une entrée network security gratuite.
+
+---
+
+## 5. Extreme Certified Associate in ExtremeCloud SD-WAN
+
+```text
+Type     Certification
+Level    Foundational
+Cost     Free
+```
+
+Compétences :
+
+- SD-WAN ;
+- WAN optimization ;
+- application visibility ;
+- application control ;
+- security ;
+- network management ;
+- efficacité WAN.
+
+Critères :
+
+1. regarder les Welcome Series videos ;
+2. créer un compte Extreme Academy Certifications ;
+3. passer l'assessment.
+
+Source : https://www.credly.com/org/extreme-networks/badge/extreme-certified-associate-in-extremecloud-sd-wan
+
+### Valeur
+
+⭐⭐⭐⭐⭐ pour network / SD-WAN / SASE foundation.
+
+---
+
+## 6. Extreme Certified Associate in Extreme Fabric Connect
+
+```text
+Type     Certification
+Level    Foundational
+Cost     Free
+```
+
+Compétences :
+
+- Shortest Path Bridging — SPB ;
+- IS-IS ;
+- Layer 2 / Layer 3 ;
+- multicast ;
+- routing ;
+- Fabric Attach ;
+- Fabric Extend ;
+- VSN ;
+- modern network design.
+
+Critères : quatre vidéos + compte Academy + examen Meet Extreme Fabric Connect.
+
+Source : https://www.credly.com/org/extreme-networks/badge/extreme-certified-associate-in-extreme-fabric-connect
+
+### Valeur
+
+⭐⭐⭐⭐⭐ pour datacenter / campus fabric / network architecture.
+
+---
+
+## 7. Extreme Certified Associate in ExtremeCloud IQ
+
+```text
+Type     Certification
+Level    Foundational
+Cost     Free
+```
+
+Compétences :
+
+- cloud networking ;
+- ExtremeCloud IQ ;
+- deployment ;
+- management ;
+- troubleshooting ;
+- cloud security.
+
+Critères : six vidéos + compte Academy + examen Meet ExtremeCloud IQ.
+
+Source : https://www.credly.com/org/extreme-networks/badge/extreme-certified-associate-in-extremecloud-iq
+
+---
+
+## 8. Extreme Networks Associate — Advance Your Career
 
 ```text
 Type     Certification
@@ -135,18 +240,27 @@ Ces niveaux supérieurs utilisent des examens/assessments dont les prix peuvent 
 
 ---
 
-# ROI
-
-Pour un candidat réseau, les trois credentials techniques les plus intéressants sont :
+# Shortlist ROI réseau gratuite
 
 ```text
-0 $  Introduction to Future Networking
+0 $  ExtremeCloud SD-WAN Associate
+0 $  Extreme Fabric Connect Associate
+0 $  ExtremeCloud IQ Associate
+0 $  Network Security Basics Associate
 0 $  Building Secure and Robust Wireless Networks
 0 $  Building Scalable and Mission Critical Networks
+0 $  Introduction to Future Networking
+0 $  Advance Your Career
 ```
 
-### Valeur
+Pour un profil réseau/infrastructure, le combo :
 
-⭐⭐⭐⭐ pour débutant réseau / support / datacenter junior / Wi-Fi.
+```text
+Future Networking
+→ Network Security Basics
+→ ExtremeCloud IQ
+→ ExtremeCloud SD-WAN
+→ Fabric Connect
+```
 
-Le signal est plus spécialisé et directement vendor-networking qu'un simple certificat de cours généraliste.
+constitue **cinq certifications Extreme gratuites** particulièrement cohérentes.
