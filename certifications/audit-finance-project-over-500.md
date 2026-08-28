@@ -43,6 +43,8 @@ Les prix sont conservés dans leur monnaie officielle. Les conversions EUR sont 
 
 Le **Certified Internal Auditor (CIA)** est une certification de référence mondiale en audit interne.
 
+**Auto-formation officielle et gratuite (partielle) :** [theiia.org — CIA Exam Prep Resources](https://www.theiia.org/en/certifications/cia/exam-prep-resources/) — exam syllabus, sample questions et practice questions gratuits ; aucune formation obligatoire pour passer l'examen.
+
 ## Tarifs actuels publiés par The IIA
 
 ### Membre IIA
@@ -173,6 +175,8 @@ Source :
 
 Le **CMA** est une certification internationale de management accounting / contrôle de gestion / finance d'entreprise.
 
+**Auto-formation officielle et gratuite :** [imanet.org — CMA Resources](https://www.imanet.org/ima-certifications/cma-certification/prepare/resources) — sample questions/essais officiels, podcast *Count Me In* et webinars gratuits.
+
 ## Professionnel
 
 IMA publie actuellement :
@@ -214,6 +218,8 @@ Source :
 # 5. ACCA Qualification
 
 L'**ACCA Qualification** ne se compare pas à une certification IT à examen unique : c'est un parcours professionnel multi-examens, avec abonnement annuel et admission finale au membership.
+
+**Auto-formation officielle et gratuite :** [ACCA Study Hub](https://www.accaglobal.com/gb/en/student/exam-support-resources.html) — specimen/past exams, articles techniques et *My Exam Performance*, gratuits pour tous les étudiants ACCA.
 
 ## Frais fixes 2026 publiés par ACCA
 

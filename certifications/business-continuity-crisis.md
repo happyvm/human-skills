@@ -21,6 +21,8 @@ verified: 2026-08-28
 
 Le **CBCI** est le credential d'entrée / référence du Business Continuity Institute basé sur les Good Practice Guidelines.
 
+**Auto-formation officielle et gratuite (partielle) :** [thebci.org — GPG Lite Edition](https://www.thebci.org/certification-training/good-practice-guidelines.html) — version condensée gratuite pour débuter ; version complète gratuite pour les membres BCI.
+
 ## CBCI Self-Study Bundle
 
 Tarif public observé : **1 280 £**.
@@ -50,6 +52,8 @@ Le maintien après la période étudiante doit être évalué via le membership 
 # 2. DRI International — examen seul
 
 DRI permet de passer son **Qualifying Examination** sans acheter obligatoirement le cours complet.
+
+**Auto-formation officielle et gratuite (partielle) :** [drii.org — webinars](https://drii.org/trainings) et [International Glossary for Resiliency](https://drii.org/) téléchargeable gratuitement ; bourse WBCM pour une formation + examen offerts.
 
 ## Qualifying Exam
 

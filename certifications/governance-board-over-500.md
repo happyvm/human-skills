@@ -21,6 +21,8 @@ verified: 2026-08-28
 
 Le **NACD Directorship Certification (NACD.DC)** est un véritable credential avec examen et maintien, destiné aux administrateurs en exercice.
 
+**Auto-formation officielle et gratuite (partielle) :** [NACD Board Readiness](https://www.nacdonline.org/nacd-membership/board-readiness/) — cours on-demand sans membership requis, dont *Director Professionalism*.
+
 ## Prérequis
 
 Le candidat doit notamment :
@@ -76,6 +78,8 @@ Source :
 # 2. Institute of Directors — Chartered Director Programme
 
 L'IoD britannique propose l'un des parcours de direction les plus premium de cette base.
+
+**Auto-formation officielle et gratuite :** [Boardroom Foundations](https://www.iod.com/news/governance/iod-launches-free-boardroom-foundations-course-for-aspiring-directors/) — cours gratuit sur 5 semaines, ainsi qu'un cours on-demand gratuit sur FutureLearn.
 
 Le parcours Chartered Director est structuré en trois étapes :
 
