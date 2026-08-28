@@ -259,6 +259,32 @@ Le `EX260` Red Hat Certified Specialist in Ceph Cloud Storage est toujours actif
 
 ---
 
+# XCP-ng / Vates — certification confirmée en 2026
+
+Contrairement à Proxmox VE (voir plus bas), **Vates (éditeur de XCP-ng et Xen Orchestra) délivre bien une certification formelle** : la **Vates VMS Foundation — Level 1 Certification**.
+
+- format : 3 demi-journées (12 h), instructor-led en ligne, labs pratiques inclus ;
+- contenu : installation XCP-ng/Xen Orchestra, storage, réseau, backup, auth, plugins ;
+- validation par exercice pratique en fin de parcours ;
+- prix session ouverte (individuel) : **2 500 $** ;
+- sessions privées (équipe) : sur devis.
+
+Source :
+
+- https://vates.tech/en/advices-and-services/training-and-certification/
+
+**Verdict :** au-delà du seuil 500 $ de ce fichier, mais c'est la seule certification formelle identifiée dans l'écosystème virtualisation open source XCP-ng — pertinent pour un rôle d'administrateur senior sur cette stack.
+
+## Proxmox VE — toujours pas de certification proctorée
+
+Vérifié à nouveau en 2026 : Proxmox Server Solutions propose des **formations** (cours débutant/avancé) qui délivrent un **Certificate of Completion**, avec une réduction de 20 % sur l'abonnement Proxmox VE dans les 2 mois suivant la formation. **Aucun examen proctoré standalone n'a été identifié** — il s'agit d'une attestation de participation, pas d'une certification professionnelle au sens ASQ/IASSC/RHCSA.
+
+Source :
+
+- https://www.proxmox.com/en/services/training-courses/training
+
+---
+
 # Priorités valeur / prix
 
 Pour un profil infrastructure expérimenté :
@@ -274,9 +300,7 @@ Pour un profil infrastructure expérimenté :
 
 # À poursuivre
 
-- XCP-ng / Vates certification éventuelle ;
-- Proxmox VE training / certification officielle si programme d'examen formel apparaît ;
-- OpenStack / OpenInfra ;
+- OpenStack / OpenInfra — voir aussi `open-source-private-cloud-2026.md` ;
 - OpenShift advanced paths ;
 - VMware VCAP/VCF tracks 2026 exhaustifs ;
 - Nutanix NC2 / Kubernetes / database services ;

@@ -233,6 +233,24 @@ Très identifiable pour structured cabling / ICT infrastructure design.
 
 ---
 
+# CNet Training — CDCDP / CDCMP / CDCEP
+
+CNet Training (organisme britannique) propose trois programmes de 5 jours combinant formation et certification :
+
+- **CDCDP** — Certified Data Center Design Professional ;
+- **CDCMP** — Certified Data Center Management Professional ;
+- **CDCEP** — Certified Data Center Energy Professional.
+
+Prix officiel **non publié** sur le site CNet (contact direct requis). Sources tierces cohérentes indiquent une fourchette **4 000–6 000 $** pour le programme CDCDP de 5 jours — à traiter comme indicatif, pas comme prix officiel.
+
+Source :
+
+- https://cnet-training.com/us/programs/certified-data-center-design-professional-cdcdp/
+
+**Verdict :** même TCO élevé que les seminars Uptime déjà documentés — formation et certification indissociables, à réserver à un budget financé par l'employeur.
+
+---
+
 # Vue rapide
 
 | Credential | Prix indicatif |
@@ -252,14 +270,14 @@ Très identifiable pour structured cabling / ICT infrastructure design.
 
 Le domaine datacenter contient encore un important catalogue à cartographier :
 
-- CNet CDCDP / CDCMP / CDCEP ;
+- CNet CDCDP / CDCMP / CDCEP — prix officiel exact (actuellement estimation tierce 4 000–6 000 $, voir ci-dessus) ;
 - EPI CDCP / CDCS / CDCE ;
 - BICSI DCDC long-term TCO / renewal ;
 - BICSI RCDD long-term TCO ;
 - Schneider DCCA prix exact ;
 - Data Center Dynamics credentials ;
 - power/cooling vendor certifications ;
-- Vertiv Academy ;
+- Vertiv Academy — vérifié : webinars et une partie du catalogue **gratuits** pour CEU, mais aucune certification proctorée distincte identifiée (formation produit plutôt que credential de carrière) ;
 - Eaton ;
 - Legrand ;
 - critical facilities / UPS / cooling ;

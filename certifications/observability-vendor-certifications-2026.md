@@ -193,6 +193,8 @@ La communauté Dynatrace décrit en juin 2026 un nouvel examen Associate Managed
 
 Toutefois, la grille tarifaire publique Dynatrace consultable sans connexion expose surtout le prix de la plateforme, **pas un prix officiel suffisamment stable des examens de certification**.
 
+Des sources tierces (non officielles) indiquent une fourchette **200–250 $ par tentative** pour Associate/Professional avec jusqu'à 3 tentatives incluses — à confirmer directement sur le portail Dynatrace University avant achat, ce chiffre n'étant pas issu du store officiel.
+
 Source produit :
 
 - https://www.dynatrace.com/pricing/rate-card/

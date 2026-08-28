@@ -164,12 +164,14 @@ Source :
 
 Cloudflare lance en 2026 des certifications techniques officielles dans le cadre de **Cloudflare University**.
 
-**Portail officiel :** Cloudflare University (accès via le portail partenaires Cloudflare).
-
-Les deux certifications explicitement publiées :
+Les deux certifications confirmées :
 
 - **Application Security Associate** ;
 - **Zero Trust Associate**.
+
+**Prix confirmé :** University Pass à **495 $** (early bird), incluant l'accès aux sessions de formation Application Security / Cloudflare One-Zero Trust et **une tentative pour chacun des deux examens**.
+
+**Disponibilité :** au moment de la revue, ces certifications sont **exclusivement liées à la conférence Cloudflare Connect 2026** (19–21 octobre, San Francisco) — pas de parcours d'examen indépendant en ligne identifié. À vérifier si un accès standalone apparaît après l'événement.
 
 Source :
 
@@ -409,8 +411,6 @@ Netskope advanced training  quote
 
 # À poursuivre
 
-- Cloudflare exam-only public pricing ;
-- Cloudflare cert availability hors Connect 2026 ;
 - Netskope Academy accreditation checkout ;
 - Netskope Architect / Expert current replacement path ;
 - Netskope One Professional/Expert TCO ;

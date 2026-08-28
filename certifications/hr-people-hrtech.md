@@ -274,6 +274,22 @@ Le coût exact France doit donc être collecté provider par provider.
 
 ---
 
+# 9 bis. HRIS platform credentials — Workday (accès restreint)
+
+Élément structurant découvert : **Workday ne vend pas ses certifications au grand public**. L'accès aux formations et examens de certification officiels passe par le statut d'**organisation Workday Partner** — un consultant indépendant ou un candidat autofinancé ne peut généralement pas s'inscrire directement.
+
+- coût observé (via crédits Workday, cadre partenaire) : **1 500–2 500 $ par certification**, souvent **2 000–5 000 $ au total** selon le parcours ;
+- modèle de crédits, pas un simple prix d'examen public ;
+- SAP SuccessFactors et Oracle HCM restent à vérifier (probablement un modèle d'accès similaire via partenaires/Oracle University).
+
+Source :
+
+- https://rising.workday.com/us/experience/pro-certification.html
+
+**Verdict :** à classer en **employer/partner-funded**, pas en credential autofinançable — très différent des certifications Microsoft/AWS/Google du reste du dépôt.
+
+---
+
 # 10. Positionnement
 
 | Besoin | Credential naturel |
@@ -293,8 +309,8 @@ Le coût exact France doit donc être collecté provider par provider.
 - SHRM recertification live fee 2026 ;
 - HRCI recertification TCO ;
 - HRIP recertification fee / credits ;
-- HRIS platform credentials — Workday, SAP SuccessFactors, Oracle HCM ;
-- payroll credentials ;
+- SAP SuccessFactors / Oracle HCM — modèle d'accès exact (probablement partner-gated comme Workday) ;
+- payroll credentials — voir PayrollOrg CPP/FPC dans `compensation-total-rewards.md` ;
 - talent acquisition credentials ;
 - workforce analytics ;
 - people analytics certifications ;

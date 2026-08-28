@@ -175,6 +175,24 @@ Le prix de Success Elevated / Private ILT n'est pas publié sous forme de tarif 
 
 À classer en **employer-funded / customer subscription**, et non dans les certifications standalone <500.
 
+---
+
+# Delinea
+
+Delinea (ex-Thycotic) dispose bien d'un **Security Academy Certification Program** — élément nouveau confirmé, non identifié dans les passes précédentes.
+
+- format : self-paced online + examen en ligne + hands-on technical lab challenges ;
+- seuil de réussite : **70 %** ;
+- premier titre confirmé : **Secret Server Certified Admin** ;
+- badge numérique + certificat imprimable à la réussite ;
+- prix : **CHECKOUT-REQUIRED** — non publié publiquement, cohérent avec le modèle PAM sur devis (comme CyberArk).
+
+Source :
+
+- https://delinea.com/training/certification-program
+
+**Verdict :** existence confirmée, mais TCO à obtenir directement auprès de Delinea — même limite que CyberArk sur la transparence du prix public.
+
 Voir :
 
 - [`beyondtrust-certification-tco-2026.md`](beyondtrust-certification-tco-2026.md)

@@ -76,9 +76,30 @@ Tarif exam :
 
 Le modèle ISACA suit également une application/certification après réussite et exige des qualifications / expérience admissibles selon le track.
 
+**Prérequis exacts confirmés :** posséder **un** credential éligible parmi une liste large — CISA, CISM, CRISC, CGEIT, CDPSE (ISACA), ou l'un des 20+ designations reconnues (CISSP et autres ISC², CIA, PMI-RMP, CPA/CGMA/ACCA/FCA…). Un seul suffit, pas de cumul requis. Frais d'application de **50 $** après réussite de l'examen.
+
 Source :
 
 - https://www.isaca.org/credentialing/aair
+
+---
+
+# 2 bis. ISACA — AAISM
+
+**Advanced in AI Security Management**, pendant sécurité de l'AAIR (risque).
+
+- membre : **459 $** ;
+- non-membre : **599 $** ;
+- frais d'application après réussite : **50 $** ;
+- **prérequis strict : CISM ou CISSP actif** (contrairement à AAIR qui accepte une liste large — AAISM est plus restrictif) ;
+- fenêtre d'éligibilité : 6 mois après inscription, jusqu'à 3 tentatives au plein tarif ;
+- format : 90 questions QCM, 2h30.
+
+Source :
+
+- https://www.isaca.org/credentialing/aaism
+
+**Valeur : ⭐⭐⭐⭐** pour un profil déjà CISM/CISSP voulant se spécialiser en gouvernance de la sécurité IA.
 
 ---
 
@@ -264,10 +285,8 @@ Alors que GARP RAI ou CSA TAISE n'imposent pas une certification senior préalab
 
 # À poursuivre
 
-- ISACA AAISM ;
-- exact prerequisites AAIR / AAISM ;
 - AI audit professional schemes Big Four / institutes ;
-- ISO 42001 prices SGS/TÜV/DNV/LRQA ;
+- ISO 42001 Lead Auditor — TÜV/DNV/LRQA prix individuel exact (BSI/AFNOR déjà documentés dans `iso-grc-europe-over-500.md` : attention à ne pas confondre avec le prix de certification d'entreprise, 20 000–50 000 $, sans rapport avec la formation individuelle) ;
 - NIST AI RMF assessor credentials ;
 - EU AI Act conformity assessment qualifications ;
 - model risk management FRM/quant tracks ;

@@ -289,6 +289,21 @@ Source :
 
 ---
 
+# 8. ISO 13485 Lead Auditor (dispositifs médicaux)
+
+Suit le même modèle que les autres Lead Auditor PECB déjà documentés dans `iso-grc-europe-over-500.md` (voir aussi la mise en garde ISO 42001 sur la distinction prix individuel / prix de certification d'entreprise, applicable ici aussi).
+
+- PECB : examen **≈ 500 $** (ExamShield, online proctoré) ; formation recommandée 5 jours + 60-90 h de self-study ;
+- BSI : parcours Practitioner et Professional distincts, prix non exposé publiquement.
+
+Source :
+
+- https://pecb.com/en/education-and-certification-for-individuals/iso-13485/iso-13485-lead-auditor
+
+**Verdict :** pertinent pour un profil qualité dispositifs médicaux voulant un signal audit reconnu au même tarif que les autres Lead Auditor PECB du dépôt.
+
+---
+
 # À poursuivre
 
 - PDA training/certificates ;
@@ -301,7 +316,6 @@ Source :
 - pharmacovigilance ;
 - medical affairs ;
 - Qualified Person / RP ;
-- ISO 13485 Lead Auditor ;
 - quality risk management ICH Q9 ;
 - GCP training credentials ;
 - GLP ;

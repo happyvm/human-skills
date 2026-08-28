@@ -174,6 +174,23 @@ Les bundles réduisent fortement le coût et incluent du membership, mais leur d
 
 ---
 
+# 7. PayrollOrg (ex-APA) — CPP / FPC
+
+L'American Payroll Association a été rebaptisée **PayrollOrg (PAYO)** en 2024 — même organisme, nouveau nom.
+
+- **FPC — Fundamental Payroll Certification** : ≈ 359 $ membre / 459 $ non-membre ;
+- **CPP — Certified Payroll Professional** : ≈ 419 $ membre / 609 $ non-membre ;
+- remises officielles confirmées : **-20 % membre sur FPC, -30 % membre sur CPP** (site officiel), cohérentes avec les montants ci-dessus.
+
+Source :
+
+- https://payroll.org/certification/certification/certified-payroll-professional-(cpp)
+- https://payroll.org/certification/certification/fundamental-payroll-certification-(fpc)
+
+**Verdict :** bon complément payroll pour un profil compensation/total rewards — FPC comme point d'entrée économique, CPP pour un signal plus confirmé.
+
+---
+
 # À poursuivre
 
 - WorldatWork CECP ;
@@ -186,4 +203,4 @@ Les bundles réduisent fortement le coût et incluent du membership, mais leur d
 - executive compensation ;
 - equity compensation CEPI ;
 - pensions / employee benefits Europe ;
-- payroll certifications CIPP / APA / GPMI.
+- payroll certifications CIPP (UK) / GPMI — PayrollOrg CPP/FPC déjà documenté ci-dessus.

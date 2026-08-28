@@ -43,13 +43,19 @@ Chaque certification possède un parcours de préparation **self-paced gratuit**
 
 ## Prix 2026
 
-GitLab confirme que les examens sont disponibles à l'achat dans GitLab University, mais la page publique de catalogue n'expose pas un tarif 2026 stable sans interaction/login.
+Prix confirmé : **150 $ par tentative d'examen**, à l'unité, sans formation obligatoire au préalable.
 
-Un ancien bundle asynchronous lancé en 2021 était affiché à **650 $**, mais il ne faut **pas** utiliser ce vieux montant comme prix actuel 2026.
+Pour ceux qui veulent une formation structurée en plus (facultative) : bundle self-service **650 $**, session publique instructor-led **750 $/place**.
 
 ### Verdict
 
-Credential officiel et pertinent ; **prix checkout-required** tant qu'un tarif 2026 public stable n'est pas visible.
+**Excellent rapport signal/prix** : 150 $ pour un examen officiel sans prérequis de formation, avec parcours de préparation gratuit dans GitLab University.
+
+Sources :
+
+- https://university.gitlab.com/pages/certifications
+- https://about.gitlab.com/professional-services/education/
+- https://about.gitlab.com/blog/everyone-can-get-certified/
 
 Sources :
 
@@ -75,11 +81,13 @@ Le guide officiel CJE décrit un examen portant sur :
 
 ## Statut 2026
 
-Des guides officiels CloudBees restent accessibles publiquement, mais lors de la revue il n'a pas été possible de confirmer sur le site CloudBees :
+Le CJE n'a **pas été retiré** (seule une ancienne version de l'examen a été retirée) — l'examen actuel reste actif en 2026.
 
-- une page publique actuelle de réservation CJE ;
-- le prix officiel 2026 ;
-- le catalogue live exact des examens.
+Prix observé (sources tierces cohérentes) : **99 $**. Le domaine `university.cloudbees.com` était injoignable lors de la vérification directe (DNS) — **prix à reconfirmer au checkout avant achat**, non issu du store officiel lui-même.
+
+Guide de préparation officiel :
+
+- https://university.cloudbees.com/path/certified-jenkins-engineer-cje-exam-preparation
 
 De nombreux sites tiers prétendent vendre des dumps/préparations « CJE 2026 » : **ils ne constituent pas une preuve que l'examen est encore commercialisé**.
 

@@ -308,7 +308,7 @@ Pearson VUE publie directement la grille officielle :
 | Exam | Prix |
 |---|---:|
 | CCSA | **300 $** |
-| CCSE | **300 $** |
+| CCSE (prérequis : CCSA actif) | **300 $** — TCO minimal **600 $** depuis zéro |
 | Hacking 101 | **250 $** |
 | Pen Testing exams | **250 $** |
 | Automation Specialist | **200 $** |
@@ -371,13 +371,17 @@ Source :
 
 - https://customer.zscaler.com/page/certification-exam
 
-Autres tracks visibles :
+Autres tracks confirmés au même tarif officiel retail :
 
-- ZDTA ;
-- ZDTE ;
-- ZDXA.
+- **ZDTA — Zscaler Digital Transformation Administrator : 300 $** ;
+- **ZDTE — Zscaler Digital Transformation Engineer : 300 $** ;
+- **ZDXA — Zscaler Digital Experience Administrator : 300 $**.
 
-Leurs prix individuels doivent être récupérés sur les pages de checkout avant d'être figés dans le tableau.
+Une réduction ponctuelle existe pour les examens passés sur site à la conférence Zenith Live (jusqu'à -85 %), à ne pas confondre avec le prix retail permanent.
+
+Source :
+
+- https://www.pearsonvue.com/us/en/zscaler.html
 
 **Valeur : ⭐⭐⭐⭐** pour Zero Trust / SSE.
 
@@ -385,15 +389,19 @@ Leurs prix individuels doivent être récupérés sur les pages de checkout avan
 
 # Cloudflare / Akamai
 
-Les recherches 2026 montrent surtout des parcours de formation, accreditations et learning paths, mais pas encore une grille publique de certifications professionnelles suffisamment claire pour les figer dans le catalogue général.
+## Cloudflare University — confirmé, lié à Cloudflare Connect 2026
 
-**Statut : research.**
+Cloudflare a lancé deux certifications : **Application Security Associate** et **Zero Trust Associate**. Prix confirmé : **495 $** (University Pass early bird), incluant une tentative pour chaque examen. Au moment de la revue, l'accès est **exclusivement lié à la conférence Cloudflare Connect 2026** (19–21 octobre, San Francisco) — pas de parcours d'examen standalone en ligne identifié.
+
+Détail complet : voir [`edge-sase-security-2026.md`](edge-sase-security-2026.md#cloudflare--nouveau-programme-certification-2026).
+
+## Akamai
+
+Akamai propose un [Network Engineering Professional Certificate gratuit sur Coursera](https://www.coursera.org/professional-certificates/akamai-network-engineering) et une certification **Cloud Computing Foundations** payante — voir `edge-sase-security-2026.md` pour le détail et les prix.
 
 À vérifier :
 
-- Cloudflare Zero Trust / Application Security accreditation ;
-- Akamai University certifications ;
-- CDN / WAF / DNS credentials.
+- CDN / WAF / DNS credentials Cloudflare/Akamai au-delà des deux tracks confirmés.
 
 ---
 
@@ -414,8 +422,6 @@ Les recherches 2026 montrent surtout des parcours de formation, accreditations e
 - Fortinet track-by-track FCP/FCSS TCO ;
 - NSE 8 written + practical full path ;
 - Palo Alto prerequisites / maintenance by new credential ;
-- Check Point CCSE prerequisite/TCO ;
-- Zscaler ZDTA/ZDTE/ZDXA prices ;
 - Cloudflare credentials ;
 - Akamai ;
 - Radware ;
