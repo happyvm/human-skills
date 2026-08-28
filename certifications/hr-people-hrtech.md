@@ -28,9 +28,9 @@ verified: 2026-08-28
 | --- | ---: | --- | :---: |
 | SHRM-CP | **350 $ member / 450 $ nonmember early** ; **399 / 499 $ standard** | no degree/experience requirement for CP | 🌍 INT · US-centric |
 | SHRM-SCP | **350 / 450 $ early** ; **399 / 499 $ standard** | 3+ years strategic HR or equivalent route | 🌍 INT · US-centric |
-| IHRIM HRIP — active member | **400 $** | application fee waived | ❓ UNV |
-| IHRIM HRIP — nonmember | **445 $ exam + 75 $ application** | ≈ 520 $ | ❓ UNV |
-| HRIP Exam + new membership | **600 $ + 75 $ application** | discounted first-year membership | ❓ UNV |
+| IHRIM HRIP — active member | **400 $** | application fee waived | 🌍 INT · US-centric |
+| IHRIM HRIP — nonmember | **445 $ exam + 75 $ application** | ≈ 520 $ | 🌍 INT · US-centric |
+| HRIP Exam + new membership | **600 $ + 75 $ application** | discounted first-year membership | 🌍 INT · US-centric |
 | CIPD Associate Experience Assessment | **2 065 £ assessment** | + membership / joining fee | 🌍 INT · UK-origin |
 | CIPD Chartered Member Experience Assessment | **2 115 £ assessment** | + membership / joining fee | 🌍 INT · UK-origin |
 | CIPD Chartered Fellow Experience Assessment | **2 460 £ assessment** | + membership / joining fee | 🌍 INT · UK-origin |
@@ -299,7 +299,7 @@ Source :
 | --- | --- | :---: |
 | HR généraliste | SHRM-CP | 🌍 INT · US-centric |
 | HR leadership | SHRM-SCP | 🌍 INT · US-centric |
-| HRIS / HR tech | HRIP | ❓ UNV |
+| HRIS / HR tech | HRIP | 🌍 INT · US-centric |
 | Chartered people profession UK/international | CIPD Chartered Member/Fellow | 🌍 INT · UK-origin |
 | Compensation spécialiste | WorldatWork CCP/GRP | 🌍 INT · US-centric |
 | Global HR | HRCI GPHR | 🌍 INT |

@@ -77,11 +77,11 @@ Même grille générale pour plusieurs certifications senior :
 
 | Credential | Liste | Membre | Portée |
 | --- | ---: | ---: | :---: |
-| Certified Quality Auditor — CQA | **550 $** | **450 $** | ❓ UNV |
-| Certified Quality Engineer — CQE | **550 $** | **450 $** | ❓ UNV |
-| Certified Reliability Engineer — CRE | **550 $** | **450 $** | ❓ UNV |
-| Certified Software Quality Engineer — CSQE | **550 $** | **450 $** | ❓ UNV |
-| Certified Supplier Quality Professional — CSQP | **550 $** | **450 $** | ❓ UNV |
+| Certified Quality Auditor — CQA | **550 $** | **450 $** | 🌍 INT |
+| Certified Quality Engineer — CQE | **550 $** | **450 $** | 🌍 INT |
+| Certified Reliability Engineer — CRE | **550 $** | **450 $** | 🌍 INT |
+| Certified Software Quality Engineer — CSQE | **550 $** | **450 $** | 🌍 INT |
+| Certified Supplier Quality Professional — CSQP | **550 $** | **450 $** | 🌍 INT |
 | Six Sigma Black Belt — CSSBB | **585 $** | **485 $** | 🌍 INT |
 
 Plusieurs de ces examens sont donc **sous 500 € au tarif membre**, même si le membership doit être intégré au TCO si acheté uniquement pour la remise.

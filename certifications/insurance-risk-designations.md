@@ -298,16 +298,16 @@ Rappel 2026 :
 
 | Credential / parcours | Ticket indicatif | Portée |
 | --- | ---: | :---: |
-| CAS MAS-I / MAS-II | **550 $ chacun** | ❓ UNV |
-| CAS 5–9 | **850 $ chacun** | ❓ UNV |
-| CAS PCPA Exam + Project | **1 000 $** | ❓ UNV |
+| CAS MAS-I / MAS-II | **550 $ chacun** | 🌍 INT · US-centric |
+| CAS 5–9 | **850 $ chacun** | 🌍 INT · US-centric |
+| CAS PCPA Exam + Project | **1 000 $** | 🌍 INT · US-centric |
 | CII M05 enrolment member UK example | **518 £** | 🌍 INT · UK-origin |
 | CII Diploma prep training facultatif | **699 / 849 £ + units** | 🌍 INT · UK-origin |
 | CPCU — 8 Recommended Packages | **~3 352 $** | 🇺🇸 US |
 | CPCU — 8 Comprehensive Packages | **~4 152 $** | 🇺🇸 US |
 | LOMA FLMI member-company pricing | **4 250 $** | 🌍 INT |
 | LOMA FLMI non-member pricing | **8 500 $** | 🌍 INT |
-| ACAS / FCAS | **multi-exam TCO à consolider** | ❓ UNV |
+| ACAS / FCAS | **multi-exam TCO à consolider** | 🌍 INT · US-centric |
 | CII ACII | **290-credit pathway, unit-dependent** | 🌍 INT · UK-origin |
 
 ---

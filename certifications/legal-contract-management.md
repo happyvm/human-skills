@@ -26,8 +26,8 @@ verified: 2026-08-28
 
 | Credential | Prix indicatif | Domaine | Notes | Portée |
 | --- | ---: | --- | --- | :---: |
-| NCMA CCCM / CFCM — international | **365 $ application non-membre + 160 $ exam** | Contract management | ≈ 525 $ first attempt non-member | ❓ UNV |
-| NCMA CPCM — international | **425 $ application non-membre + 160 $ exam** | Contract management senior | ≈ 585 $ first attempt non-member | ❓ UNV |
+| NCMA CCCM / CFCM — international | **365 $ application non-membre + 160 $ exam** | Contract management | ≈ 525 $ first attempt non-member | 🇺🇸 US |
+| NCMA CPCM — international | **425 $ application non-membre + 160 $ exam** | Contract management senior | ≈ 585 $ first attempt non-member | 🇺🇸 US |
 | WorldCC CCM Associate | **780 $** | Commercial & Contract Management | 16 h + examen | 🌍 INT |
 | WorldCC CCM Practitioner | **1 495 $** | Commercial & Contract Management | 80 h + examen | 🌍 INT |
 | WorldCC CCM Advanced Practitioner | **1 495 $** | Contracting avancé | 60 h + examen | 🌍 INT |

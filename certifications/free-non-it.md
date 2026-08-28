@@ -24,20 +24,20 @@ verified: 2026-08-28
 
 | Credential | Domaine | Coût | Type / remarque | Valeur CV | Portée |
 | --- | --- | ---: | --- | :---: | :---: |
-| EF SET 4 Skills | Anglais | **0 €** | Niveau CECR A1–C2 vérifiable | ⭐⭐⭐⭐⭐ | ❓ UNV |
+| EF SET 4 Skills | Anglais | **0 €** | Niveau CECR A1–C2 vérifiable | ⭐⭐⭐⭐⭐ | 🌍 INT |
 | CNIL Atelier RGPD | RGPD / Privacy | **0 €** | Attestation de suivi officielle CNIL | ⭐⭐⭐⭐ | 🇫🇷 FR |
 | CSSC Six Sigma White Belt | Lean / Six Sigma | **0 $** | Examen White Belt | ⭐⭐⭐⭐ | 🌍 INT |
-| HubSpot Revenue Operations | Business / organisation | **0 €** | Certification HubSpot | ⭐⭐⭐⭐ | ❓ UNV |
-| HubSpot Digital Marketing | Marketing | **0 €** | Certification HubSpot | ⭐⭐⭐ | ❓ UNV |
-| HubSpot Inbound / Inbound Sales | Business / sales | **0 €** | Certification HubSpot | ⭐⭐⭐ | ❓ UNV |
-| HubSpot Social Media / Content | Marketing | **0 €** | Certification HubSpot | ⭐⭐⭐ | ❓ UNV |
-| Google Ads certifications | Marketing / Ads | **0 €** | Skillshop | ⭐⭐⭐⭐ | ❓ UNV |
+| HubSpot Revenue Operations | Business / organisation | **0 €** | Certification HubSpot | ⭐⭐⭐⭐ | 🌍 INT |
+| HubSpot Digital Marketing | Marketing | **0 €** | Certification HubSpot | ⭐⭐⭐ | 🌍 INT |
+| HubSpot Inbound / Inbound Sales | Business / sales | **0 €** | Certification HubSpot | ⭐⭐⭐ | 🌍 INT |
+| HubSpot Social Media / Content | Marketing | **0 €** | Certification HubSpot | ⭐⭐⭐ | 🌍 INT |
+| Google Ads certifications | Marketing / Ads | **0 €** | Skillshop | ⭐⭐⭐⭐ | 🌍 INT |
 | IBM Project Management Fundamentals | Projet | **0 €** | Digital credential IBM | ⭐⭐⭐⭐ | 🌍 INT |
-| Open University Leadership & Followership | Leadership | **0 €** | OpenLearn badge | ⭐⭐⭐⭐ | ❓ UNV |
-| Open University Risk Management | Risk | **0 €** | OpenLearn badge | ⭐⭐⭐⭐ | ❓ UNV |
-| HP LIFE Agile Project Management | Projet | **0 €** | Certificat HP Foundation | ⭐⭐⭐ | ❓ UNV |
-| HP LIFE Effective Presentations | Communication | **0 €** | Certificat | ⭐⭐⭐ | ❓ UNV |
-| Semrush Academy | Marketing / SEO | **0 €** | Certifications selon catalogue | ⭐⭐⭐ | ❓ UNV |
+| Open University Leadership & Followership | Leadership | **0 €** | OpenLearn badge | ⭐⭐⭐⭐ | 🌍 INT · UK-origin |
+| Open University Risk Management | Risk | **0 €** | OpenLearn badge | ⭐⭐⭐⭐ | 🌍 INT · UK-origin |
+| HP LIFE Agile Project Management | Projet | **0 €** | Certificat HP Foundation | ⭐⭐⭐ | 🌍 INT |
+| HP LIFE Effective Presentations | Communication | **0 €** | Certificat | ⭐⭐⭐ | 🌍 INT |
+| Semrush Academy | Marketing / SEO | **0 €** | Certifications selon catalogue | ⭐⭐⭐ | 🌍 INT |
 
 ---
 

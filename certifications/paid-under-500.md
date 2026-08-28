@@ -37,24 +37,24 @@ verified: 2026-08-28
 | Certification | Domaine | Prix indicatif | Valeur CV | Portée |
 | --- | --- | ---: | :---: | :---: |
 | HashiCorp Terraform Associate | IaC / Cloud | **70,50 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
-| GitHub Foundations / Actions / Administration / Advanced Security | DevOps / GitHub | **99 $ global ; env. 76 € en France selon examen** | ⭐⭐⭐⭐ | ❓ UNV |
-| SUSE Certified Deployment Specialist in SUSE AI | Linux / Kubernetes / IA | **99 $** | ⭐⭐⭐⭐ | ❓ UNV |
+| GitHub Foundations / Actions / Administration / Advanced Security | DevOps / GitHub | **99 $ global ; env. 76 € en France selon examen** | ⭐⭐⭐⭐ | 🌍 INT |
+| SUSE Certified Deployment Specialist in SUSE AI | Linux / Kubernetes / IA | **99 $** | ⭐⭐⭐⭐ | 🌍 INT |
 | ISACA Cybersecurity Fundamentals | Cyber | **144 $ non-membre** | ⭐⭐⭐⭐ | 🌍 INT |
-| SUSE Certified Administrator — SLES / Rancher / RKE2 / NeuVector / Multi-Linux Manager | Linux / Kubernetes / sécurité | **149 $** | ⭐⭐⭐⭐ | ❓ UNV |
-| MongoDB Associate certifications | Data / DB | **150 $** | ⭐⭐⭐⭐ | ❓ UNV |
-| Palo Alto Foundational | Cyber | **150 $** | ⭐⭐⭐ | ❓ UNV |
-| SnowPro Core | Data / Snowflake | **175 $** | ⭐⭐⭐⭐ | ❓ UNV |
+| SUSE Certified Administrator — SLES / Rancher / RKE2 / NeuVector / Multi-Linux Manager | Linux / Kubernetes / sécurité | **149 $** | ⭐⭐⭐⭐ | 🌍 INT |
+| MongoDB Associate certifications | Data / DB | **150 $** | ⭐⭐⭐⭐ | 🌍 INT |
+| Palo Alto Foundational | Cyber | **150 $** | ⭐⭐⭐ | 🌍 INT |
+| SnowPro Core | Data / Snowflake | **175 $** | ⭐⭐⭐⭐ | 🌍 INT |
 | ISACA COBIT Foundation | Gouvernance | **175 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
-| LPI DevOps Tools Engineer | DevOps | **176 €** | ⭐⭐⭐⭐ | ❓ UNV |
+| LPI DevOps Tools Engineer | DevOps | **176 €** | ⭐⭐⭐⭐ | 🌍 INT |
 | TOEIC Listening & Reading | Anglais | **env. 189 € à Paris** | ⭐⭐⭐⭐⭐ | 🌍 INT |
 | Scrum.org PSM I | Agile | **200 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
-| Salesforce Administrator / Developer / Business Analyst / Consultant | CRM / Business / Dev | **200 $** | ⭐⭐⭐⭐ | ❓ UNV |
-| Databricks Data Engineer Associate | Data | **200 $** | ⭐⭐⭐⭐ | ❓ UNV |
-| Palo Alto Professional | Cyber | **200 $** | ⭐⭐⭐⭐ | ❓ UNV |
+| Salesforce Administrator / Developer / Business Analyst / Consultant | CRM / Business / Dev | **200 $** | ⭐⭐⭐⭐ | 🌍 INT |
+| Databricks Data Engineer Associate | Data | **200 $** | ⭐⭐⭐⭐ | 🌍 INT |
+| Palo Alto Professional | Cyber | **200 $** | ⭐⭐⭐⭐ | 🌍 INT |
 | NetApp certification exam | Storage | **200 $** | ⭐⭐⭐⭐ | 🌍 INT |
-| Pure Storage Associate | Storage | **200 $** | ⭐⭐⭐⭐ | ❓ UNV |
-| Google Professional Cloud Architect | Cloud architecture | **200 $** | ⭐⭐⭐⭐⭐ | ❓ UNV |
-| F5 Certified Administrator BIG-IP — parcours complet | ADC / réseau | **250 $ online (5 × 50 $)** | ⭐⭐⭐⭐⭐ | ❓ UNV |
+| Pure Storage Associate | Storage | **200 $** | ⭐⭐⭐⭐ | 🌍 INT |
+| Google Professional Cloud Architect | Cloud architecture | **200 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
+| F5 Certified Administrator BIG-IP — parcours complet | ADC / réseau | **250 $ online (5 × 50 $)** | ⭐⭐⭐⭐⭐ | 🌍 INT |
 | VMware/Broadcom VCP exam | Virtualisation / VCF | **250 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
 | Linux Foundation/CNCF Associate family | Cloud native / Linux / observabilité | **250 $** | ⭐⭐⭐⭐ | 🌍 INT |
 | HashiCorp Professional exams | Terraform / Vault | **295 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
@@ -62,8 +62,8 @@ verified: 2026-08-28
 | FinOps Certified Practitioner | FinOps | **env. 300 $ exam-only** | ⭐⭐⭐⭐⭐ | 🌍 INT |
 | TOGAF Enterprise Architecture Foundation | Architecture d'entreprise | **395 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
 | CompTIA Security+ / CySA+ / PenTest+ | Cyber | **env. 439 $** | ⭐⭐⭐⭐–⭐⭐⭐⭐⭐ | 🌍 INT |
-| LFCS / CKA / CKAD / CKS | Linux / Kubernetes | **445 $** | ⭐⭐⭐⭐⭐ | ❓ UNV |
-| Cloud Security Alliance CCSK | Cloud security | **445 $** | ⭐⭐⭐⭐⭐ | ❓ UNV |
+| LFCS / CKA / CKAD / CKS | Linux / Kubernetes | **445 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
+| Cloud Security Alliance CCSK | Cloud security | **445 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
 
 ---
 
@@ -372,9 +372,9 @@ Source : https://www.isc2.org/register-for-exam/isc2-exam-pricing
 
 | Credential | Membre | Non-membre | Portée |
 | --- | ---: | ---: | :---: |
-| Cybersecurity Fundamentals Certificate | env. **120 $** | **144 $** | ❓ UNV |
+| Cybersecurity Fundamentals Certificate | env. **120 $** | **144 $** | 🌍 INT |
 | COBIT Foundation | **175 $** | **175 $** | 🌍 INT |
-| IT Risk Fundamentals | **175 $** | **225 $** | ❓ UNV |
+| IT Risk Fundamentals | **175 $** | **225 $** | 🌍 INT |
 | COBIT Design & Implementation | **275 $** | **275 $** | 🌍 INT |
 
 Très intéressant pour compléter une trajectoire architecture → gouvernance / direction.
@@ -567,9 +567,9 @@ Source : https://trailhead.salesforce.com/credentials/verification
 | --- | ---: | :---: |
 | TOGAF Enterprise Architecture Part 1 / Foundation | **395 $** | 🌍 INT |
 | TOGAF Business Architecture Foundation | **395 $** | 🌍 INT |
-| ArchiMate Part 1 | **env. 360 $** | ❓ UNV |
-| Open Agile Architecture Practitioner | **env. 360 $** | ❓ UNV |
-| DPBoK Part 1 | **env. 360 $** | ❓ UNV |
+| ArchiMate Part 1 | **env. 360 $** | 🌍 INT |
+| Open Agile Architecture Practitioner | **env. 360 $** | 🌍 INT |
+| DPBoK Part 1 | **env. 360 $** | 🌍 INT |
 
 Le TOGAF Part 1 + Part 2 combiné dépasse généralement le seuil de cette page, mais la **Foundation seule** reste sous 500 €.
 

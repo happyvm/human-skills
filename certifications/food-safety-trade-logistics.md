@@ -26,14 +26,14 @@ verified: 2026-08-28
 
 | Credential / parcours | Prix | Domaine | Portée |
 | --- | ---: | --- | :---: |
-| SQF Advanced Practitioner Exam | **85 $** | Food safety | ❓ UNV |
+| SQF Advanced Practitioner Exam | **85 $** | Food safety | 🌍 INT |
 | IATA DGR general cargo e-learning | **170 $** | Dangerous goods / air cargo | 🌍 INT |
-| Certified SQF Practitioner | **250 $** | Food safety | ❓ UNV |
-| FSPCA PCQI Part 1 | **299 $** + Part 2 variable | FDA preventive controls | ❓ UNV |
+| Certified SQF Practitioner | **250 $** | Food safety | 🌍 INT |
+| FSPCA PCQI Part 1 | **299 $** + Part 2 variable | FDA preventive controls | 🇺🇸 US |
 | ICC Incoterms 2020 Certificate | **380 € / 399 $** | International trade | 🇺🇸 US |
 | ICC Incoterms + eBook bundle | **410 € / 429 $** | International trade | 🇺🇸 US |
 | ICC Export/Import Certificate | **670 €** observé | Import/export | 🇺🇸 US |
-| SQF Practitioner 7-course training program | **899 $** | Food safety training | ❓ UNV |
+| SQF Practitioner 7-course training program | **899 $** | Food safety training | 🌍 INT |
 | ICC CDCE | **1 060 €** | Documentary credits | 🇺🇸 US |
 | IATA DGR processing initial | **2 250 $** | Dangerous goods | 🌍 INT |
 | IATA DGR accepting initial | **2 380 $** | Dangerous goods | 🌍 INT |

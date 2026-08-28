@@ -272,7 +272,7 @@ Cela illustre l'intérêt de calculer le TCO **selon les credentials déjà dét
 | Besoin | Credential / organisme | Portée |
 | --- | --- | :---: |
 | Business valuation US/international | NACVA CVA | 🌐 MIX |
-| Appraisal multidiscipline | ASA | ❓ UNV |
+| Appraisal multidiscipline | ASA | 🌍 INT · US-centric |
 | Real estate valuation | RICS / TEGoVA / Appraisal Institute | 🌐 MIX |
 | Financial forensics | NACVA MAFF | 🌍 INT · US-centric |
 | Commercial real estate investment | CCIM | 🇺🇸 US |
