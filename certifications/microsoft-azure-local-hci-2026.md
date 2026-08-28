@@ -15,6 +15,8 @@ verified: 2026-08-28
 
 > Revue : **28 août 2026**. Objectif : distinguer les vraies certifications Microsoft, les Applied Skills et les simples learning achievements autour d'Azure Local / HCI.
 
+**Auto-formation officielle et gratuite :** [Microsoft Learn — Training](https://learn.microsoft.com/training/) — parcours complets gratuits, y compris les achievements Azure Local / Windows Server 2025.
+
 ---
 
 # Conclusion rapide

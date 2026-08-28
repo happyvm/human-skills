@@ -32,6 +32,8 @@ verified: 2026-08-28
 
 La **COA** reste la certification professionnelle officielle soutenue par l'OpenInfra Foundation pour OpenStack. L'infrastructure d'examen est administrée par **Mirantis**.
 
+**Auto-formation officielle et gratuite :** cours **OS100 OpenStack Essentials** gratuit par Mirantis, via [openstack.org/marketplace/training](https://www.openstack.org/marketplace/training/).
+
 - format : examen pratique / performance-based ;
 - administration : Mirantis pour le compte de l'écosystème OpenInfra/OpenStack ;
 - prix public Mirantis observé : **400 $** ;
@@ -56,6 +58,8 @@ Sources :
 
 ShapeBlue propose une certification technique CloudStack avec examen online proctoré.
 
+**Auto-formation officielle :** [shapeblue.com/cloudstack-training](https://www.shapeblue.com/cloudstack-training/) — bootcamps instructor-led + labs hands-on.
+
 - prix de l'examen : **100 $** ;
 - examen disponible en complément du bootcamp, avec possibilité de certification technique CloudStack ;
 - surveillance : proctoring en ligne ;
@@ -77,6 +81,8 @@ Sources :
 # OpenNebula
 
 OpenNebula dispose d'une Academy officielle et de formations certifiantes, mais les parcours certifiants dépassent actuellement le seuil de 500 €.
+
+**Auto-formation officielle :** [OpenNebula Academy](https://opennebula.io/opennebula-academy/) — documentation, tutoriels et microlearnings gratuits en complément des sessions certifiantes payantes.
 
 ## OpenNebula 7.4 Certified Administrator Training
 

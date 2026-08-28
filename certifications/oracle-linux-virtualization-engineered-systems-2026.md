@@ -15,6 +15,8 @@ verified: 2026-08-28
 
 > Revue : **28 août 2026**. Complément aux fiches OCI et Database : focus Oracle Linux, KVM/OLVM et engineered systems.
 
+**Auto-formation officielle et gratuite :** [Oracle University — MyLearn](https://mylearn.oracle.com/) — parcours self-paced sans carte bancaire requise.
+
 ---
 
 # Résumé

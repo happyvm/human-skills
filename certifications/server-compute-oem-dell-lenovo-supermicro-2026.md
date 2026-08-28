@@ -32,6 +32,8 @@ verified: 2026-08-28
 
 Dell a un portefeuille 2026 particulièrement intéressant pour l'infrastructure physique et AI/HPC.
 
+**Auto-formation officielle et gratuite :** [Dell Learning](https://learning.dell.com/) — cours fondamentaux gratuits via l'Education Services Storefront.
+
 ## Prix générique Proven Professional
 
 La documentation Dell récente indique :
@@ -134,6 +136,8 @@ Pour un partenaire éligible, **115 $** devient extrêmement compétitif.
 
 # 2. Lenovo Data Center Technical Certification
 
+**Auto-formation officielle :** study guides gratuits sur [Lenovo Press](https://lenovopress.lenovo.com/) ; premier examen de practice offert via coupon (ex. FREE-DCP115P) sur certains tracks.
+
 Lenovo publie encore en **juillet 2026** un :
 
 - **Lenovo Data Center Technical Certification Exam Study Guide** ;
@@ -170,6 +174,8 @@ Sources :
 ---
 
 # 3. Supermicro
+
+**Portail officiel :** [MySupermicro](https://mysupermicro.supermicro.com/course_calendar/US) — calendrier de formation.
 
 Supermicro dispose d'un portail partenaire avec :
 
