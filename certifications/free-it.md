@@ -1,51 +1,30 @@
 # Certifications et credentials IT gratuits — vérifiés 2026
 
-> Cette page ne mélange pas automatiquement « cours gratuit », « badge » et « certification ». Les credentials sont classés selon leur niveau de preuve.
+> Cette page distingue strictement **certification**, **credential/badge évalué**, **certificate of completion** et **promotion conditionnelle**.
 >
 > **Dernière vérification : 28 août 2026**
 
 ---
 
-# A — Examens de certification réellement gratuits
+# A — Certifications réellement gratuites et accessibles en 2026
 
 ## Commvault Readiverse
 
-Commvault constitue l'une des meilleures surprises de la revue 2026 : plusieurs parcours de certification complets sont affichés **Free**, avec **examen + supports de cours** inclus.
+Commvault reste l'une des meilleures opportunités gratuites pour les profils infrastructure / backup : plusieurs curricula standalone comprennent **examen + supports** sans obligation d'acheter l'ILT correspondant.
 
-### Commvault Professional Self-Paced Course
+Credentials/parcours gratuits observés :
 
-- coût : **0 €** ;
-- format : exam + eLearning ;
-- supports inclus ;
-- credential Commvault.
+- Commvault Professional Self-Paced Course ;
+- Advanced Configuration — CommCell Console ;
+- Certified Engineer — CommCell Console ;
+- Certified Engineer — Command Center ;
+- Certified Expert — CommCell Console.
 
-### Advanced Configuration — CommCell Console
+Les ILT équivalents peuvent coûter plusieurs milliers de dollars, mais Commvault a confirmé que les examens standalone gratuits sont les mêmes examens certifiants.
 
-- coût : **0 €** ;
-- exam + eLearning ;
-- parcours avancé d'administration CommCell.
+**Coût : 0 € / 0 $ selon curriculum.**
 
-### Certified Engineer — CommCell Console
-
-- coût du standalone exam curriculum : **0 €** ;
-- examen + course materials ;
-- l'ILT correspondant coûte environ **3 000 $**, mais n'est pas obligatoire.
-
-### Certified Engineer — Command Center
-
-- coût du standalone exam curriculum : **0 €** ;
-- examen + course materials ;
-- l'ILT correspondant existe à environ **3 000 $**, mais le même examen est accessible gratuitement via le curriculum standalone.
-
-### Certified Expert — CommCell Console
-
-- coût du standalone exam curriculum : **0 €** ;
-- examen + course materials ;
-- l'ILT correspondant est affiché autour de **5 000 $**, mais n'est pas requis pour obtenir le credential.
-
-Commvault a confirmé sur sa communauté officielle que les examens attachés aux ILT et aux curricula standalone sont les **mêmes examens**, et que les examens standalone sont gratuits.
-
-**Valeur : ⭐⭐⭐⭐⭐ pour les profils backup / data protection / infrastructure.**
+**Valeur : ⭐⭐⭐⭐⭐ pour backup / data protection / infrastructure.**
 
 Sources :
 
@@ -55,24 +34,57 @@ Sources :
 
 ---
 
+## Fortinet NSE — trois niveaux gratuits
+
+Le programme Fortinet a été **refondu le 15 juillet 2026**. Les anciennes appellations FCF/FCA ont été retirées et remplacées par des certifications NSE numérotées.
+
+### NSE 1
+
+Exigence : terminer le cours online **Cybersecurity and Cloud Fundamentals**.
+
+### NSE 2
+
+Exigence : terminer le cours online **Introduction to the Next Generation Firewall**.
+
+### NSE 3
+
+Exigences :
+
+1. terminer le cours online **FortiGate Operator** ;
+2. réussir l'examen online **NSE 3 FortiGate Operator**.
+
+Fortinet indique que ses cours self-paced sont gratuits. Les niveaux NSE 1–3 sont délivrés via la plateforme de formation Fortinet et ne nécessitent pas l'achat des vouchers Pearson VUE utilisés à partir de NSE 4.
+
+**Coût : 0 $ pour NSE 1 / NSE 2 / NSE 3 via le parcours online.**
+
+**Validité : 2 ans.**
+
+**Valeur : ⭐⭐⭐⭐ ; NSE 3 est particulièrement intéressant pour réseau/sécurité.**
+
+Sources :
+
+- https://helpdesk.training.fortinet.com/support/solutions/articles/73000665750-how-will-the-nse-program-be-expanded-from-5-levels-to-8-levels-
+- https://helpdesk.training.fortinet.com/support/solutions/articles/73000665752-how-will-the-cybersecurity-fundamentals-training-be-organized-
+- https://helpdesk.training.fortinet.com/support/solutions/articles/73000665753-what-are-the-new-certification-requirements-
+- https://www.fortinet.com/training-certification
+
+---
+
 ## Neo4j GraphAcademy
 
 ### Neo4j Certified Professional
 
-- coût examen : **0 €** ;
-- retakes : **gratuits** ;
-- durée : 1 heure ;
+- examen : **0 $** ;
+- retakes gratuits ;
 - 80 questions ;
-- score de réussite : 80 % ;
-- credential vérifiable ;
-- certification sans expiration formelle.
-
-**Valeur : ⭐⭐⭐⭐**
+- 1 heure ;
+- 80 % requis ;
+- credential vérifiable.
 
 ### Neo4j Graph Data Science Certification
 
-- coût : **0 €** ;
-- retakes : gratuits ;
+- examen : **0 $** ;
+- retakes gratuits ;
 - 50 questions ;
 - 1 heure ;
 - 80 % requis.
@@ -88,7 +100,7 @@ Source : https://graphacademy.neo4j.com/certifications
 ### L1 — Basic Proficiency in KNIME Analytics Platform
 
 - examen on-demand ;
-- coût : **0 €** ;
+- coût : **0 $** ;
 - data preparation ;
 - transformation ;
 - agrégation ;
@@ -101,24 +113,135 @@ Source : https://www.knime.com/certification-program
 
 ---
 
-## Oracle University
+## Oracle — Foundations toujours gratuites
 
-Les programmes Oracle évoluent régulièrement. En 2026, plusieurs credentials OCI sont proposés gratuitement, notamment les niveaux Foundations et certaines campagnes ciblées.
+Oracle distingue clairement ses certifications Foundations des niveaux Associate/Professional payants.
 
-Priorités à surveiller / passer lorsque le checkout confirme 0 € :
+Oracle University confirme comme certifications Foundations gratuites :
 
-- OCI Foundations Associate ;
-- OCI AI Foundations Associate ;
-- Oracle Data Platform Foundations Associate ;
-- Oracle Agentic AI Foundations Associate ;
-- OCI Architect Associate lorsque l'offre gratuite 2026 est disponible ;
-- Multicloud Foundations.
+- **Oracle Cloud Infrastructure Foundations Associate** ;
+- **OCI AI Foundations Associate** ;
+- **Oracle Data Platform Foundations Associate**.
 
-**Valeur : ⭐⭐⭐⭐ à ⭐⭐⭐⭐⭐ selon le niveau.**
+Oracle indique que ces trois certifications sont gratuites et autorisent autant de tentatives que nécessaire.
 
-Source : https://www.oracle.com/education/certification/
+### Oracle Agentic AI Foundations Associate
 
-> Toujours vérifier le prix immédiatement avant inscription : Oracle utilise régulièrement des campagnes gratuites limitées dans le temps ou par type de certification.
+Lancée en juin 2026 :
+
+- formation gratuite ;
+- **examen de certification explicitement gratuit** ;
+- agents, reasoning patterns, LangChain/OpenAI agent stack, MCP, OCI Enterprise AI et Oracle AI Database.
+
+**Valeur : ⭐⭐⭐⭐ ; Agentic AI Foundations est particulièrement actuelle en 2026.**
+
+Sources :
+
+- https://blogs.oracle.com/oracleuniversity/youre-ready-to-get-oracle-certified-now-what
+- https://blogs.oracle.com/oracleuniversity/oracle-agentic-ai-foundations-training-certification-now-available
+- https://learn.oracle.com/
+
+### À ne pas mélanger
+
+Les certifications OCI Associate/Professional hors Foundations sont normalement payantes (Oracle cite **245 $** pour le reste du core OCI), sauf promotion ou voucher spécifique.
+
+---
+
+## Dataiku Academy — certifications gratuites
+
+Dataiku maintient un vrai catalogue de certifications Academy et l'équipe Dataiku confirme que **toutes les certifications Academy sont disponibles gratuitement**.
+
+Parmi les certifications visibles :
+
+- **Core Designer Certificate** ;
+- **ML Practitioner Certificate** ;
+- **Advanced Designer Certificate** ;
+- **Developer Certificate** ;
+- credentials/certifications MLOps et autres parcours selon les prérequis du graphe Academy.
+
+Les examens sont des évaluations dédiées ; le Core Designer et le Developer affichent par exemple un bloc d'évaluation de 120 minutes.
+
+Une instance Dataiku est nécessaire pour certains exercices ; une édition gratuite existe pour l'apprentissage.
+
+**Coût des certifications : 0 $.**
+
+**Valeur : ⭐⭐⭐⭐ pour data / analytics / MLOps.**
+
+Sources :
+
+- https://academy.dataiku.com/page/certifications
+- https://academy.dataiku.com/exam-course
+- https://academy.dataiku.com/developer-certificate
+- https://community.dataiku.com/discussion/45388/prix-de-la-certification-core-designer
+
+---
+
+## Alteryx Designer Core
+
+Alteryx maintient le **Designer Core Certification** comme certification gratuite :
+
+- coût : **0 $** ;
+- online ;
+- on-demand ;
+- open-book ;
+- questions théoriques + practical application ;
+- retake disponible selon politique du programme.
+
+Alteryx a commencé une refonte de son programme en 2026 et plusieurs anciens micro-credentials ont été retirés en janvier 2026. **Designer Core reste cependant explicitement présenté comme gratuit dans la documentation actuelle.**
+
+**Valeur : ⭐⭐⭐⭐ pour data prep / analytics.**
+
+Sources :
+
+- https://community.alteryx.com/discussion/1076389/the-updated-designer-core-certification-exam-is-now-live
+- https://community.alteryx.com/pvsmt99345/attachments/pvsmt99345/designer-discussions/153289/1/Core%2BCertification%2BExam%2BPrep%2BGuide.pdf
+- https://community.alteryx.com/discussion/1420550/evolving-the-alteryx-certification-program
+
+---
+
+## HackerRank Certifications
+
+HackerRank confirme en 2026 que ses certifications sont des **assessments gratuits et chronométrés** destinés à démontrer des compétences techniques auprès des employeurs.
+
+### 21 certifications skill-based
+
+Catalogue actuel :
+
+- Problem Solving Basic ;
+- Problem Solving Intermediate ;
+- SQL Basic ;
+- SQL Intermediate ;
+- SQL Advanced ;
+- R Basic ;
+- R Intermediate ;
+- REST API Intermediate ;
+- JavaScript Basic ;
+- JavaScript Intermediate ;
+- React Basic ;
+- Angular Basic ;
+- Angular Intermediate ;
+- C# Basic ;
+- CSS Basic ;
+- Go Basic ;
+- Go Intermediate ;
+- Python Basic ;
+- Java Basic ;
+- Node.js Basic ;
+- Node.js Intermediate.
+
+### Certifications role-based
+
+- Software Engineer ;
+- Software Engineer Intern ;
+- Front-End Developer (React).
+
+Chaque assessment comporte généralement 2 à 4 questions chronométrées.
+
+**Coût : 0 $.**
+
+**Valeur : ⭐⭐⭐ pour dev / recrutement technique ; très bon signal complémentaire pour SQL/Python/REST.**
+
+Source : https://help.hackerrank.com/articles/2563639100
 
 ---
 
@@ -126,7 +249,7 @@ Source : https://www.oracle.com/education/certification/
 
 ## Microsoft Applied Skills
 
-Les Applied Skills sont des credentials Microsoft basés sur une évaluation pratique, distincts des certifications Microsoft Certified classiques.
+Les Applied Skills sont des credentials Microsoft vérifiés, basés sur une évaluation pratique, mais distincts des certifications Microsoft Certified classiques.
 
 Exemples intéressants :
 
@@ -135,7 +258,7 @@ Exemples intéressants :
 - Deploy and configure Azure Monitor ;
 - autres Applied Skills Azure / Security / Microsoft 365 selon catalogue.
 
-**Coût de l'évaluation : 0 € lorsqu'indiqué comme gratuit dans Microsoft Learn.**
+**Coût : 0 € lorsque l'assessment est indiqué gratuit dans Microsoft Learn.**
 
 **Valeur : ⭐⭐⭐⭐**
 
@@ -145,9 +268,7 @@ Source : https://learn.microsoft.com/credentials/applied-skills/
 
 ## Qualys Training & Certification
 
-Qualys propose un ensemble de parcours de formation et certifications accessibles gratuitement.
-
-Priorités :
+Qualys propose gratuitement de nombreux parcours de formation et certifications :
 
 - VMDR ;
 - Policy Audit / Compliance ;
@@ -165,27 +286,17 @@ Source : https://www.qualys.com/training/
 
 ## Tigera / Project Calico
 
-Plusieurs parcours `Certified Calico Operator` sont toujours affichés **Free** dans Tigera Academy.
+Parcours gratuits `Certified Calico Operator` observés :
 
-### Certified Calico Operator — Level 1
+- Certified Calico Operator — Level 1 ;
+- AWS Expert ;
+- Azure Expert ;
+- eBPF.
 
-Kubernetes networking et network security avec Calico.
-
-### Certified Calico Operator — AWS Expert
-
-Calico + EKS / AWS networking.
-
-### Certified Calico Operator — Azure Expert
-
-Calico + AKS / Azure networking.
-
-### Certified Calico Operator — eBPF
-
-Calico eBPF dataplane, Kubernetes, troubleshooting, WireGuard et networking avancé.
-
-**Valeur : ⭐⭐⭐ à ⭐⭐⭐⭐**
+**Valeur : ⭐⭐⭐⭐ pour Kubernetes networking/security.**
 
 Sources :
+
 - https://academy.tigera.io/course/certified-calico-operator-level-1/
 - https://academy.tigera.io/course/certified-calico-operator-aws-expert/
 - https://academy.tigera.io/course/certified-calico-operator-azure-expert/
@@ -193,38 +304,82 @@ Sources :
 
 ---
 
+## OPSWAT Academy — ICIP
+
+### Introduction to Critical Infrastructure Protection (ICIP)
+
+OPSWAT propose un credential foundational gratuit :
+
+- coût : **0 $** ;
+- cours gratuit ;
+- quiz final ;
+- certificate inclus ;
+- badge/credential vérifiable ;
+- Credly le classe comme `Certification`, niveau Foundational.
+
+Les autres certifications Associate OPSWAT sont désormais généralement payantes (environ 50 $ par cours/exam), donc ne pas extrapoler la gratuité de l'ICIP à tout le catalogue.
+
+**Valeur : ⭐⭐⭐ pour OT / critical infrastructure.**
+
+Sources :
+
+- https://opswatacademy.com/introduction-critical-infrastructure-protection
+- https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip
+- https://opswatacademy.com/company/faqs
+
+---
+
+## AttackIQ Academy
+
+AttackIQ Academy est un programme cybersecurity gratuit centré sur :
+
+- MITRE ATT&CK ;
+- threat-informed defense ;
+- purple teaming ;
+- breach and attack simulation ;
+- AI security ;
+- NIST / ATT&CK mapping.
+
+Les cours comprennent évaluations, badges, certificates of achievement et CPE. Il s'agit davantage de **credentials Academy** que de certifications high-stakes proctorées.
+
+Exemple : `Mapping MITRE ATT&CK to CVE for Impact` exige **80 %** au final assessment.
+
+**Coût : 0 $.**
+
+Source : https://www.academy.attackiq.com/
+
+---
+
 ## Atlassian Certificates
 
-Atlassian distingue désormais :
+Atlassian distingue :
 
-- **Certificates** : examens gratuits et non proctorés ;
-- **Certified Associate** : 100 $ ;
-- **Certified Professional** : 249 $.
+- **Certificates** : gratuits et non proctorés ;
+- **Certified Associate** : payant ;
+- **Certified Professional** : payant.
 
-Les Certificates gratuits peuvent être intéressants pour Jira / Confluence / Atlassian Cloud, mais doivent être présentés comme **Atlassian Certificate**, pas comme ACP.
+Les Certificates gratuits sont intéressants pour Jira / Confluence / Atlassian Cloud mais doivent être présentés comme `Atlassian Certificate`, pas comme certification ACP.
 
 Source : https://community.atlassian.com/learning/hub/resources-and-support/about-atlassian-credentials/
 
 ---
 
-# C — Gratuit sous conditions
+# C — Gratuit sous conditions / promotions
 
-## MongoDB — étudiants GitHub Student Developer Pack
+## MongoDB — GitHub Student Developer Pack
 
-MongoDB confirme en 2026 que les étudiants éligibles peuvent obtenir :
+Les étudiants éligibles peuvent obtenir :
 
-- 50 $ de crédits Atlas ;
-- un **voucher de certification gratuit** après achèvement du learning path ;
-- éligibilité liée au GitHub Student Developer Pack.
+- crédits Atlas ;
+- **voucher de certification gratuit** après achèvement du learning path ;
+- selon l'offre Student Developer Pack en cours.
 
-Les certifications MongoDB coûtent normalement environ **150 $**.
-
-Credentials potentiellement concernés selon le parcours :
+Credentials concernés selon parcours :
 
 - Associate Developer ;
 - Associate Database Administrator.
 
-**Valeur : ⭐⭐⭐⭐**
+Prix normal d'un examen MongoDB : environ 150 $.
 
 Source : https://www.mongodb.com/academia
 
@@ -232,78 +387,98 @@ Source : https://www.mongodb.com/academia
 
 ## GitHub Certifications — étudiants
 
-Les étudiants GitHub Education vérifiés peuvent obtenir, **dans la limite des vouchers disponibles**, un voucher utilisable pour :
+Les étudiants GitHub Education vérifiés peuvent obtenir, dans la limite des vouchers disponibles, un voucher pour certaines certifications GitHub telles que Foundations ou Copilot via les offres Student Developer Pack actives.
 
-- GitHub Foundations ;
-- GitHub Copilot.
-
-Le mécanisme 2026 passe par le Student Developer Pack / DataCamp et nécessite l'achèvement du parcours GitHub Foundations.
-
-**Prix normal : 99 $ global avec tarification régionale.**
+Prix normal global : environ 99 $ avec tarification régionale.
 
 Source : https://learn.github.com/certifications
 
 ---
 
-# D — Developer credentials / portfolios gratuits
+## Oracle Race to Certification 2025 — reliquat 2026
 
-## freeCodeCamp
+La campagne 2025 est terminée pour les nouvelles inscriptions, mais certains participants ayant atteint les niveaux requis ont obtenu des tentatives professionnelles **valides jusqu'au 31 octobre 2026**.
 
-freeCodeCamp fournit gratuitement plusieurs certifications de développement basées sur des projets.
+À considérer uniquement si le voucher est déjà présent dans le compte Oracle.
 
-Exemples :
+Source : https://blogs.oracle.com/oracleuniversity/announcing-race-to-certification-2025
+
+---
+
+## ISC2 Certified in Cybersecurity — anciens inscrits uniquement
+
+Le programme **One Million Certified in Cybersecurity** a fermé les nouvelles inscriptions le **20 mai 2026** après avoir dépassé le million de participants.
+
+Si un code d'examen gratuit a déjà été émis et n'est pas expiré :
+
+- le CC peut encore être passé gratuitement ;
+- dernier délai annoncé : **31 décembre 2026**.
+
+Pour un nouveau candidat au 28 août 2026, l'examen n'est plus gratuit via ce programme.
+
+Source : https://www.isc2.org/landing/1mcc
+
+---
+
+## UiPath Community Certification Framework — campagne clôturée
+
+UiPath a offert en 2025 / début 2026 des vouchers officiels gratuits pour de nombreuses certifications professionnelles : Agentic Automation, Infrastructure Engineer, Automation Developer, Solution Architect, etc.
+
+La campagne concernée a fermé ses tracks en janvier/février 2026. À conserver comme **watchlist promotionnelle**, pas comme gratuité permanente.
+
+Source : https://community.uipath.com/
+
+---
+
+# D — Developer certifications gratuites / portfolio technique
+
+## freeCodeCamp — certifications vérifiées gratuites
+
+freeCodeCamp propose plusieurs certifications développeur gratuites basées sur :
+
+- cours interactifs ;
+- labs ;
+- projets obligatoires ;
+- examen final ;
+- lien de vérification public.
+
+Curriculum Full-Stack actuel :
 
 - Responsive Web Design ;
-- JavaScript Algorithms and Data Structures ;
-- Front End Development Libraries ;
-- Back End Development and APIs ;
-- Relational Database ;
-- Scientific Computing with Python ;
-- Data Analysis with Python ;
-- autres nouveaux parcours en évolution.
-
-Ce ne sont pas des examens proctorés éditeur au sens Oracle/Microsoft, mais les certifications sont gratuites et vérifiables.
-
-**Valeur : ⭐⭐⭐ pour portfolio / reconversion / dev.**
-
-Source : https://www.freecodecamp.org/learn/
-
----
-
-## HackerRank Skills Verification
-
-HackerRank propose des évaluations de compétences et certificats vérifiables sur différentes technologies.
-
-Exemples historiques / selon catalogue :
-
-- SQL ;
-- Python ;
-- Java ;
 - JavaScript ;
-- Software Engineer ;
-- frontend / problem solving.
+- Front-End Development Libraries ;
+- Python ;
+- Relational Databases ;
+- Back-End Development and APIs.
 
-À présenter comme **skills certification / assessment**, et non comme certification éditeur d'infrastructure.
+freeCodeCamp indique qu'il faut notamment terminer **5 projets obligatoires** dans chaque certification avant de pouvoir passer l'examen et réclamer le credential.
 
-Source : https://www.hackerrank.com/skills-verification
+**Coût : 0 $.**
+
+**Valeur : ⭐⭐⭐ pour portfolio, dev et reconversion ; signal inférieur à une certification proctored vendor mais beaucoup plus sérieux qu'un simple certificat de vidéo.**
+
+Sources :
+
+- https://github.com/freeCodeCamp/freeCodeCamp
+- https://www.freecodecamp.org/learn/
 
 ---
 
-# E — À surveiller mais pas encore classé comme « confirmé gratuit général »
+# E — À surveiller / statut non suffisamment certain
 
 ## ArangoDB Certified Professional
 
-Le programme de certification est toujours référencé par ArangoDB et historiquement gratuit avec retakes illimités. Le prix n'est cependant pas suffisamment explicite sur la page actuelle pour le classer sans réserve.
+Programme toujours référencé et historiquement gratuit avec retakes illimités, mais prix actuel insuffisamment explicite.
 
-**Statut : 🟡 à revérifier au moment de l'inscription.**
+**Statut : 🟡 revalider avant classement.**
 
 Source : https://arangodb.com/learn/
 
 ## Codefresh GitOps Certification
 
-Le programme GitOps / Argo existe toujours avec plusieurs niveaux et badges Credly. Des publications Codefresh ont historiquement indiqué une inscription gratuite.
+Programme GitOps / Argo avec badges et certifications historiques. Certaines campagnes ont été gratuites mais le prix live doit être vérifié dans le LMS avant de le classer en gratuit permanent.
 
-**Statut : 🟡 vérifier le prix actuel dans learning.codefresh.io avant classement définitif.**
+**Statut : 🟡**
 
 Source : https://codefresh.io/blog/enterprise-gitops-certification-announcement/
 
@@ -311,33 +486,59 @@ Source : https://codefresh.io/blog/enterprise-gitops-certification-announcement/
 
 # F — Anciennes gratuités devenues payantes ou retirées
 
-| Ancienne certification | Statut 2026 |
+| Ancienne gratuité | Statut au 28 août 2026 |
 |---|---|
-| Sumo Logic certifications | ❌ examens désormais 100–150 $ |
-| GitLab certifications | ❌ examens actuellement payants |
-| Redis Certified Developer | ❌ retirée en 2024 |
-| ISC2 CC « One Million Certified » | ❌ offre gratuite terminée pour nouveaux candidats |
-| Salesforce AI Associate gratuite | ❌ certification retirée le 2 février 2026 |
-| Zerto University | ❌ plateforme décommissionnée août 2025, migration HPE |
-| anciennes offres Microsoft Ignite | ❌ promotions historiques |
+| Fortinet FCF / FCA | ♻️ retirés le 15/07/2026 ; remplacés par NSE 1 / 2 / 3 |
+| Sumo Logic certifications | ❌ examens payants |
+| GitLab certifications | ❌ prix live checkout / plus gratuit permanent |
+| Redis Certified Developer | ❌ retirée |
+| ISC2 CC One Million | ❌ fermé aux nouveaux candidats le 20/05/2026 |
+| Salesforce AI Associate | ❌ retirée le 02/02/2026 |
+| Zerto University | ❌ plateforme décommissionnée, migration HPE |
+| UiPath CCF 2025 | ❌ campagne de vouchers clôturée début 2026 |
+| anciennes campagnes Microsoft Ignite | ❌ promotions historiques |
 | anciennes campagnes Nutanix gratuites | ❌ promotions historiques |
+| Postman Student Expert | ❌ programme Student sunset en mars 2026 |
 
 ---
 
-# Priorité gratuite 2026
+# Shortlist gratuite IT — ordre de ROI
 
 Pour maximiser le signal professionnel sans dépenser :
 
-1. **Commvault Professional / Engineer / Expert** — particulièrement fort pour backup / infrastructure ;
-2. Oracle OCI Architect Associate — **si checkout gratuit** ;
-3. Neo4j Certified Professional ;
-4. Neo4j Graph Data Science ;
-5. Microsoft Applied Skills utiles au métier ;
-6. Qualys VMDR ;
-7. Qualys Policy Audit ;
-8. KNIME L1 ;
-9. Tigera Certified Calico Operator L1 ;
-10. Calico eBPF ;
-11. GitHub certification si éligible étudiant ;
-12. MongoDB certification si éligible étudiant ;
-13. freeCodeCamp / HackerRank selon objectif développement.
+1. **Commvault Engineer / Expert** — infrastructure / backup ;
+2. **Fortinet NSE 3** — network security / FortiGate ;
+3. **Oracle OCI Foundations** ;
+4. **Oracle Agentic AI Foundations** ;
+5. **Oracle AI Foundations** ;
+6. **Oracle Data Platform Foundations** ;
+7. **Dataiku Core Designer** ;
+8. **Dataiku Developer / ML Practitioner / MLOps selon profil** ;
+9. **Qualys VMDR** ;
+10. **Qualys Policy Audit / CSAM** ;
+11. **Neo4j Certified Professional** ;
+12. **Neo4j Graph Data Science** ;
+13. **Alteryx Designer Core** ;
+14. **Tigera Calico Operator L1 / eBPF** ;
+15. **Microsoft Applied Skills** ciblés ;
+16. **KNIME L1** ;
+17. **HackerRank SQL Advanced / Python / REST / Software Engineer** ;
+18. **OPSWAT ICIP** ;
+19. **AttackIQ MITRE ATT&CK / Purple Team credentials** ;
+20. **freeCodeCamp Python / Relational Databases / Back-End APIs**.
+
+---
+
+# Règle de maintenance
+
+Avant d'ajouter une offre à cette page, vérifier :
+
+```text
+1. L'évaluation finale est-elle réellement gratuite ?
+2. Le credential est-il encore actif en 2026 ?
+3. Faut-il une subscription/client/partner/student entitlement ?
+4. Est-ce une certification, un badge, ou seulement un certificate of completion ?
+5. La gratuité est-elle permanente ou limitée dans le temps ?
+```
+
+Ne jamais transformer un ancien prix, une campagne expirée ou un simple cours gratuit en « certification gratuite » sans preuve actuelle.
