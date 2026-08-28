@@ -70,7 +70,7 @@ Source : https://www.pmi.org/certifications/construction
 
 ### Professional level
 
-- **CCP — Certified Cost Professional** — CERT — nouvelles candidatures temporairement suspendues depuis le 1er juillet 2026 lors de la revue
+- **CCP — Certified Cost Professional** — CERT — nouvelles candidatures temporairement suspendues depuis le 1er juillet 2026 lors de la revue — 🌍 INT
 - **CEP — Certified Estimating Professional** — CERT — 🌍 INT
 - **EVP — Earned Value Professional** — CERT — 🌍 INT
 - **PSP — Planning & Scheduling Professional** — CERT — 🌍 INT
@@ -122,8 +122,8 @@ Source : https://www.professionalconstructor.org/
 
 ## Construction Specifications Institute — CSI
 
-- **CDT — Construction Documents Technologist** — CERT
-- **CCS — Certified Construction Specifier** — CERT
+- **CDT — Construction Documents Technologist** — CERT — 🇺🇸 US
+- **CCS — Certified Construction Specifier** — CERT — 🇺🇸 US
 - **CCCA — Certified Construction Contract Administrator** — CERT — 🇺🇸 US
 - **CCPR — Certified Construction Product Representative** — CERT — 🇺🇸 US
 
@@ -133,8 +133,8 @@ Source : https://www.csiresources.org/certification
 
 ## American Society of Professional Estimators — ASPE
 
-- **AEP — Associate Estimating Professional** — CERT / early-career
-- **CPE — Certified Professional Estimator** — CERT
+- **AEP — Associate Estimating Professional** — CERT / early-career — 🇺🇸 US
+- **CPE — Certified Professional Estimator** — CERT — 🇺🇸 US
 
 Source : https://www.aspenational.org/page/Certification
 
@@ -191,7 +191,7 @@ Sources :
 
 ## AIQS — Australian Institute of Quantity Surveyors
 
-- **CQS — Certified Quantity Surveyor** — QUAL / designation professionnelle
+- **CQS — Certified Quantity Surveyor** — QUAL / designation professionnelle — 🇦🇺 AU
 
 Source : https://www.aiqs.com.au/
 
@@ -199,8 +199,8 @@ Source : https://www.aiqs.com.au/
 
 ## CIQS — Canadian Institute of Quantity Surveyors
 
-- **PQS — Professional Quantity Surveyor** — QUAL
-- **CEC — Construction Estimator Certified** — QUAL
+- **PQS — Professional Quantity Surveyor** — QUAL — 🇨🇦 CA
+- **CEC — Construction Estimator Certified** — QUAL — 🇨🇦 CA
 
 Source : https://ciqs.org/
 
@@ -233,8 +233,8 @@ Source : https://www.ice.org.uk/membership
 ## IStructE — Institution of Structural Engineers
 
 - **MIStructE / Chartered Structural Engineer** — QUAL avec Professional Review + Chartered Membership Examination — 🌍 INT · UK-origin
-- **Incorporated-Member** — QUAL
-- **FIStructE — Fellow** — QUAL / senior
+- **Incorporated-Member** — QUAL — 🌍 INT · UK-origin
+- **FIStructE — Fellow** — QUAL / senior — 🌍 INT · UK-origin
 
 Source : https://www.istructe.org/training-and-development/membership-exams/
 
@@ -242,10 +242,10 @@ Source : https://www.istructe.org/training-and-development/membership-exams/
 
 ## CIBSE — Chartered Institution of Building Services Engineers
 
-- **LCIBSE / EngTech** — QUAL
-- **ACIBSE / IEng** — QUAL
-- **MCIBSE / CEng** — QUAL
-- **FCIBSE / CEng** — QUAL / senior
+- **LCIBSE / EngTech** — QUAL — 🌍 INT · UK-origin
+- **ACIBSE / IEng** — QUAL — 🌍 INT · UK-origin
+- **MCIBSE / CEng** — QUAL — 🌍 INT · UK-origin
+- **FCIBSE / CEng** — QUAL / senior — 🌍 INT · UK-origin
 
 Source : https://www.cibse.org/registration
 
@@ -319,8 +319,8 @@ Source : https://ppp-certification.com/
 
 ## buildingSMART Professional Certification
 
-- **Foundation Level** — CERT / knowledge credential
-- **Practitioner Level** — CERT / applied professional certification selon programme reconnu
+- **Foundation Level** — CERT / knowledge credential — 🌍 INT
+- **Practitioner Level** — CERT / applied professional certification selon programme reconnu — 🌍 INT
 
 Source : https://education.buildingsmart.org/
 
@@ -428,11 +428,11 @@ Source : https://edgebuildings.com/
 
 ## Passive House Institute — PHI
 
-- **Certified Passive House Designer** — CERT
-- **Certified Passive House Consultant** — CERT
-- **Certified Passive House Tradesperson** — CERT
+- **Certified Passive House Designer** — CERT — 🌍 INT · DE-origin
+- **Certified Passive House Consultant** — CERT — 🌍 INT · DE-origin
+- **Certified Passive House Tradesperson** — CERT — 🌍 INT · DE-origin
 - **PHPP Expert** — add-on qualification — 🌍 INT · DE-origin
-- **Accredited Passive House Certifier for Buildings** — ACC
+- **Accredited Passive House Certifier for Buildings** — ACC — 🌍 INT · DE-origin
 
 Source : https://passivehouse.com/
 
@@ -515,7 +515,7 @@ Source : https://www.dgnb.de/en/academy/qualifications
 
 ## Green Star — Green Building Council of Australia
 
-- **Green Star Accredited Professional — GSAP** — ACC
+- **Green Star Accredited Professional — GSAP** — ACC — 🇦🇺 AU
 
 Source : https://new.gbca.org.au/green-star/green-star-accredited-professional/
 
@@ -523,7 +523,7 @@ Source : https://new.gbca.org.au/green-star/green-star-accredited-professional/
 
 ## NABERS Australia
 
-- **NABERS Accredited Assessor** — ACC
+- **NABERS Accredited Assessor** — ACC — 🇦🇺 AU
 
 Spécialisations possibles dans le registre selon asset/rating : énergie, eau, déchets, indoor environment, embodied carbon, etc.
 
@@ -533,10 +533,10 @@ Source : https://www.nabers.gov.au/accredited-assessors
 
 ## Singapore Green Mark professional qualification scheme
 
-- **Green Mark Accredited Professional — Green Mark AP** — QUAL/ACC
-- **Green Mark AP (Facilities Management)** — QUAL/ACC
-- **Green Mark Advanced Accredited Professional — Green Mark AAP** — QUAL/ACC
-- **Green Mark AAP (Facilities Management)** — QUAL/ACC
+- **Green Mark Accredited Professional — Green Mark AP** — QUAL/ACC — 🇸🇬 SG
+- **Green Mark AP (Facilities Management)** — QUAL/ACC — 🇸🇬 SG
+- **Green Mark Advanced Accredited Professional — Green Mark AAP** — QUAL/ACC — 🇸🇬 SG
+- **Green Mark AAP (Facilities Management)** — QUAL/ACC — 🇸🇬 SG
 
 Source : https://www1.bca.gov.sg/buildsg/sustainability/green-mark-certification-scheme/green-mark-professional-qualification-scheme
 
@@ -560,10 +560,10 @@ Source : https://www.ngbs.com/education/become-ngbs-green-verifier
 Certifications individuelles visibles dans les standards / code of ethics 2026 :
 
 - **Certified HERS Rater** — CERT — 🇺🇸 US
-- **Rating Field Inspector — RFI** — CERT
+- **Rating Field Inspector — RFI** — CERT — 🇺🇸 US
 - **HERS Modeler** — CERT — 🇺🇸 US
-- **HERSH2O Rater** — CERT
-- **Quality Assurance Designee — QAD** — CERT / QA role
+- **HERSH2O Rater** — CERT — 🇺🇸 US
+- **Quality Assurance Designee — QAD** — CERT / QA role — 🇺🇸 US
 - **RESNET Instructor** — CERT / trainer role — 🇺🇸 US
 
 Source : https://www.resnet.us/raters/
@@ -574,18 +574,18 @@ Source : https://www.resnet.us/raters/
 
 ### Certifications
 
-- **Building Analyst Technician — BA-T** — CERT
-- **Building Analyst Professional — BA-P** — CERT
-- **Energy Auditor — EA** — CERT
-- **Quality Control Inspector — QCI** — CERT
-- **AC / Heat Pump Professional** — CERT
-- **Air Leakage Control Installer** — CERT
-- **Heating Professional** — CERT
+- **Building Analyst Technician — BA-T** — CERT — 🇺🇸 US
+- **Building Analyst Professional — BA-P** — CERT — 🇺🇸 US
+- **Energy Auditor — EA** — CERT — 🇺🇸 US
+- **Quality Control Inspector — QCI** — CERT — 🇺🇸 US
+- **AC / Heat Pump Professional** — CERT — 🇺🇸 US
+- **Air Leakage Control Installer** — CERT — 🇺🇸 US
+- **Heating Professional** — CERT — 🇺🇸 US
 - **Healthy Home Evaluator — HHE** — CERT, nécessite une certification BPI éligible active — 🇺🇸 US
-- **Infiltration & Duct Leakage — IDL** — CERT
-- **Manufactured Housing** — CERT
-- **Multifamily Building Analyst** — CERT
-- **Multifamily Building Operator** — CERT
+- **Infiltration & Duct Leakage — IDL** — CERT — 🇺🇸 US
+- **Manufactured Housing** — CERT — 🇺🇸 US
+- **Multifamily Building Analyst** — CERT — 🇺🇸 US
+- **Multifamily Building Operator** — CERT — 🇺🇸 US
 
 BPI sépare aussi des **Certificates** de ses certifications professionnelles : Building Science Principles, Healthy Housing Principles, Site Supervisor Certificate, etc.
 
@@ -597,13 +597,13 @@ Source : https://www.bpi.org/resources/
 
 ## ASHRAE — 7 certifications ANAB / ISO 17024
 
-- **BCxP — Building Commissioning Professional** — CERT
-- **BEAP — Building Energy Assessment Professional** — CERT
-- **BEMP — Building Energy Modeling Professional** — CERT
-- **CHD — Certified HVAC Designer** — CERT
-- **HBDP — High-Performance Building Design Professional** — CERT
-- **HFDP — Healthcare Facility Design Professional** — CERT
-- **OPMP — Operations & Performance Management Professional** — CERT
+- **BCxP — Building Commissioning Professional** — CERT — 🌍 INT · US std
+- **BEAP — Building Energy Assessment Professional** — CERT — 🌍 INT · US std
+- **BEMP — Building Energy Modeling Professional** — CERT — 🌍 INT · US std
+- **CHD — Certified HVAC Designer** — CERT — 🌍 INT · US std
+- **HBDP — High-Performance Building Design Professional** — CERT — 🌍 INT · US std
+- **HFDP — Healthcare Facility Design Professional** — CERT — 🌍 INT · US std
+- **OPMP — Operations & Performance Management Professional** — CERT — 🌍 INT · US std
 
 Source : https://www.ashrae.org/professional-development/ashrae-certification
 
@@ -615,18 +615,18 @@ Portefeuille utile au built environment :
 
 - **CEM — Certified Energy Manager** — CERT — 🌍 INT · US std
 - **CEA — Certified Energy Auditor** — CERT — 🌍 INT · US std
-- **CBCP — Certified Building Commissioning Professional** — CERT
+- **CBCP — Certified Building Commissioning Professional** — CERT — 🌍 INT · US std
 - **CMVP — Certified Measurement & Verification Professional** — CERT — 🌍 INT · US std
-- **BEP — Business Energy Professional** — CERT
-- **CIEP — Certified Industrial Energy Professional** — CERT
-- **CLEP — Certified Lighting Efficiency Professional** — CERT
-- **CWEP — Certified Water Efficiency Professional** — CERT
-- **EEP — Energy Efficiency Practitioner** — CERT
-- **REP — Certified Renewable Energy Professional** — CERT
-- **CAP — Carbon Auditing Professional** — CERT
-- **CDSM — Certified Demand Side Manager** — CERT
-- **PCF — Certified Performance Contracting & Funding Professional** — CERT
-- **50001 Certified Professional** — CERT
+- **BEP — Business Energy Professional** — CERT — 🌍 INT · US std
+- **CIEP — Certified Industrial Energy Professional** — CERT — 🌍 INT · US std
+- **CLEP — Certified Lighting Efficiency Professional** — CERT — 🌍 INT · US std
+- **CWEP — Certified Water Efficiency Professional** — CERT — 🌍 INT · US std
+- **EEP — Energy Efficiency Practitioner** — CERT — 🌍 INT · US std
+- **REP — Certified Renewable Energy Professional** — CERT — 🌍 INT · US std
+- **CAP — Carbon Auditing Professional** — CERT — 🌍 INT · US std
+- **CDSM — Certified Demand Side Manager** — CERT — 🌍 INT · US std
+- **PCF — Certified Performance Contracting & Funding Professional** — CERT — 🌍 INT · US std
+- **50001 Certified Professional** — CERT — 🌍 INT · US std
 
 **EBCP — Existing Building Commissioning Professional** : legacy ; AEE indique ne plus accepter de nouvelles applications, renouvellement possible pour les titulaires existants.
 
@@ -638,8 +638,8 @@ Source : https://www.aeecenter.org/certifications/
 
 ## ACG — AABC Commissioning Group
 
-- **CxA — Certified Commissioning Authority** — CERT
-- **CxS — Certified Commissioning Specialist** — CERT
+- **CxA — Certified Commissioning Authority** — CERT — 🌍 INT · US-centric
+- **CxS — Certified Commissioning Specialist** — CERT — 🌍 INT · US-centric
 
 Source : https://www.commissioning.org/certification/
 
@@ -657,14 +657,14 @@ Source : https://www.energymgmt.org/energy-management-professional
 
 Huit disciplines de certification individuelle observées :
 
-- **BET — Building Enclosure Testing** — CERT
-- **Cx — Building Systems Commissioning** — CERT
-- **CPT — Cleanroom Performance Testing** — CERT
-- **FHT — Fume Hood Performance Testing** — CERT
-- **SM — Sound Measurement** — CERT
-- **RCx — Retro-Commissioning of Existing Buildings** — CERT
-- **TAB — Testing, Adjusting & Balancing** — CERT
-- **VM — Vibration Measurement** — CERT
+- **BET — Building Enclosure Testing** — CERT — 🇺🇸 US
+- **Cx — Building Systems Commissioning** — CERT — 🇺🇸 US
+- **CPT — Cleanroom Performance Testing** — CERT — 🇺🇸 US
+- **FHT — Fume Hood Performance Testing** — CERT — 🇺🇸 US
+- **SM — Sound Measurement** — CERT — 🇺🇸 US
+- **RCx — Retro-Commissioning of Existing Buildings** — CERT — 🇺🇸 US
+- **TAB — Testing, Adjusting & Balancing** — CERT — 🇺🇸 US
+- **VM — Vibration Measurement** — CERT — 🇺🇸 US
 
 Source : https://www.nebb.org/certified-professionals/
 
@@ -684,11 +684,11 @@ Source : https://www.ifma.org/credentials/
 
 ## BOMI International
 
-- **RPA — Real Property Administrator** — QUAL/COURSE
-- **FMA — Facilities Management Administrator** — QUAL/COURSE
-- **SMA — Systems Maintenance Administrator** — QUAL/COURSE
-- **SMT — Systems Maintenance Technician** — QUAL/COURSE
-- **BOMI-HP — High-Performance Sustainable Buildings** — QUAL/COURSE
+- **RPA — Real Property Administrator** — QUAL/COURSE — 🌍 INT · US-centric
+- **FMA — Facilities Management Administrator** — QUAL/COURSE — 🌍 INT · US-centric
+- **SMA — Systems Maintenance Administrator** — QUAL/COURSE — 🌍 INT · US-centric
+- **SMT — Systems Maintenance Technician** — QUAL/COURSE — 🌍 INT · US-centric
+- **BOMI-HP — High-Performance Sustainable Buildings** — QUAL/COURSE — 🌍 INT · US-centric
 
 Source : https://www.bomi.org/credentials/
 
@@ -698,8 +698,8 @@ Source : https://www.bomi.org/credentials/
 
 ## ASPE — American Society of Plumbing Engineers
 
-- **CPD — Certified in Plumbing Design** — CERT
-- **CPDT — Certified Plumbing Design Technician** — CERT / technician pathway
+- **CPD — Certified in Plumbing Design** — CERT — 🇺🇸 US
+- **CPDT — Certified Plumbing Design Technician** — CERT / technician pathway — 🇺🇸 US
 
 Source : https://www.aspe.org/education-credentialing/certification/
 
@@ -709,12 +709,12 @@ Source : https://www.aspe.org/education-credentialing/certification/
 
 ## IIBEC
 
-- **RRO — Registered Roof Observer** — QUAL/CERT
-- **REWO — Registered Exterior Wall Observer** — QUAL/CERT
-- **RRC — Registered Roof Consultant** — QUAL/CERT
-- **RWC — Registered Waterproofing Consultant** — QUAL/CERT
-- **REWC — Registered Exterior Wall Consultant** — QUAL/CERT
-- **RBEC — Registered Building Enclosure Consultant** — QUAL avancée, combinaison des consultant credentials requis
+- **RRO — Registered Roof Observer** — QUAL/CERT — 🌍 INT · US std
+- **REWO — Registered Exterior Wall Observer** — QUAL/CERT — 🌍 INT · US std
+- **RRC — Registered Roof Consultant** — QUAL/CERT — 🌍 INT · US std
+- **RWC — Registered Waterproofing Consultant** — QUAL/CERT — 🌍 INT · US std
+- **REWC — Registered Exterior Wall Consultant** — QUAL/CERT — 🌍 INT · US std
+- **RBEC — Registered Building Enclosure Consultant** — QUAL avancée, combinaison des consultant credentials requis — 🌍 INT · US std
 - **CBECxP — Certified Building Enclosure Commissioning Provider** — CERT, ISO/IEC 17024 — 🌍 INT
 
 Source : https://iibec.org/credentials/
@@ -819,8 +819,8 @@ Source : https://www.concrete.org/certification/certificationprograms.aspx
 
 # 12. Concrete repair & moisture testing — ICRI
 
-- **CSRT — Concrete Surface Repair Technician, Grade 1** — CERT
-- **CSMT — Concrete Slab Moisture Testing Technician** — CERT
+- **CSRT — Concrete Surface Repair Technician, Grade 1** — CERT — 🌍 INT · US std
+- **CSMT — Concrete Slab Moisture Testing Technician** — CERT — 🌍 INT · US std
 
 Source : https://www.icri.org/certification/
 
@@ -859,7 +859,7 @@ Source : https://www.post-tensioning.org/certification/
 
 # 14. Welding — AWS
 
-- **CW — Certified Welder** — CERT / performance qualification
+- **CW — Certified Welder** — CERT / performance qualification — 🌍 INT · US std
 - **CAWI — Certified Associate Welding Inspector** — CERT — 🌍 INT · US std
 - **CWI — Certified Welding Inspector** — CERT — 🌍 INT · US std
 - **SCWI — Senior Certified Welding Inspector** — CERT / legacy-current-holder maintenance ; nouvelles candidatures initiales arrêtées à partir du 1er avril 2026 pendant la refonte du pathway — 🌍 INT · US std
@@ -908,23 +908,23 @@ Source : https://www.asnt.org/certification
 
 ## Coating Inspector Program
 
-- **Basic Coatings Inspector — CIP Level 1** — CERT
-- **Certified Coatings Inspector — CIP Level 2** — CERT
-- **Senior Certified Coatings Inspector** — CERT
+- **Basic Coatings Inspector — CIP Level 1** — CERT — 🌍 INT · US std
+- **Certified Coatings Inspector — CIP Level 2** — CERT — 🌍 INT · US std
+- **Senior Certified Coatings Inspector** — CERT — 🌍 INT · US std
 
 Spécialités associées selon programme : thermal spray, pipeline, fireproofing, marine, nuclear, corrosion under insulation.
 
 ## Cathodic Protection
 
-- **CP1 — Cathodic Protection Tester** — CERT
-- **CP2 — Cathodic Protection Technician** — CERT
-- **CP3 — Cathodic Protection Technologist** — CERT
-- **CP4 — Cathodic Protection Specialist** — CERT
+- **CP1 — Cathodic Protection Tester** — CERT — 🌍 INT · US std
+- **CP2 — Cathodic Protection Technician** — CERT — 🌍 INT · US std
+- **CP3 — Cathodic Protection Technologist** — CERT — 🌍 INT · US std
+- **CP4 — Cathodic Protection Specialist** — CERT — 🌍 INT · US std
 
 ## Coating Application Specialist
 
-- **CAS Level 1** — CERT
-- **CAS Level 2** — CERT
+- **CAS Level 1** — CERT — 🌍 INT · US std
+- **CAS Level 2** — CERT — 🌍 INT · US std
 
 Craft / specialty credentials observés :
 
@@ -949,41 +949,41 @@ ICC propose un très grand catalogue. Pour le BTP, les familles les plus directe
 
 ## Building inspection / plans
 
-- **B1 — Residential Building Inspector** — CERT
-- **B2 — Commercial Building Inspector** — CERT
-- **B3 — Building Plans Examiner** — CERT
-- **R3 — Residential Plans Examiner** — CERT
-- **21 — Accessibility Inspector / Plans Examiner** — CERT
+- **B1 — Residential Building Inspector** — CERT — 🇺🇸 US
+- **B2 — Commercial Building Inspector** — CERT — 🇺🇸 US
+- **B3 — Building Plans Examiner** — CERT — 🇺🇸 US
+- **R3 — Residential Plans Examiner** — CERT — 🇺🇸 US
+- **21 — Accessibility Inspector / Plans Examiner** — CERT — 🇺🇸 US
 - **B5 — Building Inspector Combination** — combination designation
 
 ## Electrical
 
-- **E1 — Residential Electrical Inspector** — CERT
-- **E2 — Commercial Electrical Inspector** — CERT
+- **E1 — Residential Electrical Inspector** — CERT — 🇺🇸 US
+- **E2 — Commercial Electrical Inspector** — CERT — 🇺🇸 US
 - **E5 — Electrical Inspector Combination** — combination designation
 
 ## Mechanical
 
-- **M1 — Residential Mechanical Inspector** — CERT
-- **M2 — Commercial Mechanical Inspector** — CERT
+- **M1 — Residential Mechanical Inspector** — CERT — 🇺🇸 US
+- **M2 — Commercial Mechanical Inspector** — CERT — 🇺🇸 US
 - **M5 — Mechanical Inspector Combination** — combination designation
 
 ## Plumbing
 
-- **P1 — Residential Plumbing Inspector** — CERT
-- **P2 — Commercial Plumbing Inspector** — CERT
+- **P1 — Residential Plumbing Inspector** — CERT — 🇺🇸 US
+- **P2 — Commercial Plumbing Inspector** — CERT — 🇺🇸 US
 - **P5 — Plumbing Inspector Combination** — combination designation
 
 ## Special Inspector
 
-- **47 — Reinforced Concrete Special Inspector** — CERT
-- **84 — Structural Masonry Special Inspector** — CERT
-- **86 — Spray-Applied Fireproofing Special Inspector** — CERT
-- **92 — Prestressed Concrete Special Inspector** — CERT
-- **93 — Tall Mass Timber Buildings Special Inspector** — CERT
-- **EC — Soils Special Inspector** — CERT
-- **S1 — Structural Steel and Bolting Special Inspector** — CERT
-- **S2 — Structural Welding Special Inspector** — CERT
+- **47 — Reinforced Concrete Special Inspector** — CERT — 🇺🇸 US
+- **84 — Structural Masonry Special Inspector** — CERT — 🇺🇸 US
+- **86 — Spray-Applied Fireproofing Special Inspector** — CERT — 🇺🇸 US
+- **92 — Prestressed Concrete Special Inspector** — CERT — 🇺🇸 US
+- **93 — Tall Mass Timber Buildings Special Inspector** — CERT — 🇺🇸 US
+- **EC — Soils Special Inspector** — CERT — 🇺🇸 US
+- **S1 — Structural Steel and Bolting Special Inspector** — CERT — 🇺🇸 US
+- **S2 — Structural Welding Special Inspector** — CERT — 🇺🇸 US
 
 ## Code administration
 
@@ -1003,11 +1003,11 @@ Source : https://www.iccsafe.org/professional-development/certifications-and-tes
 
 Familles NICET directement liées aux travaux / civil :
 
-- **Construction Materials Testing — Asphalt** — CERT, levels
-- **Construction Materials Testing — Concrete** — CERT, levels
-- **Construction Materials Testing — Soils** — CERT, levels
-- **Transportation Construction Inspection** — CERT, levels
-- **Highway Construction Inspection** — CERT / legacy or transition status à vérifier selon programme exact lors de l'inscription
+- **Construction Materials Testing — Asphalt** — CERT, levels — 🇺🇸 US
+- **Construction Materials Testing — Concrete** — CERT, levels — 🇺🇸 US
+- **Construction Materials Testing — Soils** — CERT, levels — 🇺🇸 US
+- **Transportation Construction Inspection** — CERT, levels — 🇺🇸 US
+- **Highway Construction Inspection** — CERT / legacy or transition status à vérifier selon programme exact lors de l'inscription — 🇺🇸 US
 
 NICET possède également plusieurs certifications fire protection utiles aux bâtiments ; elles sont reprises dans la section fire/life safety à consolider.
 
@@ -1055,12 +1055,12 @@ Credentials pertinents :
 
 - **STSC — Safety Trained Supervisor Construction** — CERT — 🌍 INT · US-centric
 - **CHST — Construction Health and Safety Technician** — CERT — 🌍 INT · US-centric
-- STS — Safety Trained Supervisor — CERT
-- OHST — Occupational Hygiene and Safety Technician — CERT
-- CIT — Certified Instructional Trainer — CERT
-- ASP — Associate Safety Professional — CERT
-- CSP — Certified Safety Professional — CERT
-- SMP — Safety Management Professional — CERT
+- STS — Safety Trained Supervisor — CERT — 🌍 INT · US-centric
+- OHST — Occupational Hygiene and Safety Technician — CERT — 🌍 INT · US-centric
+- CIT — Certified Instructional Trainer — CERT — 🌍 INT · US-centric
+- ASP — Associate Safety Professional — CERT — 🌍 INT · US-centric
+- CSP — Certified Safety Professional — CERT — 🌍 INT · US-centric
+- SMP — Safety Management Professional — CERT — 🌍 INT · US-centric
 
 Source : https://www.bcsp.org/credentials-at-a-glance
 
@@ -1068,9 +1068,9 @@ Source : https://www.bcsp.org/credentials-at-a-glance
 
 ## NEBOSH
 
-- **Health and Safety Management for Construction Certificate** — QUAL / provider-based qualification
-- **International General Certificate** — QUAL, transversal
-- **National / International Diplomas** — QUAL avancée
+- **Health and Safety Management for Construction Certificate** — QUAL / provider-based qualification — 🌍 INT · UK-origin
+- **International General Certificate** — QUAL, transversal — 🌍 INT · UK-origin
+- **National / International Diplomas** — QUAL avancée — 🌍 INT · UK-origin
 
 Déjà documenté : [`occupational-safety-nebosh-iosh.md`](occupational-safety-nebosh-iosh.md).
 
@@ -1081,7 +1081,7 @@ Source : https://www.nebosh.org.uk/qualifications/
 ## IOSH
 
 - **IOSH Managing Safely** — COURSE — 🌍 INT · UK-origin
-- **CMIOSH — Chartered Member** — QUAL
+- **CMIOSH — Chartered Member** — QUAL — 🌍 INT · UK-origin
 
 Source : https://iosh.com/
 
@@ -1230,12 +1230,12 @@ Source : https://www.inrs.fr/risques/electriques/habilitation-electrique.html
 
 ### Personne
 
-- **Attestation d'aptitude** pour les personnels manipulant des gaz à effet de serre fluorés dans le froid / climatisation — REG
-- certificats individuels spécifiques pour certains usages extinction / diélectrique / solvants — REG
+- **Attestation d'aptitude** pour les personnels manipulant des gaz à effet de serre fluorés dans le froid / climatisation — REG — 🇫🇷 FR
+- certificats individuels spécifiques pour certains usages extinction / diélectrique / solvants — REG — 🇫🇷 FR
 
 ### Entreprise
 
-- **Attestation de capacité** — ORG, durée et audit selon régime ; ne pas la présenter comme certification individuelle.
+- **Attestation de capacité** — ORG, durée et audit selon régime ; ne pas la présenter comme certification individuelle. — 🇫🇷 FR
 
 Source : https://www.ecologie.gouv.fr/politiques-publiques/substances-impact-climatique-fluides-frigorigenes
 
@@ -1245,15 +1245,15 @@ Source : https://www.ecologie.gouv.fr/politiques-publiques/substances-impact-cli
 
 Familles réglementaires :
 
-- **Amiante sans mention** — CERT/REG
-- **Amiante avec mention** — CERT/REG
-- **Plomb sans mention** — CERT/REG
-- **Plomb avec mention** — CERT/REG
-- **DPE sans mention** — CERT/REG
-- **DPE avec mention** — CERT/REG
-- **Termites** — CERT/REG
-- **Gaz** — CERT/REG
-- **Électricité** — CERT/REG
+- **Amiante sans mention** — CERT/REG — 🇫🇷 FR
+- **Amiante avec mention** — CERT/REG — 🇫🇷 FR
+- **Plomb sans mention** — CERT/REG — 🇫🇷 FR
+- **Plomb avec mention** — CERT/REG — 🇫🇷 FR
+- **DPE sans mention** — CERT/REG — 🇫🇷 FR
+- **DPE avec mention** — CERT/REG — 🇫🇷 FR
+- **Termites** — CERT/REG — 🇫🇷 FR
+- **Gaz** — CERT/REG — 🇫🇷 FR
+- **Électricité** — CERT/REG — 🇫🇷 FR
 
 Source : https://www.economie.gouv.fr/particuliers/diagnostic-immobilier-diagnostics-obligatoires
 

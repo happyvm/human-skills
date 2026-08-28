@@ -30,18 +30,18 @@ verified: 2026-08-28
 
 Catégories de cartes actuellement visibles :
 
-- **Blue Skilled Worker** — REG / card
-- **Gold Skilled Worker** — REG / card
-- **Gold Supervisor** — REG / card
-- **Manager** — REG / card
-- **Academically Qualified Person — AQP** — REG / card
-- **Professionally Qualified Person — PQP** — REG / card
-- **Apprentice** — REG / entry card
-- **Trainee** — REG / temporary training route
-- **Experienced Worker** — REG / temporary qualification route
-- **Experienced Technical, Supervisory or Management** — REG / temporary qualification route
-- **Provisional** — REG / temporary card, 6 mois et non renouvelable selon la page de preuve
-- **Industry Placement** — REG / entry route
+- **Blue Skilled Worker** — REG / card — 🇬🇧 UK
+- **Gold Skilled Worker** — REG / card — 🇬🇧 UK
+- **Gold Supervisor** — REG / card — 🇬🇧 UK
+- **Manager** — REG / card — 🇬🇧 UK
+- **Academically Qualified Person — AQP** — REG / card — 🇬🇧 UK
+- **Professionally Qualified Person — PQP** — REG / card — 🇬🇧 UK
+- **Apprentice** — REG / entry card — 🇬🇧 UK
+- **Trainee** — REG / temporary training route — 🇬🇧 UK
+- **Experienced Worker** — REG / temporary qualification route — 🇬🇧 UK
+- **Experienced Technical, Supervisory or Management** — REG / temporary qualification route — 🇬🇧 UK
+- **Provisional** — REG / temporary card, 6 mois et non renouvelable selon la page de preuve — 🇬🇧 UK
+- **Industry Placement** — REG / entry route — 🇬🇧 UK
 
 Pour une skilled card, une qualification construction reconnue est exigée. CSCS ne délivre ni formation, ni qualification, ni examen métier.
 
@@ -101,19 +101,19 @@ NICET distingue plusieurs programmes avec niveaux de certification, expérience 
 
 ## Fire protection
 
-- **Fire Alarm Systems** — CERT, multi-level
-- **Inspection and Testing of Fire Alarm Systems** — CERT, Level I–II
-- **Inspection and Testing of Water-Based Systems** — CERT, Level I–III
-- **Special Hazards Systems** — CERT, Level I–IV
-- **Water-Based Systems Layout** — CERT, Level I–IV
+- **Fire Alarm Systems** — CERT, multi-level — 🇺🇸 US
+- **Inspection and Testing of Fire Alarm Systems** — CERT, Level I–II — 🇺🇸 US
+- **Inspection and Testing of Water-Based Systems** — CERT, Level I–III — 🇺🇸 US
+- **Special Hazards Systems** — CERT, Level I–IV — 🇺🇸 US
+- **Water-Based Systems Layout** — CERT, Level I–IV — 🇺🇸 US
 
 ## Building systems
 
-- **In-Building Public Safety Communications** — CERT
+- **In-Building Public Safety Communications** — CERT — 🇺🇸 US
 
 ## Electrical
 
-- **Electrical Power Testing** — CERT
+- **Electrical Power Testing** — CERT — 🇺🇸 US
 
 ## Civil — rappel
 
@@ -138,10 +138,10 @@ Sources :
 
 Credentials clairement identifiés dans les ressources NFPA récentes :
 
-- **CFPS — Certified Fire Protection Specialist** — CERT
-- **CFI-I — Certified Fire Inspector I** — CERT
-- **CFI-II — Certified Fire Inspector II** — CERT
-- **CFPE — Certified Fire Plan Examiner** — CERT
+- **CFPS — Certified Fire Protection Specialist** — CERT — 🌍 INT · US std
+- **CFI-I — Certified Fire Inspector I** — CERT — 🌍 INT · US std
+- **CFI-II — Certified Fire Inspector II** — CERT — 🌍 INT · US std
+- **CFPE — Certified Fire Plan Examiner** — CERT — 🌍 INT · US std
 
 NFPA exploite également un portefeuille plus large de certifications spécialisées. Les programmes historiques/récents identifiés comprennent notamment :
 
@@ -185,19 +185,19 @@ ASPRS maintient deux niveaux : **Mapping Scientist** et **Technologist**. La pag
 
 ## Scientist / professional level
 
-- **Certified Photogrammetrist — CP** — CERT
-- **Certified Mapping Scientist — Remote Sensing** — CERT
-- **Certified Mapping Scientist — Lidar** — CERT
-- **Certified Mapping Scientist — UAS** — CERT
+- **Certified Photogrammetrist — CP** — CERT — 🇺🇸 US
+- **Certified Mapping Scientist — Remote Sensing** — CERT — 🇺🇸 US
+- **Certified Mapping Scientist — Lidar** — CERT — 🇺🇸 US
+- **Certified Mapping Scientist — UAS** — CERT — 🇺🇸 US
 
 Les sources d'accréditation ASPRS mentionnent également la famille **GIS/LIS** dans le portefeuille de Mapping Scientist.
 
 ## Technologist level
 
-- Photogrammetric Technologist — CERT
-- Remote Sensing Technologist — CERT
-- Lidar Technologist — CERT
-- UAS Technologist — CERT
+- Photogrammetric Technologist — CERT — 🇺🇸 US
+- Remote Sensing Technologist — CERT — 🇺🇸 US
+- Lidar Technologist — CERT — 🇺🇸 US
+- UAS Technologist — CERT — 🇺🇸 US
 - GIS/LIS Technologist — selon portfolio applicable
 
 La page 2026 indique typiquement **6 ans d'expérience** pour Scientist et **3 ans** pour Technologist, avec examens Prometric.
@@ -210,10 +210,10 @@ Source : https://www.asprs.org/Main/Main/Certification/ASPRS-Certification-Progr
 
 Graphisoft présente un système multi-level :
 
-- **Archicad BIM User** — COURSE/CERT selon exam path
+- **Archicad BIM User** — COURSE/CERT selon exam path — 🌍 INT
 - **Graphisoft Certified Archicad BIM Author** — CERT — 🌍 INT
-- **Archicad BIM Coordinator** — COURSE/CERT, programme avec assessments
-- **Archicad BIM Manager** — COURSE/CERT, programme avancé avec assessments
+- **Archicad BIM Coordinator** — COURSE/CERT, programme avec assessments — 🌍 INT
+- **Archicad BIM Manager** — COURSE/CERT, programme avancé avec assessments — 🌍 INT
 
 ## BIM Author — repère France 2026
 

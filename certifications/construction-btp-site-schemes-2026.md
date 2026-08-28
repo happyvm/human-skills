@@ -71,7 +71,7 @@ NPORS couvre plus de 100 catégories de machines / activités et distingue clair
 
 ## NPORS Traditional Operator Card
 
-- **Traditional Operator Card** — REG / industry card
+- **Traditional Operator Card** — REG / industry card — 🇬🇧 UK
 - délivrée après training/testing approprié ;
 - durée typique 3 ou 5 ans selon route choisie.
 
@@ -126,7 +126,7 @@ Le scheme CISRS est suffisamment structuré pour être indexé par carte / rôle
 
 - **CISRS Basic Scaffold Inspection Card** — REG/QUAL — 🇬🇧 UK
 - **CISRS Advanced Scaffold Inspection Card** — REG/QUAL — 🇬🇧 UK
-- **System Scaffold Product Inspection endorsements / training** — REG / endorsement
+- **System Scaffold Product Inspection endorsements / training** — REG / endorsement — 🇬🇧 UK
 
 ## Parcours indicatif Scaffolder
 
@@ -165,17 +165,17 @@ Ces preuves sont classées **COURSE** : ce sont des certificats de formation/ass
 
 ## Current Site Safety Plus family
 
-- **HSA — Health and Safety Awareness** — COURSE
-- **SSSTS — Site Supervision Safety Training Scheme** — COURSE
-- **SSSTS-R — SSSTS Refresher** — COURSE
-- **SMSTS — Site Management Safety Training Scheme** — COURSE
-- **SMSTS-R — SMSTS Refresher** — COURSE
-- **DRHS — Directors Role for Health and Safety** — COURSE
-- **SEATS — Site Environmental Awareness Training Scheme** — COURSE
-- **TWSTC — Temporary Works Supervisor Training Course** — COURSE
-- **TWCTC — Temporary Works Coordinator Training Course** — COURSE
-- **TWCTC-R — Temporary Works Coordinator Refresher** — COURSE
-- **TSTS — Tunnelling Safety Training Scheme** — COURSE
+- **HSA — Health and Safety Awareness** — COURSE — 🇬🇧 UK
+- **SSSTS — Site Supervision Safety Training Scheme** — COURSE — 🇬🇧 UK
+- **SSSTS-R — SSSTS Refresher** — COURSE — 🇬🇧 UK
+- **SMSTS — Site Management Safety Training Scheme** — COURSE — 🇬🇧 UK
+- **SMSTS-R — SMSTS Refresher** — COURSE — 🇬🇧 UK
+- **DRHS — Directors Role for Health and Safety** — COURSE — 🇬🇧 UK
+- **SEATS — Site Environmental Awareness Training Scheme** — COURSE — 🇬🇧 UK
+- **TWSTC — Temporary Works Supervisor Training Course** — COURSE — 🇬🇧 UK
+- **TWCTC — Temporary Works Coordinator Training Course** — COURSE — 🇬🇧 UK
+- **TWCTC-R — Temporary Works Coordinator Refresher** — COURSE — 🇬🇧 UK
+- **TSTS — Tunnelling Safety Training Scheme** — COURSE — 🇬🇧 UK
 
 ## Exemple SMSTS
 
@@ -199,17 +199,17 @@ ATSSA maintient en 2026 un portefeuille de certifications directement pertinent 
 
 ## Certifications / programmes listés par ATSSA
 
-- **TCT — Traffic Control Technician** — CERT
-- **TCS — Traffic Control Supervisor** — CERT
-- **TCDS — Traffic Control Design Specialist** — CERT
-- **Flagger Certification** — CERT / dépend aussi des règles de l'État
-- **FIT — Flagger Instructor Training** — CERT / instructor route
-- **GI — Guardrail Installer** — CERT
+- **TCT — Traffic Control Technician** — CERT — 🇺🇸 US
+- **TCS — Traffic Control Supervisor** — CERT — 🇺🇸 US
+- **TCDS — Traffic Control Design Specialist** — CERT — 🇺🇸 US
+- **Flagger Certification** — CERT / dépend aussi des règles de l'État — 🇺🇸 US
+- **FIT — Flagger Instructor Training** — CERT / instructor route — 🇺🇸 US
+- **GI — Guardrail Installer** — CERT — 🇺🇸 US
 - **PMI — Pavement Marking Inspector** — CERT — 🌍 INT
-- **PMT — Pavement Marking Technician** — CERT
-- **TST — Traffic Sign Technician** — CERT
-- **TMA — Truck-Mounted Attenuator Operator** — CERT
-- **Truck-Mounted Attenuator Trainer** — CERT / trainer route
+- **PMT — Pavement Marking Technician** — CERT — 🇺🇸 US
+- **TST — Traffic Sign Technician** — CERT — 🇺🇸 US
+- **TMA — Truck-Mounted Attenuator Operator** — CERT — 🇺🇸 US
+- **Truck-Mounted Attenuator Trainer** — CERT / trainer route — 🇺🇸 US
 
 Des certifications **state-specific** existent aussi, notamment Florida, Louisiana, Virginia et Washington selon credential.
 
@@ -228,7 +228,7 @@ Sources :
 
 ## Credential formel identifié
 
-- **ProjectWise Administrator Fundamentals Accreditation** — ACC / vendor accreditation
+- **ProjectWise Administrator Fundamentals Accreditation** — ACC / vendor accreditation — 🌍 INT
 
 Le programme comprend un **Skill Assessment** ; après réussite, Bentley délivre :
 
