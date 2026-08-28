@@ -1,0 +1,218 @@
+# Entry-level geography audit
+
+- missing geography annotations: **212**
+
+## Missing
+
+- `certifications/construction-btp-global-2026.md:73` (bullet) — `- **CCP — Certified Cost Professional** — CERT — nouvelles candidatures temporairement suspendues depuis le 1er juillet 2026 lors de la revue`
+- `certifications/construction-btp-global-2026.md:125` (bullet) — `- **CDT — Construction Documents Technologist** — CERT`
+- `certifications/construction-btp-global-2026.md:126` (bullet) — `- **CCS — Certified Construction Specifier** — CERT`
+- `certifications/construction-btp-global-2026.md:136` (bullet) — `- **AEP — Associate Estimating Professional** — CERT / early-career`
+- `certifications/construction-btp-global-2026.md:137` (bullet) — `- **CPE — Certified Professional Estimator** — CERT`
+- `certifications/construction-btp-global-2026.md:194` (bullet) — `- **CQS — Certified Quantity Surveyor** — QUAL / designation professionnelle`
+- `certifications/construction-btp-global-2026.md:202` (bullet) — `- **PQS — Professional Quantity Surveyor** — QUAL`
+- `certifications/construction-btp-global-2026.md:203` (bullet) — `- **CEC — Construction Estimator Certified** — QUAL`
+- `certifications/construction-btp-global-2026.md:236` (bullet) — `- **Incorporated-Member** — QUAL`
+- `certifications/construction-btp-global-2026.md:237` (bullet) — `- **FIStructE — Fellow** — QUAL / senior`
+- `certifications/construction-btp-global-2026.md:245` (bullet) — `- **LCIBSE / EngTech** — QUAL`
+- `certifications/construction-btp-global-2026.md:246` (bullet) — `- **ACIBSE / IEng** — QUAL`
+- `certifications/construction-btp-global-2026.md:247` (bullet) — `- **MCIBSE / CEng** — QUAL`
+- `certifications/construction-btp-global-2026.md:248` (bullet) — `- **FCIBSE / CEng** — QUAL / senior`
+- `certifications/construction-btp-global-2026.md:322` (bullet) — `- **Foundation Level** — CERT / knowledge credential`
+- `certifications/construction-btp-global-2026.md:323` (bullet) — `- **Practitioner Level** — CERT / applied professional certification selon programme reconnu`
+- `certifications/construction-btp-global-2026.md:431` (bullet) — `- **Certified Passive House Designer** — CERT`
+- `certifications/construction-btp-global-2026.md:432` (bullet) — `- **Certified Passive House Consultant** — CERT`
+- `certifications/construction-btp-global-2026.md:433` (bullet) — `- **Certified Passive House Tradesperson** — CERT`
+- `certifications/construction-btp-global-2026.md:435` (bullet) — `- **Accredited Passive House Certifier for Buildings** — ACC`
+- `certifications/construction-btp-global-2026.md:518` (bullet) — `- **Green Star Accredited Professional — GSAP** — ACC`
+- `certifications/construction-btp-global-2026.md:526` (bullet) — `- **NABERS Accredited Assessor** — ACC`
+- `certifications/construction-btp-global-2026.md:536` (bullet) — `- **Green Mark Accredited Professional — Green Mark AP** — QUAL/ACC`
+- `certifications/construction-btp-global-2026.md:537` (bullet) — `- **Green Mark AP (Facilities Management)** — QUAL/ACC`
+- `certifications/construction-btp-global-2026.md:538` (bullet) — `- **Green Mark Advanced Accredited Professional — Green Mark AAP** — QUAL/ACC`
+- `certifications/construction-btp-global-2026.md:539` (bullet) — `- **Green Mark AAP (Facilities Management)** — QUAL/ACC`
+- `certifications/construction-btp-global-2026.md:563` (bullet) — `- **Rating Field Inspector — RFI** — CERT`
+- `certifications/construction-btp-global-2026.md:565` (bullet) — `- **HERSH2O Rater** — CERT`
+- `certifications/construction-btp-global-2026.md:566` (bullet) — `- **Quality Assurance Designee — QAD** — CERT / QA role`
+- `certifications/construction-btp-global-2026.md:577` (bullet) — `- **Building Analyst Technician — BA-T** — CERT`
+- `certifications/construction-btp-global-2026.md:578` (bullet) — `- **Building Analyst Professional — BA-P** — CERT`
+- `certifications/construction-btp-global-2026.md:579` (bullet) — `- **Energy Auditor — EA** — CERT`
+- `certifications/construction-btp-global-2026.md:580` (bullet) — `- **Quality Control Inspector — QCI** — CERT`
+- `certifications/construction-btp-global-2026.md:581` (bullet) — `- **AC / Heat Pump Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:582` (bullet) — `- **Air Leakage Control Installer** — CERT`
+- `certifications/construction-btp-global-2026.md:583` (bullet) — `- **Heating Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:585` (bullet) — `- **Infiltration & Duct Leakage — IDL** — CERT`
+- `certifications/construction-btp-global-2026.md:586` (bullet) — `- **Manufactured Housing** — CERT`
+- `certifications/construction-btp-global-2026.md:587` (bullet) — `- **Multifamily Building Analyst** — CERT`
+- `certifications/construction-btp-global-2026.md:588` (bullet) — `- **Multifamily Building Operator** — CERT`
+- `certifications/construction-btp-global-2026.md:600` (bullet) — `- **BCxP — Building Commissioning Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:601` (bullet) — `- **BEAP — Building Energy Assessment Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:602` (bullet) — `- **BEMP — Building Energy Modeling Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:603` (bullet) — `- **CHD — Certified HVAC Designer** — CERT`
+- `certifications/construction-btp-global-2026.md:604` (bullet) — `- **HBDP — High-Performance Building Design Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:605` (bullet) — `- **HFDP — Healthcare Facility Design Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:606` (bullet) — `- **OPMP — Operations & Performance Management Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:618` (bullet) — `- **CBCP — Certified Building Commissioning Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:620` (bullet) — `- **BEP — Business Energy Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:621` (bullet) — `- **CIEP — Certified Industrial Energy Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:622` (bullet) — `- **CLEP — Certified Lighting Efficiency Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:623` (bullet) — `- **CWEP — Certified Water Efficiency Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:624` (bullet) — `- **EEP — Energy Efficiency Practitioner** — CERT`
+- `certifications/construction-btp-global-2026.md:625` (bullet) — `- **REP — Certified Renewable Energy Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:626` (bullet) — `- **CAP — Carbon Auditing Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:627` (bullet) — `- **CDSM — Certified Demand Side Manager** — CERT`
+- `certifications/construction-btp-global-2026.md:628` (bullet) — `- **PCF — Certified Performance Contracting & Funding Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:629` (bullet) — `- **50001 Certified Professional** — CERT`
+- `certifications/construction-btp-global-2026.md:641` (bullet) — `- **CxA — Certified Commissioning Authority** — CERT`
+- `certifications/construction-btp-global-2026.md:642` (bullet) — `- **CxS — Certified Commissioning Specialist** — CERT`
+- `certifications/construction-btp-global-2026.md:660` (bullet) — `- **BET — Building Enclosure Testing** — CERT`
+- `certifications/construction-btp-global-2026.md:661` (bullet) — `- **Cx — Building Systems Commissioning** — CERT`
+- `certifications/construction-btp-global-2026.md:662` (bullet) — `- **CPT — Cleanroom Performance Testing** — CERT`
+- `certifications/construction-btp-global-2026.md:663` (bullet) — `- **FHT — Fume Hood Performance Testing** — CERT`
+- `certifications/construction-btp-global-2026.md:664` (bullet) — `- **SM — Sound Measurement** — CERT`
+- `certifications/construction-btp-global-2026.md:665` (bullet) — `- **RCx — Retro-Commissioning of Existing Buildings** — CERT`
+- `certifications/construction-btp-global-2026.md:666` (bullet) — `- **TAB — Testing, Adjusting & Balancing** — CERT`
+- `certifications/construction-btp-global-2026.md:667` (bullet) — `- **VM — Vibration Measurement** — CERT`
+- `certifications/construction-btp-global-2026.md:687` (bullet) — `- **RPA — Real Property Administrator** — QUAL/COURSE`
+- `certifications/construction-btp-global-2026.md:688` (bullet) — `- **FMA — Facilities Management Administrator** — QUAL/COURSE`
+- `certifications/construction-btp-global-2026.md:689` (bullet) — `- **SMA — Systems Maintenance Administrator** — QUAL/COURSE`
+- `certifications/construction-btp-global-2026.md:690` (bullet) — `- **SMT — Systems Maintenance Technician** — QUAL/COURSE`
+- `certifications/construction-btp-global-2026.md:691` (bullet) — `- **BOMI-HP — High-Performance Sustainable Buildings** — QUAL/COURSE`
+- `certifications/construction-btp-global-2026.md:701` (bullet) — `- **CPD — Certified in Plumbing Design** — CERT`
+- `certifications/construction-btp-global-2026.md:702` (bullet) — `- **CPDT — Certified Plumbing Design Technician** — CERT / technician pathway`
+- `certifications/construction-btp-global-2026.md:712` (bullet) — `- **RRO — Registered Roof Observer** — QUAL/CERT`
+- `certifications/construction-btp-global-2026.md:713` (bullet) — `- **REWO — Registered Exterior Wall Observer** — QUAL/CERT`
+- `certifications/construction-btp-global-2026.md:714` (bullet) — `- **RRC — Registered Roof Consultant** — QUAL/CERT`
+- `certifications/construction-btp-global-2026.md:715` (bullet) — `- **RWC — Registered Waterproofing Consultant** — QUAL/CERT`
+- `certifications/construction-btp-global-2026.md:716` (bullet) — `- **REWC — Registered Exterior Wall Consultant** — QUAL/CERT`
+- `certifications/construction-btp-global-2026.md:717` (bullet) — `- **RBEC — Registered Building Enclosure Consultant** — QUAL avancée, combinaison des consultant credentials requis`
+- `certifications/construction-btp-global-2026.md:822` (bullet) — `- **CSRT — Concrete Surface Repair Technician, Grade 1** — CERT`
+- `certifications/construction-btp-global-2026.md:823` (bullet) — `- **CSMT — Concrete Slab Moisture Testing Technician** — CERT`
+- `certifications/construction-btp-global-2026.md:862` (bullet) — `- **CW — Certified Welder** — CERT / performance qualification`
+- `certifications/construction-btp-global-2026.md:911` (bullet) — `- **Basic Coatings Inspector — CIP Level 1** — CERT`
+- `certifications/construction-btp-global-2026.md:912` (bullet) — `- **Certified Coatings Inspector — CIP Level 2** — CERT`
+- `certifications/construction-btp-global-2026.md:913` (bullet) — `- **Senior Certified Coatings Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:919` (bullet) — `- **CP1 — Cathodic Protection Tester** — CERT`
+- `certifications/construction-btp-global-2026.md:920` (bullet) — `- **CP2 — Cathodic Protection Technician** — CERT`
+- `certifications/construction-btp-global-2026.md:921` (bullet) — `- **CP3 — Cathodic Protection Technologist** — CERT`
+- `certifications/construction-btp-global-2026.md:922` (bullet) — `- **CP4 — Cathodic Protection Specialist** — CERT`
+- `certifications/construction-btp-global-2026.md:926` (bullet) — `- **CAS Level 1** — CERT`
+- `certifications/construction-btp-global-2026.md:927` (bullet) — `- **CAS Level 2** — CERT`
+- `certifications/construction-btp-global-2026.md:952` (bullet) — `- **B1 — Residential Building Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:953` (bullet) — `- **B2 — Commercial Building Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:954` (bullet) — `- **B3 — Building Plans Examiner** — CERT`
+- `certifications/construction-btp-global-2026.md:955` (bullet) — `- **R3 — Residential Plans Examiner** — CERT`
+- `certifications/construction-btp-global-2026.md:956` (bullet) — `- **21 — Accessibility Inspector / Plans Examiner** — CERT`
+- `certifications/construction-btp-global-2026.md:961` (bullet) — `- **E1 — Residential Electrical Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:962` (bullet) — `- **E2 — Commercial Electrical Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:967` (bullet) — `- **M1 — Residential Mechanical Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:968` (bullet) — `- **M2 — Commercial Mechanical Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:973` (bullet) — `- **P1 — Residential Plumbing Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:974` (bullet) — `- **P2 — Commercial Plumbing Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:979` (bullet) — `- **47 — Reinforced Concrete Special Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:980` (bullet) — `- **84 — Structural Masonry Special Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:981` (bullet) — `- **86 — Spray-Applied Fireproofing Special Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:982` (bullet) — `- **92 — Prestressed Concrete Special Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:983` (bullet) — `- **93 — Tall Mass Timber Buildings Special Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:984` (bullet) — `- **EC — Soils Special Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:985` (bullet) — `- **S1 — Structural Steel and Bolting Special Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:986` (bullet) — `- **S2 — Structural Welding Special Inspector** — CERT`
+- `certifications/construction-btp-global-2026.md:1006` (bullet) — `- **Construction Materials Testing — Asphalt** — CERT, levels`
+- `certifications/construction-btp-global-2026.md:1007` (bullet) — `- **Construction Materials Testing — Concrete** — CERT, levels`
+- `certifications/construction-btp-global-2026.md:1008` (bullet) — `- **Construction Materials Testing — Soils** — CERT, levels`
+- `certifications/construction-btp-global-2026.md:1009` (bullet) — `- **Transportation Construction Inspection** — CERT, levels`
+- `certifications/construction-btp-global-2026.md:1010` (bullet) — `- **Highway Construction Inspection** — CERT / legacy or transition status à vérifier selon programme exact lors de l'inscription`
+- `certifications/construction-btp-global-2026.md:1058` (bullet) — `- STS — Safety Trained Supervisor — CERT`
+- `certifications/construction-btp-global-2026.md:1059` (bullet) — `- OHST — Occupational Hygiene and Safety Technician — CERT`
+- `certifications/construction-btp-global-2026.md:1060` (bullet) — `- CIT — Certified Instructional Trainer — CERT`
+- `certifications/construction-btp-global-2026.md:1061` (bullet) — `- ASP — Associate Safety Professional — CERT`
+- `certifications/construction-btp-global-2026.md:1062` (bullet) — `- CSP — Certified Safety Professional — CERT`
+- `certifications/construction-btp-global-2026.md:1063` (bullet) — `- SMP — Safety Management Professional — CERT`
+- `certifications/construction-btp-global-2026.md:1071` (bullet) — `- **Health and Safety Management for Construction Certificate** — QUAL / provider-based qualification`
+- `certifications/construction-btp-global-2026.md:1072` (bullet) — `- **International General Certificate** — QUAL, transversal`
+- `certifications/construction-btp-global-2026.md:1073` (bullet) — `- **National / International Diplomas** — QUAL avancée`
+- `certifications/construction-btp-global-2026.md:1084` (bullet) — `- **CMIOSH — Chartered Member** — QUAL`
+- `certifications/construction-btp-global-2026.md:1197` (bullet) — `- **Coordonnateur SPS niveau 1 — conception / réalisation selon compétence** — REG/QUAL`
+- `certifications/construction-btp-global-2026.md:1198` (bullet) — `- **Coordonnateur SPS niveau 2** — REG/QUAL`
+- `certifications/construction-btp-global-2026.md:1199` (bullet) — `- **Coordonnateur SPS niveau 3** — REG/QUAL`
+- `certifications/construction-btp-global-2026.md:1233` (bullet) — `- **Attestation d'aptitude** pour les personnels manipulant des gaz à effet de serre fluorés dans le froid / climatisation — REG`
+- `certifications/construction-btp-global-2026.md:1234` (bullet) — `- certificats individuels spécifiques pour certains usages extinction / diélectrique / solvants — REG`
+- `certifications/construction-btp-global-2026.md:1238` (bullet) — `- **Attestation de capacité** — ORG, durée et audit selon régime ; ne pas la présenter comme certification individuelle.`
+- `certifications/construction-btp-global-2026.md:1248` (bullet) — `- **Amiante sans mention** — CERT/REG`
+- `certifications/construction-btp-global-2026.md:1249` (bullet) — `- **Amiante avec mention** — CERT/REG`
+- `certifications/construction-btp-global-2026.md:1250` (bullet) — `- **Plomb sans mention** — CERT/REG`
+- `certifications/construction-btp-global-2026.md:1251` (bullet) — `- **Plomb avec mention** — CERT/REG`
+- `certifications/construction-btp-global-2026.md:1252` (bullet) — `- **DPE sans mention** — CERT/REG`
+- `certifications/construction-btp-global-2026.md:1253` (bullet) — `- **DPE avec mention** — CERT/REG`
+- `certifications/construction-btp-global-2026.md:1254` (bullet) — `- **Termites** — CERT/REG`
+- `certifications/construction-btp-global-2026.md:1255` (bullet) — `- **Gaz** — CERT/REG`
+- `certifications/construction-btp-global-2026.md:1256` (bullet) — `- **Électricité** — CERT/REG`
+- `certifications/construction-btp-site-schemes-2026.md:74` (bullet) — `- **Traditional Operator Card** — REG / industry card`
+- `certifications/construction-btp-site-schemes-2026.md:129` (bullet) — `- **System Scaffold Product Inspection endorsements / training** — REG / endorsement`
+- `certifications/construction-btp-site-schemes-2026.md:168` (bullet) — `- **HSA — Health and Safety Awareness** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:169` (bullet) — `- **SSSTS — Site Supervision Safety Training Scheme** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:170` (bullet) — `- **SSSTS-R — SSSTS Refresher** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:171` (bullet) — `- **SMSTS — Site Management Safety Training Scheme** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:172` (bullet) — `- **SMSTS-R — SMSTS Refresher** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:173` (bullet) — `- **DRHS — Directors Role for Health and Safety** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:174` (bullet) — `- **SEATS — Site Environmental Awareness Training Scheme** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:175` (bullet) — `- **TWSTC — Temporary Works Supervisor Training Course** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:176` (bullet) — `- **TWCTC — Temporary Works Coordinator Training Course** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:177` (bullet) — `- **TWCTC-R — Temporary Works Coordinator Refresher** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:178` (bullet) — `- **TSTS — Tunnelling Safety Training Scheme** — COURSE`
+- `certifications/construction-btp-site-schemes-2026.md:202` (bullet) — `- **TCT — Traffic Control Technician** — CERT`
+- `certifications/construction-btp-site-schemes-2026.md:203` (bullet) — `- **TCS — Traffic Control Supervisor** — CERT`
+- `certifications/construction-btp-site-schemes-2026.md:204` (bullet) — `- **TCDS — Traffic Control Design Specialist** — CERT`
+- `certifications/construction-btp-site-schemes-2026.md:205` (bullet) — `- **Flagger Certification** — CERT / dépend aussi des règles de l'État`
+- `certifications/construction-btp-site-schemes-2026.md:206` (bullet) — `- **FIT — Flagger Instructor Training** — CERT / instructor route`
+- `certifications/construction-btp-site-schemes-2026.md:207` (bullet) — `- **GI — Guardrail Installer** — CERT`
+- `certifications/construction-btp-site-schemes-2026.md:209` (bullet) — `- **PMT — Pavement Marking Technician** — CERT`
+- `certifications/construction-btp-site-schemes-2026.md:210` (bullet) — `- **TST — Traffic Sign Technician** — CERT`
+- `certifications/construction-btp-site-schemes-2026.md:211` (bullet) — `- **TMA — Truck-Mounted Attenuator Operator** — CERT`
+- `certifications/construction-btp-site-schemes-2026.md:212` (bullet) — `- **Truck-Mounted Attenuator Trainer** — CERT / trainer route`
+- `certifications/construction-btp-site-schemes-2026.md:231` (bullet) — `- **ProjectWise Administrator Fundamentals Accreditation** — ACC / vendor accreditation`
+- `certifications/construction-btp-specialties-2026.md:33` (bullet) — `- **Blue Skilled Worker** — REG / card`
+- `certifications/construction-btp-specialties-2026.md:34` (bullet) — `- **Gold Skilled Worker** — REG / card`
+- `certifications/construction-btp-specialties-2026.md:35` (bullet) — `- **Gold Supervisor** — REG / card`
+- `certifications/construction-btp-specialties-2026.md:36` (bullet) — `- **Manager** — REG / card`
+- `certifications/construction-btp-specialties-2026.md:37` (bullet) — `- **Academically Qualified Person — AQP** — REG / card`
+- `certifications/construction-btp-specialties-2026.md:38` (bullet) — `- **Professionally Qualified Person — PQP** — REG / card`
+- `certifications/construction-btp-specialties-2026.md:39` (bullet) — `- **Apprentice** — REG / entry card`
+- `certifications/construction-btp-specialties-2026.md:40` (bullet) — `- **Trainee** — REG / temporary training route`
+- `certifications/construction-btp-specialties-2026.md:41` (bullet) — `- **Experienced Worker** — REG / temporary qualification route`
+- `certifications/construction-btp-specialties-2026.md:42` (bullet) — `- **Experienced Technical, Supervisory or Management** — REG / temporary qualification route`
+- `certifications/construction-btp-specialties-2026.md:43` (bullet) — `- **Provisional** — REG / temporary card, 6 mois et non renouvelable selon la page de preuve`
+- `certifications/construction-btp-specialties-2026.md:44` (bullet) — `- **Industry Placement** — REG / entry route`
+- `certifications/construction-btp-specialties-2026.md:104` (bullet) — `- **Fire Alarm Systems** — CERT, multi-level`
+- `certifications/construction-btp-specialties-2026.md:105` (bullet) — `- **Inspection and Testing of Fire Alarm Systems** — CERT, Level I–II`
+- `certifications/construction-btp-specialties-2026.md:106` (bullet) — `- **Inspection and Testing of Water-Based Systems** — CERT, Level I–III`
+- `certifications/construction-btp-specialties-2026.md:107` (bullet) — `- **Special Hazards Systems** — CERT, Level I–IV`
+- `certifications/construction-btp-specialties-2026.md:108` (bullet) — `- **Water-Based Systems Layout** — CERT, Level I–IV`
+- `certifications/construction-btp-specialties-2026.md:112` (bullet) — `- **In-Building Public Safety Communications** — CERT`
+- `certifications/construction-btp-specialties-2026.md:116` (bullet) — `- **Electrical Power Testing** — CERT`
+- `certifications/construction-btp-specialties-2026.md:141` (bullet) — `- **CFPS — Certified Fire Protection Specialist** — CERT`
+- `certifications/construction-btp-specialties-2026.md:142` (bullet) — `- **CFI-I — Certified Fire Inspector I** — CERT`
+- `certifications/construction-btp-specialties-2026.md:143` (bullet) — `- **CFI-II — Certified Fire Inspector II** — CERT`
+- `certifications/construction-btp-specialties-2026.md:144` (bullet) — `- **CFPE — Certified Fire Plan Examiner** — CERT`
+- `certifications/construction-btp-specialties-2026.md:188` (bullet) — `- **Certified Photogrammetrist — CP** — CERT`
+- `certifications/construction-btp-specialties-2026.md:189` (bullet) — `- **Certified Mapping Scientist — Remote Sensing** — CERT`
+- `certifications/construction-btp-specialties-2026.md:190` (bullet) — `- **Certified Mapping Scientist — Lidar** — CERT`
+- `certifications/construction-btp-specialties-2026.md:191` (bullet) — `- **Certified Mapping Scientist — UAS** — CERT`
+- `certifications/construction-btp-specialties-2026.md:197` (bullet) — `- Photogrammetric Technologist — CERT`
+- `certifications/construction-btp-specialties-2026.md:198` (bullet) — `- Remote Sensing Technologist — CERT`
+- `certifications/construction-btp-specialties-2026.md:199` (bullet) — `- Lidar Technologist — CERT`
+- `certifications/construction-btp-specialties-2026.md:200` (bullet) — `- UAS Technologist — CERT`
+- `certifications/construction-btp-specialties-2026.md:213` (bullet) — `- **Archicad BIM User** — COURSE/CERT selon exam path`
+- `certifications/construction-btp-specialties-2026.md:215` (bullet) — `- **Archicad BIM Coordinator** — COURSE/CERT, programme avec assessments`
+- `certifications/construction-btp-specialties-2026.md:216` (bullet) — `- **Archicad BIM Manager** — COURSE/CERT, programme avancé avec assessments`
+- `certifications/paid-over-500.md:426` (table) — `¦ Niveau ¦ Examen ¦ Application certification ¦ Coût minimal ¦`
+- `certifications/paid-under-500.md:110` (table) — `¦ Certification ¦ Prix ¦`
+- `certifications/paid-under-500.md:121` (table) — `¦ Certification ¦ Prix ¦`
+- `certifications/paid-under-500.md:159` (table) — `¦ Certification ¦ Prix ¦`
+- `certifications/paid-under-500.md:176` (table) — `¦ Credential ¦ Coût ¦`
+- `certifications/paid-under-500.md:270` (table) — `¦ Certification ¦ Prix ¦`
+- `certifications/paid-under-500.md:360` (table) — `¦ Certification ¦ Prix examen ¦`
+- `certifications/paid-under-500.md:388` (table) — `¦ Certification ¦ Prix ¦`
+- `certifications/paid-under-500.md:401` (table) — `¦ Certification ¦ Prix approx. ¦`
+- `certifications/paid-under-500.md:437` (table) — `¦ Certification ¦ Prix ¦`
+- `certifications/paid-under-500.md:492` (table) — `¦ Certification ¦ Prix ¦`
+- `certifications/paid-under-500.md:631` (table) — `¦ Certification ¦ Prix indicatif ¦`
