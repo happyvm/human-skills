@@ -389,13 +389,13 @@ Google Ads + Analytics
 
 # 8. Ce qu'on ne doit pas importer bêtement
 
-| Credential / formation étrangère | Pourquoi prudence |
-|---|---|
-| US securities licensing / FINRA | réglementation financière US |
-| US tax credentials | fiscalité US |
-| Canadian bankruptcy modules | droit canadien |
-| US collections law credentials | recouvrement / consumer law local |
-| US patent attorney routes | qualification juridique locale |
+| Exemple / formation étrangère | Pourquoi prudence | Portée |
+|---|---|:---:|
+| US securities licensing / FINRA | réglementation financière US | 🇺🇸 US |
+| US tax credentials | fiscalité US | 🇺🇸 US |
+| Canadian bankruptcy modules | droit canadien | 🇨🇦 CA |
+| US collections law credentials | recouvrement / consumer law local | 🇺🇸 US |
+| US patent attorney routes | qualification juridique locale | 🇺🇸 US |
 
 Principe :
 
