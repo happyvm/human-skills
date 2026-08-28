@@ -78,6 +78,7 @@ jurisdiction = UK-origin professional framework
 | `national-<cc>` | autre pays, code ISO alpha-2 en minuscules |
 | `regional` | valable dans une zone infra-nationale ou dans un groupe limité de juridictions |
 | `mixed` | fiche catalogue contenant plusieurs portées ; la portée doit alors être indiquée au niveau des entrées |
+| `unverified` | portée pas encore vérifiée ; valeur obligatoire pour une nouvelle fiche plutôt que de supposer `international` |
 
 Une fiche peut porter plusieurs valeurs lorsqu'un scheme est réellement multi-portée.
 
@@ -107,6 +108,7 @@ Pour ne pas alourdir les catalogues :
 🇩🇪 DE    Allemagne
 🇸🇬 SG    Singapour
 🌐 REG   autre scope régional ou multi-juridictions à préciser
+❓ UNV   portée non vérifiée
 ```
 
 Les emojis sont des aides visuelles ; la valeur YAML `scope` reste la donnée structurée.
