@@ -4,9 +4,14 @@ type: certification-catalog
 tier: general
 domain:
   - general-it
+scope:
+  - international
+jurisdiction: []
+regulatory_basis: []
 tags:
   - tier/general
   - domain/general-it
+  - scope/international
 status: draft
 verified: {{date:YYYY-MM-DD}}
 ---
@@ -21,9 +26,11 @@ verified: {{date:YYYY-MM-DD}}
 
 # Vue rapide
 
-| Credential | Prix standard | Notes |
-|---|---:|---|
-|  |  |  |
+| Credential | Portée | Prix standard | Notes |
+|---|---|---:|---|
+|  | 🌍 INT / 🇪🇺 EUR / 🇫🇷 FR / 🇺🇸 US / 🇬🇧 UK / autre |  |  |
+
+> Convention géographique : voir [`GEOGRAPHY.md`](../GEOGRAPHY.md). Pour un catalogue multi-pays, utiliser `scope: [mixed]` et indiquer la portée au niveau de chaque entrée.
 
 ---
 
@@ -32,6 +39,11 @@ verified: {{date:YYYY-MM-DD}}
 ## Sous-titre / organisme
 
 Description courte.
+
+Portée :
+
+- scope : **international / europe / france / national-us / national-uk / ...** ;
+- juridiction / base réglementaire : **aucune / ...** ;
 
 Prix examen :
 
