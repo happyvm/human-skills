@@ -21,6 +21,8 @@ AGGREGATORS = {
     "free-non-it.md",
     "paid-under-500.md",
     "paid-over-500.md",
+    "tools-platforms-under-500.md",
+    "business-finance-under-500.md",
 }
 
 # Entrepreneur / Group Management already has explicit canonical ownership.
@@ -44,6 +46,8 @@ GENERIC_CELLS = {
     "quality", "rh", "hr", "insurance", "sustainability", "esg",
     "construction", "btp", "linux", "windows", "ai", "ml", "devops",
     "observability", "business", "architecture", "platform", "vendor",
+    "associate", "professional", "specialist", "expert", "foundational",
+    "practitioner", "registered", "total", "prix officiel",
 }
 
 DETAIL_SIGNAL = re.compile(
