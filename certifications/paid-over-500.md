@@ -92,7 +92,7 @@ Source : https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_referenc
 | CFA Level III standard | **1 590 $** ≈ **1 365 €** | Finance | 🌍 INT |
 | OffSec OSCP+ standalone | **1 699 $** ≈ **1 459 €** | Pentest | 🌍 INT |
 | OffSec Course + Certification bundle | **1 749 $** ≈ **1 502 €** | Cyber pratique | 🌍 INT |
-| ITIL Foundation + Create, Deliver & Support eLearning depuis zéro | **690 + 1 338 $** | ≈ **1 742 €** | ITSM | 🌍 INT |
+| ITIL Foundation + Create, Deliver & Support eLearning depuis zéro | **690 + 1 338 $** ≈ **1 742 €** | ITSM | 🌍 INT |
 | GARP FRM complet, tarif standard, premier passage | **2 000 $ + taxes** ≈ **1 717 €** | Financial Risk | 🌍 INT |
 | Cisco CCIE minimal — core + lab | **400 + 1 600 $** ≈ **1 717 €** | Réseau expert | 🌍 INT |
 | Cisco CCDE minimal — written + practical | **450 + 1 600 $** ≈ **1 760 €** | Network Architecture | 🌍 INT |

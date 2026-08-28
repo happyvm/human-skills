@@ -630,14 +630,14 @@ Tarifs « à partir de » observés :
 
 | Certification | Prix indicatif | Portée |
 | --- | ---: | :---: |
-| ISTQB Certified Tester Foundation Level | **à partir de 75 €** | ❓ UNV |
-| ISTQB Testing with Generative AI | **à partir de 75 €** | ❓ UNV |
-| ISTQB AI Testing | **à partir de 75 €** | ❓ UNV |
-| ISTQB Test Automation Engineering | **à partir de 100 €** | ❓ UNV |
-| TMAP Quality for Cross-Functional Teams | **à partir de 95 €** | ❓ UNV |
-| A4Q Selenium Tester Foundation | **à partir de 120 €** | ❓ UNV |
-| Practical Tester by A4Q | **à partir de 130 €** | ❓ UNV |
-| ISTQB Advanced Test Analyst | **à partir de 135 €** | ❓ UNV |
+| ISTQB Certified Tester Foundation Level | **à partir de 75 €** | 🌍 INT |
+| ISTQB Testing with Generative AI | **à partir de 75 €** | 🌍 INT |
+| ISTQB AI Testing | **à partir de 75 €** | 🌍 INT |
+| ISTQB Test Automation Engineering | **à partir de 100 €** | 🌍 INT |
+| TMAP Quality for Cross-Functional Teams | **à partir de 95 €** | 🌍 INT |
+| A4Q Selenium Tester Foundation | **à partir de 120 €** | 🌍 INT |
+| Practical Tester by A4Q | **à partir de 130 €** | 🌍 INT |
+| ISTQB Advanced Test Analyst | **à partir de 135 €** | 🌍 INT |
 
 Prix variables selon pays et taxes.
 
