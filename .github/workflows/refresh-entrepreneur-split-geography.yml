@@ -15,16 +15,52 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Finalize entrepreneur routing and close stale watchlist
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          index = Path('ENTREPRENEUR-INDEX.md')
+          text = index.read_text()
+          text = text.replace('# 2. Les sept catalogues cœur Entrepreneur', '# 2. Les huit catalogues cœur Entrepreneur')
+          anchor = '| Pratique France : recouvrement / assurance / aides / PI / e-facture | [`certifications/entrepreneur-france-practical-resources-2026.md`](certifications/entrepreneur-france-practical-resources-2026.md) |'
+          extra = '| Secteurs : artisanat / agriculture / UK / microcredentials | [`certifications/entrepreneur-artisan-agri-uk-microcredentials-2026.md`](certifications/entrepreneur-artisan-agri-uk-microcredentials-2026.md) |'
+          if extra not in text:
+              text = text.replace(anchor, anchor + '\n' + extra)
+          index.write_text(text)
+
+          startup = Path('certifications/entrepreneurship-startup-business-creation-2026.md')
+          text = startup.read_text()
+          replacement = '''# 13. Watchlist entrepreneuriat — état après consolidation\n\nLa watchlist historique a été consolidée. Les sujets artisanat / agriculture / SFEDI / Certiport / CréActifs / microcredentials sont désormais suivis dans :\n\n- [`entrepreneur-artisan-agri-uk-microcredentials-2026.md`](entrepreneur-artisan-agri-uk-microcredentials-2026.md) ;\n- [`entrepreneur-france-practical-resources-2026.md`](entrepreneur-france-practical-resources-2026.md) ;\n- [`../ENTREPRENEUR-INDEX.md`](../ENTREPRENEUR-INDEX.md).\n\nLes sujets avancés groupe / LBO / treasury / PMI / carve-out ont été sortis du cœur Entrepreneur et routés vers [`../GROUP-MANAGEMENT-INDEX.md`](../GROUP-MANAGEMENT-INDEX.md).\n\nIl ne reste ici aucune TODO entrepreneur structurante non routée. Les prix régionaux, aides et nouveaux microcredentials restent naturellement à revérifier à la date d'achat.\n\n---\n\n'''
+          text, n = re.subn(r'# 13\. Watchlist entrepreneuriat\n.*?---\n\n(?=# Sources primaires principales)', replacement, text, flags=re.S)
+          if n != 1:
+              raise SystemExit(f'watchlist replacement count={n}')
+          startup.write_text(text)
+
+          readme = Path('README.md')
+          text = readme.read_text()
+          heading = '## Entrepreneuriat, startup & création d\'entreprise\n\n'
+          links = '''- [`ENTREPRENEUR-INDEX.md`](ENTREPRENEUR-INDEX.md) — parcours cœur fondateur / indépendant / repreneur / TPE-PME.\n- [`GROUP-MANAGEMENT-INDEX.md`](GROUP-MANAGEMENT-INDEX.md) — extension holding / groupe / CorpDev / treasury / PMI / carve-out.\n'''
+          if links not in text:
+              text = text.replace(heading, heading + links)
+          readme.write_text(text)
+          PY
+
       - name: Refresh entry geography report
         run: python tools/refine-entry-geography.py --sync
+
       - name: Audit geography
         run: python tools/audit-entry-geography.py
-      - name: Commit reports
+
+      - name: Commit final split
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metadata/entry-geography-report.md metadata/entry-geography-audit.md
+          git add ENTREPRENEUR-INDEX.md README.md certifications/entrepreneurship-startup-business-creation-2026.md metadata/entry-geography-report.md metadata/entry-geography-audit.md
           if git diff --cached --quiet; then exit 0; fi
-          git commit -m "meta: refresh entrepreneur split entry geography"
+          git commit -m "refactor: finalize entrepreneur and group management split"
           git push origin HEAD:main
