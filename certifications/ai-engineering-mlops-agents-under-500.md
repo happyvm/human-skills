@@ -81,11 +81,12 @@ Certification moderne de développement cloud/AI.
 
 Prix France : **126 €**.
 
-La page actuelle référence l'examen **AI-200**.
+La page actuelle référence l'examen **AI-200**. AI-200 est passé en disponibilité générale en **mai 2026** et remplace **AZ-204 (Azure Developer Associate)**, dont la certification est retirée le **31 juillet 2026** — ne plus viser AZ-204 comme point d'entrée développeur Azure/IA.
 
 Source :
 
 - https://learn.microsoft.com/fr-fr/credentials/certifications/azure-ai-cloud-developer-associate/
+- https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-200
 
 ---
 
@@ -291,6 +292,28 @@ Source guide officiel :
 
 - https://www.databricks.com/sites/default/files/2026-02/Databricks-Certified-Generative-AI-Engineer-Associate-Exam-Guide-Interrim-Feb26.pdf
 
+## Snowflake SnowPro Specialty: Gen AI
+
+Snowflake propose une spécialité dédiée à Cortex LLM et à l'IA générative sur sa plateforme.
+
+- prix : **225 $** (tarif standard des SnowPro Specialty) ;
+- prérequis conseillé : SnowPro Core (175 $).
+
+Source :
+
+- https://learn.snowflake.com/en/certifications/snowpro-GenAI/
+
+**Valeur : ⭐⭐⭐⭐** pour un profil data engineer déjà sur Snowflake voulant un signal IA générative spécifique.
+
+## Databricks Certified Machine Learning Professional
+
+Niveau au-dessus de l'Associate, même modèle de prix.
+
+- prix : **200 $** (+ taxes locales selon pays) ;
+- validité : **2 ans**.
+
+**Valeur : ⭐⭐⭐⭐** en complément de l'Associate pour un profil ML engineering confirmé sur la plateforme Databricks.
+
 **Valeur : ⭐⭐⭐⭐⭐** pour GenAI data platform.
 
 ---
@@ -405,14 +428,9 @@ NVIDIA AI Networking Pro            400 $
 
 # À poursuivre
 
-- Microsoft AI-200 exact role positioning / transition map ;
-- Microsoft AI-500 GA date / final objectives ;
 - AB-100 Agentic AI Business Solutions Architect ;
-- AWS GenAI Professional France exact checkout ;
-- AWS AI Practitioner ;
+- AWS GenAI Professional France exact checkout (régionalisation du prix 300 $ US) ;
 - Google Gemini Enterprise / Agent Platform future credentials ;
-- Databricks ML Professional ;
-- Snowflake AI / Cortex certifications ;
 - IBM watsonx already documented separately ;
 - Oracle AI / Agentic Professional paid tracks 2026 ;
 - Hugging Face certifications éventuelles ;
