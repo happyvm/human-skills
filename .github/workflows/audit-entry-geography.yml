@@ -1,0 +1,28 @@
+name: Audit mixed catalogue geography
+
+on:
+  push:
+    paths:
+      - '.github/workflows/audit-entry-geography.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Generate audit
+        run: python tools/audit-entry-geography.py || true
+      - name: Commit audit report
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/entry-geography-audit.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "meta: audit entry geography completeness"
+          git push origin HEAD:main
