@@ -123,6 +123,22 @@ Source / conditions :
 
 ---
 
+## AI Practitioner et Generative AI Developer — nouveaux tracks 2026
+
+AWS a formalisé son offre IA :
+
+- **AWS Certified AI Practitioner (AIF-C01)** — niveau Foundational, **100 $** (promo -50 % du 26 mai au 30 septembre 2026 avec code) ;
+- **AWS Certified Generative AI Developer — Professional (AIP-C01)** — **300 $**, sorti de bêta le 31 mars 2026 (bêta à ~150 $ désormais terminée).
+
+Sources :
+
+- https://aws.amazon.com/certification/certified-ai-practitioner/
+- https://aws.amazon.com/certification/certified-generative-ai-developer-professional/
+
+**Valeur : ⭐⭐⭐⭐⭐** pour un profil cloud voulant un signal IA générative reconnu à faible coût (AI Practitioner).
+
+---
+
 # Microsoft Azure
 
 Microsoft applique actuellement une tarification très favorable en France.
@@ -412,6 +428,64 @@ Alibaba signale parallèlement que le portefeuille est en cours de refonte / ret
 
 ---
 
+# Huawei Cloud
+
+Huawei maintient une hiérarchie **HCIA → HCIP → HCIE**, examens administrés via Pearson VUE.
+
+- HCIA : prix observé **200–300 $** selon revendeurs/région ;
+- **prix officiel non confirmé sur la page Pearson VUE elle-même** (paiement décrit mais montants non affichés publiquement) — `CHECKOUT-REQUIRED`.
+
+Source :
+
+- https://www.pearsonvue.com/us/en/huawei.html
+- https://edu.huaweicloud.com/intl/en-us/certificationindex
+
+---
+
+# Tencent Cloud
+
+Trois niveaux par filière : **TCCA** (Associate), **TCCP** (Professional), **TCCE** (Expert). Examens via Kryterion/Webassessor, validité **2 ans**.
+
+Prix : **CHECKOUT-REQUIRED** — non publié sur webassessor.com/tencent, à vérifier au moment de l'inscription.
+
+Source :
+
+- https://www.tencentcloud.com/edu/training
+- https://www.webassessor.com/tencent
+
+---
+
+# OVHcloud
+
+Programme structuré en trois niveaux : **Discover** (gratuit), **Associate**, **Master**.
+
+- Discover : **0 €**, accessible sur le portail training/certification OVHcloud ;
+- Associate / Master : prix non publiés publiquement — `CHECKOUT-REQUIRED`.
+
+Source :
+
+- https://us.ovhcloud.com/overview/certification
+- https://corporate.ovhcloud.com/en/newsroom/news/certifications-partner-program/
+
+**Valeur : ⭐⭐⭐⭐** pour un profil cloud souverain / France, à coût nul pour le premier niveau.
+
+---
+
+# Scaleway
+
+Certification **Scaleway Foundations** : formation + examen bundlés, seuil de réussite 70 %, badge valide **2 ans**.
+
+- inter-entreprise (1 personne) : **2 200 € HT** ;
+- intra-entreprise (groupe de 3 à 10 personnes) : **9 000 € HT**.
+
+Source :
+
+- https://www.scaleway.com/en/scaleway-learning/
+
+**Verdict :** nettement plus cher que les hyperscalers généralistes pour un signal cloud souverain français équivalent — pertinent surtout en formation financée par l'employeur.
+
+---
+
 # Comparatif architecture cloud
 
 | Credential | Coût |
@@ -448,15 +522,13 @@ Puis choisir un niveau avancé correspondant à l'environnement réellement util
 
 # À poursuivre
 
-- Azure new AI 2026 credentials / AI-500 ;
-- Azure Local / hybrid cloud ;
+- Azure new AI 2026 credentials / AI-500 (pas encore en GA au moment de la revue) ;
+- Azure Local / hybrid cloud — voir aussi `microsoft-azure-local-hci-2026.md` ;
 - Google Network Engineer / Data / ML / Database Engineer ;
-- AWS new AI / data / security tracks ;
 - Oracle Professional 2026 exact access/exam TCO ;
-- Huawei Cloud France / EMEA pricing ;
-- Tencent Cloud ;
-- OVHcloud certification éventuelle ;
-- Scaleway certification éventuelle ;
-- OpenStack / OpenInfra ;
-- sovereign cloud credentials ;
+- Huawei Cloud — prix officiel exact HCIA/HCIP non confirmé sur Pearson VUE (`CHECKOUT-REQUIRED`) ;
+- Tencent Cloud — prix TCCA/TCCP non publiés (`CHECKOUT-REQUIRED`) ;
+- OVHcloud Associate/Master — prix non publiés (`CHECKOUT-REQUIRED`) ;
+- OpenStack / OpenInfra — voir aussi `open-source-private-cloud-2026.md` ;
+- sovereign cloud credentials autres que OVHcloud/Scaleway ;
 - multicloud architecture credentials vendor-neutral.
