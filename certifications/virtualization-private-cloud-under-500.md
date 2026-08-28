@@ -251,11 +251,7 @@ avant formation facultative ou abonnement Red Hat Learning Subscription.
 
 ## Ceph
 
-Le `EX260` Red Hat Certified Specialist in Ceph Cloud Storage est toujours actif et compte vers RHCA.
-
-Source :
-
-- https://www.redhat.com/fr/services/training/ex260-red-hat-certified-specialist-in-ceph-cloud-storage-exam
+Le `EX260` Red Hat Certified Specialist in Ceph Cloud Storage est toujours actif et compte vers RHCA. Détail : voir [`redhat-framework-europe-2026.md`](redhat-framework-europe-2026.md#ex260--ceph-cloud-storage).
 
 ---
 

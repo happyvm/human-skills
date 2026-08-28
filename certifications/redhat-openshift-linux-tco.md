@@ -279,13 +279,7 @@ et peut dépasser ce montant selon le nombre de credentials nécessaires depuis 
 
 # Ceph / storage
 
-## EX260 — Ceph Cloud Storage
-
-Red Hat maintient un examen Specialist autour de Ceph qui compte vers RHCA.
-
-Source :
-
-- https://www.redhat.com/fr/services/training/ex260-red-hat-certified-specialist-in-ceph-cloud-storage-exam
+Détail du credential **EX260 — Ceph Cloud Storage** (compétences, durée d'examen, sources) : voir [`redhat-framework-europe-2026.md`](redhat-framework-europe-2026.md#ex260--ceph-cloud-storage).
 
 Pour une orientation stockage + OpenShift, le combo :
 

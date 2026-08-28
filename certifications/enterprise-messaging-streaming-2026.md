@@ -160,7 +160,7 @@ Prix observé : **150 $**.
 
 Déjà documenté dans :
 
-- [`ibm-enterprise-security-low-cost-2026.md`](ibm-enterprise-security-low-cost-2026.md)
+- [`mainframe-enterprise-software.md`](mainframe-enterprise-software.md)
 
 IBM MQ 9.4 Administrator Professional : **200 $**.
 

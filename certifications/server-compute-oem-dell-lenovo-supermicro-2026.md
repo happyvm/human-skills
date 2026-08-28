@@ -212,7 +212,7 @@ Supermicro reste une **watchlist portal-centric**. Pour certifier des compétenc
 
 HPE est couvert dans :
 
-- [`hpe-private-cloud-ai-certifications-2026.md`](hpe-private-cloud-ai-certifications-2026.md)
+- [`hpe-certification-pricing-ai-private-cloud-2026.md`](hpe-certification-pricing-ai-private-cloud-2026.md)
 
 Rappel grille :
 
