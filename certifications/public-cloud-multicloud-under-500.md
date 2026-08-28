@@ -41,6 +41,8 @@ verified: 2026-08-28
 
 AWS publie directement les prix en euros pour les pays de la zone concernée.
 
+**Auto-formation officielle et gratuite :** [AWS Skill Builder](https://skillbuilder.aws/) — 600+ cours digitaux, exam prep et labs par certification.
+
 ## Tarifs 2026
 
 | Niveau | USD | EUR |
@@ -124,6 +126,8 @@ Source / conditions :
 # Microsoft Azure
 
 Microsoft applique actuellement une tarification très favorable en France.
+
+**Auto-formation officielle et gratuite :** [Microsoft Learn — Training for Azure](https://learn.microsoft.com/training/azure/) — parcours complets (20 à 40 h de contenu selon le module) sans frais, y compris la préparation aux examens role-based/expert listés ci-dessous.
 
 ## Fundamentals
 
@@ -246,6 +250,8 @@ Sources :
 
 # Google Cloud
 
+**Auto-formation officielle et gratuite :** [Google Skills / Cloud Skills Boost](https://www.skills.google/) — cours, labs, skill badges et learning paths par certification ; une large partie du catalogue est accessible sans frais.
+
 ## Associate Cloud Engineer
 
 - prix standard : **125 $ + taxes** ;
@@ -316,6 +322,8 @@ Voir également :
 
 Oracle a modifié fortement son programme le **10 août 2026**.
 
+**Auto-formation officielle et gratuite :** [Oracle University — MyLearn](https://mylearn.oracle.com/) — parcours self-paced sans carte bancaire requise, couvrant notamment les tracks Foundations et OCI Architect Associate ci-dessous.
+
 ## Tous les Foundations restent gratuits
 
 Oracle confirme que les certifications de niveau **Foundations** restent gratuites.
@@ -376,6 +384,8 @@ Source :
 # Alibaba Cloud
 
 Alibaba Cloud a refondu son catalogue certification et affiche directement les prix.
+
+**Auto-formation officielle :** [Alibaba Cloud Academy](https://edu.alibabacloud.com/) — cours en ligne, formation virtuelle gratuite sur les fondamentaux (Elastic Compute, Database, Storage, Network) et parcours Galaxy Program.
 
 ## ACA — Associate
 
