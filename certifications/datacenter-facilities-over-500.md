@@ -117,6 +117,53 @@ Source :
 
 ---
 
+# BICSI
+
+BICSI dispose d'un ensemble de credentials télécom / ICT infrastructure dont plusieurs sont directement pertinents pour les datacenters.
+
+## DCDC — Data Center Design Consultant
+
+Le store officiel BICSI affiche :
+
+**725 $** pour le **DCDC Exam Fee**.
+
+Le DCDC est orienté :
+
+- data center design ;
+- power / cooling interfaces ;
+- spaces ;
+- pathways ;
+- cabling ;
+- ICT infrastructure ;
+- reliability / design practice.
+
+La préparation et les éventuels cours BICSI sont séparés du fee d'examen : le TCO peut donc être supérieur si le candidat achète les supports / formations.
+
+## RCDD — Registered Communications Distribution Designer
+
+Exam fee également affiché à :
+
+**725 $**.
+
+RCDD est plus transversal ICT / structured cabling / telecommunications design que DCDC mais possède une forte reconnaissance dans les infrastructures physiques.
+
+## Autres examens BICSI
+
+Le store affiche également :
+
+- RTPM : **725 $** ;
+- OSP : **725 $** ;
+- Installer 1 : **400 $** ;
+- Technician : **400 $** ;
+- Installer Fiber : **400 $** ;
+- Installer Copper : **400 $**.
+
+Source :
+
+- https://shop.bicsi.org/credentials/all-credentials
+
+---
+
 # Schneider Electric DCCA
 
 Le **Data Center Certified Associate** de Schneider Electric valide une connaissance de base de l'infrastructure physique :
@@ -159,6 +206,29 @@ Très pertinent pour l'exploitation, la gouvernance opérationnelle et le facili
 
 Credential avancé pour des personnes déjà accréditées Uptime.
 
+## BICSI DCDC
+
+Bon signal design datacenter côté infrastructure ICT, pour un coût d'examen très inférieur à Uptime ATD.
+
+## BICSI RCDD
+
+Très identifiable pour structured cabling / ICT infrastructure design.
+
+---
+
+# Vue rapide
+
+| Credential | Prix indicatif |
+|---|---:|
+| BICSI Installer / TECH | **400 $** |
+| BICSI DCDC | **725 $ exam** |
+| BICSI RCDD | **725 $ exam** |
+| Uptime Advanced Seminar alumni | **1 985 $** |
+| Uptime Advanced Seminar standard | **2 485 $** |
+| Uptime ATD / ATS / AOS | **4 985 $ chacun** |
+| Uptime ATP | **4 985 $ + prerequisite** |
+| Uptime ATD/ATS → ATP | **9 970 $ minimum** |
+
 ---
 
 # À poursuivre
@@ -167,8 +237,8 @@ Le domaine datacenter contient encore un important catalogue à cartographier :
 
 - CNet CDCDP / CDCMP / CDCEP ;
 - EPI CDCP / CDCS / CDCE ;
-- BICSI DCDC ;
-- BICSI RCDD ;
+- BICSI DCDC long-term TCO / renewal ;
+- BICSI RCDD long-term TCO ;
 - Schneider DCCA prix exact ;
 - Data Center Dynamics credentials ;
 - power/cooling vendor certifications ;
