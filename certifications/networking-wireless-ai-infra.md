@@ -218,6 +218,23 @@ Les cours instructor-led Nokia peuvent coûter plusieurs milliers d'euros **par 
 
 ---
 
+## Nokia Bell Labs 5G Certification — distinct de NRS
+
+Programme séparé du parcours Service Routing, coproduit avec NIIT, structuré en niveaux **Associate** puis **Professional**.
+
+- Foundation Course (units 0–1) : **500 €** ;
+- niveaux Associate / Professional disponibles ensuite ;
+- prix exact par niveau au-delà du Foundation non confirmé publiquement.
+
+Source :
+
+- https://www.nokia.com/networks/training/bell-labs/
+- https://www.nokia.com/networks/training/5g/bell-labs/associate-certification/
+
+**Verdict :** pertinent pour un profil télécom/5G généraliste (vendor-neutral dans l'esprit, contrairement au NRS qui est spécifique aux produits Nokia) ; TCO Associate/Professional à confirmer avant d'aller au-delà du Foundation.
+
+---
+
 # 5. MEF SD-WAN Certified Professional
 
 ## MEF-SDCP
@@ -376,11 +393,10 @@ Source :
 
 # À poursuivre
 
-- Arista ACE ;
 - Extreme Networks avancé ;
 - HPE Aruba / Juniper migration ;
 - Cisco CCNP/CCIE TCO par track ;
-- Nokia 5G certifications ;
+- Nokia 5G Associate/Professional — prix exact au-delà du Foundation (500 €) ;
 - Ericsson certifications ;
 - 3GPP / telecom vendor-neutral ;
 - Ciena ;
