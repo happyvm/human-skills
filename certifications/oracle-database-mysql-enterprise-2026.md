@@ -95,7 +95,7 @@ Source :
 
 ## AI Database Administration Associate
 
-Nouveau niveau DBA moderne.
+Nouveau niveau DBA moderne. Codes d'examen confirmés : **1Z0-1195-26** (AI Database Foundations Associate), **1Z0-171** (AI Database SQL Associate), **1Z0-183** (AI Database Administration Professional).
 
 Prix examen indicatif : **1 Oracle Technology Exam Attempt = 245 $ US value**, sous réserve du prix régional Oracle MyLearn.
 
@@ -248,9 +248,17 @@ Oracle University maintient un catalogue officiel MySQL couvrant :
 - high availability ;
 - Oracle MySQL certifications.
 
+Codes d'examen confirmés (MySQL 8.0, MySQL 5.7 étant retiré) :
+
+- **1Z0-908** — Oracle Certified Associate (OCA), MySQL Database Administrator ;
+- **1Z0-909** — MySQL 8.0 Database Developer ;
+- **1Z0-922** — MySQL Implementation Associate.
+
 Source :
 
 - https://www.oracle.com/fr/education/training/mysql/
+- https://education.oracle.com/mysql-implementation-associate/pexam_1Z0-922
+- https://education.oracle.com/mysql-80-database-developer/pexam_1Z0-909
 
 Les examens technologiques MySQL utilisent le même mécanisme Oracle Technology Exam Subscription.
 
@@ -322,10 +330,8 @@ Le vrai prix France sera celui affiché par Oracle MyLearn / Pearson selon le ca
 # À poursuivre
 
 - prix exact MyLearn France de l'Exam Subscription Technology ;
-- AI Database Associate exact code / objectives ;
-- AI Database Professional global prerequisites ;
+- AI Database Professional global prerequisites (codes confirmés : 1Z0-1195-26, 1Z0-171, 1Z0-183) ;
 - Data Guard / RAC / performance current certification mapping ;
-- MySQL current exact certification names/codes ;
 - Exadata October 2026 launch details ;
 - GoldenGate ;
 - Oracle Linux ;
