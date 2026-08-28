@@ -32,6 +32,8 @@ verified: 2026-08-28
 
 Le **CCXP** de la Customer Experience Professionals Association est une certification professionnelle indépendante orientée expérience client.
 
+**Auto-formation officielle :** [CXPA — Prep Resources](https://cxpaglobal.org/get-certified/prep-resources) — CX Book of Knowledge (300+ pages) et programme de mentorat CCXP.
+
 Contrairement à de nombreuses formations CX propriétaires, le programme :
 
 - impose une expérience professionnelle admissible ;

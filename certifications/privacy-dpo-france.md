@@ -96,6 +96,8 @@ Source :
 
 # 3. IAPP
 
+**Auto-formation officielle et gratuite (IAPP, CIPP/E/CIPM/CIPT/AIGP ci-dessous) :** [iapp.org — free study guides](https://iapp.org/certify/free-study-guides).
+
 ## CIPP/E
 
 Credential international de référence pour la privacy européenne / GDPR.

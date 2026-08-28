@@ -21,6 +21,8 @@ verified: 2026-08-28
 
 ISA propose plusieurs certifications professionnelles dont l'examen reste relativement abordable.
 
+**Auto-formation officielle et gratuite (partielle) :** [ISA — Free Training](https://programs.isa.org/free-training) — modules self-paced gratuits en essai, Skills Development Resource Navigator gratuit.
+
 ## Certified Automation Professional — CAP
 
 Tarifs 2026 :
