@@ -252,7 +252,7 @@ Sources :
 - https://redis.io/legal/redis-certification-program-terms-and-conditions/
 - https://redis.io/blog/redis-developer-certification-is-here/
 
-**Statut prix : 🟡 à récupérer au checkout / lancement commercial définitif.**
+**Statut prix : 🟡 partiellement confirmé.** Des sources tierces cohérentes (non officielles) indiquent **175 $ par examen** pour les trois certifications Associate, avec une offre de lancement à **-50 % (≈ 87,50 $)** pendant une période limitée. Le blog officiel Redis, dans sa dernière mise à jour consultée, formule encore la relance au conditionnel (« plans to be relaunched in 2026 ») plutôt que comme un lancement confirmé — **à revérifier directement sur `university.redis.io` avant achat**.
 
 C'est une entrée importante parce que beaucoup de vieux dépôts GitHub indiquent encore que Redis certification est simplement « retirée ».
 
@@ -303,13 +303,21 @@ Le tarif France exact de chaque subscription / examen doit être relevé au chec
 
 ---
 
+## Vérifié : CockroachDB / YugabyteDB
+
+**CockroachDB** : aucun programme de certification officiel identifié.
+
+**YugabyteDB** : Yugabyte University propose des certifications (plus de 4 000 délivrées depuis le lancement), avec ressources gratuites (vidéos, labs, office hours). Le portail direct était inaccessible lors de la vérification (403) — prix et statut exact `CHECKOUT-REQUIRED`, à confirmer sur university.yugabyte.com.
+
+Source :
+
+- https://www.yugabyte.com/blog/tag/certification/
+
 # À poursuivre
 
-- Redis prix final des trois nouvelles certifications ;
 - Oracle Database OCP / MySQL prix régional France ;
 - Microsoft SQL Server / Azure SQL credentials ;
-- CockroachDB ;
-- Yugabyte ;
+- Yugabyte University — prix exact des certifications (portail inaccessible lors de la vérification) ;
 - Cassandra / DataStax actuel ;
 - Neo4j avancé ;
 - ClickHouse ;
