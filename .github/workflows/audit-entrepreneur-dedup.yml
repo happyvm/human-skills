@@ -24,6 +24,8 @@ jobs:
 
           replacements = {
             'certifications/entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md': {
+              '| M&A / deal prep | IMAA International M&A Expert | CERT | **3 290 $** self-paced bundle observé | HAUTE si deals répétés | 🌍 INT |':
+              '| M&A / deal prep | voir catalogue CorpDev / M&A canonique | ROUTE | — | HAUTE si deals répétés | 🌍 INT |',
               '| Modèle / valuation | CFI FMVA / IB & PE Modeling | CERT | HAUTE | 🌍 INT |':
               '| Modèle / valuation | voir parcours finance / valuation canonique | ROUTE | HAUTE | 🌍 INT |',
               '| Process M&A | IMAA International M&A Expert | CERT | HAUTE si deals répétés | 🌍 INT |':
@@ -82,7 +84,7 @@ jobs:
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+happyvm@users.noreply.github.com"
           git add certifications/entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md \
                   certifications/entrepreneur-eta-family-ess-export-regulated-2026.md \
                   certifications/entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md \
