@@ -12,76 +12,54 @@ verified: 2026-08-28
 
 # Entrepreneur / TPE / PME Index — human-skills
 
-> Vue entrepreneur de `human-skills` : **créer l'entreprise**, puis savoir **vendre, piloter, livrer, protéger, recruter et développer** l'activité.
+> Vue entrepreneur de `human-skills` : **créer l'entreprise**, puis savoir **vendre, piloter, livrer, protéger, recruter, financer et développer** l'activité.
 >
 > Une certification étrangère n'est pas écartée par principe : si la compétence est portable, on cherche **le meilleur credential mondial**. Les credentials France/UE restent prioritaires lorsque le sujet dépend du droit, de la fiscalité ou de la réglementation locale.
 
 ---
 
-# 1. Les trois catalogues principaux
+# 1. Les quatre catalogues principaux
 
 ## Créer / lancer l'entreprise
 
 [`certifications/entrepreneurship-startup-business-creation-2026.md`](certifications/entrepreneurship-startup-business-creation-2026.md)
 
-Couvre :
-
-- entrepreneuriat ;
-- business model ;
-- création / reprise ;
-- micro-entreprise ;
-- startup ;
-- programmes CCI / BGE / CréActifs / Cnam ;
-- badges gratuits ;
-- qualifications académiques entrepreneuriales.
+Couvre : entrepreneuriat, business model, création/reprise, micro-entreprise, startup, CCI/BGE/CréActifs/Cnam, badges gratuits et qualifications académiques entrepreneuriales.
 
 ## Faire fonctionner l'entreprise
 
 [`certifications/entrepreneur-essential-operations-2026.md`](certifications/entrepreneur-essential-operations-2026.md)
 
-Couvre :
-
-- vente ;
-- prospection ;
-- CRM / RevOps ;
-- marketing ;
-- SEO / Ads ;
-- finance / comptabilité / trésorerie ;
-- achats / fournisseurs ;
-- projet / opérations ;
-- relation client ;
-- recrutement ;
-- management ;
-- paie ;
-- contrats ;
-- RGPD / cyber ;
-- data / analytics ;
-- export / import ;
-- e-commerce.
+Couvre : vente, prospection, CRM/RevOps, marketing, finance/trésorerie, achats, projet, relation client, recrutement, management, paie, contrats, RGPD/cyber, data, export et e-commerce.
 
 ## Chercher les meilleures certifications fonctionnelles mondiales
 
 [`certifications/entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md)
 
-Couvre les credentials étrangers réellement intéressants depuis la France :
+Couvre : Xero / QuickBooks, HubSpot / Google / AMA, Salesforce, Scrum.org, ASQ, WorldCC, HRCI aPHRi/PHRi, IAPP CIPP/E/CIPM et ICC.
 
-- Xero / QuickBooks — finance et workflows comptables ;
-- HubSpot / Google / AMA — vente et marketing ;
-- Salesforce — CRM ;
-- Scrum.org — exécution / projet ;
-- ASQ — qualité / Six Sigma ;
-- WorldCC — contrats et commercial management ;
-- HRCI aPHRi / PHRi — RH internationales ;
-- IAPP CIPP/E / CIPM — privacy ;
-- ICC — Incoterms, import/export, digital trade.
-
-Le fichier contient en plus une colonne **Pertinence FR** pour distinguer :
+Le fichier contient une colonne **Pertinence FR** pour distinguer :
 
 ```text
 credential étranger
        ≠
 credential inutile en France
 ```
+
+## Financer, scaler, vendre en ligne et protéger les actifs
+
+[`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
+
+Couvre :
+
+- levée de fonds et venture finance ;
+- valorisation / financial modeling ;
+- compréhension du crédit bancaire ;
+- credit management / recouvrement ;
+- négociation premium ;
+- Amazon Ads / retail media ;
+- Shopify verified skills ;
+- propriété intellectuelle / WIPO.
 
 ---
 
@@ -139,6 +117,8 @@ pilotage
 - CCI France **RS7378 — Maîtriser les fondamentaux de la gestion d'une TPE-PME** ;
 - **Xero L1/L2/L3** pour la culture des workflows financiers ;
 - **QuickBooks ProAdvisor** si activité internationale / écosystème Intuit ;
+- **CFI CBCA** pour comprendre l'analyse crédit d'un financeur ;
+- **CICM Level 3** si le poste client devient structurant ;
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md)
 - [`certifications/business-valuation.md`](certifications/business-valuation.md)
 
@@ -179,7 +159,6 @@ formation interne
 - **HRCI aPHRi** pour les fondamentaux RH internationaux hors US ;
 - **HRCI PHRi** lorsque la fonction RH devient réellement professionnelle ;
 - [`certifications/hr-people-hrtech.md`](certifications/hr-people-hrtech.md)
-- [`certifications/coaching-learning-development.md`](certifications/coaching-learning-development.md)
 
 ## Croissance → structuration
 
@@ -201,7 +180,63 @@ contrats
 - **ASQ Six Sigma** pour l'amélioration des opérations ;
 - [`certifications/supply-chain-procurement-over-500.md`](certifications/supply-chain-procurement-over-500.md)
 - [`certifications/business-continuity-crisis.md`](certifications/business-continuity-crisis.md)
-- [`certifications/iso-grc-europe-over-500.md`](certifications/iso-grc-europe-over-500.md)
+
+## Levée de fonds → investisseurs
+
+```text
+forecast
+financial model
+valuation
+cap table
+dilution
+term sheet
+venture economics
+governance
+```
+
+À voir :
+
+- **CFI FMVA® — 497 $/an Self-Study standard** ;
+- **VC University ONLINE — 1 500 $ early-bird / 1 850 $ standard en 2026** ;
+- [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
+- [`certifications/business-valuation.md`](certifications/business-valuation.md)
+
+## E-commerce → marketplace
+
+```text
+conversion
+catalogue
+retail media
+marketplace ads
+analytics
+brand/IP
+```
+
+À voir :
+
+- **Amazon Ads Academy certifications — gratuites** ;
+- **Shopify Academy Verified Skills** si Shopify ;
+- Google Ads / Analytics ;
+- WIPO DL-101 pour marque, design et autres actifs PI ;
+- [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
+
+## Propriété intellectuelle
+
+```text
+marque
+brevet
+dessin & modèle
+copyright
+licensing
+commercialisation IP
+```
+
+À voir :
+
+- **WIPO Academy DL-101 — 55 h, certificat, gratuit** ;
+- **WIPO DL-450 — 100 h, gratuit mais sans certificat en self-study 2026** ;
+- INPI / conseil PI pour les procédures françaises ;
+- [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
 
 ## Internationalisation
 
@@ -239,15 +274,16 @@ HubSpot — Inbound Sales
 HubSpot — Digital Marketing
 HubSpot — Revenue Operations
 HubSpot — Sales Management
-HubSpot — Email Marketing
-HubSpot — Content Marketing
 
 Google Ads Search / Measurement
 Google Analytics Certification
 Semrush SEO / Content Marketing
 
 Xero Level 1 → Level 2 → Level 3
-QuickBooks ProAdvisor si le programme est pertinent pour l'activité
+
+Amazon Ads Academy si Amazon est un canal
+WIPO DL-101 pour la propriété intellectuelle
+WIPO DL-450 pour approfondir la gestion IP (sans credential)
 
 CNIL — Atelier RGPD
 ```
@@ -282,24 +318,24 @@ Puis seulement payer une certification qui corrige un **vrai point faible**.
 | Finance workflow | Xero L1/L2/L3 | **0 €** | pratique et global |
 | Vente | HubSpot Inbound Sales | **0 €** | directement applicable |
 | RevOps | HubSpot Revenue Operations | **0 €** | sales + marketing + service |
-| Marketing | Google Ads + HubSpot | **0 €** | outils réellement utilisés |
+| Amazon | Amazon Ads certifications | **0 €** | retail media réellement utilisé |
+| IP | WIPO DL-101 | **0 €** | fondations PI + certificat |
 | Marketing vendor-neutral | AMA PCM | **249–349 $** | examen seul possible |
 | CRM | Salesforce Platform Foundations | **75 $** | compréhension d'un CRM structuré |
 | Projet | Scrum.org PSM I | **200 $** | pas de formation obligatoire |
 | Process | ASQ Yellow Belt | **334–434 $** | DMAIC / amélioration continue |
+| Finance / valo | CFI FMVA | **497 $/an** | modèles, forecast, valuation |
+| Crédit | CFI CBCA | **497 $/an** | comprendre prêteur / risque / dette |
 | RH hors US | HRCI aPHRi | **400 $** | aucune expérience RH requise |
-| Privacy UE | IAPP CIPP/E | **550 $ + maintenance** | directement centré GDPR / Europe |
+| Privacy UE | IAPP CIPP/E | **550 $ + maintenance** | GDPR / Europe |
 | Contrats B2B | WorldCC CCM Associate | **780 $ + membership** | cycle contractuel global |
+| Venture finance | VC University | **1 500–1 850 $** | levée, cap table, term sheets |
 | Export | ICC Incoterms | **399 $** | standard mondial |
 | Import/export | ICC EIC | **699 $** | parcours complet |
-
-Cette stack ne remplace pas les compétences France lorsque la loi locale domine.
 
 ---
 
 # 6. Le principe de délégation
-
-Le bon entrepreneur ne cherche pas à tout internaliser.
 
 ```text
 COMPRENDRE
@@ -311,13 +347,13 @@ DÉCIDER
 EXÉCUTER OU DÉLÉGUER
 ```
 
-Typiquement :
-
 | Fonction | À comprendre | Souvent à déléguer |
 |---|---|---|
 | Comptabilité | marge, cash, bilan, résultat | tenue / clôture / fiscalité |
+| Levée | valo, dilution, cap table, termes | documentation juridique complexe |
 | Paie | coût salarié, bulletin, contrôles | production mensuelle |
 | Juridique | clauses, risques, obligations | rédaction complexe / contentieux |
+| PI | actifs, stratégie, coûts, territoires | rédaction brevet / procédure complexe |
 | RGPD | principes, registre, sous-traitants | DPO/juriste si traitement complexe |
 | Cyber | MFA, sauvegarde, accès, incident | architecture / audit / SOC selon taille |
 | Marketing | CAC, conversion, attribution | production média / agence selon besoin |
@@ -341,61 +377,34 @@ OUTIL RÉELLEMENT UTILISÉ
 vendor certification pertinente
 ```
 
-Exemples de bons imports :
+Bons imports : WorldCC, ICC, IAPP CIPP/E, HRCI aPHRi, ASQ, Scrum.org, AMA, HubSpot, Xero, CFI, VC University, WIPO.
 
-```text
-WorldCC       contrats B2B
-ICC           commerce international
-IAPP CIPP/E   privacy européenne
-HRCI aPHRi    fondamentaux RH internationaux
-ASQ           qualité / process
-Scrum.org     exécution
-AMA           marketing
-HubSpot       vente / marketing / RevOps
-Xero          workflows financiers
-```
-
-Exemples à ne pas transposer aveuglément :
-
-```text
-PHR / SPHR US
-CIPP/US
-US CPA / tax credentials
-formations payroll US
-credentials liés à des codes réglementaires américains
-```
+À ne pas transposer aveuglément : PHR/SPHR US, CIPP/US, US CPA/tax, payroll US, bankruptcy/collections law locales, qualifications juridiques brevet locales.
 
 ---
 
 # 8. Catalogues connexes
 
+- [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
 - [`certifications/entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md)
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md)
+- [`certifications/business-valuation.md`](certifications/business-valuation.md)
 - [`certifications/marketing-sales-professional.md`](certifications/marketing-sales-professional.md)
-- [`certifications/product-management-marketing.md`](certifications/product-management-marketing.md)
-- [`certifications/customer-experience.md`](certifications/customer-experience.md)
 - [`certifications/legal-contract-management.md`](certifications/legal-contract-management.md)
 - [`certifications/privacy-dpo-france.md`](certifications/privacy-dpo-france.md)
 - [`certifications/hr-people-hrtech.md`](certifications/hr-people-hrtech.md)
 - [`certifications/supply-chain-procurement-over-500.md`](certifications/supply-chain-procurement-over-500.md)
 - [`certifications/business-continuity-crisis.md`](certifications/business-continuity-crisis.md)
-- [`certifications/innovation-pricing.md`](certifications/innovation-pricing.md)
-- [`certifications/free-non-it.md`](certifications/free-non-it.md)
-- [`certifications/paid-under-500.md`](certifications/paid-under-500.md)
-- [`certifications/paid-over-500.md`](certifications/paid-over-500.md)
 
 ---
 
 # 9. Prochaines extensions
 
-- levée de fonds / venture capital ;
 - reprise / transmission ;
 - franchise ;
-- propriété intellectuelle / INPI ;
-- recouvrement / credit management ;
+- INPI / propriété intellectuelle France ;
 - facturation électronique française ;
 - ESS / impact ;
-- export / Team France Export ;
-- marketplaces et e-commerce ;
-- assurance du dirigeant / risk management TPE ;
+- Team France Export ;
+- assurances du dirigeant / risk management TPE ;
 - certifications métiers artisan / commerce lorsque l'activité l'impose.
