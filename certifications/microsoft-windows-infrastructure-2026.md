@@ -165,11 +165,14 @@ Source :
 - Defender ;
 - Purview.
 
-Attention : la liste Microsoft des retraits prévoit **MS-102 le 30 novembre 2026**. Il faut donc vérifier le nouveau chemin avant inscription tardive.
+Attention : Microsoft confirme officiellement le retrait de **MS-102 le 30 novembre 2026 à 23h59 CST**.
 
-Sources :
+**Successeur confirmé (officiel, Microsoft Learn) : AB-650 — Administering Microsoft 365 and AI Services (actuellement en beta)**, qui mène à la certification *Microsoft 365 Certified: AI Services Administrator Associate*. Contrairement à MS-102 (qui exigeait un second examen associate en plus), **AB-650 est un examen unique sans prérequis formel**, avec un contenu élargi à la gouvernance des services IA/Copilot/agents (35–40 % du programme).
 
-- https://learn.microsoft.com/fr-fr/credentials/certifications/exams/ms-102/
+Source :
+
+- https://learn.microsoft.com/en-us/credentials/certifications/exams/ms-102/
+- https://learn.microsoft.com/en-us/credentials/certifications/exams/ab-650/
 - https://learn.microsoft.com/fr-fr/credentials/support/retired-certification-exams
 
 ---
@@ -224,6 +227,6 @@ Le choix doit évidemment dépendre du rôle : infrastructure, hybrid cloud, ide
 - Entra advanced paths ;
 - SC-500 sortie de bêta / langues ;
 - AZ-802 sortie de bêta / date GA ;
-- successeur MS-102 ;
+- AB-650 — prix exact une fois sorti de beta, et date de disponibilité générale exacte ;
 - PowerShell credentials externes / vendor-neutral ;
 - Windows Server 2025 focused credentials.
