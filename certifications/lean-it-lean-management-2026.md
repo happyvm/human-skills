@@ -42,6 +42,10 @@ verified: 2026-08-28
 | SME/AME/Shingo Lean Silver / Gold | SME | **CHECKOUT-REQUIRED**, portfolio + expérience | ✅ actif, niveau senior |
 | Kaizen Institute — certification sectorielle | Kaizen Institute | **CHECKOUT-REQUIRED** (devis B2B) | ✅ actif |
 | IISE Lean Six Sigma Certificate Program (Green Belt complet) | IISE | **6 995–10 790 $** | ✅ programme de cours complet |
+| SSGI Yellow Belt | Six Sigma Global Institute | **695 $** (formation + exam bundlés) | ✅ actif, alternative payante |
+| LEI Lean Fundamentals Bundle | Lean Enterprise Institute | **749 $** | ⚠️ formation, pas une certification |
+| SSGI Black Belt | Six Sigma Global Institute | **3 100 $** (formation + exam bundlés) | ✅ actif, alternative payante |
+| TWI Institute — Student/Trainer Certification | TWI Institute | **CHECKOUT-REQUIRED** (B2B) | ✅ actif |
 
 ---
 
@@ -220,6 +224,54 @@ Source :
 
 ---
 
+# 4. Autres organismes Lean identifiés
+
+## Lean Enterprise Institute (LEI) — formation, pas certification
+
+LEI (fondé par James Womack, référence historique du terme « Lean ») vend des **bundles de formation** plutôt qu'une certification professionnelle proctorée comparable aux autres credentials de cette fiche.
+
+- Lean Fundamentals Online Course Bundle : **749 $** (accès 1 an, utilisateur unique) ;
+- workshops in-person : **800 $/jour** (1 jour) à **1 600 $** (2 jours), repas inclus ;
+- réduction de groupe : **-12,5 %** à partir de 3 inscriptions ;
+- **aucun élément trouvé confirmant un examen proctoré ou un titre certifiant** — LEI délivre des certificats de participation/completion, pas une certification professionnelle au sens ASQ/IASSC/SME.
+
+Source :
+
+- https://www.lean.org/events-training/events/lean-fundamentals-online-course-bundle/
+
+**Verdict :** utile comme formation de référence (le corpus Womack/Jones fait autorité), mais **ne pas le positionner comme équivalent** à un Lean Bronze SME ou un Black Belt IASSC sur un CV — c'est un signal de formation suivie, pas un examen validé.
+
+## TWI Institute — Training Within Industry
+
+Le TWI Institute délivre des certifications **Student** et **Trainer** sur les modules historiques Job Instruction (JI), Job Relations (JR), Job Methods (JM), Job Safety (JS) et Problem Solving (PS).
+
+- prix : **CHECKOUT-REQUIRED** — aucune grille publique trouvée, programme vendu en B2B/in-company via le réseau de partenaires TWI Institute ;
+- le Trainer Certification suit un format Train-the-Trainer de 40 heures par module.
+
+Source :
+
+- https://www.twi-institute.com/certifications/
+
+**Verdict :** pertinent pour un rôle formateur/superviseur en environnement manufacturing, mais TCO à obtenir directement auprès d'un partenaire local — pas de prix autofinancé identifiable.
+
+## Six Sigma Global Institute (SSGI) — alternative payante bundlée
+
+Contrairement à IASSC/CSSC (examen seul), **SSGI vend la formation et l'examen en un seul package**, ce qui explique un TCO nettement supérieur pour un signal équivalent :
+
+```text
+Yellow Belt      695 $
+Green Belt       ~1 500–2 000 $ (fourchette observée)
+Black Belt       3 100 $
+```
+
+**Verdict :** rapport signal/prix nettement moins favorable qu'IASSC (395 $ Black Belt, examen seul) pour un candidat autofinancé cherchant juste le titre ; peut se justifier si la formation structurée elle-même est l'objectif recherché.
+
+### Mise en garde — badges Six Sigma à bas coût non accrédités
+
+Des sites comme `sixsigma-institute.org` annoncent des « certifications Six Sigma à 49 $ ». Ce ne sont **pas des organismes accrédités reconnus par l'industrie** au même titre qu'ASQ, IASSC ou CSSC — traiter comme un badge de cours, pas comme un credential professionnel à valoriser sur un CV.
+
+---
+
 # Comparatif rapide
 
 ```text
@@ -232,8 +284,11 @@ Source :
 440 $    SME/AME/Shingo Lean Bronze — membre
 585 $    ASQ Six Sigma Black Belt
 600 $    SME/AME/Shingo Lean Bronze — non-membre
+695 $    SSGI Yellow Belt (formation + exam bundlés)
+749 $    LEI Lean Fundamentals Bundle (formation, pas une certification)
 2 089 $  IISE Lean Enterprise Certificate — membre/prépaiement
 2 399 $  ASQ Master Black Belt
+3 100 $  SSGI Black Belt (formation + exam bundlés)
 6 995 $  IISE Lean Six Sigma Certificate Program — membre/prépaiement
 ```
 
@@ -275,8 +330,10 @@ Kaizen Institute (devis) ou SME/AME/Shingo Lean Silver/Gold
 
 # À poursuivre
 
-- Lean Enterprise Institute (LEI) — programmes et éventuelle certification ;
-- TWI Institute — Training Within Industry, certification instructeur ;
-- Six Sigma Global Institute — statut et prix à vérifier ;
-- successeur éventuel de Lean IT après le retrait PeopleCert/EXIN ;
-- déclinaisons nationales/régionales du Kaizen Institute avec grille tarifaire publique.
+- successeur éventuel de Lean IT après le retrait conjoint PeopleCert (fait) / EXIN (prévu fin 2026) ;
+- prix exact EXIN Lean IT Kaizen / Leadership à confirmer sur le store officiel exin.com (revendeurs uniquement identifiés à ce stade) ;
+- fourchette Green Belt SSGI à préciser (revendeurs peu cohérents entre eux) ;
+- déclinaisons nationales/régionales du Kaizen Institute avec grille tarifaire publique ;
+- SME Lean Silver / Gold — prix exact, actuellement CHECKOUT-REQUIRED.
+
+---
