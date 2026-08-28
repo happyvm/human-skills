@@ -287,20 +287,34 @@ Splunk Admin / ITSI
 
 ---
 
+# DevOps Institute — SRE Foundation (PeopleCert)
+
+Contrairement à Lean IT (voir `lean-it-lean-management-2026.md`), **SRE Foundation reste un programme actif** de DevOps Institute/PeopleCert.
+
+- prix officiel exam-only confirmé sur peoplecert.org : **503 $** ;
+- aucun prérequis ;
+- des bundles revendeurs (eLearning + exam + eBook) montent à **1 040–1 288 $**, mais ce n'est pas le prix officiel exam-only.
+
+Source :
+
+- https://www.peoplecert.org/browse-certifications/devops/DevOps-13/sre-foundation-3782
+
+**Verdict :** au-delà de 500 $ pour ce fichier, mais utile en complément d'observability-sre-devops-under-500 pour un profil visant un titre SRE reconnu — passer par l'exam-only officiel plutôt qu'un bundle revendeur.
+
+---
+
 # À poursuivre
 
-- Dynatrace certification 2026 ;
 - New Relic nouveau programme éventuel ;
-- Sumo Logic actuels 100/150 $ à consolider ;
 - Grafana Labs certification professionnelle si programme formel apparaît ;
-- AppDynamics / Cisco observability ;
 - SolarWinds ;
-- PagerDuty ;
+- PagerDuty University — certification confirmée mais prix public non trouvé (`CHECKOUT-REQUIRED`) ;
 - ServiceNow ITOM ;
 - OpenSearch ;
 - VictoriaMetrics ;
 - InfluxData ;
 - Honeycomb ;
 - Chronosphere ;
-- SRE Foundation / DevOps Institute / PeopleCert TCO ;
 - DORA / platform engineering credentials.
+
+Sumo Logic (100 $ Fundamentals / 150 $ autres) et Dynatrace (200–250 $ indicatif, non officiel) sont déjà documentés dans [`observability-vendor-certifications-2026.md`](observability-vendor-certifications-2026.md).
