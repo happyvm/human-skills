@@ -13,7 +13,7 @@ Répondre à quatre questions :
 3. **Quel est le vrai TCO du credential, pas seulement le prix du voucher ?**
 4. **Dans quel ordre les passer pour construire un profil cohérent ?**
 
-Le dépôt couvre IT et hors IT : cloud, infrastructure, cyber, data, architecture, observabilité, automatisation, projet, leadership, finance, business, langues, risque, RGPD, Lean/Six Sigma, marketing, supply chain, change management, ressources humaines et autres domaines.
+Le dépôt couvre IT et hors IT : cloud, infrastructure, cyber, data, architecture, observabilité, automatisation, projet, leadership, finance, business, langues, risque, RGPD, Lean/Six Sigma, marketing, supply chain, change management, audit, ressources humaines, AML/compliance et autres domaines.
 
 ---
 
@@ -33,8 +33,11 @@ Le dépôt couvre IT et hors IT : cloud, infrastructure, cyber, data, architectu
 
 ## Au-delà de 500 € — analyse par TCO
 
-- [`certifications/paid-over-500.md`](certifications/paid-over-500.md) — CISSP/CCSP, ISACA, IAPP, GIAC/SANS, OffSec, Cisco Pro/Expert, Red Hat multi-examens, PECB/ISO, ITIL/PRINCE2, PMI, GARP, CFA, ASQ, ASCM, TOGAF, etc.
+- [`certifications/paid-over-500.md`](certifications/paid-over-500.md) — catalogue général : ISC2, ISACA, IAPP, GIAC/SANS, OffSec, Cisco Pro/Expert, Red Hat, PECB/ISO, PeopleCert, PMI, GARP, CFA, ASQ, ASCM, TOGAF, etc.
 - [`certifications/management-transformation-over-500.md`](certifications/management-transformation-over-500.md) — Prosci, SABSA, IIBA CBAP, DAMA CDMP avancé, HRCI, SAFe, FinOps, procurement / CPSM.
+- [`certifications/audit-finance-project-over-500.md`](certifications/audit-finance-project-over-500.md) — IIA CIA/CRMA, IMA CMA, ACCA, IPMA France, SMaP Change, ACMP CCMP, APMG Change Management.
+- [`certifications/finance-risk-fraud-over-500.md`](certifications/finance-risk-fraud-over-500.md) — CAIA, PRMIA PRM/ERM, CFE, CTP, credit/counterparty risk.
+- [`certifications/compliance-aml-fpa-over-500.md`](certifications/compliance-aml-fpa-over-500.md) — CAMS, CAFS, CGSS, Advanced CAMS, ICA AML/GRC/Financial Crime et AFP FPAC.
 
 ## Roadmap
 
@@ -74,22 +77,29 @@ LONG-TERM TCO
     Maintenance, renouvellement, membership et obligations sur plusieurs années.
 ```
 
-Le classement cherche donc à utiliser le **coût total permettant réellement d'obtenir le credential**, pas seulement le prix marketing d'un examen.
+Le classement utilise donc le **coût total permettant réellement d'obtenir le credential**, pas seulement le prix marketing d'un examen.
 
-Ainsi :
+Exemples :
 
 ```text
-Examen IAPP CIPP/E ≈ 472 € au change actuel
+IAPP CIPP/E
+Exam ≈ 472 € au change actuel
 + Certification Maintenance Fee obligatoire pour un non-membre
 = credential actif > 500 €
 ```
 
-ou :
+```text
+Red Hat
+Exam ≈ 429 € au prix catalogue USD
+× plusieurs examens obligatoires
+= certains parcours > 500 €
+```
 
 ```text
-Examen Red Hat ≈ 429 € au prix catalogue USD
-× plusieurs examens obligatoires
-= parcours RHCE / RHCA > 500 €
+ACFE CFE
+Exam application = 480 $
++ membership ACFE obligatoire
+= TCO réel > prix du voucher
 ```
 
 ---
@@ -100,7 +110,7 @@ Examen Red Hat ≈ 429 € au prix catalogue USD
 
 Examen formel, généralement surveillé, pratique ou contrôlé.
 
-Exemples : AWS, Cisco, CNCF, Red Hat, HashiCorp, Scrum.org, ISACA, HTB, TCM, TOGAF.
+Exemples : AWS, Cisco, CNCF, Red Hat, HashiCorp, Scrum.org, ISACA, HTB, TCM, TOGAF, CIA, CAMS.
 
 ## Credential appliqué
 
@@ -216,11 +226,19 @@ Exemples :
 | CSA CCSK | **445 $** |
 | PMI-ACP | **495 $ non-membre** |
 | TCM PNPT / PSAP | **499 $** |
+| IPMA Level D France | **440 € HT / ~528 € TTC** |
 | CISSP | **719,04 € + maintenance** |
 | CCSP | **575,04 € + maintenance** |
-| Cisco CCNP | **700 $ pour core + concentration** |
+| Cisco CCNP | **700 $ core + concentration** |
+| CIA | **990 $ membre / 1 515 $ non-membre** avant éventuel membership |
+| ACMP CCMP | **595/795 $ + 21 h de formation admissible** |
+| IMA CMA | **~1 715 $ première année professionnel** |
+| CAMS | **2 095 $ privé + membership** |
+| CAIA Charter | **2 390 $ d'examens early + membership** |
+| ICA Advanced AML | **2 540 € + 220 € membership + taxes** |
 | SABSA Foundation | **~3 200 € HT via AEP Europe observé** |
 | Prosci Change Management | **3 386 € online / 3 810 € présentiel hors taxes** |
+| ICA Diploma AML | **5 085 € + membership + taxes** |
 | SANS + GIAC | **~9 k€ pour un cours + cert dans certains événements Europe** |
 
 ---
@@ -235,9 +253,9 @@ Exemples au change de la revue :
 - 575 $ ≈ 494 € ;
 - 595 $ ≈ 511 €.
 
-Il faut donc éviter les catégories naïves du type `>500 $ == >500 €`.
+À l'inverse, une certification affichée sous 500 € HT peut dépasser le seuil pour un particulier en TTC : **IPMA Level D France = 440 € HT, soit environ 528 € TTC à 20 % de TVA**.
 
-De même, un examen `<500 €` peut appartenir au catalogue `>500 €` si son **TCO obligatoire** dépasse le seuil.
+De même, un examen `<500 €` peut appartenir au catalogue `>500 €` si son **TCO obligatoire** dépasse le seuil à cause d'une adhésion, de plusieurs examens, d'une formation ou d'une maintenance obligatoire.
 
 ---
 
