@@ -12,13 +12,13 @@ verified: 2026-08-28
 
 # Entrepreneur / TPE / PME Index — human-skills
 
-> Vue entrepreneur de `human-skills` : **créer, vendre, piloter, financer, acquérir, intégrer, gouverner, transmettre et développer** une entreprise ou un groupe.
+> Vue entrepreneur de `human-skills` : **créer, vendre, piloter, financer, acquérir, intégrer, gouverner, séparer, transmettre et développer** une entreprise ou un groupe.
 >
-> Principe : **France / Europe first** quand le droit, la fiscalité ou une autorisation locale dominent ; meilleur credential mondial lorsque la compétence est portable.
+> Principe : **France / Europe first** quand le droit, la fiscalité ou une autorisation locale dominent ; meilleur credential mondial lorsque la compétence est portable ; certification éditeur seulement si l'outil est réellement utilisé.
 
 ---
 
-# 1. Les huit catalogues principaux
+# 1. Les neuf catalogues principaux
 
 | Axe | Catalogue |
 |---|---|
@@ -30,6 +30,7 @@ verified: 2026-08-28
 | ETA / family business / ESS / export / activités réglementées | [`certifications/entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md) |
 | Holding / LBO / gouvernance / impact / coopératives | [`certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md`](certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md) |
 | Private credit / finance groupe / CorpDev / PMI / intercompany | [`certifications/entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md`](certifications/entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md) |
+| Treasury / cash pooling / EPM / carve-out / TSA | [`certifications/entrepreneur-treasury-cash-pooling-epm-carveout-2026.md`](certifications/entrepreneur-treasury-cash-pooling-epm-carveout-2026.md) |
 
 ---
 
@@ -58,11 +59,13 @@ ACQUISITION / ETA / LBO
  ↓
 INTÉGRATION / PMI
  ↓
-GROUPE / GOUVERNANCE
+TREASURY / REPORTING GROUPE
+ ↓
+GOUVERNANCE / ALLOCATION DE CAPITAL
  ↓
 INTERNATIONALISATION
  ↓
-TRANSMISSION / EXIT
+CARVE-OUT / TRANSMISSION / EXIT
 ```
 
 ---
@@ -97,8 +100,8 @@ forecast
 
 - CCI RS7378 ;
 - Xero L1 → L2 → L3 ;
-- CFI CBCA pour penser comme un prêteur ;
-- CFI FPAP quand budget / forecast / reporting deviennent structurants.
+- CFI CBCA ;
+- CFI FPAP.
 
 ---
 
@@ -106,15 +109,15 @@ forecast
 
 ## Projet / qualité / client
 
-À voir : CCI RS7385, Scrum.org PSM I, ASQ Six Sigma, CCI RS7376.
+CCI RS7385, Scrum.org PSM I, ASQ Six Sigma, CCI RS7376.
 
 ## Premières embauches
 
-À voir : CCI RS6952 / RS7377 / RS7382 / RS7379, HRCI aPHRi / PHRi.
+CCI RS6952 / RS7377 / RS7382 / RS7379, HRCI aPHRi / PHRi.
 
 ## Achats / contrats / risques
 
-À voir : CCI RS7380, WorldCC, RIMS-CRMP / ARM lorsque la fonction risk devient réellement structurée.
+CCI RS7380, WorldCC, RIMS-CRMP / ARM lorsque la fonction risk devient structurée.
 
 ---
 
@@ -127,18 +130,12 @@ CFI FMVA
    ↓
 VC University
    ↓
-WorldCC / négociation selon complexité
+WorldCC / négociation
 ```
 
 ## Reprise / croissance externe
 
-À voir :
-
-- CCI RS7413 ;
-- Bpifrance Université — Transmission ;
-- CFI FMVA / valuation ;
-- IESE Search Fund Bootcamp ;
-- WorldCC.
+CCI RS7413 + Bpifrance Transmission + CFI valuation + IESE Search Fund Bootcamp + conseil juridique/fiscal France.
 
 ## Holding de reprise / LBO
 
@@ -156,11 +153,9 @@ remontée de cash
 service de la dette
 ```
 
-### Couche France
+Couche France : Bpifrance Création + avocat / fiscaliste.
 
-Bpifrance Création + avocat / fiscaliste pour : holding passive/animatrice, mère-fille, intégration fiscale, frais financiers, conventions intra-groupe, Dutreil et structuration juridique.
-
-### Couche finance portable
+Couche finance portable :
 
 ```text
 CFI IB & PE Modeling             497 $/an
@@ -170,9 +165,9 @@ CFA Advanced Private Equity      890 $ après PE Certificate
 
 ---
 
-# 6. Private credit et dette d'acquisition
+# 6. Private credit, dette & covenants
 
-Un dirigeant acquéreur doit comprendre :
+Le dirigeant acquéreur doit comprendre :
 
 ```text
 senior debt
@@ -181,73 +176,127 @@ term loan
 bullet
 mezzanine
 unitranche
-covenants
 cash sweep
-leverage
-interest coverage
+covenants
 security package
 refinancing
 ```
 
-Parcours possibles :
+Parcours :
 
 ```text
 CFI CBCA
    ↓
-CFA Private Markets & Alternative Investments
+CFI Loan Covenants
    ↓
-CFA Private Equity / Advanced PE si besoin de profondeur LBO
+CFA Private Markets & Alternatives
+   ↓
+CFA PE / Advanced PE si besoin
 ```
 
-Le CFA Private Markets Certificate couvre explicitement **private equity + private credit** ; les certificats PE approfondissent LBO, debt valuation, deal structures et portfolio governance.
+Tableau de bord minimum : Net Debt / EBITDA, Interest Coverage, DSCR, headroom covenant, minimum cash, maturities et scénarios downside.
 
 ---
 
-# 7. Passer de société à groupe
+# 7. Treasury groupe & cash pooling
 
-Quand il y a plusieurs filiales, le centre de gravité change :
-
-```text
-opérations
-   ↓
-allocation de capital
-   ↓
-reporting groupe
-   ↓
-gouvernance filiales
-   ↓
-contrôle / risques
-   ↓
-portfolio decisions
-```
-
-## Reporting / FP&A
-
-**CFI FPAP** est le credential le plus directement utile pour budget, forecast, financial analysis, business partnering et board reporting.
-
-## Consolidation / IFRS
+Quand plusieurs sociétés ont plusieurs comptes et besoins de liquidité :
 
 ```text
-ACCA CertIFR
-310 £ public cours + assessment
-200 £ assessment only
-        ↓
-ACCA DipIFR
-≈ 249 £ minimum direct UK indicatif en 2026
-hors préparation et sous conditions d'éligibilité
+cash visibility
+      ↓
+forecast liquidité
+      ↓
+working capital
+      ↓
+funding
+      ↓
+interest / FX risk
+      ↓
+intercompany cash
+      ↓
+controls
 ```
 
-CertIFR est un bon point d'entrée ; DipIFR cible plutôt un CFO / finance professional ayant déjà de l'expérience.
+## Credentials ACT
 
-## Gouvernance
+| Besoin | Credential | TCO indicatif 2026 |
+|---|---|---:|
+| Fondations treasury | ACT CertTF | **1 215 £** hors TVA |
+| Cash management entrée | ACT AwardICM | **1 215 £** hors TVA |
+| Cash management avancé | ACT CertICM | **2 890 £** hors TVA |
 
-Premium : INSEAD Aspiring Directors, INSEAD International Directors Programme, IoD Certificate in Company Direction.
+Le CertTF est général treasury/corporate finance ; AwardICM et CertICM sont plus ciblés cash/liquidité.
+
+## France
+
+L'article L511-7 du Code monétaire et financier permet sous conditions les opérations de trésorerie entre sociétés liées par des liens de capital donnant un contrôle effectif.
+
+```text
+méthode treasury
+→ ACT
+
+convention de trésorerie / fiscalité / intérêt social / taux
+→ revue professionnelle France
+```
 
 ---
 
-# 8. Corporate development — industrialiser les acquisitions
+# 8. Passer de société à groupe : reporting, consolidation & EPM
 
-Une acquisition ponctuelle n'exige pas une fonction CorpDev. Une stratégie buy-and-build, oui.
+## Couche métier
+
+```text
+CFI FPAP
+   ↓
+ACCA CertIFR si IFRS utile
+   ↓
+ACCA DipIFR si fonction finance expérimentée
+```
+
+## Couche outil
+
+La certification éditeur vient **après** le choix de plateforme.
+
+### Oracle Cloud EPM 2026
+
+Exemples actuels :
+
+- Financial Consolidation and Close Implementation Professional ;
+- Planning + AI Implementation Professional ;
+- Account Reconciliation ;
+- Narrative Reporting ;
+- Data Integration ;
+- Enterprise Data Management ;
+- Profitability and Cost Management.
+
+### OneStream
+
+- OCA Implementation Foundations ;
+- OCA Administration ;
+- OCP Core Platform Architect ;
+- OCS Financial Close ;
+- OCS Reports and Dashboards.
+
+### SAP
+
+SAP S/4HANA Group Reporting est suivi comme plateforme / formation tant qu'une certification individuelle actuelle précise n'est pas vérifiée.
+
+Principe :
+
+```text
+DIRIGEANT / CFO
+→ maîtrise process et contrôle
+
+ÉQUIPE EPM / INTÉGRATEUR
+→ certification technique éditeur
+```
+
+---
+
+# 9. Corporate Development & PMI
+
+Une stratégie buy-and-build nécessite une fonction CorpDev :
 
 ```text
 strategy
@@ -263,121 +312,148 @@ integration
 portfolio review
 ```
 
-Credentials intéressants :
+## IMAA
 
 ```text
-CFI / CFA                 finance transactionnelle
-IMAA International M&A    processus M&A complet
-IMAA M&AP                 davantage deal advisory / profession M&A
+International M&A Expert      3 290 $ self-paced observé
+CPMI Post-Merger Integration   3 290 $ self-paced observé
+HR M&A Expert                  3 290 $ self-paced observé
 ```
 
-IMAA International M&A Expert est observé à **3 290 $** en self-paced bundle 2026.
+Le CPMI devient pertinent quand les acquisitions sont répétées ; pour une seule petite acquisition, le playbook + conseils spécialisés sont souvent plus rationnels.
 
 ---
 
-# 9. PMI — l'acquisition commence réellement au closing
+# 10. Carve-out / divestiture / TSA
 
-## IMAA Certified Post Merger Integration Expert — CPMI
-
-Le CPMI couvre :
-
-- planning avant closing ;
-- integration governance ;
-- synergies ;
-- Finance / RH / IT / Sales ;
-- Day 1 ;
-- culture ;
-- change management.
+Une cession crée le problème inverse de la PMI : **séparer sans casser l'activité**.
 
 ```text
-self-paced bundle     3 290 $
-live online standard  4 390 $
-onsite standard       5 490 $
+scope de séparation
+      ↓
+Day 1
+      ↓
+TSA
+      ↓
+IT / Finance / HR / Cyber separation
+      ↓
+stranded costs
+      ↓
+TSA exit
 ```
 
-À réserver surtout aux dirigeants / équipes réalisant **plusieurs acquisitions**.
+## IMAA SCDE
 
-Parcours buy-and-build :
+**Certified Separation, Carve-Out and Divestment Expert** couvre le cycle de séparation et le Transition Services Agreement.
+
+En août 2026, le catalogue public IMAA le présente en **format in-house** : `TCO = sur devis` ; ne pas lui attribuer artificiellement le tarif du CPMI.
+
+## TSA checklist
 
 ```text
-CFI / CFA PE
-    ↓
-CorpDev process
-    ↓
-CPMI
-    ↓
-Day 1 / 30 / 100
-    ↓
-synergy tracking
+service catalogue
+owners
+SLA
+pricing
+security / access
+data
+change control
+billing
+exit milestones
+extensions
+termination
 ```
+
+Legal TSA → avocat transaction.
+
+Operational TSA → PMO + IT + Finance + RH + Cyber.
 
 ---
 
-# 10. Management fees, trésorerie et intercompany — France first
+# 11. IT / RH / Cyber post-acquisition
 
-Ce sujet ne doit pas devenir une recette d'optimisation copiée depuis l'étranger.
+## IT
+
+Day 1 : IAM, mail/collaboration, réseau, ERP, HRIS, CRM, endpoint, licences, backups, monitoring, contrats et données.
+
+Il n'existe pas de credential universel « IT M&A » suffisamment fort pour remplacer l'expérience. Utiliser :
 
 ```text
-service réellement rendu ?
+IMAA CPMI
++ project / architecture credentials
++ certifications des plateformes réellement utilisées
+```
+
+## Cyber
+
+Avant interconnexion : identité, comptes admin, EDR, MFA, sauvegardes, vulnérabilités exposées, incidents connus, tiers et conformité.
+
+Ne pas connecter trop vite une cible potentiellement compromise au SI principal.
+
+Crosslinks : `practical-cyber-under-500.md`, `cyber-premium-over-500.md`, `business-continuity-crisis.md`.
+
+## RH
+
+IMAA HR M&A Expert devient pertinent pour une DRH de groupe buy-and-build ; il couvre due diligence RH, PMI, compensation & benefits et people/culture.
+
+---
+
+# 12. Intercompany — France first
+
+## Management fees
+
+```text
+service réel ?
 prix documenté ?
-allocation key cohérente ?
-doublon avec mandat social ?
+allocation key ?
+doublon mandat social ?
 TVA ?
 déductibilité ?
 convention réglementée ?
 preuve ?
 ```
 
-Pour les SAS, regarder notamment les articles **L227-10 et L227-11 du Code de commerce**.
+Toujours `LEGAL / TAX REVIEW REQUIRED`.
 
-Alerte 2026 : **Cass. 2e civ., 4 juin 2026, n°23-20.189** — le dossier examiné confirme qu'une convention de gestion peut conduire à une réintégration dans l'assiette des cotisations sociales selon la réalité des fonctions et prestations.
+## Cash pooling
 
-Règle du repo :
+Convention, intérêts, gouvernance, contrôles et intérêt social de chaque entité doivent être documentés.
 
-```text
-management fees
-conventions de trésorerie
-prestations holding
-rémunération de direction
-        ↓
-LEGAL / TAX REVIEW REQUIRED
-```
+## Cross-border
 
-## Groupe international
-
-Si les flux deviennent cross-border, ajouter la discipline prix de transfert. L'option **ADIT Transfer Pricing** est pertinente à ce stade, pas pour une holding domestique simple.
+Ajouter prix de transfert ; ADIT Transfer Pricing devient pertinent seulement lorsque les flux internationaux sont réels.
 
 ---
 
-# 11. Structures particulières
+# 13. Structures particulières
 
 ## Entreprise familiale
 
-Reprise/transmission France + gouvernance + valorisation + Dutreil. Le FEA canadien reste surtout une référence pour les conseillers professionnels de familles entrepreneuriales.
+Reprise/transmission France + gouvernance + valorisation + Dutreil. FEA surtout utile comme benchmark des conseillers spécialisés.
 
 ## SCOP / SCIC / CAE
 
-Parcours français actuel : **Dauphine-PSL + CG Scop — DU Business Management**, 30 jours / 12 mois, **10 000 €**.
+Dauphine-PSL + CG Scop — DU Business Management : 30 jours / 12 mois, **10 000 €**.
 
 ## ESS / impact
 
 RNCP38126 / RNCP41817 / RNCP41704 selon rôle.
 
-**B Corp V2 = certification de l'organisation (`ORG`)**, jamais un credential personnel du dirigeant.
+B Corp V2 = `ORG`, jamais credential personnel du dirigeant.
 
 ## Franchise
 
-FFF d'abord en France ; IFA Foundations / CFE seulement si la franchise devient internationale ou une fonction professionnelle centrale.
+FFF d'abord ; IFA seulement si le réseau devient international ou professionnellement central.
 
 ---
 
-# 12. E-commerce, IP, export et activités réglementées
+# 14. E-commerce, IP, export & activités réglementées
 
 ## E-commerce
 
 Amazon Ads Academy, Shopify Verified Skills, Google Ads / Analytics, HubSpot, Semrush.
 
-## Propriété intellectuelle
+## PI
 
 ```text
 WIPO DL-101             0 €
@@ -391,25 +467,13 @@ INPI référent PI     6 000 €
 
 Team France Export, CCI RS7383, ICC, FCIB et V.I.E selon maturité.
 
-## Activité réglementée — routeur obligatoire
+## Activité réglementée
 
-```text
-activité envisagée
-       ↓
-réglementée ?
-       ↓
-OUI
-       ↓
-qualification / carte / capacité / autorisation
-       ↓
-certifications business complémentaires
-```
-
-Routeur officiel : https://entreprendre.service-public.fr/vosdroits/R60814
+Avant toute certification business : vérifier qualification / carte / capacité / autorisation via Service-Public.
 
 ---
 
-# 13. Stack gratuite entrepreneur
+# 15. Stack gratuite entrepreneur
 
 ```text
 IBM SkillsBuild — Be an Entrepreneur
@@ -424,11 +488,12 @@ WIPO DL-101
 CNIL Atelier RGPD
 B Lab Europe Intro B Corp
 Bpifrance Université
+Oracle EPM tutorials si Oracle envisagé
 ```
 
 ---
 
-# 14. Stack internationale — sélection dirigeant
+# 16. Stack internationale — sélection dirigeant
 
 | Besoin | Credential | Prix indicatif 2026 |
 |---|---|---:|
@@ -447,16 +512,20 @@ Bpifrance Université
 | Contrats B2B | WorldCC CCM Associate | **780 $ + membership** |
 | Private markets / credit | CFA PM & Alternatives Certificate | **890 $** |
 | Private Equity | CFA Institute PE Certificate | **890 $** |
+| Treasury | ACT CertTF | **1 215 £** hors TVA |
+| International cash | ACT CertICM | **2 890 £** hors TVA |
 | Credit risk export | FCIB ICRM / CICP path | **950–2 250 $** |
 | Venture finance | VC University | **1 500–1 850 $** |
 | Franchise | IFA Foundations | **2 400 $** |
-| CorpDev / M&A | IMAA International M&A | **3 290 $** bundle observé |
-| PMI | IMAA CPMI | **3 290 $** bundle observé |
+| CorpDev / M&A | IMAA International M&A | **3 290 $** observé |
+| PMI | IMAA CPMI | **3 290 $** observé |
+| HR M&A | IMAA HRM&A | **3 290 $** observé |
 | ETA | IESE Search Fund Bootcamp | **4 500 €** |
+| Carve-out / TSA | IMAA SCDE | **sur devis / in-house** |
 
 ---
 
-# 15. Le principe de délégation
+# 17. Le principe de délégation
 
 ```text
 COMPRENDRE
@@ -472,18 +541,19 @@ EXÉCUTER OU DÉLÉGUER
 |---|---|---|
 | Comptabilité | marge, cash, bilan, résultat | tenue / clôture / fiscalité |
 | LBO | dette, IRR, covenants, downside | structuration juridique / fiscale |
-| Groupe | allocation capital, KPI, intercompany | consolidation / fiscalité groupe |
-| Private credit | leverage, coverage, sûretés | négociation dette / documentation |
+| Treasury | liquidity, pooling, funding, FX/taux | documentation / fiscalité / TMS complexe |
+| Groupe | capital allocation, KPI, intercompany | consolidation / fiscalité groupe |
 | Acquisition | valo, risques, synergies | due diligence spécialisée |
-| PMI | gouvernance, Day 1, synergies | experts fonctionnels selon taille |
+| PMI | gouvernance, Day 1, synergies | workstreams experts |
+| Carve-out | périmètre, TSA, exit | juridique + séparation fonctionnelle complexe |
+| EPM | process, controls, outputs | implémentation technique |
 | Management fees | service, coûts, preuves | avocat + fiscaliste + expert-comptable |
 | Transfer pricing | fonctions / risques / actifs | spécialiste TP |
-| Family business | gouvernance, succession | ingénierie patrimoniale complexe |
-| Export | marché / pricing / risque | douane / fiscalité / implantation |
+| Cyber M&A | exposition, IAM, backup, incidents | forensic / architecture / remediation |
 
 ---
 
-# 16. Règle France / étranger
+# 18. Règle France / étranger
 
 ```text
 DROIT / FISCAL / RÉGLEMENTAIRE
@@ -505,8 +575,9 @@ ne jamais la présenter comme credential personnel
 
 ---
 
-# 17. Catalogues connexes
+# 19. Catalogues connexes
 
+- [`certifications/entrepreneur-treasury-cash-pooling-epm-carveout-2026.md`](certifications/entrepreneur-treasury-cash-pooling-epm-carveout-2026.md)
 - [`certifications/entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md`](certifications/entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md)
 - [`certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md`](certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md)
 - [`certifications/entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md)
@@ -516,16 +587,18 @@ ne jamais la présenter comme credential personnel
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md)
 - [`certifications/business-valuation.md`](certifications/business-valuation.md)
 - [`certifications/governance-board-over-500.md`](certifications/governance-board-over-500.md)
+- [`certifications/business-continuity-crisis.md`](certifications/business-continuity-crisis.md)
 - [`certifications/legal-contract-management.md`](certifications/legal-contract-management.md)
 
 ---
 
-# 18. Prochaines extensions
+# 20. Prochaines extensions
 
-- dette d'acquisition France plus détaillée : garanties, covenants, sûretés, dette senior / mezzanine / unitranche ;
-- consolidation French GAAP / IFRS et outils de group reporting ;
-- playbooks post-acquisition par fonction : IT, RH, finance, cyber, achats ;
-- treasury management groupe / cash pooling ;
-- pacte Dutreil et gouvernance patrimoniale owner-targeted ;
-- fiscalité / prix de transfert multi-pays sans importer des qualifications locales inutiles ;
-- certifications board françaises à coût inférieur à INSEAD / IoD.
+- TMS / bank connectivity / ISO 20022 / SWIFT pour groupes ;
+- French GAAP consolidation + IFRS consolidation approfondie ;
+- pacte Dutreil et gouvernance patrimoniale à coût raisonnable ;
+- certifications board françaises moins coûteuses que INSEAD / IoD ;
+- procurement synergy / category management post-acquisition ;
+- real estate / fleet / facilities integration après acquisition ;
+- vendor due diligence / sell-side readiness ;
+- succession CEO / professionalisation du management d'un groupe entrepreneurial.
