@@ -79,6 +79,15 @@ Source :
 
 - https://www.bsigroup.com/fr-FR/training-courses/international-isoiec-42001-lead-auditor-training-course/
 
+**Attention à ne pas confondre deux échelles de prix totalement différentes :**
+
+```text
+Formation + certification Lead Auditor (personne)     1 000–2 800 €
+Certification ISO 42001 de l'organisation (entreprise) 20 000–50 000 $
+```
+
+Les montants « 20 000–50 000 $ » que l'on trouve parfois associés à « ISO 42001 » concernent la **certification de l'organisme audité par un organisme certificateur** (BSI, DNV, Schellman…), pas la formation individuelle d'auditeur. TÜV Rheinland, DNV et LRQA proposent également des formations Lead Auditor ISO 42001 (portails DNV/LRQA non accessibles lors de la vérification, prix individuel non confirmé) — **à ne jamais recopier le prix de certification d'entreprise comme prix de formation individuelle**.
+
 ---
 
 # AFNOR — certification de personne
