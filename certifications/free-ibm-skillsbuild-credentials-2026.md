@@ -1,3 +1,16 @@
+---
+title: "Free IBM SkillsBuild credentials — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - general-it
+tags:
+  - tier/free
+  - domain/general-it
+status: active
+verified: 2026-08-28
+---
+
 # Free IBM SkillsBuild credentials — 2026
 
 > Revue : **28 août 2026**. IBM SkillsBuild est une plateforme gratuite qui délivre des **digital credentials IBM** partageables via Credly. Selon le parcours, les exigences peuvent inclure quiz/examens, labs, simulations, projets hands-on, revue de projet ou entretien.

@@ -1,3 +1,16 @@
+---
+title: "Network Security, ADC, SASE & firewalls — sous 500 $"
+type: certification-catalog
+tier: under-500
+domain:
+  - network
+tags:
+  - tier/under-500
+  - domain/network
+status: active
+verified: 2026-08-28
+---
+
 # Network Security, ADC, SASE & firewalls — sous 500 $
 
 > Palo Alto Networks, Fortinet, F5, Check Point et Zscaler. Vérification : 28 août 2026.

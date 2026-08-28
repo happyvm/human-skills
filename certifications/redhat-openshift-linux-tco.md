@@ -1,3 +1,16 @@
+---
+title: "Red Hat Linux, OpenShift & RHCA — coût réel des parcours"
+type: certification-catalog
+tier: general
+domain:
+  - linux
+tags:
+  - tier/general
+  - domain/linux
+status: active
+verified: 2026-08-28
+---
+
 # Red Hat Linux, OpenShift & RHCA — coût réel des parcours
 
 > Red Hat utilise des examens largement **performance-based**. Le prix catalogue standard 2026 est désormais de **500 $ par examen de certification**, avec variations régionales possibles. Vérification : 28 août 2026.
@@ -266,13 +279,7 @@ et peut dépasser ce montant selon le nombre de credentials nécessaires depuis 
 
 # Ceph / storage
 
-## EX260 — Ceph Cloud Storage
-
-Red Hat maintient un examen Specialist autour de Ceph qui compte vers RHCA.
-
-Source :
-
-- https://www.redhat.com/fr/services/training/ex260-red-hat-certified-specialist-in-ceph-cloud-storage-exam
+Détail du credential **EX260 — Ceph Cloud Storage** (compétences, durée d'examen, sources) : voir [`redhat-framework-europe-2026.md`](redhat-framework-europe-2026.md#ex260--ceph-cloud-storage).
 
 Pour une orientation stockage + OpenShift, le combo :
 

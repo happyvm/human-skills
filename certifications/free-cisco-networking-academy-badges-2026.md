@@ -1,3 +1,16 @@
+---
+title: "Free Cisco Networking Academy badges — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - network
+tags:
+  - tier/free
+  - domain/network
+status: active
+verified: 2026-08-28
+---
+
 # Free Cisco Networking Academy badges — 2026
 
 > Revue : **28 août 2026**. Cisco Networking Academy et Skills for All proposent des cours gratuits pouvant délivrer des **digital badges Cisco** après réussite d'un comprehensive exam. Ces badges sont des student-level credentials, pas des certifications CCNA/CCST.

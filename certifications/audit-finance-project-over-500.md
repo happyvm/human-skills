@@ -1,3 +1,16 @@
+---
+title: "Audit, finance, projet et change — parcours >500 €"
+type: certification-catalog
+tier: over-500
+domain:
+  - governance-grc
+tags:
+  - tier/over-500
+  - domain/governance-grc
+status: active
+verified: 2026-08-28
+---
+
 # Audit, finance, projet et change — parcours >500 €
 
 > Complément du catalogue `human-skills` pour les certifications professionnelles en **audit interne, risk assurance, finance/contrôle de gestion, comptabilité, management de projet et change management**.

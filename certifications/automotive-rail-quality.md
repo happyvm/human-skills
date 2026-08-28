@@ -1,3 +1,16 @@
+---
+title: "Automotive, rail & industrial quality credentials"
+type: certification-catalog
+tier: general
+domain:
+  - supply-chain
+tags:
+  - tier/general
+  - domain/supply-chain
+status: active
+verified: 2026-08-28
+---
+
 # Automotive, rail & industrial quality credentials
 
 > Qualifications professionnelles autour de l'audit process automotive, functional safety, railway quality et standards sectoriels.

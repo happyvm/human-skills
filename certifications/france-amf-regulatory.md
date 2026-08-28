@@ -1,3 +1,16 @@
+---
+title: "France — AMF, finance réglementaire & conformité"
+type: certification-catalog
+tier: general
+domain:
+  - finance-risk
+tags:
+  - tier/general
+  - domain/finance-risk
+status: active
+verified: 2026-08-28
+---
+
 # France — AMF, finance réglementaire & conformité
 
 > Examens et cartes professionnelles du régulateur français. Tarifs revérifiés fin août 2026.

@@ -1,3 +1,16 @@
+---
+title: "Free Purdue Global cybersecurity & AI microcredentials — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - ai-infrastructure
+tags:
+  - tier/free
+  - domain/ai-infrastructure
+status: active
+verified: 2026-08-28
+---
+
 # Free Purdue Global cybersecurity & AI microcredentials — 2026
 
 > Revue : **28 août 2026**. Purdue University Global maintient une collection officielle de **Micro-credential (No-Cost)**. Ces credentials sont non-credit, self-paced et plusieurs utilisent une évaluation finale pour l'obtention du badge.

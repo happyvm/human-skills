@@ -1,3 +1,16 @@
+---
+title: "CyberArk certification status & pricing visibility — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - identity-iam
+tags:
+  - tier/general
+  - domain/identity-iam
+status: active
+verified: 2026-08-28
+---
+
 # CyberArk certification status & pricing visibility — 2026
 
 > Revue : **28 août 2026**. Objectif : corriger l'utilisation fréquente d'un ancien tarif « ~200 $ » qui n'est plus suffisamment vérifiable publiquement en 2026.

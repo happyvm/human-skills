@@ -1,3 +1,13 @@
+---
+title: "IT Certification Index — human-skills"
+type: moc
+tags:
+  - moc
+  - domain/general-it
+status: active
+verified: 2026-08-28
+---
+
 # IT Certification Index — human-skills
 
 > Index **IT-first** : certifications infrastructure, cloud, virtualisation, Linux, réseau, cyber, stockage, data, platform engineering, middleware, EUC, ITSM et AI infrastructure.
@@ -25,7 +35,6 @@ Un examen à 200 $ avec 3 000 € de formation obligatoire n'est donc **pas** cl
 - [`certifications/free-it.md`](certifications/free-it.md)
 - [`certifications/middleware-api-integration-2026.md`](certifications/middleware-api-integration-2026.md)
 - [`certifications/identity-iam-pam-under-500.md`](certifications/identity-iam-pam-under-500.md)
-- [`certifications/ibm-enterprise-security-low-cost-2026.md`](certifications/ibm-enterprise-security-low-cost-2026.md)
 - [`certifications/observability-vendor-low-cost-2026.md`](certifications/observability-vendor-low-cost-2026.md)
 
 ```text
@@ -63,7 +72,7 @@ AWS Professional/Specialty     256 €
 
 - [`certifications/virtualization-private-cloud-under-500.md`](certifications/virtualization-private-cloud-under-500.md)
 - [`certifications/open-source-private-cloud-2026.md`](certifications/open-source-private-cloud-2026.md)
-- [`certifications/hpe-private-cloud-ai-certifications-2026.md`](certifications/hpe-private-cloud-ai-certifications-2026.md)
+- [`certifications/hpe-certification-pricing-ai-private-cloud-2026.md`](certifications/hpe-certification-pricing-ai-private-cloud-2026.md)
 
 ```text
 CloudStack by ShapeBlue          100 $
@@ -140,7 +149,7 @@ LFCS                    445 $
 
 - [`certifications/iam-devsecops-automation-under-500.md`](certifications/iam-devsecops-automation-under-500.md)
 - [`certifications/identity-iam-pam-under-500.md`](certifications/identity-iam-pam-under-500.md)
-- [`certifications/cyberark-certification-pricing-status-2026.md`](certifications/cyberark-certification-pricing-status-2026.md)
+- [`certifications/cyberark-certification-status-2026.md`](certifications/cyberark-certification-status-2026.md)
 - [`certifications/beyondtrust-certification-tco-2026.md`](certifications/beyondtrust-certification-tco-2026.md)
 
 ```text
@@ -246,7 +255,7 @@ Inclut PostgreSQL/EDB, Redis, Elastic, Oracle Database et MySQL.
 # 12. Messaging / event streaming / integration
 
 - [`certifications/middleware-api-integration-2026.md`](certifications/middleware-api-integration-2026.md)
-- [`certifications/messaging-event-streaming-2026.md`](certifications/messaging-event-streaming-2026.md)
+- [`certifications/enterprise-messaging-streaming-2026.md`](certifications/enterprise-messaging-streaming-2026.md)
 
 ```text
 0 $      Boomi certifications
@@ -328,7 +337,7 @@ Parallels RAS TPA France             1750 € HT  exemple ILT + exam
 # 17. Server / compute OEM
 
 - [`certifications/server-compute-oem-dell-lenovo-supermicro-2026.md`](certifications/server-compute-oem-dell-lenovo-supermicro-2026.md)
-- [`certifications/hpe-private-cloud-ai-certifications-2026.md`](certifications/hpe-private-cloud-ai-certifications-2026.md)
+- [`certifications/hpe-certification-pricing-ai-private-cloud-2026.md`](certifications/hpe-certification-pricing-ai-private-cloud-2026.md)
 
 ```text
 HPE3 exam                               65 $
@@ -402,7 +411,7 @@ TOGAF, CISSP/CCSP, ISACA, IAPP, ISO 27001/42001, SABSA, AI governance.
 # 22. Mainframe / UNIX / enterprise software
 
 - [`certifications/mainframe-enterprise-software.md`](certifications/mainframe-enterprise-software.md)
-- [`certifications/ibm-enterprise-security-low-cost-2026.md`](certifications/ibm-enterprise-security-low-cost-2026.md)
+- [`certifications/ibm-enterprise-security-ai-under-500.md`](certifications/ibm-enterprise-security-ai-under-500.md)
 
 ```text
 QRadar Foundation Badge             0 $

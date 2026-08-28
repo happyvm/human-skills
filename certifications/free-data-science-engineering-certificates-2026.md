@@ -1,3 +1,16 @@
+---
+title: "Free data science & engineering certificates — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - data-database
+tags:
+  - tier/free
+  - domain/data-database
+status: active
+verified: 2026-08-28
+---
+
 # Free data science & engineering certificates — 2026
 
 > Revue : **28 août 2026**. Cette fiche regroupe des certificats et certifications techniques gratuits basés sur exercices, code, projets, quizzes ou examens. Ils sont particulièrement utiles en data, ML, engineering et scientific computing.

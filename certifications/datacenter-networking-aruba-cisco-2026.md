@@ -1,3 +1,16 @@
+---
+title: "Datacenter Networking — HPE Aruba & Cisco 2026"
+type: certification-catalog
+tier: general
+domain:
+  - network
+tags:
+  - tier/general
+  - domain/network
+status: active
+verified: 2026-08-28
+---
+
 # Datacenter Networking — HPE Aruba & Cisco 2026
 
 > Switching, ACI, automation, storage networking et AI infrastructure. Vérification : 28 août 2026.

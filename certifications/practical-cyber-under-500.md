@@ -1,3 +1,16 @@
+---
+title: "Cybersécurité pratique — certifications sous 500 € / $ / £"
+type: certification-catalog
+tier: under-500
+domain:
+  - security
+tags:
+  - tier/under-500
+  - domain/security
+status: active
+verified: 2026-08-28
+---
+
 # Cybersécurité pratique — certifications sous 500 € / $ / £
 
 > Certifications orientées **hands-on**, labs, investigation, pentest, SOC, AppSec et reporting professionnel.

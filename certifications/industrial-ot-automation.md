@@ -1,3 +1,16 @@
+---
+title: "Industrial automation, OT & ICS cybersecurity"
+type: certification-catalog
+tier: general
+domain:
+  - industrial-ot
+tags:
+  - tier/general
+  - domain/industrial-ot
+status: active
+verified: 2026-08-28
+---
+
 # Industrial automation, OT & ICS cybersecurity
 
 > Certifications en automatisme industriel, instrumentation, contrôle-commande et cybersécurité OT. Vérifié fin août 2026.

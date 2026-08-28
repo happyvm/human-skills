@@ -1,3 +1,16 @@
+---
+title: "ESG, sustainability & carbon accounting"
+type: certification-catalog
+tier: general
+domain:
+  - esg-sustainability
+tags:
+  - tier/general
+  - domain/esg-sustainability
+status: active
+verified: 2026-08-28
+---
+
 # ESG, sustainability & carbon accounting
 
 > Credentials en investissement durable, reporting ISSB, environnement et comptabilité carbone. Vérifié fin août 2026.

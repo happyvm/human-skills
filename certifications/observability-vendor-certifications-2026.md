@@ -1,3 +1,16 @@
+---
+title: "Observability vendors — état des certifications 2026"
+type: certification-catalog
+tier: general
+domain:
+  - observability
+tags:
+  - tier/general
+  - domain/observability
+status: active
+verified: 2026-08-28
+---
+
 # Observability vendors — état des certifications 2026
 
 > Complément au fichier `observability-sre-devops-under-500.md` pour les éditeurs dont le programme ou les prix ont fortement changé. Vérification : 28 août 2026.

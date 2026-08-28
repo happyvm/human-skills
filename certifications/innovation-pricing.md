@@ -1,3 +1,16 @@
+---
+title: "Innovation, new product development & pricing"
+type: certification-catalog
+tier: general
+domain:
+  - business-soft-skills
+tags:
+  - tier/general
+  - domain/business-soft-skills
+status: active
+verified: 2026-08-28
+---
+
 # Innovation, new product development & pricing
 
 > Credentials autour de l'innovation, du développement de nouveaux produits et de la stratégie tarifaire.

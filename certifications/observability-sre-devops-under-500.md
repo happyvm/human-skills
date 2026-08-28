@@ -1,3 +1,16 @@
+---
+title: "Observability, SRE & DevOps — certifications sous 500 $"
+type: certification-catalog
+tier: under-500
+domain:
+  - observability
+tags:
+  - tier/under-500
+  - domain/observability
+status: active
+verified: 2026-08-28
+---
+
 # Observability, SRE & DevOps — certifications sous 500 $
 
 > Splunk, Datadog, Elastic, Prometheus/OpenTelemetry et cloud DevOps. Vérification : 28 août 2026.
@@ -182,17 +195,9 @@ Source :
 
 # Prometheus / OpenTelemetry
 
-Ces credentials sont détaillés dans `cloud-native-platform-engineering-under-500.md`.
+Détail des credentials **PCA — Prometheus Certified Associate** et **OTCA — OpenTelemetry Certified Associate** (250 $ chacun, compétences, sources) : voir [`cloud-native-platform-engineering-under-500.md`](cloud-native-platform-engineering-under-500.md#pca--prometheus-certified-associate).
 
-## PCA — Prometheus Certified Associate
-
-**250 $**.
-
-## OTCA — OpenTelemetry Certified Associate
-
-**250 $**.
-
-Ils forment un très bon duo vendor-neutral :
+Pour un profil SRE/observabilité, ils forment un très bon duo vendor-neutral :
 
 ```text
 Prometheus

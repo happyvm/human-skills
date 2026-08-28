@@ -1,3 +1,16 @@
+---
+title: "Free sysadmin, hosting & identity certifications — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - identity-iam
+tags:
+  - tier/free
+  - domain/identity-iam
+status: active
+verified: 2026-08-28
+---
+
 # Free sysadmin, hosting & identity certifications — 2026
 
 > Revue : **28 août 2026**. Fiche dédiée aux certifications d'administration système, hosting panels et identity/device management réellement gratuites ou actuellement sans frais d'examen.

@@ -1,3 +1,16 @@
+---
+title: "Storage, data protection & infrastructure certifications — sous 500 €"
+type: certification-catalog
+tier: under-500
+domain:
+  - storage-backup
+tags:
+  - tier/under-500
+  - domain/storage-backup
+status: active
+verified: 2026-08-28
+---
+
 # Storage, data protection & infrastructure certifications — sous 500 €
 
 > Tarifs et statuts revérifiés fin août 2026. Les montants en USD sont conservés comme prix officiels de référence ; la TVA et la conversion régionale peuvent modifier le checkout final.

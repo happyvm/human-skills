@@ -1,3 +1,16 @@
+---
+title: "Supply chain, logistics & procurement — TCO des certifications"
+type: certification-catalog
+tier: over-500
+domain:
+  - supply-chain
+tags:
+  - tier/over-500
+  - domain/supply-chain
+status: active
+verified: 2026-08-28
+---
+
 # Supply chain, logistics & procurement — TCO des certifications
 
 > Tarifs revérifiés fin août 2026. Cette page privilégie les bundles réellement nécessaires plutôt que le prix d'un examen isolé lorsqu'il n'est pas représentatif.

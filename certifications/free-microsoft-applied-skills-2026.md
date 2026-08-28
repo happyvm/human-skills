@@ -1,3 +1,16 @@
+---
+title: "Free Microsoft Applied Skills — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - windows-infra
+tags:
+  - tier/free
+  - domain/windows-infra
+status: active
+verified: 2026-08-28
+---
+
 # Free Microsoft Applied Skills — 2026
 
 > Revue : **28 août 2026**. Microsoft Applied Skills sont des **microcredentials Microsoft vérifiés**, obtenus en réussissant une **évaluation interactive lab-based gratuite**. Ils sont différents des certifications Microsoft Certified Pearson VUE payantes.

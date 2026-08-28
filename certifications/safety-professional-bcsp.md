@@ -1,3 +1,16 @@
+---
+title: "BCSP — safety professional certifications"
+type: certification-catalog
+tier: general
+domain:
+  - safety-occupational
+tags:
+  - tier/general
+  - domain/safety-occupational
+status: active
+verified: 2026-08-28
+---
+
 # BCSP — safety professional certifications
 
 > Certifications de personne du Board of Certified Safety Professionals (BCSP), couvrant safety, construction safety, occupational hygiene, training et management.

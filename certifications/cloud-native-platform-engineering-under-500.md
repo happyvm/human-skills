@@ -1,3 +1,16 @@
+---
+title: "Cloud-native, Kubernetes, observability & platform engineering — sous 500 $"
+type: certification-catalog
+tier: under-500
+domain:
+  - kubernetes-platform
+tags:
+  - tier/under-500
+  - domain/kubernetes-platform
+status: active
+verified: 2026-08-28
+---
+
 # Cloud-native, Kubernetes, observability & platform engineering — sous 500 $
 
 > Certifications CNCF/Linux Foundation, SUSE/Rancher et credentials plateforme modernes. Vérification : 28 août 2026.

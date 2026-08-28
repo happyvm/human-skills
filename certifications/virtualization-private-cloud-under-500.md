@@ -1,3 +1,16 @@
+---
+title: "Virtualisation, private cloud & hyperconverged infrastructure — certifications sous 500 $"
+type: certification-catalog
+tier: under-500
+domain:
+  - virtualization
+tags:
+  - tier/under-500
+  - domain/virtualization
+status: active
+verified: 2026-08-28
+---
+
 # Virtualisation, private cloud & hyperconverged infrastructure — certifications sous 500 $
 
 > VMware/Broadcom, Nutanix et autres credentials directement liés à la virtualisation et au cloud privé. Vérification : 28 août 2026.
@@ -238,11 +251,7 @@ avant formation facultative ou abonnement Red Hat Learning Subscription.
 
 ## Ceph
 
-Le `EX260` Red Hat Certified Specialist in Ceph Cloud Storage est toujours actif et compte vers RHCA.
-
-Source :
-
-- https://www.redhat.com/fr/services/training/ex260-red-hat-certified-specialist-in-ceph-cloud-storage-exam
+Le `EX260` Red Hat Certified Specialist in Ceph Cloud Storage est toujours actif et compte vers RHCA. Détail : voir [`redhat-framework-europe-2026.md`](redhat-framework-europe-2026.md#ex260--ceph-cloud-storage).
 
 ---
 

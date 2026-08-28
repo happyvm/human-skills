@@ -1,3 +1,16 @@
+---
+title: "Accessibility & digital inclusion certifications"
+type: certification-catalog
+tier: general
+domain:
+  - accessibility
+tags:
+  - tier/general
+  - domain/accessibility
+status: active
+verified: 2026-08-28
+---
+
 # Accessibility & digital inclusion certifications
 
 > Credentials professionnels autour de l'accessibilité numérique, WCAG, Section 508 et inclusive design.

@@ -1,3 +1,16 @@
+---
+title: "ISO / GRC / audit — Europe et France — au-delà de 500 €"
+type: certification-catalog
+tier: over-500
+domain:
+  - governance-grc
+tags:
+  - tier/over-500
+  - domain/governance-grc
+status: active
+verified: 2026-08-28
+---
+
 # ISO / GRC / audit — Europe et France — au-delà de 500 €
 
 > Comparatif orienté **coût réel** : formation, examen, certification de personne, maintien et renouvellement. Vérifié fin août 2026.

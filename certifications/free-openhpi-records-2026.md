@@ -1,3 +1,16 @@
+---
+title: "Free openHPI Records of Achievement — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - general-it
+tags:
+  - tier/free
+  - domain/general-it
+status: active
+verified: 2026-08-28
+---
+
 # Free openHPI Records of Achievement — 2026
 
 > Revue : **28 août 2026**. openHPI est la plateforme de formation en ligne du Hasso Plattner Institute (Potsdam). Les cours publics sont gratuits et les cours actifs de format adéquat peuvent délivrer un **Record of Achievement** après devoirs évalués et examen final.

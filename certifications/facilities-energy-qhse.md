@@ -1,3 +1,16 @@
+---
+title: "Facility management, énergie & QHSE"
+type: certification-catalog
+tier: general
+domain:
+  - datacenter-facilities
+tags:
+  - tier/general
+  - domain/datacenter-facilities
+status: active
+verified: 2026-08-28
+---
+
 # Facility management, énergie & QHSE
 
 > Credentials de facility management, energy management, mesure de performance énergétique et santé-sécurité. Vérifié fin août 2026.

@@ -1,3 +1,16 @@
+---
+title: "Free Saylor University computer science certificates — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - general-it
+tags:
+  - tier/free
+  - domain/general-it
+status: active
+verified: 2026-08-28
+---
+
 # Free Saylor University computer science certificates — 2026
 
 > Revue : **28 août 2026**. Saylor University propose de nombreux cours Computer Science entièrement gratuits avec **Certificate Final Exam gratuit** et certificat de réussite.

@@ -1,3 +1,16 @@
+---
+title: "Free mainframe / IBM Z credentials — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - mainframe
+tags:
+  - tier/free
+  - domain/mainframe
+status: active
+verified: 2026-08-28
+---
+
 # Free mainframe / IBM Z credentials — 2026
 
 > Revue : **28 août 2026**. Cette fiche regroupe les credentials **IBM Z / z/OS gratuits**, hands-on et vérifiables.

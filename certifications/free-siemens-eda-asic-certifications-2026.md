@@ -1,3 +1,16 @@
+---
+title: "Siemens EDA / ASIC / verification — certifications gratuites — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - industrial-ot
+tags:
+  - tier/free
+  - domain/industrial-ot
+status: active
+verified: 2026-08-28
+---
+
 # Siemens EDA / ASIC / verification — certifications gratuites — 2026
 
 > Revue : **28 août 2026**. Siemens Software / Xcelerator Academy publie une large bibliothèque de badges classés par Credly comme **Type: Certification / Cost: Free**, obtenus par de vrais examens techniques.

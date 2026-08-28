@@ -1,3 +1,16 @@
+---
+title: "Certifications au-delà de 500 € — coût réel et TCO"
+type: certification-catalog
+tier: over-500
+domain:
+  - general-it
+tags:
+  - tier/over-500
+  - domain/general-it
+status: active
+verified: 2026-08-28
+---
+
 # Certifications au-delà de 500 € — coût réel et TCO
 
 > Catalogue des certifications et parcours dont le **coût réel pour obtenir ou maintenir le credential** dépasse environ 500 €.

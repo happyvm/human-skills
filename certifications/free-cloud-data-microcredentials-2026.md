@@ -1,3 +1,16 @@
+---
+title: "Free cloud & data microcredentials — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - data-database
+tags:
+  - tier/free
+  - domain/data-database
+status: active
+verified: 2026-08-28
+---
+
 # Free cloud & data microcredentials — 2026
 
 > Revue : **28 août 2026**. Complément à [`free-it.md`](free-it.md). Cette fiche regroupe les **microcredentials, hands-on badges et certificates évalués gratuits** chez de grands vendors cloud/data.

@@ -1,3 +1,16 @@
+---
+title: "Solo.io Academy — certifications cloud-native gratuites — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - kubernetes-platform
+tags:
+  - tier/free
+  - domain/kubernetes-platform
+status: active
+verified: 2026-08-28
+---
+
 # Solo.io Academy — certifications cloud-native gratuites — 2026
 
 > Revue : **28 août 2026**. Solo.io Academy propose plusieurs certifications gratuites autour des briques open source cloud-native : Istio, Ambient Mesh, Cilium, Envoy et eBPF.

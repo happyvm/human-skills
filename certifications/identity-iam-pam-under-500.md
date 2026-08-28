@@ -1,3 +1,16 @@
+---
+title: "Identity / IAM / PAM certifications under 500 — 2026"
+type: certification-catalog
+tier: under-500
+domain:
+  - identity-iam
+tags:
+  - tier/under-500
+  - domain/identity-iam
+status: active
+verified: 2026-08-28
+---
+
 # Identity / IAM / PAM certifications under 500 — 2026
 
 > Revue : **28 août 2026**. Périmètre : IAM, PAM, federation, identity security et identity orchestration.

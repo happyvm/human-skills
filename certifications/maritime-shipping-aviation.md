@@ -1,3 +1,16 @@
+---
+title: "Maritime, shipping & aviation qualifications"
+type: certification-catalog
+tier: general
+domain:
+  - supply-chain
+tags:
+  - tier/general
+  - domain/supply-chain
+status: active
+verified: 2026-08-28
+---
+
 # Maritime, shipping & aviation qualifications
 
 > Qualifications professionnelles autour du shipping, shipbroking, cargo, aviation management et transport international.

@@ -1,3 +1,16 @@
+---
+title: "Linux vendor-neutral & SUSE — certifications 2026"
+type: certification-catalog
+tier: general
+domain:
+  - linux
+tags:
+  - tier/general
+  - domain/linux
+status: active
+verified: 2026-08-28
+---
+
 # Linux vendor-neutral & SUSE — certifications 2026
 
 > LPI, SUSE, CompTIA Linux+ et Canonical Academy. Vérification : 28 août 2026.

@@ -1,3 +1,16 @@
+---
+title: "Middleware / API / integration certifications — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - itsm-middleware
+tags:
+  - tier/general
+  - domain/itsm-middleware
+status: active
+verified: 2026-08-28
+---
+
 # Middleware / API / integration certifications — 2026
 
 > Revue : **28 août 2026**. Périmètre : iPaaS, API management, integration architecture, messaging, event-driven architecture, event mesh et hyperautomation.

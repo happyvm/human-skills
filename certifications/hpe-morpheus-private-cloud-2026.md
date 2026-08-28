@@ -1,3 +1,16 @@
+---
+title: "HPE Morpheus, VM Essentials & private cloud — certifications 2026"
+type: certification-catalog
+tier: general
+domain:
+  - virtualization
+tags:
+  - tier/general
+  - domain/virtualization
+status: active
+verified: 2026-08-28
+---
+
 # HPE Morpheus, VM Essentials & private cloud — certifications 2026
 
 > HPE développe désormais un portefeuille de credentials directement lié au private cloud, à VM Essentials, Morpheus et GreenLake. Vérification : 28 août 2026.

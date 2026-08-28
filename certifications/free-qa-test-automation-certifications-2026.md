@@ -1,3 +1,16 @@
+---
+title: "Free QA & test automation certifications — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - devops-automation
+tags:
+  - tier/free
+  - domain/devops-automation
+status: active
+verified: 2026-08-28
+---
+
 # Free QA & test automation certifications — 2026
 
 > Revue : **28 août 2026**. Cette fiche regroupe les certifications et credentials gratuits autour du test logiciel, test automation et quality engineering.

@@ -1,3 +1,16 @@
+---
+title: "ITSM / enterprise tooling certifications — ServiceNow, Atlassian, BMC — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - itsm-middleware
+tags:
+  - tier/general
+  - domain/itsm-middleware
+status: active
+verified: 2026-08-28
+---
+
 # ITSM / enterprise tooling certifications — ServiceNow, Atlassian, BMC — 2026
 
 > Revue : **28 août 2026**. Périmètre : ITSM, ITOM, CMDB, Jira/JSM, workflow/platform administration et enterprise service management.

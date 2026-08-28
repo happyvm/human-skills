@@ -1,3 +1,16 @@
+---
+title: "Red Hat certification framework & Europe pricing — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - linux
+tags:
+  - tier/general
+  - domain/linux
+status: active
+verified: 2026-08-28
+---
+
 # Red Hat certification framework & Europe pricing — 2026
 
 > Revue : **28 août 2026**. Cette fiche corrige deux points importants : la refonte du framework Red Hat en mai 2026 et le fait que le prix catalogue US à 500 $ ne signifie pas nécessairement « moins de 500 € » en Europe.

@@ -1,3 +1,16 @@
+---
+title: "data.world — certifications Data Governance gratuites — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - data-database
+tags:
+  - tier/free
+  - domain/data-database
+status: active
+verified: 2026-08-28
+---
+
 # data.world — certifications Data Governance gratuites — 2026
 
 > Revue : **28 août 2026**. data.world, désormais présenté sur Credly comme **data.world from ServiceNow**, maintient plusieurs certifications dont le coût du credential est explicitement indiqué **Free**.

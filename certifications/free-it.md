@@ -1,3 +1,16 @@
+---
+title: "Certifications et credentials IT gratuits — vérifiés 2026"
+type: certification-catalog
+tier: free
+domain:
+  - general-it
+tags:
+  - tier/free
+  - domain/general-it
+status: active
+verified: 2026-08-28
+---
+
 # Certifications et credentials IT gratuits — vérifiés 2026
 
 > Cette page distingue strictement **certification**, **credential/badge évalué**, **certificate of completion** et **promotion conditionnelle**.

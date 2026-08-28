@@ -1,3 +1,16 @@
+---
+title: "Free SAP Learning badges & accreditations — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - itsm-middleware
+tags:
+  - tier/free
+  - domain/itsm-middleware
+status: active
+verified: 2026-08-28
+---
+
 # Free SAP Learning badges & accreditations — 2026
 
 > Revue : **28 août 2026**. SAP Learning propose désormais plusieurs couches de credentials gratuites : **Records of Achievement**, **Knowledge Badges**, course-completion badges, et certaines accreditations produit gratuites sous S-user. À distinguer des certifications SAP proctored payantes.

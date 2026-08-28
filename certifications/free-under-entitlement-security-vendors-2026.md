@@ -1,3 +1,16 @@
+---
+title: "Free security certifications under entitlement — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - security
+tags:
+  - tier/free
+  - domain/security
+status: active
+verified: 2026-08-28
+---
+
 # Free security certifications under entitlement — 2026
 
 > Revue : **28 août 2026**. Cette fiche regroupe les certifications réellement gratuites **uniquement si l'on possède déjà le bon statut client, partenaire ou interne**. Elles ne doivent pas être mélangées avec les certifications publiques gratuites accessibles à n'importe qui.

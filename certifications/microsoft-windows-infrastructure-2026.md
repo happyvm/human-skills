@@ -1,3 +1,16 @@
+---
+title: "Microsoft Windows Server & hybrid infrastructure — transition 2026"
+type: certification-catalog
+tier: general
+domain:
+  - windows-infra
+tags:
+  - tier/general
+  - domain/windows-infra
+status: active
+verified: 2026-08-28
+---
+
 # Microsoft Windows Server & hybrid infrastructure — transition 2026
 
 > Windows Server, Active Directory, hybrid management et sécurité Microsoft. Vérification : 28 août 2026.
@@ -116,62 +129,15 @@ Source :
 
 # Microsoft Applied Skills — compléments gratuits
 
-Les Applied Skills restent une excellente couche gratuite autour du titre principal.
+Les Applied Skills restent une excellente couche gratuite autour du titre principal, à commencer par **Administer Active Directory Domain Services** (Domain Controllers, FSMO, sites/subnets, GPO, gMSA, security, audit) et les compléments Azure networking / Azure Monitor déjà documentés dans `free-it.md`.
 
-## Administer Active Directory Domain Services
-
-Évaluation pratique gratuite lorsqu'indiquée 0 € dans Microsoft Learn.
-
-Compétences :
-
-- Domain Controllers ;
-- FSMO ;
-- sites / subnets ;
-- users / groups ;
-- GPO ;
-- gMSA ;
-- security ;
-- audit.
-
-Source :
-
-- https://learn.microsoft.com/credentials/applied-skills/administer-active-directory-domain-services/
-
-## Azure networking / Azure Monitor
-
-Autres Applied Skills déjà documentés dans `free-it.md` :
-
-- Configure secure access using Azure networking ;
-- Deploy and configure Azure Monitor.
+Catalogue complet et à jour : voir [`free-microsoft-applied-skills-2026.md`](free-microsoft-applied-skills-2026.md).
 
 ---
 
 # Security transition : AZ-500 → SC-500
 
-## AZ-500 retire le 31 août 2026
-
-Le credential Azure Security Engineer Associate historique est en fin de vie.
-
-Source :
-
-- https://learn.microsoft.com/fr-fr/credentials/certifications/resources/study-guides/az-500
-
-## Nouveau : Cloud and AI Security Engineer Associate — SC-500
-
-- prix France : **126 €** ;
-- sécurité cloud + hybride + IA ;
-- identity / access / governance ;
-- networking ;
-- storage / databases ;
-- compute ;
-- security posture.
-
-Microsoft explique explicitement que SC-500 est la transition moderne depuis AZ-500.
-
-Sources :
-
-- https://learn.microsoft.com/fr-fr/credentials/certifications/cloud-and-ai-security-engineer-associate/
-- https://learn.microsoft.com/fr-fr/partner-center/announcements/2026-may
+Le credential Azure Security Engineer Associate (AZ-500) est retiré le **31 août 2026**, remplacé par **Cloud and AI Security Engineer Associate — SC-500** (126 € en France). Détail complet (compétences, sources) : voir [`public-cloud-multicloud-under-500.md`](public-cloud-multicloud-under-500.md#az-500-retire-le-31-août-2026).
 
 **Priorité : ⭐⭐⭐⭐⭐** si sécurité Microsoft/Azure.
 
@@ -179,26 +145,7 @@ Sources :
 
 # Autres certifications Microsoft infra utiles
 
-## Azure Administrator Associate — AZ-104
-
-- **126 €** ;
-- renouvellement annuel gratuit via Microsoft Learn.
-
-Source :
-
-- https://learn.microsoft.com/fr-fr/credentials/certifications/azure-administrator/
-
-## Identity and Access Administrator — SC-300
-
-- **126 €** ;
-- Entra ID ;
-- authentication ;
-- workload identities ;
-- identity governance.
-
-Source :
-
-- https://learn.microsoft.com/fr-fr/credentials/certifications/identity-and-access-administrator/
+Deux certifications role-based à 126 € sont utiles en complément d'AZ-802 mais déjà détaillées dans le catalogue multicloud : **Azure Administrator Associate — AZ-104** et **Identity and Access Administrator — SC-300**. Voir [`public-cloud-multicloud-under-500.md`](public-cloud-multicloud-under-500.md#azure-administrator-associate--az-104).
 
 ## Azure Database Administrator — DP-300
 

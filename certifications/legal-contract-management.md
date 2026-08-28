@@ -1,3 +1,16 @@
+---
+title: "Legal operations, commercial & contract management"
+type: certification-catalog
+tier: general
+domain:
+  - legal
+tags:
+  - tier/general
+  - domain/legal
+status: active
+verified: 2026-08-28
+---
+
 # Legal operations, commercial & contract management
 
 > Certifications et qualifications autour de la gestion des contrats, commercial management, procurement juridique et legal operations.

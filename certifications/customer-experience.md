@@ -1,3 +1,16 @@
+---
+title: "Customer experience — CCXP and CX credentials"
+type: certification-catalog
+tier: general
+domain:
+  - business-soft-skills
+tags:
+  - tier/general
+  - domain/business-soft-skills
+status: active
+verified: 2026-08-28
+---
+
 # Customer experience — CCXP and CX credentials
 
 > Certifications professionnelles autour du Customer Experience Management, CX strategy, metrics, design and culture.

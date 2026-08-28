@@ -1,3 +1,16 @@
+---
+title: "Finance, risk, fraude et treasury — parcours >500 €"
+type: certification-catalog
+tier: over-500
+domain:
+  - finance-risk
+tags:
+  - tier/over-500
+  - domain/finance-risk
+status: active
+verified: 2026-08-28
+---
+
 # Finance, risk, fraude et treasury — parcours >500 €
 
 > Certifications professionnelles spécialisées en **investment, risk management, enterprise risk, fraude, forensic et treasury**.

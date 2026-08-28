@@ -1,3 +1,16 @@
+---
+title: "Public procurement, PPP & infrastructure contracting"
+type: certification-catalog
+tier: general
+domain:
+  - supply-chain
+tags:
+  - tier/general
+  - domain/supply-chain
+status: active
+verified: 2026-08-28
+---
+
 # Public procurement, PPP & infrastructure contracting
 
 > Credentials autour des partenariats public-privé, infrastructure finance, procurement public et contract management public.

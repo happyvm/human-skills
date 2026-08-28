@@ -1,3 +1,13 @@
+---
+title: "Roadmap human-skills"
+type: moc
+tags:
+  - moc
+  - roadmap
+status: active
+verified: 2026-08-28
+---
+
 # Roadmap human-skills
 
 > Construire progressivement un profil équilibré entre **technique, architecture, management, projet, risque, business, communication et anglais**.

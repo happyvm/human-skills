@@ -1,3 +1,16 @@
+---
+title: "Coaching, learning & talent development"
+type: certification-catalog
+tier: general
+domain:
+  - hr-people
+tags:
+  - tier/general
+  - domain/hr-people
+status: active
+verified: 2026-08-28
+---
+
 # Coaching, learning & talent development
 
 > Credentials professionnels autour du coaching, du développement des talents, de la formation et du learning & development.

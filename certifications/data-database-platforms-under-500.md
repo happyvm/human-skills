@@ -1,3 +1,16 @@
+---
+title: "Databases, streaming & data platforms — certifications sous 500 $"
+type: certification-catalog
+tier: under-500
+domain:
+  - data-database
+tags:
+  - tier/under-500
+  - domain/data-database
+status: active
+verified: 2026-08-28
+---
+
 # Databases, streaming & data platforms — certifications sous 500 $
 
 > MongoDB, PostgreSQL/EDB, Snowflake, Databricks, Confluent, Redis et autres credentials data. Vérification : 28 août 2026.

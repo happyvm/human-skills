@@ -1,3 +1,16 @@
+---
+title: "Extreme Networks Associate certifications gratuites — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - network
+tags:
+  - tier/free
+  - domain/network
+status: active
+verified: 2026-08-28
+---
+
 # Extreme Networks Associate certifications gratuites — 2026
 
 > Revue : **28 août 2026**. Cette fiche documente les certifications **Extreme Networks Associate / XNA** dont le training et l'examen sont accessibles gratuitement.

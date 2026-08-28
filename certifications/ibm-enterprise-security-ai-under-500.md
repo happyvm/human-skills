@@ -1,3 +1,16 @@
+---
+title: "IBM Enterprise, Security, AI & Systems — certifications sous 500 $"
+type: certification-catalog
+tier: under-500
+domain:
+  - security
+tags:
+  - tier/under-500
+  - domain/security
+status: active
+verified: 2026-08-28
+---
+
 # IBM Enterprise, Security, AI & Systems — certifications sous 500 $
 
 > IBM a encore en 2026 un des catalogues enterprise les plus larges à prix raisonnable. Vérification : 28 août 2026.
@@ -34,7 +47,10 @@ Prix régionaux à vérifier lors de l'inscription ; les montants ci-dessus sont
 
 ## IBM AIX v7.3 Administrator Specialty
 
-Prix : **100 $**.
+Credential code : **S2113000**  
+Exam : **S2000-025 — IBM AIX v7.3 Administrator Specialty**
+
+Prix : **100 $**. Statut : Live, un seul examen.
 
 Les formations recommandées ne sont pas obligatoires selon la page IBM.
 
@@ -44,19 +60,38 @@ Thèmes :
 - storage ;
 - networking ;
 - troubleshooting ;
-- performance ;
+- performance / tuning ;
 - maintenance ;
+- sécurité AIX ;
+- NIM et scripting shell ;
 - version 7.3.
 
 Source :
 
 - https://www.ibm.com/training/certification/ibm-aix-v73-administrator-specialty-S2113000
 
-**Valeur / prix : ⭐⭐⭐⭐⭐** dans les environnements Power/AIX.
+**Valeur / prix : ⭐⭐⭐⭐⭐** dans les environnements Power/AIX. Excellent rapport signal/prix pour des profils infrastructure enterprise, banque, assurance, industrie ou legacy modernization.
 
 ---
 
 # IBM Security — QRadar
+
+## QRadar SIEM Foundation Badge — gratuit
+
+IBM propose un badge **QRadar SIEM Foundation** entièrement gratuit :
+
+- compléter les cours requis de la Security Learning Academy ;
+- passer un quiz de **63 questions** ;
+- obtenir **80 % minimum** ;
+- badge Credly à la réussite ;
+- cours requis **free of charge**.
+
+Sources :
+
+- https://www.ibm.com/support/pages/ibm-qradar-siem-foundation-badge
+- https://www.ibm.com/training/course/ibm-qradar-siem-foundation-badge-SLA4233
+
+**Valeur : ⭐⭐⭐⭐⭐** — à ajouter au même niveau que les meilleurs credentials IT gratuits du dépôt.
 
 ## QRadar SIEM Administrator V7.5
 

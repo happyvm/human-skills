@@ -1,3 +1,16 @@
+---
+title: "Green building, ESG reporting & sustainability credentials"
+type: certification-catalog
+tier: general
+domain:
+  - esg-sustainability
+tags:
+  - tier/general
+  - domain/esg-sustainability
+status: active
+verified: 2026-08-28
+---
+
 # Green building, ESG reporting & sustainability credentials
 
 > Credentials appliqués au bâtiment durable, santé des bâtiments et reporting sustainability. Vérifié fin août 2026.

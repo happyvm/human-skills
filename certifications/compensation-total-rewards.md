@@ -1,3 +1,16 @@
+---
+title: "Compensation, benefits & total rewards"
+type: certification-catalog
+tier: general
+domain:
+  - hr-people
+tags:
+  - tier/general
+  - domain/hr-people
+status: active
+verified: 2026-08-28
+---
+
 # Compensation, benefits & total rewards
 
 > Certifications professionnelles spécialisées en compensation, benefits, global remuneration et Total Rewards.

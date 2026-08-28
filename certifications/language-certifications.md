@@ -1,3 +1,16 @@
+---
+title: "Language certifications"
+type: certification-catalog
+tier: general
+domain:
+  - language
+tags:
+  - tier/general
+  - domain/language
+status: active
+verified: 2026-08-28
+---
+
 # Language certifications
 
 > Tests, diplômes et credentials linguistiques ayant une valeur professionnelle ou académique. Distinction entre **test de score à durée d'usage limitée** et **diplôme sans expiration formelle**.

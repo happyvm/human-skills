@@ -1,3 +1,16 @@
+---
+title: "Oracle Linux / KVM / Virtualization / Engineered Systems certifications — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - virtualization
+tags:
+  - tier/general
+  - domain/virtualization
+status: active
+verified: 2026-08-28
+---
+
 # Oracle Linux / KVM / Virtualization / Engineered Systems certifications — 2026
 
 > Revue : **28 août 2026**. Complément aux fiches OCI et Database : focus Oracle Linux, KVM/OLVM et engineered systems.

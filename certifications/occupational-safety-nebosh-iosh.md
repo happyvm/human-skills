@@ -1,3 +1,16 @@
+---
+title: "Occupational safety — NEBOSH & IOSH"
+type: certification-catalog
+tier: general
+domain:
+  - safety-occupational
+tags:
+  - tier/general
+  - domain/safety-occupational
+status: active
+verified: 2026-08-28
+---
+
 # Occupational safety — NEBOSH & IOSH
 
 > Qualifications et statuts professionnels autour de la santé et sécurité au travail. Le coût est souvent **provider-dependent** : il faut distinguer les frais NEBOSH/IOSH du prix du Learning Partner.

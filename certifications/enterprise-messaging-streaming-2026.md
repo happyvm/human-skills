@@ -1,3 +1,16 @@
+---
+title: "Enterprise messaging / event streaming certifications — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - itsm-middleware
+tags:
+  - tier/general
+  - domain/itsm-middleware
+status: active
+verified: 2026-08-28
+---
+
 # Enterprise messaging / event streaming certifications — 2026
 
 > Revue : **28 août 2026**. Complément aux catalogues Kafka, Solace et IBM MQ : Apache Pulsar, RabbitMQ, NATS et autres stacks de messaging/event streaming.
@@ -147,7 +160,7 @@ Prix observé : **150 $**.
 
 Déjà documenté dans :
 
-- [`ibm-enterprise-security-low-cost-2026.md`](ibm-enterprise-security-low-cost-2026.md)
+- [`mainframe-enterprise-software.md`](mainframe-enterprise-software.md)
 
 IBM MQ 9.4 Administrator Professional : **200 $**.
 

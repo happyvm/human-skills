@@ -1,3 +1,16 @@
+---
+title: "Advanced networking / datacenter certifications under 500 — 2026"
+type: certification-catalog
+tier: under-500
+domain:
+  - network
+tags:
+  - tier/under-500
+  - domain/network
+status: active
+verified: 2026-08-28
+---
+
 # Advanced networking / datacenter certifications under 500 — 2026
 
 > Revue : **28 août 2026**. Périmètre : DDI/DNS, switching, fabric, datacenter networking et AI networking.

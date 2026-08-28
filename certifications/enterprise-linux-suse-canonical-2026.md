@@ -1,3 +1,16 @@
+---
+title: "Enterprise Linux certifications — SUSE, Canonical & Oracle status — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - linux
+tags:
+  - tier/general
+  - domain/linux
+status: active
+verified: 2026-08-28
+---
+
 # Enterprise Linux certifications — SUSE, Canonical & Oracle status — 2026
 
 > Revue : **28 août 2026**. Objectif : compléter Red Hat avec les alternatives enterprise Linux réellement accessibles à un particulier, en distinguant prix d'examen, formation facultative et programmes dont le checkout n'est pas public.

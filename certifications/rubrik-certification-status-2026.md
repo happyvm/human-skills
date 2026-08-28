@@ -1,3 +1,16 @@
+---
+title: "Rubrik certification status & TCO — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - storage-backup
+tags:
+  - tier/general
+  - domain/storage-backup
+status: active
+verified: 2026-08-28
+---
+
 # Rubrik certification status & TCO — 2026
 
 > Revue : **28 août 2026**. Rubrik est volontairement traité séparément car le parcours officiel est clair sur les prérequis, mais **le prix public du final exam n'est pas exposé clairement sans accès Rubrik University / support portal**.
