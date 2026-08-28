@@ -134,6 +134,8 @@ Source :
 
 BICSI dispose d'un ensemble de credentials télécom / ICT infrastructure dont plusieurs sont directement pertinents pour les datacenters.
 
+**Auto-formation officielle :** [BICSI Learning Academy](https://www.bicsi.org/education-certification/education-@-bicsi-learning-academy) — cours introductifs à avancés ; le cours *Code of Ethics* est gratuit (1 CEC).
+
 ## DCDC — Data Center Design Consultant
 
 Le store officiel BICSI affiche :
@@ -178,6 +180,8 @@ Source :
 ---
 
 # Schneider Electric DCCA
+
+**Auto-formation officielle et gratuite :** [Schneider Electric University](https://www.se.com/ww/en/about-us/university/) — 300+ cours self-paced gratuits, dont des modules préparant directement au DCCA.
 
 Le **Data Center Certified Associate** de Schneider Electric valide une connaissance de base de l'infrastructure physique :
 
