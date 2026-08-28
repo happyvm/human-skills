@@ -104,9 +104,15 @@ Le programme est 100 % online et intègre notamment :
 
 Le prix est commercialisé par le programme/checkout et doit être capturé régionalement avant inscription.
 
+Prix DMI observés directement (hors partenariat AMA, région UK/Europe) :
+
+- **DMI Essentials (Certified Digital Marketing Associate)** : 355 £ + TVA ;
+- **Certified Digital Marketing Professional (DMI Pro)** : 1 199 € + TVA (dont 180 € + TVA de frais de certification).
+
 Source :
 
 - https://www.ama.org/certifications/digital-marketing-certification/
+- https://digitalmarketinginstitute.com/certification
 
 ---
 
@@ -235,7 +241,6 @@ AIPMM CPMM
 
 # À poursuivre
 
-- DMI exact France/Europe pricing ;
 - CIM Level 4 / Level 7 ;
 - Chartered Marketer status ;
 - AMA PCM renewal details ;
