@@ -8,6 +8,53 @@
 
 # A — Examens de certification réellement gratuits
 
+## Commvault Readiverse
+
+Commvault constitue l'une des meilleures surprises de la revue 2026 : plusieurs parcours de certification complets sont affichés **Free**, avec **examen + supports de cours** inclus.
+
+### Commvault Professional Self-Paced Course
+
+- coût : **0 €** ;
+- format : exam + eLearning ;
+- supports inclus ;
+- credential Commvault.
+
+### Advanced Configuration — CommCell Console
+
+- coût : **0 €** ;
+- exam + eLearning ;
+- parcours avancé d'administration CommCell.
+
+### Certified Engineer — CommCell Console
+
+- coût du standalone exam curriculum : **0 €** ;
+- examen + course materials ;
+- l'ILT correspondant coûte environ **3 000 $**, mais n'est pas obligatoire.
+
+### Certified Engineer — Command Center
+
+- coût du standalone exam curriculum : **0 €** ;
+- examen + course materials ;
+- l'ILT correspondant existe à environ **3 000 $**, mais le même examen est accessible gratuitement via le curriculum standalone.
+
+### Certified Expert — CommCell Console
+
+- coût du standalone exam curriculum : **0 €** ;
+- examen + course materials ;
+- l'ILT correspondant est affiché autour de **5 000 $**, mais n'est pas requis pour obtenir le credential.
+
+Commvault a confirmé sur sa communauté officielle que les examens attachés aux ILT et aux curricula standalone sont les **mêmes examens**, et que les examens standalone sont gratuits.
+
+**Valeur : ⭐⭐⭐⭐⭐ pour les profils backup / data protection / infrastructure.**
+
+Sources :
+
+- https://readiverse.commvault.com/
+- https://community.commvault.com/readiverse-academy-60/self-paced-engineer-and-expert-course-12004
+- https://community.commvault.com/readiverse-academy-60/are-the-free-certificates-the-same-as-from-ilt-11711
+
+---
+
 ## Neo4j GraphAcademy
 
 ### Neo4j Certified Professional
@@ -281,15 +328,16 @@ Source : https://codefresh.io/blog/enterprise-gitops-certification-announcement/
 
 Pour maximiser le signal professionnel sans dépenser :
 
-1. Oracle OCI Architect Associate — **si checkout gratuit** ;
-2. Neo4j Certified Professional ;
-3. Neo4j Graph Data Science ;
-4. Microsoft Applied Skills utiles au métier ;
-5. Qualys VMDR ;
-6. Qualys Policy Audit ;
-7. KNIME L1 ;
-8. Tigera Certified Calico Operator L1 ;
-9. Calico eBPF ;
-10. GitHub certification si éligible étudiant ;
-11. MongoDB certification si éligible étudiant ;
-12. freeCodeCamp / HackerRank selon objectif développement.
+1. **Commvault Professional / Engineer / Expert** — particulièrement fort pour backup / infrastructure ;
+2. Oracle OCI Architect Associate — **si checkout gratuit** ;
+3. Neo4j Certified Professional ;
+4. Neo4j Graph Data Science ;
+5. Microsoft Applied Skills utiles au métier ;
+6. Qualys VMDR ;
+7. Qualys Policy Audit ;
+8. KNIME L1 ;
+9. Tigera Certified Calico Operator L1 ;
+10. Calico eBPF ;
+11. GitHub certification si éligible étudiant ;
+12. MongoDB certification si éligible étudiant ;
+13. freeCodeCamp / HackerRank selon objectif développement.
