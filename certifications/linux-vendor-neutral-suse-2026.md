@@ -42,6 +42,8 @@ verified: 2026-08-28
 
 LPI publie une grille régionale officielle.
 
+**Auto-formation officielle et gratuite :** [learning.lpi.org](https://learning.lpi.org/en/) — matériel de préparation gratuit (livres, tutoriels vidéo, environnements de pratique) pour Essentials, LPIC-1/2/3.
+
 ## Essentials
 
 - Linux Essentials — **110 €** ;
@@ -195,6 +197,8 @@ Ces prix sont `PROMO/EVENT`, pas tarifs catalogue.
 ---
 
 # SUSE Linux Enterprise Server 16
+
+**Auto-formation officielle et gratuite (toute la gamme SUSE ci-dessous) :** [learning.suse.com](https://learning.suse.com/) et [training.suse.com](https://training.suse.com/).
 
 ## SCA in SLES 16
 
@@ -360,6 +364,8 @@ Source partenaire France à titre indicatif :
 
 - https://www.globalknowledge.com/fr-fr/formation/comptia/systemes_d%E2%80%99exploitation/g016
 
+**Auto-formation officielle :** [CompTIA CertMaster Learn](https://www.comptia.org/en-us/resources/certmaster-training/learn/) — eLearning payant aligné sur les objectifs d'examen (40+ h de contenu, labs et practice tests en options complémentaires).
+
 ---
 
 # Canonical Academy — Ubuntu
@@ -381,6 +387,8 @@ Le track System Administrator est basé sur plusieurs examens Ubuntu.
 ### Statut prix
 
 `CHECKOUT-REQUIRED` — le prix public n'est pas encore suffisamment stable/exposé pour être figé dans ce fichier.
+
+**Auto-formation officielle :** [ubuntu.com/training](https://ubuntu.com/training) et [canonical.com/academy](https://canonical.com/academy) — modules self-paced (dont *Using Linux Terminal* en accès public) préparant aux examens du track SysAdmin.
 
 ---
 

@@ -15,6 +15,10 @@ verified: 2026-08-28
 
 > Certifications CNCF/Linux Foundation, SUSE/Rancher et credentials plateforme modernes. Vérification : 28 août 2026.
 
+**Auto-formation officielle et gratuite (CNCF/Linux Foundation) :** [training.linuxfoundation.org](https://training.linuxfoundation.org/) et [cncf.io/training](https://www.cncf.io/training/) — cours self-paced pour la quasi-totalité des Associate ci-dessous (KCNA, KCSA, PCA, CCA, ICA, OTCA, CGOA, CAPA, CBA…).
+
+**Auto-formation officielle SUSE :** [learning.suse.com](https://learning.suse.com/) et [training.suse.com](https://training.suse.com/) — cours gratuits par SUSE Experts pour Rancher, RKE2 et Kubernetes Administration.
+
 ---
 
 # Vue rapide
