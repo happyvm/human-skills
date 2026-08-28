@@ -22,7 +22,7 @@ Répondre à quatre questions :
 3. **Quel est le vrai TCO du credential, pas seulement le prix du voucher ?**
 4. **Dans quel ordre les passer pour construire un profil cohérent ?**
 
-Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, backup, cyber, réseau, Wi-Fi, AI infrastructure, data, architecture, observabilité, automation, projet, leadership, finance, actuariat, assurance, audit, gouvernance, AML/compliance, réglementation AMF, ESG, carbone, green building, pharma/GxP, supply chain, change management, datacenter, facilities, énergie, QHSE, OT/ICS, continuité d'activité et autres domaines.
+Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, backup, cyber, réseau, Wi-Fi, AI infrastructure, data, architecture, observabilité, automation, projet, leadership, **entrepreneuriat / création d'entreprise / startup**, finance, actuariat, assurance, audit, gouvernance, AML/compliance, réglementation AMF, ESG, carbone, green building, pharma/GxP, supply chain, change management, datacenter, facilities, énergie, QHSE, OT/ICS, continuité d'activité et autres domaines.
 
 ---
 
@@ -37,6 +37,10 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 
 - [`certifications/paid-under-500.md`](certifications/paid-under-500.md) — catalogue général.
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md) — PMI, Scrum.org, ISACA, TOGAF, Lean Six Sigma, CFA Investment Foundations, langues, business.
+
+## Entrepreneuriat, startup & création d'entreprise
+
+- [`certifications/entrepreneurship-startup-business-creation-2026.md`](certifications/entrepreneurship-startup-business-creation-2026.md) — gratuit → >5 000 € : IBM SkillsBuild, HP LIFE, OpenLearn, Certiport ESB, CCI France, BGE, CréActifs, Cnam, NCFE/SFEDI, HBS Online et HEC Paris.
 
 ## Infrastructure, cloud, réseau & plateformes
 
