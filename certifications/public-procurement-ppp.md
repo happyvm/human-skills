@@ -21,6 +21,8 @@ verified: 2026-08-28
 
 # CP³P — APMG Public-Private Partnerships Certification Program
 
+**Auto-formation officielle et gratuite (partielle) :** [APMG — Career-Ready Toolkit](https://apmg-international.com/) — ressources gratuites en complément de la formation payante dispensée par les Training Organizations APMG.
+
 Le programme CP³P est développé avec / soutenu par plusieurs institutions multilatérales :
 
 - African Development Bank ;

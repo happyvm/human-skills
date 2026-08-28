@@ -39,6 +39,8 @@ verified: 2026-08-28
 
 Certification de personne de l'International Society of Automation.
 
+**Auto-formation officielle et gratuite (partielle) :** [ISA — Free Training](https://programs.isa.org/free-training) — modules self-paced gratuits en essai.
+
 Prix :
 
 - ISA Member : **373 $** ;
@@ -124,6 +126,8 @@ Certains parcours imposent un **Fundamental Specialist** avant les certificates 
 ---
 
 # 5. SEMI University
+
+**Auto-formation officielle et gratuite (partielle) :** [SEMI University](https://www.semi.org/en/semi-university) — 6 cours d'introduction gratuits, catalogue de 575+ cours au total.
 
 SEMI dispose désormais d'un grand catalogue technique, avec plus de 360 courses on-demand selon son store.
 
