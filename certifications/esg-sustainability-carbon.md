@@ -19,6 +19,8 @@ verified: 2026-08-28
 
 # 1. CFA Institute — Sustainable Investing Certificate
 
+**Auto-formation officielle :** [CFA Institute Learning Ecosystem](https://www.cfainstitute.org/programs/cfa-program/candidate-resources/curriculum-print-version) — curriculum digital inclus dans les frais d'examen.
+
 Prix catalogue 2026 :
 
 **890 $**
@@ -50,6 +52,8 @@ Source :
 # 2. IFRS Foundation — FSA Credential
 
 Le **FSA Credential** est désormais directement lié à l'écosystème ISSB / sustainability-related financial information.
+
+**Auto-formation officielle et gratuite :** [ifrs.org/sustainability/knowledge-hub/courses](https://www.ifrs.org/sustainability/knowledge-hub/courses/) — modules e-learning self-paced gratuits sur les normes IFRS S1/S2.
 
 Il faut réussir **deux examens**.
 
@@ -189,6 +193,8 @@ Source :
 # 6. IEMA — Environment & Sustainability
 
 IEMA fonctionne davantage comme un **professional membership framework** que comme une simple série de vouchers.
+
+**Portail officiel :** [ISEP (ex-IEMA) training](https://www.astutis.com/courses/isep-courses) — formations payantes via organismes agréés, pas de couche gratuite identifiée.
 
 ## Associate — AIEMA direct entry
 

@@ -21,6 +21,8 @@ verified: 2026-08-28
 
 Credential GBCI / USGBC d'entrée dans l'écosystème LEED.
 
+**Auto-formation officielle et gratuite :** [USGBC Education](https://www.usgbc.org/education-listing) — plus de 1000 cours, dont plusieurs gratuits (*Introduction to LEED*, cours de préparation LEED v5).
+
 ## Prix 2026
 
 - tarif standard : **250 $** ;
@@ -77,6 +79,8 @@ Le credential AP peut donc être acquis sous 500 $ si Green Associate est déjà
 
 # 3. WELL AP
 
+**Auto-formation officielle et gratuite (partielle) :** [WELL Education](https://www.wellcertified.com/education) — webcasts et ressources gratuits via un compte WELL.
+
 Credential de l'International WELL Building Institute orienté :
 
 - santé ;
@@ -112,6 +116,8 @@ Sources :
 
 BREEAM fonctionne via plusieurs national scheme operators et les prix varient selon pays.
 
+**Auto-formation officielle et gratuite (partielle) :** [BRE Academy](https://elearning.bre.ac/) — sessions CPD gratuites pour débuter, modules courts payants pour la certification.
+
 ## Exemple DACH 2026 — BREEAM New Construction AP
 
 Le schéma Allemagne / Autriche affiche :
@@ -145,6 +151,8 @@ Source générale :
 # 5. GRI Certified Sustainability Professional
 
 Le programme GRI a été restructuré en 2025 et repose désormais sur **quatre cours obligatoires** puis l'examen de certification.
+
+**Portail officiel :** [GRI Academy](https://www.globalreporting.org/academy/courses/) — 20+ cours on-demand, les 4 cours obligatoires étant payants.
 
 ## Cours obligatoires
 
