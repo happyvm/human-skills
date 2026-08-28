@@ -1,524 +1,711 @@
-# Certifications payantes à moins de 500 € — première sélection
+# Certifications payantes à moins de 500 €
 
-> Première liste de certifications professionnelles dont le **prix d'examen** reste sous un budget d'environ 500 €.
+> Catalogue vérifié de certifications et credentials professionnels dont le **coût d'accès au credential** reste, en principe, sous un budget de 500 €.
 >
 > **Dernière vérification : 28 août 2026**
 
-## Méthode
+## Règles de sélection
 
-Le seuil de 500 € est appliqué en priorité au **coût permettant d'obtenir le credential**, hors formation facultative.
-
-Pour les examens facturés en dollars :
-
-- le prix officiel USD est conservé pour éviter une fausse précision ;
-- au 28 août 2026, 1 USD vaut environ **0,86 €** ;
-- les taxes locales peuvent modifier le prix final ;
-- les examens proches du seuil doivent donc être vérifiés au checkout.
-
-Cette première liste favorise les certifications avec une vraie reconnaissance professionnelle plutôt que les simples certificats de cours.
+- priorité aux examens officiels et credentials vérifiables ;
+- formation facultative exclue du coût ;
+- lorsqu'une formation est obligatoire, le coût total du parcours doit être pris en compte ;
+- les tarifs en USD sont laissés en USD pour éviter une fausse précision ;
+- taxes, TVA et tarification régionale peuvent modifier le montant final ;
+- les offres proches de 500 € sont signalées comme **limite / à vérifier au checkout** ;
+- une certification à plusieurs examens est évaluée sur le **coût total nécessaire pour obtenir le credential**, pas sur le prix d'un seul examen.
 
 ---
 
-# Vue rapide
+# 1 — Excellents rapports valeur / prix
 
-| Certification | Domaine | Prix officiel indicatif | Valeur CV estimée |
+| Certification | Domaine | Prix indicatif | Valeur CV |
 |---|---|---:|:---:|
-| HashiCorp Terraform Associate | IaC / Cloud | **70,50 $ + taxes** | ⭐⭐⭐⭐⭐ |
-| AWS Foundational | Cloud | **85 €** | ⭐⭐⭐ |
-| Cisco CCST | Réseau / Cyber | **125 $** | ⭐⭐⭐ |
-| Google Associate Cloud Engineer | Cloud | **125 $ + taxes** | ⭐⭐⭐⭐ |
-| AWS Associate | Cloud | **128 €** | ⭐⭐⭐⭐⭐ |
-| Microsoft Associate / Expert — 1 examen | Microsoft / Azure / Security | **165 $ selon région** | ⭐⭐⭐⭐–⭐⭐⭐⭐⭐ |
-| TOEIC Listening & Reading | Anglais | **189 €** à Paris | ⭐⭐⭐⭐⭐ |
-| Scrum.org PSM I | Agile / Management | **200 $** | ⭐⭐⭐⭐⭐ |
-| Scrum.org PSPO I | Produit / Agile | **200 $** | ⭐⭐⭐⭐ |
-| Scrum.org PAL I | Leadership Agile | **200 $** | ⭐⭐⭐⭐ |
-| Google Professional Cloud Architect | Architecture Cloud | **200 $ + taxes** | ⭐⭐⭐⭐⭐ |
-| Scrum.org PSM II | Agile / Management | **250 $** | ⭐⭐⭐⭐⭐ |
-| PMI CAPM | Gestion de projet | **300 $ non-membre** | ⭐⭐⭐⭐ |
+| HashiCorp Terraform Associate | IaC / Cloud | **70,50 $** | ⭐⭐⭐⭐⭐ |
+| GitHub Foundations / Actions / Administration / Advanced Security | DevOps / GitHub | **99 $ global ; env. 76 € en France selon examen** | ⭐⭐⭐⭐ |
+| SUSE Certified Deployment Specialist in SUSE AI | Linux / Kubernetes / IA | **99 $** | ⭐⭐⭐⭐ |
+| ISACA Cybersecurity Fundamentals | Cyber | **144 $ non-membre** | ⭐⭐⭐⭐ |
+| SUSE Certified Administrator — SLES / Rancher / RKE2 / NeuVector / Multi-Linux Manager | Linux / Kubernetes / sécurité | **149 $** | ⭐⭐⭐⭐ |
+| MongoDB Associate certifications | Data / DB | **150 $** | ⭐⭐⭐⭐ |
+| Palo Alto Foundational | Cyber | **150 $** | ⭐⭐⭐ |
+| SnowPro Core | Data / Snowflake | **175 $** | ⭐⭐⭐⭐ |
+| ISACA COBIT Foundation | Gouvernance | **175 $** | ⭐⭐⭐⭐⭐ |
+| LPI DevOps Tools Engineer | DevOps | **176 €** | ⭐⭐⭐⭐ |
+| TOEIC Listening & Reading | Anglais | **env. 189 € à Paris** | ⭐⭐⭐⭐⭐ |
+| Scrum.org PSM I | Agile | **200 $** | ⭐⭐⭐⭐⭐ |
+| Salesforce Administrator / Developer / Business Analyst / Consultant | CRM / Business / Dev | **200 $** | ⭐⭐⭐⭐ |
+| Databricks Data Engineer Associate | Data | **200 $** | ⭐⭐⭐⭐ |
+| Palo Alto Professional | Cyber | **200 $** | ⭐⭐⭐⭐ |
+| NetApp certification exam | Storage | **200 $** | ⭐⭐⭐⭐ |
+| Pure Storage Associate | Storage | **200 $** | ⭐⭐⭐⭐ |
+| Google Professional Cloud Architect | Cloud architecture | **200 $** | ⭐⭐⭐⭐⭐ |
+| F5 Certified Administrator BIG-IP — parcours complet | ADC / réseau | **250 $ online (5 × 50 $)** | ⭐⭐⭐⭐⭐ |
+| VMware/Broadcom VCP exam | Virtualisation / VCF | **250 $** | ⭐⭐⭐⭐⭐ |
+| Linux Foundation/CNCF Associate family | Cloud native / Linux / observabilité | **250 $** | ⭐⭐⭐⭐ |
+| HashiCorp Professional exams | Terraform / Vault | **295 $** | ⭐⭐⭐⭐⭐ |
 | Cisco CCNA | Réseau | **300 $** | ⭐⭐⭐⭐⭐ |
-| Cisco CCNA Cybersecurity | Cyber | **300 $** | ⭐⭐⭐⭐ |
-| Cisco CCNA Automation | Automation / Réseau | **300 $** | ⭐⭐⭐⭐ |
-| IIBA ECBA | Business Analysis | **350 $ non-membre** | ⭐⭐⭐⭐ |
-| Linux Foundation LFCS | Linux | **445 $** | ⭐⭐⭐⭐⭐ |
-| CNCF CKA | Kubernetes | **445 $** | ⭐⭐⭐⭐⭐ |
-| CNCF CKAD | Kubernetes / Dev | **445 $** | ⭐⭐⭐⭐ |
-| CNCF CKS | Kubernetes / Security | **445 $** | ⭐⭐⭐⭐⭐ |
+| FinOps Certified Practitioner | FinOps | **env. 300 $ exam-only** | ⭐⭐⭐⭐⭐ |
+| TOGAF Enterprise Architecture Foundation | Architecture d'entreprise | **395 $** | ⭐⭐⭐⭐⭐ |
+| CompTIA Security+ / CySA+ / PenTest+ | Cyber | **env. 439 $** | ⭐⭐⭐⭐–⭐⭐⭐⭐⭐ |
+| LFCS / CKA / CKAD / CKS | Linux / Kubernetes | **445 $** | ⭐⭐⭐⭐⭐ |
+| Cloud Security Alliance CCSK | Cloud security | **445 $** | ⭐⭐⭐⭐⭐ |
 
 ---
 
-# 1. HashiCorp Terraform Associate
+# 2 — Cloud, architecture et Infrastructure as Code
 
-## HashiCorp Certified: Terraform Associate
+## AWS
 
-**Prix officiel : 70,50 $ USD + taxes et frais locaux.**
+Tarifs européens de référence :
 
-L'examen est surveillé en ligne et dure environ une heure.
-
-Thèmes :
-
-- Infrastructure as Code ;
-- Terraform workflow ;
-- providers ;
-- state ;
-- modules ;
-- configuration ;
-- provisioning ;
-- multi-cloud / hybrid cloud.
-
-À ce niveau de prix, c'est l'un des meilleurs rapports **coût / valeur CV** disponibles.
-
-**Priorité : ⭐⭐⭐⭐⭐**
-
-Source officielle :
-
-- https://developer.hashicorp.com/certifications/infrastructure-automation
-
----
-
-# 2. AWS Certifications
-
-AWS publie directement ses tarifs en euros.
-
-## Tarifs 2026
-
-| Niveau | Prix officiel |
+| Niveau | Prix |
 |---|---:|
 | Foundational | **85 €** |
 | Associate | **128 €** |
 | Professional | **256 €** |
 | Specialty | **256 €** |
 
-Tous ces niveaux sont donc sous le seuil de 500 € pour l'examen seul.
+Priorités :
 
-## Priorités recommandées
+- AWS Certified Solutions Architect — Associate ⭐⭐⭐⭐⭐
+- AWS Certified Solutions Architect — Professional ⭐⭐⭐⭐⭐
+- AWS Certified Security — Specialty ⭐⭐⭐⭐⭐
 
-### AWS Certified Solutions Architect — Associate
+Source : https://aws.amazon.com/fr/certification/policies/before-testing/
 
-Très forte reconnaissance marché pour un coût d'examen de niveau Associate.
+## Microsoft
 
-**Priorité : ⭐⭐⭐⭐⭐**
-
-### AWS Certified Solutions Architect — Professional
-
-Très intéressante pour un profil architecture expérimenté.
-
-**Priorité : ⭐⭐⭐⭐⭐**
-
-### AWS Certified Security — Specialty
-
-À considérer pour compléter cloud + cybersécurité.
-
-**Priorité : ⭐⭐⭐⭐⭐**
-
-Source officielle des tarifs :
-
-- https://aws.amazon.com/fr/certification/policies/before-testing/
-
----
-
-# 3. Microsoft Certifications
-
-De nombreux examens Microsoft sont affichés autour de **165 $ USD**, avec un prix final dépendant du pays ou de la région de passage.
-
-Exemples intéressants :
-
-- AZ-104 — Azure Administrator ;
-- AZ-305 — Designing Microsoft Azure Infrastructure Solutions ;
-- AZ-400 — Designing and Implementing Microsoft DevOps Solutions ;
-- AZ-800 — Administering Windows Server Hybrid Core Infrastructure ;
-- SC-100 — Microsoft Cybersecurity Architect ;
-- examens Azure / Security / AI équivalents dans la même tranche tarifaire.
-
-## Attention aux certifications à plusieurs examens
-
-Le coût d'un examen peut être bas, mais certaines certifications nécessitent :
-
-- un deuxième examen ;
-- une certification préalable ;
-- ou les deux.
-
-Il faut donc raisonner en **coût total du parcours**, pas uniquement en coût d'un examen.
+La majorité des examens Azure / Security / Windows restent largement sous le seuil de 500 € par examen, avec tarification régionale.
 
 Exemples :
 
-```text
-1 examen Microsoft ≈ 165 $
-2 examens Microsoft ≈ 330 $
-```
+- AZ-104 — Azure Administrator ;
+- AZ-305 — Azure Solutions Architect ;
+- AZ-400 — DevOps Engineer ;
+- AZ-800 / AZ-801 — Windows Server Hybrid ;
+- SC-100 — Cybersecurity Architect ;
+- autres certifications Azure / Security / AI.
 
-Cela laisse malgré tout beaucoup de parcours sous le seuil de 500 €.
+Attention au **coût cumulé** lorsqu'une certification demande plusieurs examens.
 
-Sources officielles :
+Catalogue : https://learn.microsoft.com/credentials/certifications/
 
-- https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/
-- https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/
-- https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-100/
+## Google Cloud
 
----
+| Certification | Prix |
+|---|---:|
+| Associate Cloud Engineer | **125 $** |
+| Professional Cloud Architect | **200 $** |
 
-# 4. Google Cloud
-
-## Associate Cloud Engineer
-
-**Prix : 125 $ USD + taxes applicables.**
-
-Certification intéressante pour valider l'exploitation et l'administration de workloads Google Cloud.
-
-**Priorité : ⭐⭐⭐⭐**
-
-Source :
-
+Sources :
 - https://cloud.google.com/learn/certification/cloud-engineer
-
-## Professional Cloud Architect
-
-**Prix : 200 $ USD + taxes applicables.**
-
-Thèmes :
-
-- architecture ;
-- sécurité ;
-- conformité ;
-- infrastructure ;
-- optimisation ;
-- opérations ;
-- processus techniques et business.
-
-Très bon credential pour un profil architecture.
-
-**Priorité : ⭐⭐⭐⭐⭐**
-
-Source :
-
 - https://cloud.google.com/learn/certification/cloud-architect
 
----
+## HashiCorp
 
-# 5. Cisco
+| Certification | Prix |
+|---|---:|
+| Terraform Associate | **70,50 $ + taxes** |
+| Vault Associate | **70,50 $ + taxes** |
+| Terraform Authoring & Operations Professional | **295 $** |
+| Vault Operations Professional | **295 $** |
 
-## Cisco CCST
+Les examens Professional comprennent actuellement une politique de retake avantageuse selon le produit.
 
-**Prix : 125 $ USD par examen.**
+Source : https://developer.hashicorp.com/certifications
 
-Niveau d'entrée Cisco, disponible notamment sur les axes réseau et cybersécurité.
+## Oracle
 
-**Priorité : ⭐⭐⭐**
+En dehors des certifications actuellement proposées gratuitement, de nombreux examens OCI Associate / Professional restent autour de **245 $** par tentative.
 
-Source :
+Source : https://education.oracle.com/oracle-certification-exams-list
 
-- https://www.cisco.com/site/us/en/learn/training-certifications/certifications/support-technician/faq.html
+## FinOps Foundation
 
-## Cisco CCNA
+### FinOps Certified Practitioner — FOCP
 
-**Prix officiel observé : 300 $ USD** sur la page d'examen 200-301 et la grille Cisco des examens Associate.
+- exam-only : **environ 300 $** ;
+- 50 questions ;
+- credential orienté gouvernance et optimisation des coûts cloud ;
+- particulièrement pertinent en environnement hybride / multicloud.
 
-Thèmes :
+Prix à revérifier au checkout car les offres de cours + examen changent régulièrement.
 
-- network fundamentals ;
-- network access ;
-- IP connectivity ;
-- IP services ;
-- security fundamentals ;
-- automation ;
-- programmability.
-
-**Priorité : ⭐⭐⭐⭐⭐**
-
-Source :
-
-- https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html
-
-> Cisco a plusieurs pages tarifaires susceptibles d'être mises à jour à des moments différents. Toujours vérifier le tarif affiché au moment de l'inscription.
-
-## Cisco CCNA Cybersecurity
-
-**Prix : 300 $ USD.**
-
-Compétences :
-
-- security concepts ;
-- security monitoring ;
-- host-based analysis ;
-- network intrusion analysis ;
-- security policies and procedures.
-
-**Priorité : ⭐⭐⭐⭐**
-
-Source :
-
-- https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccnacbr.html
-
-## Cisco CCNA Automation
-
-**Prix : 300 $ USD.**
-
-Axes :
-
-- APIs ;
-- software development ;
-- automation ;
-- infrastructure ;
-- programmability Cisco.
-
-**Priorité : ⭐⭐⭐⭐**
-
-Source :
-
-- https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccnaauto.html
+Référence : https://learn.finops.org/
 
 ---
 
-# 6. Linux Foundation / CNCF
+# 3 — Linux et open source
 
-Les certifications performance-based suivantes sont affichées à **445 $ USD** pour l'examen seul :
+## SUSE
 
-- Linux Foundation Certified System Administrator — **LFCS** ;
-- Certified Kubernetes Administrator — **CKA** ;
-- Certified Kubernetes Application Developer — **CKAD** ;
-- Certified Kubernetes Security Specialist — **CKS**.
+SUSE est particulièrement agressif sur le prix des examens et n'impose généralement pas la formation associée.
 
-Le prix inclut notamment deux tentatives sur la période d'éligibilité selon les conditions Linux Foundation.
+| Certification | Prix |
+|---|---:|
+| SUSE Certified Deployment Specialist in SUSE AI | **99 $** |
+| SCA SUSE Linux Enterprise Server 15 / 16 | **149 $** |
+| SCA SUSE Rancher Prime | **149 $** |
+| SCA Rancher Kubernetes Engine 2 | **149 $** |
+| SCA SUSE NeuVector | **149 $** |
+| SCA SUSE Multi-Linux Manager | **149 $** |
+| Deployment Specialist Multi-Linux Manager | **149 $** |
+| SCE Linux Enterprise High Availability | **195 $** |
 
-## LFCS
+Sources : https://www.suse.com/training/
 
-Très bonne certification Linux vendor-neutral.
+## Linux Professional Institute — LPI
 
-**Priorité : ⭐⭐⭐⭐⭐**
+Tarification européenne constatée :
 
-Source :
+| Credential | Coût |
+|---|---:|
+| Linux Essentials | **110 €** |
+| Security Essentials / Web Development Essentials équivalents | **110 €** selon examen |
+| DevOps Tools Engineer | **176 €** |
+| BSD Specialist | **176 €** |
+| LPIC-1 | **2 × 176 € = 352 €** |
 
-- https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/
+LPIC-2 et LPIC-3 sont moins intéressants pour notre classement « moins de 500 € depuis zéro », car leurs prérequis font monter le coût total du parcours.
 
-## CKA
+Source : https://www.lpi.org/exam-pricing/
 
-Une des certifications Kubernetes les plus reconnues.
+## Linux Foundation / CNCF
 
-**Priorité : ⭐⭐⭐⭐⭐**
+### Famille Associate — 250 $
 
-## CKAD
+Le catalogue Linux Foundation comprend de nombreux examens à **250 $**, notamment :
 
-Plus orientée développement / workloads Kubernetes.
+- LFCA — Linux Foundation Certified IT Associate ;
+- KCNA — Kubernetes and Cloud Native Associate ;
+- KCSA — Kubernetes and Cloud Native Security Associate ;
+- PCA — Prometheus Certified Associate ;
+- RVFA — RISC-V Foundational Associate ;
+- HFCP — Hyperledger Fabric Certified Practitioner ;
+- CGOA — Certified GitOps Associate ;
+- ICA — Istio Certified Associate ;
+- CCA — Cilium Certified Associate ;
+- CAPA — Certified Argo Project Associate ;
+- CBA — Certified Backstage Associate ;
+- OTCA — OpenTelemetry Certified Associate ;
+- KCA — Kyverno Certified Associate ;
+- CNPA — Certified Cloud Native Platform Engineering Associate ;
+- FCFP — FINOS Certified FDC3 Practitioner.
 
-**Priorité : ⭐⭐⭐⭐**
+### Bundle intéressant
 
-## CKS
+**KCNA + KCSA : 425 $** pour les deux examens.
 
-Très pertinente pour Kubernetes + sécurité.
+### Performance-based — 445 $
 
-**Priorité : ⭐⭐⭐⭐⭐**
+- LFCS ;
+- CKA ;
+- CKAD ;
+- CKS.
 
-Référence tarifaire Linux Foundation :
-
-- https://training.linuxfoundation.org/blog/new-certification-pricing/
-
----
-
-# 7. Scrum.org — Agile, Produit et Leadership
-
-Les certifications Scrum.org peuvent être passées **sans formation obligatoire**. L'achat porte directement sur une tentative d'assessment.
-
-## Professional Scrum Master I — PSM I
-
-**Prix : 200 $ USD.**
-
-Très bon credential Agile généraliste.
-
-**Priorité : ⭐⭐⭐⭐⭐**
-
-## Professional Scrum Product Owner I — PSPO I
-
-**Prix : 200 $ USD.**
-
-Intéressant pour :
-
-- product ownership ;
-- création de valeur ;
-- stratégie produit ;
-- backlog ;
-- empirisme.
-
-**Priorité : ⭐⭐⭐⭐**
-
-## Professional Agile Leadership I — PAL I
-
-**Prix : 200 $ USD.**
-
-Particulièrement pertinent pour un manager ou futur directeur travaillant dans une organisation Agile.
-
-**Priorité : ⭐⭐⭐⭐**
-
-## Professional Scrum Master II — PSM II
-
-**Prix : 250 $ USD.**
-
-Plus intéressant que PSM I pour démontrer une compréhension plus avancée de Scrum et du rôle de Scrum Master.
-
-**Priorité : ⭐⭐⭐⭐⭐**
-
-Tarifs officiels :
-
-- https://www.scrum.org/support/where-can-i-purchase-password-attempt-professional-level-assessment
-
-PAL I :
-
-- https://www.scrum.org/assessments/professional-agile-leadership-certification
-
-PSPO I :
-
-- https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification
+Sources :
+- https://training.linuxfoundation.org/certification-catalog/
+- https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/
+- https://training.linuxfoundation.org/certification/prometheus-certified-associate/
 
 ---
 
-# 8. Gestion de projet — PMI CAPM
+# 4 — Virtualisation, datacenter et stockage
 
-## Certified Associate in Project Management — CAPM
+## VMware / Broadcom
 
-**Prix examen :**
+Broadcom a supprimé l'obligation historique de formation pour plusieurs parcours VMware et les examens sont actuellement autour de **250 $**.
 
-- membre PMI : **225 $** ;
+Exemples actuels :
+
+- VMware Certified Professional — VMware Cloud Foundation Administrator ;
+- VMware vSphere Foundation Administrator ;
+- VMware Cloud Foundation Support.
+
+À vérifier selon le nouvel intitulé exact du programme, Broadcom faisant évoluer rapidement la nomenclature.
+
+## Pure Storage
+
+| Niveau | Prix |
+|---|---:|
+| Associate | **200 $** |
+| Professional / Specialist | **300 $** |
+| Expert | **400 $** |
+
+Source : https://www.purestorage.com/services/certifications.html
+
+## NetApp
+
+Les vouchers Pearson VUE NetApp sont affichés autour de **200 $** pour les examens de certification standard.
+
+Source : https://netappstore.pearsonvue.com/
+
+## Nutanix
+
+Certains examens NCP sont affichés autour de **200 $** par tentative, par exemple NCP Database Automation.
+
+Source : https://www.nutanix.com/support-services/training-certification/certifications
+
+---
+
+# 5 — Réseau, firewall et sécurité infrastructure
+
+## Cisco
+
+| Certification | Prix |
+|---|---:|
+| CCST | **125 $** |
+| CCNA | **300 $** |
+| CCNA Cybersecurity | **300 $** |
+| CCNA Automation | **300 $** |
+
+Source : https://www.cisco.com/site/us/en/learn/training-certifications/certifications/
+
+## Juniper
+
+Tarifs catalogue :
+
+| Niveau | Prix |
+|---|---:|
+| JNCIA | **200 $** |
+| JNCIS | **300 $** |
+| JNCIP | **400 $** |
+
+Le programme **Juniper Open Learning** peut permettre d'obtenir des vouchers de réduction pouvant atteindre 75 %, ce qui rend certains examens extrêmement intéressants.
+
+Source : https://learningportal.juniper.net/
+
+## Palo Alto Networks
+
+Nouvelle grille 2026 :
+
+| Niveau | Prix |
+|---|---:|
+| Foundational | **150 $** |
+| Professional | **200 $** |
+| Specialist | **250 $** |
+| Architect | **300 $** |
+
+Exemples :
+
+- Cybersecurity Apprentice — 150 $ ;
+- Cybersecurity Practitioner — 150 $ ;
+- Network Security Professional — 200 $ ;
+- Security Operations Professional — 200 $ ;
+- Cloud Security Professional — 200 $ ;
+- NGFW Engineer — 250 $ ;
+- XDR / XSIAM / XSOAR / SD-WAN Specialist — 250 $ ;
+- Network Security Architect — 300 $ ;
+- Security Operations Architect — 300 $.
+
+Source : https://paloaltostore.pearsonvue.com/
+
+## Fortinet
+
+En 2026, de nombreux examens techniques Fortinet se situent autour de **200 $**.
+
+À partir du **2 novembre 2026**, certains examens de niveau NSE 7 / Industry passent à **400 $**, tandis que plusieurs niveaux inférieurs restent à 200 $.
+
+Source : https://training.fortinet.com/
+
+## F5
+
+Depuis 2025, le **F5 Certified Administrator, BIG-IP** est obtenu en réussissant cinq examens modulaires :
+
+- F5CAB1 ;
+- F5CAB2 ;
+- F5CAB3 ;
+- F5CAB4 ;
+- F5CAB5.
+
+Chaque examen coûte actuellement :
+
+- **50 $ online via Certiverse** ;
+- **65 $ en centre Pearson VUE**.
+
+Donc le credential complet coûte :
+
+- **250 $ online** ;
+- **325 $ en centre**.
+
+Très bon rapport valeur / prix pour une certification constructeur ADC / load-balancing.
+
+Source : https://support.education.f5.com/hc/en-us/articles/37276542073371-Price-list-for-F5-Certified-exams
+
+---
+
+# 6 — Cybersécurité, gouvernance et risque
+
+## ISC2
+
+L'ancienne offre gratuite CC n'est plus ouverte aux nouveaux candidats.
+
+Tarifs EMEA vérifiés :
+
+| Certification | Prix examen |
+|---|---:|
+| Certified in Cybersecurity — CC | **191,04 €** |
+| SSCP | **239,04 €** |
+
+Attention : des **Annual Maintenance Fees** s'appliquent après certification.
+
+Source : https://www.isc2.org/register-for-exam/isc2-exam-pricing
+
+## ISACA
+
+| Credential | Membre | Non-membre |
+|---|---:|---:|
+| Cybersecurity Fundamentals Certificate | env. **120 $** | **144 $** |
+| COBIT Foundation | **175 $** | **175 $** |
+| IT Risk Fundamentals | **175 $** | **225 $** |
+| COBIT Design & Implementation | **275 $** | **275 $** |
+
+Très intéressant pour compléter une trajectoire architecture → gouvernance / direction.
+
+Sources : https://www.isaca.org/credentialing
+
+## Cloud Security Alliance
+
+| Certification | Prix |
+|---|---:|
+| CCZT — Certificate of Competence in Zero Trust | **175 $** |
+| CCSK — Certificate of Cloud Security Knowledge | **445 $** |
+
+Le token CCSK comprend généralement plusieurs tentatives selon les conditions en vigueur.
+
+Source : https://cloudsecurityalliance.org/education
+
+## CompTIA
+
+Tarifs US 2026 indicatifs :
+
+| Certification | Prix approx. |
+|---|---:|
+| Tech+ | **129 $** |
+| Data+ | **264 $** |
+| Network+ | **399 $** |
+| Linux+ | **399 $** |
+| Cloud+ | **399 $** |
+| Server+ | **399 $** |
+| Project+ | **399 $** |
+| Security+ | **439 $** |
+| CySA+ | **439 $** |
+| PenTest+ | **439 $** |
+
+Les tarifs européens / TVA doivent être vérifiés avant achat.
+
+Source : https://www.comptia.org/certifications
+
+---
+
+# 7 — Data, bases de données et observabilité
+
+## MongoDB
+
+Examens Associate : **150 $** environ, notamment :
+
+- Associate Developer ;
+- Associate Database Administrator ;
+- Associate Data Modeler ;
+- Atlas Administrator.
+
+Source : https://learn.mongodb.com/pages/certification
+
+## Snowflake
+
+| Certification | Prix |
+|---|---:|
+| SnowPro Core | **175 $** |
+| SnowPro Advanced | **375 $** |
+
+Source : https://learn.snowflake.com/en/certifications/
+
+## Databricks
+
+### Databricks Certified Data Engineer Associate
+
+**200 $ + taxes**, examen online proctoré.
+
+Source : https://www.databricks.com/learn/certification/data-engineer-associate
+
+## Splunk
+
+Plusieurs examens techniques Splunk sont autour de **130 $** par examen :
+
+- Core Certified User ;
+- Core Certified Power User ;
+- Advanced Power User ;
+- Cloud Admin ;
+- autres parcours techniques.
+
+Attention : certains credentials nécessitent un examen préalable, donc additionner les coûts.
+
+Source : https://www.splunk.com/en_us/training/certification-track.html
+
+## Sumo Logic
+
+Anciennement gratuite, la certification Sumo Logic a changé de modèle.
+
+En 2026 :
+
+- Fundamentals User : **100 $** ;
+- autres examens : **150 $** ;
+- formation self-paced et classes publiques : gratuites ;
+- examens live-proctored via Kryterion ;
+- badge Credly.
+
+Source : https://www.sumologic.com/help/docs/get-started/training-certification-faq/
+
+## Neo4j
+
+À ne pas mettre dans cette page payante : les certifications Neo4j sont toujours **gratuites**, voir le catalogue gratuit.
+
+---
+
+# 8 — IA et infrastructure IA
+
+## NVIDIA
+
+Exemples de la grille actuelle :
+
+| Certification | Prix |
+|---|---:|
+| NCA AI Infrastructure & Operations | **125 $** |
+| NCA Accelerated Data Science | **125 $** |
+| NCP Accelerated Data Science | **200 $** |
+| NCP AI Networking | **400 $** |
+| NCP AI Rack & Interconnect | **400 $** |
+| NCP AI Infrastructure Professional | **400 $** |
+
+Les examens affichés à **500 $** sont placés en zone limite : la TVA / conversion peut faire dépasser le budget réel de 500 €.
+
+Source : https://www.nvidia.com/en-us/learn/certification/
+
+---
+
+# 9 — GitHub, DevOps et outils collaboratifs
+
+## GitHub Certifications
+
+Tarif global officiel : **99 $** pour de nombreux examens, avec tarification régionale.
+
+En France, plusieurs examens sont actuellement affichés autour de **76 €** :
+
+- GH-900 GitHub Foundations ;
+- GH-200 GitHub Actions ;
+- GH-300 GitHub Administration ;
+- GH-500 GitHub Advanced Security.
+
+Le nouvel examen **GH-600 Agentic AI Developer** est affiché autour de **126 € en France**.
+
+Pour les étudiants vérifiés via GitHub Student Developer Pack, un voucher gratuit ponctuel peut être disponible pour Foundations ou Copilot, dans la limite des stocks.
+
+Source : https://resources.github.com/learn/certifications/
+
+## Atlassian
+
+En 2026 :
+
+- **Atlassian Certificates** : examens gratuits, non proctorés ;
+- **Atlassian Certified Associate** : **100 $** ;
+- **Atlassian Certified Professional** : **249 $**.
+
+Source : https://community.atlassian.com/learning/hub/resources-and-support/about-atlassian-credentials/
+
+---
+
+# 10 — Salesforce
+
+Salesforce propose une gamme étonnamment large sous 500 $.
+
+| Niveau / famille | Prix typique |
+|---|---:|
+| Foundations | **75 $** |
+| Accredited Professional | **150 $** |
+| Administrator | **200 $** |
+| Business Analyst | **200 $** |
+| Consultant | **200 $** |
+| Data Analyst | **200 $** |
+| Designer | **200 $** |
+| Developer | **200 $** |
+| Marketer | **200 $** |
+| Agentforce Specialist | **200 $** |
+| Plusieurs certifications Architect | **400 $** |
+
+Le parcours Technical Architect complet est naturellement hors de cette catégorie.
+
+Source : https://trailhead.salesforce.com/credentials/verification
+
+---
+
+# 11 — Architecture d'entreprise et gouvernance
+
+## The Open Group
+
+| Certification / examen | Prix |
+|---|---:|
+| TOGAF Enterprise Architecture Part 1 / Foundation | **395 $** |
+| TOGAF Business Architecture Foundation | **395 $** |
+| ArchiMate Part 1 | **env. 360 $** |
+| Open Agile Architecture Practitioner | **env. 360 $** |
+| DPBoK Part 1 | **env. 360 $** |
+
+Le TOGAF Part 1 + Part 2 combiné dépasse généralement le seuil de cette page, mais la **Foundation seule** reste sous 500 €.
+
+Source : https://certification.opengroup.org/examinations
+
+---
+
+# 12 — Agile, gestion de projet et business analysis
+
+## Scrum.org
+
+Pas de formation obligatoire.
+
+| Certification | Prix |
+|---|---:|
+| PSM I | **200 $** |
+| PSPO I | **200 $** |
+| PAL I | **200 $** |
+| PSM II | **250 $** |
+
+Source : https://www.scrum.org/assessments
+
+## PMI CAPM
+
+- membre : **225 $** ;
 - non-membre : **300 $**.
 
-Le CAPM couvre :
+Le CAPM couvre projet prédictif, Agile et business analysis.
 
-- gestion de projet prédictive ;
-- Agile ;
-- business analysis ;
-- fondamentaux du pilotage de projet.
+Source : https://www.pmi.org/certifications/certified-associate-capm
 
-Il ne demande pas d'expérience préalable, contrairement au PMP.
-
-**Priorité : ⭐⭐⭐⭐**
-
-Source :
-
-- https://www.pmi.org/certifications/certified-associate-capm
-
-### À propos du PMP
-
-Le PMP est affiché à :
-
-- **405 $** pour un membre PMI ;
-- **655 $** plein tarif.
-
-Il n'est donc pas classé ici comme certification « simplement < 500 € », car obtenir le tarif membre implique également de tenir compte du coût d'adhésion PMI et des prérequis de formation / expérience.
-
-Source :
-
-- https://www.pmi.org/certifications/project-management-pmp/
-
----
-
-# 9. Business Analysis — IIBA ECBA
-
-## Entry Certificate in Business Analysis — ECBA
-
-Prix officiel communiqué par IIBA :
+## IIBA ECBA
 
 - membre : **195 $** ;
 - non-membre : **350 $**.
 
-Le credential permet de structurer des compétences autour de :
+Source : https://www.iiba.org/knowledgehub/certification/ecba-certification/
 
-- besoins métiers ;
-- exigences ;
-- stakeholders ;
-- analyse ;
-- changement ;
-- création de valeur.
+## Lean Six Sigma — CSSC
 
-**Priorité : ⭐⭐⭐⭐**
+| Niveau | Prix standard |
+|---|---:|
+| White Belt | **0 $** — voir catalogue gratuit |
+| Yellow Belt | **99 $** |
+| Green Belt | **195 $** |
+| Black Belt | **295 $** |
+| série self-paced White → Black | **env. 399 $** |
 
-Ressources :
-
-- https://www.iiba.org/knowledgehub/certification/ecba-certification/
-- https://www.iiba.org/knowledgehub/certification/ecba-certification/about-ecba-certification/roadmap-to-ecba-certification/purchase-your-exam/
+Source : https://www.sixsigmacouncil.org/six-sigma-certification/
 
 ---
 
-# 10. Anglais — TOEIC
+# 13 — Tests logiciels / QA
+
+Le catalogue iSQI permet d'accéder à de nombreux examens sans acheter une formation complète.
+
+Tarifs « à partir de » observés :
+
+| Certification | Prix indicatif |
+|---|---:|
+| ISTQB Certified Tester Foundation Level | **à partir de 75 €** |
+| ISTQB Testing with Generative AI | **à partir de 75 €** |
+| ISTQB AI Testing | **à partir de 75 €** |
+| ISTQB Test Automation Engineering | **à partir de 100 €** |
+| TMAP Quality for Cross-Functional Teams | **à partir de 95 €** |
+| A4Q Selenium Tester Foundation | **à partir de 120 €** |
+| Practical Tester by A4Q | **à partir de 130 €** |
+| ISTQB Advanced Test Analyst | **à partir de 135 €** |
+
+Prix variables selon pays et taxes.
+
+Source : https://isqi.org/
+
+---
+
+# 14 — Langues
 
 ## TOEIC Listening & Reading
 
-Pour les sessions publiques ETS France à Paris vérifiées fin août 2026 :
+Sessions publiques ETS France à Paris : **environ 189 €** lors de la vérification du 28 août 2026.
 
-**189 €**.
+Source : https://www.etsglobal.org/fr/fr/session/search/ile-de-france/paris
 
-Le résultat est reconnu internationalement et positionne les compétences de compréhension écrite et orale dans un contexte professionnel.
+## Cambridge C1 Advanced
 
-Validité du résultat : **2 ans**.
+Prix recommandé en France : **environ 295 €**, avec variation selon centre d'examen.
 
-Pour un CV en France, le TOEIC reste beaucoup plus identifiable par les recruteurs qu'un grand nombre de badges linguistiques en ligne.
-
-**Priorité : ⭐⭐⭐⭐⭐**
-
-Source officielle :
-
-- https://www.etsglobal.org/fr/fr/test-type-family/test-toeic-listening-and-reading
-
-Exemple de sessions / prix Paris :
-
-- https://www.etsglobal.org/fr/fr/session/search/ile-de-france/paris
+Source : https://www.cambridgeenglish.org/exams-and-tests/advanced/
 
 ---
 
-# Ce qui dépasse déjà le budget
+# 15 — Promotions et réductions à surveiller
 
-## ITIL 4 Foundation — achat direct PeopleCert
+Certaines certifications basculent ponctuellement dans une tranche beaucoup moins chère :
 
-Le bundle examen self-study officiel PeopleCert est actuellement affiché à environ **690 $ TTC**.
+- **Juniper Open Learning** : possibilité de voucher à forte réduction après parcours ;
+- **GitHub Student Developer Pack** : voucher gratuit conditionnel ;
+- conférences constructeurs : examens parfois gratuits ou fortement remisés ;
+- challenges Microsoft / Oracle / Google : promotions ponctuelles ;
+- SUSECON : examens SUSE gratuits pour les participants, mais le billet de conférence dépasse évidemment le coût d'un examen isolé.
 
-Il est donc exclu de cette catégorie lorsqu'il est acheté directement au tarif catalogue PeopleCert.
-
-> Des organismes partenaires peuvent avoir des tarifs différents ; ils devront être étudiés séparément.
-
-Source :
-
-- https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565
+Les promotions sont séparées du prix normal afin de ne pas laisser vieillir de faux « gratuits » dans le dépôt.
 
 ---
 
-# Meilleur rapport valeur / prix — première sélection
+# 16 — Exclus de cette catégorie / prochaine tranche > 500 €
 
-Pour maximiser la valeur d'un budget limité :
+## ITIL 4 Foundation — PeopleCert direct
 
-1. **HashiCorp Terraform Associate — 70,50 $**
-2. **AWS Solutions Architect Associate — niveau Associate à 128 €**
-3. **Microsoft — certifications à un examen autour de 165 $**
-4. **TOEIC Listening & Reading — 189 €**
-5. **Scrum.org PSM I — 200 $**
-6. **Google Professional Cloud Architect — 200 $**
-7. **Scrum.org PAL I — 200 $**
-8. **Scrum.org PSM II — 250 $**
-9. **AWS Professional / Specialty — 256 €**
-10. **Cisco CCNA — 300 $**
-11. **PMI CAPM — 300 $ plein tarif**
-12. **IIBA ECBA — 350 $ plein tarif**
-13. **LFCS / CKA / CKS — 445 $**
+Le bundle officiel self-study est actuellement autour de **690 $**, donc hors budget.
 
----
+## IAPP CIPP/E, CIPM, CIPT
 
-# Prochaines familles à investiguer
+Les examens sont actuellement à **550 $** chacun, auxquels peut s'ajouter une **Certification Maintenance Fee de 250 $** pour un non-membre. Ils iront dans la future tranche >500 €.
 
-Cette liste est volontairement une première passe. À vérifier ensuite :
+## IAPP AIGP
 
-- Lean Six Sigma ;
-- finance / comptabilité ;
-- achats / supply chain ;
-- ISO / audit / risk ;
-- privacy / RGPD ;
-- langues autres que l'anglais ;
-- bureautique / Microsoft Office Specialist ;
-- architecture d'entreprise ;
-- FinOps ;
-- Green IT / sustainability ;
-- négociation / vente ;
-- coaching / leadership ;
-- data / analytics ;
-- IA / GenAI indépendantes des hyperscalers.
+Examen affiché à **799 $** : future tranche >500 €.
+
+## Red Hat
+
+RHCSA / RHCE restent très intéressantes, mais le tarif régional 2026 n'est pas suffisamment exposé sur les pages publiques consultées pour les classer proprement. À vérifier directement au checkout avant de décider de la tranche.
+
+## Veeam
+
+Le nouveau programme VMCE+/VMCSE 2026 exige une **formation officielle préalable**. Le coût total doit donc inclure cette formation et ne doit pas être classé sur le seul prix de l'examen.
 
 ---
 
-## Important
+# Top rapport valeur / coût
 
-Les prix changent régulièrement. Toujours vérifier le **prix final de l'examen**, les taxes, les prérequis et les éventuelles obligations de formation avant achat.
+Pour un profil infrastructure / architecture / management technique, ordre indicatif :
+
+1. **Terraform Associate — 70,50 $**
+2. **GitHub Certifications — ~76 € en France / 99 $ global**
+3. **SUSE AI Deployment Specialist — 99 $**
+4. **AWS Solutions Architect Associate — 128 €**
+5. **SUSE SLES / Rancher / RKE2 / NeuVector — 149 $**
+6. **ISACA COBIT Foundation — 175 $**
+7. **Scrum.org PSM I — 200 $**
+8. **Google Professional Cloud Architect — 200 $**
+9. **F5 Certified Administrator BIG-IP — 250 $ total online**
+10. **VMware/Broadcom VCP — 250 $**
+11. **Linux Foundation PCA / KCNA / KCSA / CGOA / CCA / CAPA — 250 $**
+12. **FinOps Certified Practitioner — ~300 $**
+13. **Cisco CCNA — 300 $**
+14. **TOGAF Enterprise Architecture Foundation — 395 $**
+15. **LFCS / CKA / CKS — 445 $**
+16. **CSA CCSK — 445 $**
+
+---
+
+## Maintenance
+
+Ce fichier doit être considéré comme un **catalogue vivant**. À chaque mise à jour :
+
+1. vérifier la page officielle du fournisseur ;
+2. noter la date de vérification ;
+3. distinguer examen, formation et coût total du credential ;
+4. déplacer les anciennes promotions dans l'historique ;
+5. ne jamais recopier aveuglément une ancienne liste GitHub de certifications gratuites.
