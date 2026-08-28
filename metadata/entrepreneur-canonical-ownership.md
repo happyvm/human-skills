@@ -2,7 +2,7 @@
 
 > Règle de maintenance : **un credential peut être recommandé dans plusieurs fiches, mais ses données détaillées (prix, TCO, prérequis, durée, renouvellement) ne doivent vivre que dans une fiche canonique.**
 
-## Fiches canoniques
+## Fiches canoniques — Entrepreneur cœur
 
 | Famille | Fiche propriétaire |
 |---|---|
@@ -14,6 +14,17 @@
 | IESE Search Fund, family business, ESS, V.I.E, activités réglementées | `certifications/entrepreneur-eta-family-ess-export-regulated-2026.md` |
 | CCI recouvrement, AMRAE, AFDCC, INPI Prédiagnostic/Pass PI, EUIPO SME Fund, France Num e-facture, aides publiques | `certifications/entrepreneur-france-practical-resources-2026.md` |
 | CMA RS6996 / RS6994, Chambres d'agriculture RS7277, radar microcredentials sectoriels | `certifications/entrepreneur-artisan-agri-uk-microcredentials-2026.md` |
+
+## Fiches canoniques — Group Management
+
+| Famille | Fiche propriétaire |
+|---|---|
+| Holding / LBO / CFA Private Equity / Advanced PE / gouvernance / impact | `certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md` |
+| Private markets, FP&A, IFRS, CorpDev, IMAA M&A/CPMI, transfer pricing | `certifications/entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md` |
+| ACT treasury, covenants, EPM, consolidation tooling, carve-out / TSA / SCDE | `certifications/entrepreneur-treasury-cash-pooling-epm-carveout-2026.md` |
+| CTP, SWIFT / ISO 20022, Kyriba, sell-side readiness, procurement/facilities/fleet spécifiques | `certifications/entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md` |
+
+Les noms de fichiers historiques `entrepreneur-*` sont conservés pour ne pas casser les liens, mais leur routage fonctionnel avancé est `GROUP-MANAGEMENT-INDEX.md`.
 
 ## Ce qui est autorisé hors fiche canonique
 
