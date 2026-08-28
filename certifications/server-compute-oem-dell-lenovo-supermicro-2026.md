@@ -4,9 +4,12 @@ type: certification-catalog
 tier: general
 domain:
   - datacenter-facilities
+scope:
+  - international
 tags:
   - tier/general
   - domain/datacenter-facilities
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

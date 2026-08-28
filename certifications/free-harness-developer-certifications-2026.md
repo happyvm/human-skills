@@ -4,9 +4,12 @@ type: certification-catalog
 tier: free
 domain:
   - devops-automation
+scope:
+  - international
 tags:
   - tier/free
   - domain/devops-automation
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

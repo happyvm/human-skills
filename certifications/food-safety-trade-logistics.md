@@ -4,9 +4,12 @@ type: certification-catalog
 tier: general
 domain:
   - pharma-regulatory
+scope:
+  - mixed
 tags:
   - tier/general
   - domain/pharma-regulatory
+  - scope/mixed
 status: active
 verified: 2026-08-28
 ---

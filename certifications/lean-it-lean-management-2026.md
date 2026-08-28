@@ -5,11 +5,14 @@ tier: general
 domain:
   - itsm-middleware
   - governance-grc
+scope:
+  - international
 tags:
   - tier/general
   - domain/itsm-middleware
   - domain/governance-grc
   - domain/lean-management
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

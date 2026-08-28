@@ -4,9 +4,12 @@ type: certification-catalog
 tier: general
 domain:
   - virtualization
+scope:
+  - international
 tags:
   - tier/general
   - domain/virtualization
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

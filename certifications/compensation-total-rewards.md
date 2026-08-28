@@ -4,9 +4,12 @@ type: certification-catalog
 tier: general
 domain:
   - hr-people
+scope:
+  - mixed
 tags:
   - tier/general
   - domain/hr-people
+  - scope/mixed
 status: active
 verified: 2026-08-28
 ---

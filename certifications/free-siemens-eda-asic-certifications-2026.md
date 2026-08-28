@@ -4,9 +4,12 @@ type: certification-catalog
 tier: free
 domain:
   - industrial-ot
+scope:
+  - international
 tags:
   - tier/free
   - domain/industrial-ot
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

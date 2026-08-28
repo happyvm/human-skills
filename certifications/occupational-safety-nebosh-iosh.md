@@ -4,9 +4,12 @@ type: certification-catalog
 tier: general
 domain:
   - safety-occupational
+scope:
+  - international
 tags:
   - tier/general
   - domain/safety-occupational
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

@@ -4,9 +4,12 @@ type: certification-catalog
 tier: under-500
 domain:
   - finance-risk
+scope:
+  - mixed
 tags:
   - tier/under-500
   - domain/finance-risk
+  - scope/mixed
 status: active
 verified: 2026-08-28
 ---

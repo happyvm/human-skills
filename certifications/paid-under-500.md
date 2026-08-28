@@ -4,9 +4,12 @@ type: certification-catalog
 tier: under-500
 domain:
   - general-it
+scope:
+  - mixed
 tags:
   - tier/under-500
   - domain/general-it
+  - scope/mixed
 status: active
 verified: 2026-08-28
 ---

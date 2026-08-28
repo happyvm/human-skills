@@ -4,9 +4,12 @@ type: certification-catalog
 tier: free
 domain:
   - identity-iam
+scope:
+  - international
 tags:
   - tier/free
   - domain/identity-iam
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

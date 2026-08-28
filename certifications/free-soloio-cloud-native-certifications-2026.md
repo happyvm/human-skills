@@ -4,9 +4,12 @@ type: certification-catalog
 tier: free
 domain:
   - kubernetes-platform
+scope:
+  - international
 tags:
   - tier/free
   - domain/kubernetes-platform
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

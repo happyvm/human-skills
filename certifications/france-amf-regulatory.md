@@ -4,9 +4,12 @@ type: certification-catalog
 tier: general
 domain:
   - finance-risk
+scope:
+  - france
 tags:
   - tier/general
   - domain/finance-risk
+  - scope/france
 status: active
 verified: 2026-08-28
 ---

@@ -4,9 +4,12 @@ type: certification-catalog
 tier: free
 domain:
   - windows-infra
+scope:
+  - international
 tags:
   - tier/free
   - domain/windows-infra
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

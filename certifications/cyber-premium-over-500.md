@@ -4,9 +4,12 @@ type: certification-catalog
 tier: over-500
 domain:
   - security
+scope:
+  - international
 tags:
   - tier/over-500
   - domain/security
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

@@ -4,9 +4,12 @@ type: certification-catalog
 tier: free
 domain:
   - business-soft-skills
+scope:
+  - mixed
 tags:
   - tier/free
   - domain/business-soft-skills
+  - scope/mixed
 status: active
 verified: 2026-08-28
 ---

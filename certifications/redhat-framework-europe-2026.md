@@ -4,9 +4,12 @@ type: certification-catalog
 tier: general
 domain:
   - linux
+scope:
+  - europe
 tags:
   - tier/general
   - domain/linux
+  - scope/europe
 status: active
 verified: 2026-08-28
 ---

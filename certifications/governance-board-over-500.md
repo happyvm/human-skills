@@ -4,9 +4,12 @@ type: certification-catalog
 tier: over-500
 domain:
   - governance-grc
+scope:
+  - mixed
 tags:
   - tier/over-500
   - domain/governance-grc
+  - scope/mixed
 status: active
 verified: 2026-08-28
 ---

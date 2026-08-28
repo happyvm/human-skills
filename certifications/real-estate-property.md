@@ -4,9 +4,12 @@ type: certification-catalog
 tier: general
 domain:
   - real-estate
+scope:
+  - mixed
 tags:
   - tier/general
   - domain/real-estate
+  - scope/mixed
 status: active
 verified: 2026-08-28
 ---

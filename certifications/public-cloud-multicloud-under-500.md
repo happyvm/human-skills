@@ -4,9 +4,12 @@ type: certification-catalog
 tier: under-500
 domain:
   - cloud
+scope:
+  - international
 tags:
   - tier/under-500
   - domain/cloud
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

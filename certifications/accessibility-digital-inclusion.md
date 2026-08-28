@@ -4,9 +4,12 @@ type: certification-catalog
 tier: general
 domain:
   - accessibility
+scope:
+  - international
 tags:
   - tier/general
   - domain/accessibility
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

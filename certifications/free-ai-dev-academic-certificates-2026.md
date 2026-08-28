@@ -4,9 +4,12 @@ type: certification-catalog
 tier: free
 domain:
   - ai-infrastructure
+scope:
+  - international
 tags:
   - tier/free
   - domain/ai-infrastructure
+  - scope/international
 status: active
 verified: 2026-08-28
 ---

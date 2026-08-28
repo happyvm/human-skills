@@ -4,9 +4,12 @@ type: certification-catalog
 tier: general
 domain:
   - construction-btp
+scope:
+  - mixed
 tags:
   - tier/general
   - domain/construction-btp
+  - scope/mixed
 status: active
 verified: 2026-08-28
 ---

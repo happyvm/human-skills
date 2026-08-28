@@ -4,9 +4,12 @@ type: certification-catalog
 tier: free
 domain:
   - mainframe
+scope:
+  - international
 tags:
   - tier/free
   - domain/mainframe
+  - scope/international
 status: active
 verified: 2026-08-28
 ---
