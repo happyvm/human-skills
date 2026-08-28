@@ -5,13 +5,13 @@ tier: general
 domain:
   - general-it
 scope:
-  - international
+  - unverified
 jurisdiction: []
 regulatory_basis: []
 tags:
   - tier/general
   - domain/general-it
-  - scope/international
+  - scope/unverified
 status: draft
 verified: {{date:YYYY-MM-DD}}
 ---
@@ -28,9 +28,9 @@ verified: {{date:YYYY-MM-DD}}
 
 | Credential | Portée | Prix standard | Notes |
 |---|---|---:|---|
-|  | 🌍 INT / 🇪🇺 EUR / 🇫🇷 FR / 🇺🇸 US / 🇬🇧 UK / autre |  |  |
+|  | ❓ UNV / 🌍 INT / 🇪🇺 EUR / 🇫🇷 FR / 🇺🇸 US / 🇬🇧 UK / autre |  |  |
 
-> Convention géographique : voir [`GEOGRAPHY.md`](../GEOGRAPHY.md). Pour un catalogue multi-pays, utiliser `scope: [mixed]` et indiquer la portée au niveau de chaque entrée.
+> Convention géographique : voir [`GEOGRAPHY.md`](../GEOGRAPHY.md). Une nouvelle fiche reste `scope: [unverified]` jusqu'à vérification. Pour un catalogue multi-pays, utiliser `scope: [mixed]` et indiquer la portée au niveau de chaque entrée.
 
 ---
 
@@ -42,7 +42,7 @@ Description courte.
 
 Portée :
 
-- scope : **international / europe / france / national-us / national-uk / ...** ;
+- scope : **unverified / international / europe / france / national-us / national-uk / ...** ;
 - juridiction / base réglementaire : **aucune / ...** ;
 
 Prix examen :
