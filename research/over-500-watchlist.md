@@ -1,90 +1,86 @@
 # Watchlist — certifications / parcours restant à chiffrer
 
-> Les sujets déjà vérifiés ont été déplacés dans les catalogues thématiques sous `certifications/`.
+> Les sujets déjà suffisamment vérifiés ont été déplacés dans les catalogues thématiques sous `certifications/`.
 >
-> Cette page ne conserve désormais que les **tarifs incomplets, régionaux, partenaires ou les parcours dont le TCO reste à consolider**.
+> Cette page ne conserve que les **tarifs incomplets, régionaux, partenaires ou les parcours dont le TCO reste à consolider**.
 >
 > **Dernière revue : 28 août 2026**
 
 ---
 
-# Priorité haute — infrastructure / data protection
+# Infrastructure / cloud / data protection
 
 ## Rubrik RCSA
 
-Confirmé :
-
-- free RCSA preparation learning path ;
-- eLearning gratuit ;
-- practice exams illimités ;
-- bootcamp payant facultatif ;
-- support/partner credentials requis pour l'accès Rubrik University.
+Confirmé : free learning path + eLearning + practice exams illimités.
 
 Reste :
 
-- prix public exact du **final RCSA exam** ;
+- prix final RCSA exam ;
 - retake ;
-- validité ;
-- renouvellement ;
-- disponibilité pour une personne sans compte client/partner.
-
-Source : https://training.rubrik.com/
+- validité / renouvellement ;
+- accès hors clients/partners.
 
 ## Veeam VMCE+ / VMCSE
 
-Le modèle est documenté dans `certifications/finops-veeam-over-500.md`.
+Modèle documenté.
 
-Reste uniquement :
+Reste :
 
-- prix Pearson VUE France des nouveaux examens ;
+- prix Pearson VUE France ;
 - prix Veeam University PRO individuel EMEA ;
-- renouvellement / validité exacte.
+- validité / recertification.
 
 ## VMware / Broadcom avancé
 
-À examiner :
-
-- VCF certification tracks 2026 ;
-- niveaux au-dessus du VCP ;
+- VCF tracks 2026 ;
 - VCAP / remplaçants ;
 - multi-exam TCO ;
-- formations obligatoires ou supprimées.
+- formation obligatoire/facultative.
 
 ## Nutanix avancé
 
-NCP est documenté autour de 199 $ sur plusieurs blueprints.
-
-Reste :
-
 - NCM / niveaux supérieurs ;
-- prix EMEA actuels ;
+- prix EMEA ;
 - renewals ;
-- multi-certification path.
+- TCO multi-certification.
 
-## HPE / Aruba avancé
+## HPE / Aruba / Juniper advanced architecture
 
-Les examens unitaires sont documentés. Construire le TCO des titres :
-
-- ATP ;
-- ASE ;
-- Master ASE ;
-- Aruba / HPE Networking ;
-- GreenLake ;
-- Storage.
+- ATP / ASE / Master ASE ;
+- HPE Networking / Aruba legacy transition ;
+- GreenLake / Storage ;
+- AI infrastructure / networking advanced.
 
 ## Storage advanced
 
-NetApp, Dell, Pure, VAST, Hitachi, Cohesity et Veritas ont désormais une page de prix de base.
+- NetApp AI Data Infrastructure Expert ;
+- Dell Specialist / Expert ;
+- Pure advanced stacks ;
+- IBM Storage ;
+- HPE Alletra ;
+- VAST futurs niveaux ;
+- Huawei France/EMEA exact.
+
+---
+
+# Réseau / télécom / radio
+
+Juniper, CWNP, Nokia SRC, MEF et NVIDIA AI Infrastructure sont documentés.
 
 Reste :
 
-- NetApp multi-cert / AI Data Infrastructure Expert ;
-- Dell Specialist / Expert paths ;
-- Pure expert stacks ;
-- IBM Storage certifications ;
-- HPE Alletra / GreenLake ;
-- VAST futurs niveaux ;
-- Huawei prix France/EMEA.
+- Arista ACE ;
+- Extreme Networks advanced ;
+- Cisco CCNP/CCIE TCO détaillé par track ;
+- Nokia 5G / optical ;
+- Ericsson certifications ;
+- Ciena ;
+- Infoblox DDI ;
+- F5 NGINX / Distributed Cloud ;
+- SONiC / open networking ;
+- DPU / BlueField / RDMA / RoCE / InfiniBand ;
+- telecom vendor-neutral / 3GPP.
 
 ---
 
@@ -92,72 +88,91 @@ Reste :
 
 ## SABSA Practitioner / Master
 
-Foundation documenté avec formation accréditée obligatoire.
+Foundation documenté.
 
-Reste :
+Reste Advanced modules, Practitioner, Master, certification fees, membership et TCO Europe.
 
-- Advanced modules ;
-- Practitioner ;
-- Master ;
-- certification fees ;
-- membership ;
-- Europe TCO.
+## FinOps Professional — from-zero exact
 
-## FinOps Professional — from-zero TCO exact
+Programme et prérequis documentés.
 
-Programme documenté, ainsi que les nouveaux prérequis officiels.
-
-Reste :
-
-- prix checkout officiel AI Value ;
-- Technology Value ;
-- FOCUS Analyst ;
-- Professional recertification ;
-- TCO depuis zéro sans bundle promotionnel.
+Reste prix officiel checkout : FOCUS Analyst, AI Value, Technology Value, Professional et recertification.
 
 ## SAFe avancé
-
-À chiffrer :
 
 - Lean Portfolio Management ;
 - Release Train Engineer ;
 - Architect ;
 - Practice Consultant ;
-- AI-Native Value Architect ;
-- AI-Native Change Agent ;
-- AI-Native Trainer ;
+- AI-Native tracks ;
 - formations obligatoires ;
 - renewals annuels.
 
 ---
 
-# ISO / GRC
+# ISO / quality / safety
 
-AFNOR, BSI, PECB et CQI/IRCA ont désormais une page dédiée.
+AFNOR, BSI, PECB, CQI/IRCA, ASQ pharma/QMS et BSI ISO 45001 sont partiellement documentés.
 
-Reste à comparer :
+Reste :
 
 - Bureau Veritas ;
 - SGS ;
 - TÜV Rheinland / TÜV Süd ;
 - DNV ;
 - LRQA ;
-- partenaires PECB France.
+- PECB Partners France ;
+- ISO 22301 ;
+- ISO 20000-1 ;
+- ISO 31000 ;
+- ISO 9001 ;
+- ISO 14001 ;
+- ISO 50001 ;
+- ISO 27701 ;
+- ISO 37301 ;
+- ISO 13485 ;
+- automotive IATF 16949 ;
+- aerospace AS9100 ;
+- food safety ISO 22000 / HACCP.
 
-Normes prioritaires complémentaires :
+---
 
-```text
-ISO 22301
-ISO/IEC 20000-1
-ISO 31000
-ISO 9001
-ISO 14001
-ISO 50001
-ISO/IEC 27701
-ISO 37301
-```
+# OT / industrial / functional safety
 
-Objectif : comparer `training certificate` vs `person certification` vs `auditor grade`.
+ISA CAP/CCST, ISA/IEC 62443 et ISA SIS sont documentés.
+
+Reste :
+
+- TÜV Functional Safety Engineer ;
+- exida CFSE / CFSP ;
+- GIAC GICSP ;
+- Dragos ;
+- SANS ICS ;
+- Siemens SITRAIN ;
+- Rockwell ;
+- Emerson ;
+- Honeywell ;
+- Schneider EcoStruxure ;
+- industrial networking.
+
+---
+
+# Datacenter / facilities / énergie
+
+Uptime, BICSI, IFMA et AEE principaux sont documentés.
+
+Reste :
+
+- CNet CDCDP / CDCMP / CDCEP ;
+- EPI CDCP / CDCS / CDCE ;
+- Schneider DCCA exam exact ;
+- BICSI long-term TCO / renewals ;
+- Vertiv / Eaton / Legrand ;
+- ASHRAE certifications ;
+- commissioning ;
+- NFPA / fire protection ;
+- critical facilities operations ;
+- datacenter sustainability.
 
 ---
 
@@ -165,27 +180,13 @@ Objectif : comparer `training certificate` vs `person certification` vs `auditor
 
 ## APMG Change Management France
 
-Le UK est documenté. Reste tarif France :
+Prix Foundation / Practitioner / bundle / renewals.
 
-- Foundation ;
-- Practitioner ;
-- bundle ;
-- renewals.
+## Prosci PCACP
 
-## Prosci PCACP full path
-
-Reconstituer :
-
-```text
-Prosci Change Management Certification
-+ Model Mastery modules
-+ Professional contribution / prerequisites
-+ PCACP exam
-```
+Construire le parcours complet depuis zéro au-delà de la certification initiale.
 
 ## PeopleCert avancé
-
-Mapper :
 
 - MSP ;
 - MoP ;
@@ -194,7 +195,7 @@ Mapper :
 - ITIL Managing Professional ;
 - ITIL Strategic Leader ;
 - nouvelles versions ITIL ;
-- coût depuis zéro et coût incrémental.
+- from-zero vs incremental TCO.
 
 ---
 
@@ -202,168 +203,179 @@ Mapper :
 
 ## DAMA CDMP
 
-Examens Associate / Practitioner / Master documentés.
-
-Reste :
-
-- maintenance ;
-- Specialist supplémentaires ;
-- Fellow ;
-- TCO long terme.
+Maintenance, Specialist supplémentaires, Fellow, long-term TCO.
 
 ## IIBA
 
-CBAP documenté.
-
-Reste :
-
-- AAC ;
-- CBDA ;
-- CCA ;
-- CPOA ;
-- membership France ;
-- bundles ;
-- TCO 3 ans.
+AAC, CBDA, CCA, CPOA, membership France, bundles, TCO 3 ans.
 
 ---
 
 # Supply chain / procurement
 
-ASCM/APICS, CSCMP et ISM sont désormais documentés dans leur page thématique.
+ASCM/APICS, CSCMP L1/L2 et ISM sont documentés.
 
 Reste :
 
-## CIPS / MCIPS
-
-- prix France / Europe des examens ;
-- Levels 2–6 ;
-- study centres ;
-- exemptions ;
-- membership ;
-- coût complet jusqu'à MCIPS.
-
-## CSCMP Level 3
-
-- processus actuel ;
-- coût ;
-- prérequis ;
-- maintien.
+- CIPS Levels 2–6 / MCIPS France-Europe ;
+- CSCMP Level 3 ;
+- public procurement France/Europe ;
+- contract management ;
+- logistics customs / trade compliance.
 
 ---
 
-# RH / leadership
+# RH / leadership / coaching
 
-## SHRM
-
-Examens `<500 €` documentés.
-
-Reste :
-
-- membership ;
-- recertification ;
-- 60 PDC ;
-- Learning System ;
-- TCO 3 ans.
-
-## HRCI
-
-SPHR / GPHR documentés.
-
-Reste :
-
-- recertification par credential ;
-- coûts des crédits ;
-- multi-credential discounts.
-
-## Alternatives internationales
-
-À rechercher :
-
+- SHRM 3-year TCO ;
+- HRCI recertification ;
 - CIPD ;
 - WorldatWork ;
-- coaching ICF ;
+- ICF coaching credentials ;
+- EMCC ;
 - leadership assessment credentials.
 
 ---
 
 # Governance / board
 
-NACD, Institute of Directors et Chartered Governance Institute sont documentés.
+NACD, IoD et CGI avancé sont documentés.
 
 Reste :
 
-- IoD Diploma in Company Direction exact ;
-- Chartered Director assessment + membership TCO complet ;
-- CGI Chartered Governance Qualifying Programme from-zero ;
-- European board director institutes ;
-- audit committee / risk committee credentials ;
-- board cyber / AI governance credentials hors NACD.
+- IoD Diploma exact ;
+- Chartered Director assessment + membership TCO ;
+- CGI Chartered Governance Qualifying Programme ;
+- European director institutes ;
+- board cyber / AI governance ;
+- audit/risk committee credentials.
 
 ---
 
-# Finance / comptabilité / risk
+# Finance / accounting / actuarial / insurance
 
-Déjà documentés : CFA, CAIA, GARP FRM/SCR/RAI, PRMIA PRM/ERM, IIA CIA/CRMA, IMA CMA, ACCA, AFP CTP/FPAC, ACFE CFE.
+Documentés : CFA/CAIA/GARP/PRMIA/CIA/CMA/ACCA/CTP/FPAC/CFE, SOA ASA/FSA fees, IFoA fees, CIMA/CGMA, LOMA FLMI, CAS fees, CPCU, CII/ACII structure, AMF France.
 
-Reste à approfondir :
+Reste :
 
-- **CIMA / CGMA Professional Qualification** — TCO 2026 par route ;
-- AICPA CPA selon juridiction ;
-- CFA Sustainable Investing / private markets / stackables ;
-- actuarial qualifications IFoA / SOA ;
-- AMF France / finance réglementaire ;
-- treasury credentials européens ;
-- PRMIA / CAIA long-term membership TCO.
+- SOA FSA TCO par track ;
+- CAS complete ACAS / FCAS from-zero TCO ;
+- IFoA membership exact + complete Associate/Fellow TCO ;
+- CERA par organisme ;
+- CIMA FLP route 2026 ;
+- AICPA CPA par juridiction ;
+- ICAEW ACA ;
+- CIPFA ;
+- CII France/Europe unit prices + membership ;
+- CPCU ARM/ARe exact unit TCO ;
+- CFA Private Markets / Private Equity certificates ;
+- actuarial CAS/SOA/IFoA long-term membership ;
+- reinsurance / catastrophe modelling credentials.
 
 ---
 
-# AML / compliance
+# AML / compliance / regulatory
 
-CAMS, CAFS, CGSS, Advanced CAMS principaux et ICA AML/GRC sont documentés.
+CAMS, CAFS, CGSS, Advanced CAMS, ICA, AMF/RCCI/RCSI sont documentés.
 
 Reste :
 
 - ACAMS 3-year TCO ;
 - autres Advanced CAMS ;
-- ICA postgraduate programmes ;
-- ICA Sanctions / Financial Crime Diploma ;
-- KYC / transaction monitoring credentials ;
-- compliance France / ACPR / AMF.
+- ICA postgraduate / sanctions ;
+- KYC / transaction monitoring ;
+- ACPR / assurance compliance ;
+- ORIAS / CIF ;
+- MiFID II ;
+- Luxembourg CSSF ;
+- UK FCA qualifications.
 
 ---
 
 # Cyber premium
 
-CREST, OffSec/OSCE3/OSEE, GIAC/SANS, Altered Security et Zero-Point sont désormais cartographiés.
+CREST, OffSec, OSCE3/OSEE structure, GIAC, Altered Security et Zero-Point sont documentés.
 
 Reste :
 
-- GIAC Security Expert (GSE) from-zero ;
-- SANS graduate certificates / multi-course bundles ;
-- OSEE session AWE pricing Europe ;
-- CARTP / CARTE / Azure-red-team tracks détaillés ;
-- CRTO exam-only price ;
-- Black Hills / Antisyphon credentials ;
-- CCD / cyber defensive advanced credentials ;
-- malware reverse engineering premium ;
-- industrial / OT security certifications ;
-- cyber management / board credentials.
+- GIAC GSE from-zero ;
+- SANS graduate certificates ;
+- OSEE AWE Europe price ;
+- CARTP / CARTE ;
+- CRTO exam-only ;
+- Black Hills / Antisyphon ;
+- malware / reverse engineering advanced ;
+- defensive advanced / SOC ;
+- cloud red-team premium ;
+- board cyber credentials.
+
+---
+
+# Pharma / clinical / medical
+
+ASQ CPGP, RAPS, ACRP, SOCRA sont documentés.
+
+Reste :
+
+- ISPE / GAMP 5 ;
+- PDA ;
+- ECA Academy ;
+- CSV / CSA ;
+- GCP / GLP / GDP ;
+- pharmacovigilance ;
+- clinical data management ;
+- ISO 13485 ;
+- Qualified Person / Responsible Person ;
+- medical device quality / MDR advanced.
+
+---
+
+# ESG / carbon / green building
+
+CFA Sustainable Investing, IFRS FSA, GHGMI, IEMA Associate, GARP SCR, LEED, WELL, BREEAM AP DACH et GRI structure sont documentés.
+
+Reste :
+
+- GRI exact four-course TCO live ;
+- IEMA Practitioner / Full pathways ;
+- GHG Protocol official training ;
+- ISO 14064 / 14001 / 50001 ;
+- DGNB / HQE / BBCA ;
+- BREEAM Assessor / France price ;
+- Passive House ;
+- EDGE ;
+- CSRD / ESRS / EFRAG ;
+- sustainability assurance.
+
+---
+
+# Business continuity / crisis
+
+BCI CBCI et DRI principales certifications sont documentés.
+
+Reste :
+
+- BCI post-CBCI membership, MBCI/FBCI ;
+- DRI MBCP / CRMP / CBCV ;
+- crisis management ;
+- emergency management ;
+- resilience engineering.
 
 ---
 
 # Nouveaux domaines à ouvrir
 
-- **actuariat** ;
-- **finance réglementaire France / AMF** ;
-- **ESG / sustainability / carbon accounting** ;
-- **qualité / QHSE** au-delà de Six Sigma ;
-- **facility / datacenter management** ;
-- **telecom / 5G / radio** ;
-- **industrial automation / OT / ICS** ;
-- **medical / pharma quality & GxP** ;
 - **legal operations / legal tech** ;
-- **public procurement** ;
-- **business continuity / crisis management** hors ISO.
+- **public procurement / contract management** ;
+- **aviation / aerospace professional credentials** ;
+- **automotive quality / functional safety** ;
+- **food safety / HACCP** ;
+- **medical coding / health information** ;
+- **logistics customs / trade compliance** ;
+- **fraud / investigations beyond CFE** ;
+- **data protection officer / privacy Europe beyond IAPP** ;
+- **AI governance / model risk beyond IAPP/ISO** ;
+- **semiconductors / FPGA / ASIC / electronics credentials**.
 
 ---
 
