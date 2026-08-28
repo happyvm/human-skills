@@ -22,7 +22,12 @@ GENERIC = {
     "resource", "programme", "program", "formation", "credential",
 }
 
-DETAIL = re.compile(r"(?:\bCERT\b|\bQUAL\b|\bCOURSE\b|\bBADGE\b|\bEXAM\b|€|\$|£|🇫🇷|🇪🇺|🇬🇧|🇺🇸|🌍|🌐)", re.I)
+NOISE = re.compile(
+    r"^(?:prix|price|exam|examen|retake|practice exam|final exam|membre|member|"
+    r"non[- ]?member|non[- ]?membre|total|https?://|\d|[$€£])",
+    re.I,
+)
+DETAIL = re.compile(r"(?:\bCERT\b|\bQUAL\b|\bCOURSE\b|\bBADGE\b|\bEXAM\b|🇫🇷|🇪🇺|🇬🇧|🇺🇸|🌍|🌐)", re.I)
 BOLD_START = re.compile(r"^-\s+\*\*(.+?)\*\*")
 LINK = re.compile(r"\[([^\]]+)\]\([^\)]+\)")
 
@@ -43,45 +48,26 @@ def norm(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip(" -./")
 
 
-def domains(text: str) -> tuple[str, ...]:
-    if not text.startswith("---\n"):
-        return ()
-    end = text.find("\n---", 4)
-    if end < 0:
-        return ()
-    out = []
-    active = False
-    for line in text[4:end].splitlines():
-        if re.match(r"^domain\s*:\s*$", line):
-            active = True
-            continue
-        if active:
-            m = re.match(r"^\s*-\s*(.+?)\s*$", line)
-            if m:
-                out.append(m.group(1).strip('"\''))
-            elif line and not line.startswith(" "):
-                break
-    return tuple(out)
-
-
 def bullet_name(line: str) -> str | None:
     m = BOLD_START.match(line)
-    if m:
-        return clean(m.group(1))
-    if not line.startswith("- "):
+    if not m:
         return None
-    body = clean(line[2:])
-    # Credential bullets in this repo usually put the name before an em dash.
-    first = re.split(r"\s+[—–]\s+", body, maxsplit=1)[0].strip()
-    if len(first) < 5 or len(first.split()) > 18:
+    name = clean(m.group(1))
+    low = name.lower().strip()
+    if len(name) < 4 or len(name.split()) > 20:
         return None
-    return first
+    if low in GENERIC or NOISE.search(name):
+        return None
+    # Must look like a named thing, not a price/metadata fragment.
+    alpha = re.findall(r"[A-Za-zÀ-ÿ]{2,}", name)
+    if not alpha:
+        return None
+    return name
 
 
 rows = []
 for path in sorted(CERT_DIR.glob("*.md")):
     text = path.read_text(encoding="utf-8")
-    ds = domains(text)
     for n, raw in enumerate(text.splitlines(), 1):
         line = raw.strip()
         if not line.startswith("- ") or not DETAIL.search(line):
@@ -92,7 +78,7 @@ for path in sorted(CERT_DIR.glob("*.md")):
         key = norm(name)
         if len(key) < 4 or key in GENERIC:
             continue
-        rows.append((path.name, n, name, key, raw.strip(), ds, path.name in AGGREGATORS, path.name.startswith("entrepreneur")))
+        rows.append((path.name, n, name, key, raw.strip(), path.name in AGGREGATORS, path.name.startswith("entrepreneur")))
 
 by = defaultdict(list)
 for r in rows:
@@ -102,16 +88,13 @@ pairs = Counter()
 examples = defaultdict(list)
 groups = []
 for key, group in by.items():
-    files = sorted({r[0] for r in group})
+    specialist = [r for r in group if not r[5] and not r[6]]
+    files = sorted({r[0] for r in specialist})
     if len(files) < 2:
-        continue
-    specialist = [r for r in group if not r[6] and not r[7]]
-    specialist_files = sorted({r[0] for r in specialist})
-    if len(specialist_files) < 2:
         continue
     groups.append((key, specialist))
     byfile = {r[0]: r for r in specialist}
-    for a, b in itertools.combinations(specialist_files, 2):
+    for a, b in itertools.combinations(files, 2):
         pairs[(a, b)] += 1
         if len(examples[(a, b)]) < 6:
             examples[(a, b)].append(byfile[a][2])
@@ -120,8 +103,8 @@ groups.sort(key=lambda x: (-len({r[0] for r in x[1]}), x[0]))
 
 out = [
     "# Cross-catalog bullet overlap analysis", "",
-    "> Companion audit for credential bullets (`- **Name** — CERT — ...`).", "",
-    f"- credential-like bullets scanned: **{len(rows)}**",
+    "> Strict companion audit for named credential bullets (`- **Name** — CERT — ...`). Price/metadata bullets are excluded.", "",
+    f"- named credential-like bullets scanned: **{len(rows)}**",
     f"- specialist duplicate bullet groups: **{len(groups)}**",
     f"- specialist file pairs with bullet overlap: **{len(pairs)}**",
     "",
