@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "verified": "2026-08-28",
   "overrides": [
-    {"label":"🇫🇷 FR","patterns":["\\bCNAM\\b","\\bINRS\\b","\\bFrance\\b.*(?:CACES|AIPR|SSIAP|CSPS)"]},
+    {"label":"🇫🇷 FR","patterns":["\\bCNAM\\b","\\bINRS\\b","\\bFrance\\b.*(?:CACES|AIPR|SSIAP|CSPS)","Coordonnateur\\s+SPS"]},
     {"label":"🇦🇺 AU","patterns":["\\bGreen Star\\b","\\bGreen Building Council of Australia\\b","\\bNABERS\\b","\\bAIQS\\b"]},
     {"label":"🇸🇬 SG","patterns":["\\bGreen Mark\\b","\\bBCA Singapore\\b","\\bBuilding and Construction Authority\\b.*Singapore"]},
     {"label":"🇺🇸 US","patterns":["\\bFSPCA\\b","\\bPCQI\\b","\\bNCMA\\b","\\bCCCM\\b","\\bCFCM\\b","Construction Specifications Institute","American Society of Professional Estimators","American Society of Plumbing Engineers","Associated General Contractors of America","Construction Financial Management Association","Design-Build Institute of America","American Institute of Constructors"]},
