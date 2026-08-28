@@ -188,6 +188,8 @@ hors voyage / retake / formation.
 
 # HPE Aruba Networking — grille 2026
 
+**Auto-formation officielle :** [education.hpe.com/aruba](https://education.hpe.com/us/en/training/portfolio/aruba.html) — cours mêlant théorie et labs virtuels (Campus Access, Network Security, Switching…).
+
 La tarification HPE dans les developed countries, dont la France :
 
 - HPE6 : **260 $** ;

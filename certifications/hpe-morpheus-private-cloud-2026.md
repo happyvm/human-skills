@@ -15,6 +15,8 @@ verified: 2026-08-28
 
 > HPE développe désormais un portefeuille de credentials directement lié au private cloud, à VM Essentials, Morpheus et GreenLake. Vérification : 28 août 2026.
 
+**Auto-formation officielle (toute la gamme HPE ci-dessous) :** [education.hpe.com](https://education.hpe.com/) — eLearning à la carte, Digital Skill Advisor gratuit.
+
 ---
 
 # Grille tarifaire HPE — France = developed country

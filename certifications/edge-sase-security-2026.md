@@ -36,6 +36,8 @@ verified: 2026-08-28
 
 Cato propose une bibliothèque officielle de **SASE certifications** accessible gratuitement.
 
+**Auto-formation officielle et gratuite :** [academy.catonetworks.com](https://academy.catonetworks.com/page/certifications) — bibliothèque complète, crédits CPE ISC2 éligibles.
+
 La page 2026 indique :
 
 - inscription gratuite ;
@@ -162,6 +164,8 @@ Source :
 
 Cloudflare lance en 2026 des certifications techniques officielles dans le cadre de **Cloudflare University**.
 
+**Portail officiel :** Cloudflare University (accès via le portail partenaires Cloudflare).
+
 Les deux certifications explicitement publiées :
 
 - **Application Security Associate** ;
@@ -228,6 +232,8 @@ Exemple de credential ASA vérifiable :
 ---
 
 # Netskope — certifications historiques → nouvelle logique d'accréditations
+
+**Auto-formation officielle :** [netskope.com/training](https://www.netskope.com/training) — SASE Accreditation gratuite (durée limitée), labs self-paced et test drive gratuit de Netskope Private Access.
 
 Les anciennes listes mentionnent :
 
@@ -312,6 +318,8 @@ legacy_Pearson_cert_price: do-not-use-without-current-check
 # Akamai — Cloud Computing Foundations
 
 Akamai a une certification cloud publique avec prix explicite.
+
+**Auto-formation officielle et gratuite :** [Akamai Technical Academy sur Coursera](https://www.coursera.org/professional-certificates/akamai-network-engineering) (Network Engineering Professional Certificate, gratuit en enrollment) et [Akamai University](https://www.akamai.com/global-services/services/akamai-university) pour la formation produit avancée.
 
 ## Cloud Computing Foundations Certification
 

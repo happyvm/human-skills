@@ -15,6 +15,8 @@ verified: 2026-08-28
 
 > Revue : **28 août 2026**. Cette fiche consolide la grille Pearson VUE HPE actuelle et les nouveaux parcours HPE AI / virtualization / private cloud.
 
+**Auto-formation officielle (toute la gamme HPE ci-dessous) :** [education.hpe.com](https://education.hpe.com/) — eLearning à la carte, Digital Skill Advisor gratuit (parcours personnalisé), Digital Learner (essai 7 jours puis abonnement).
+
 ---
 
 # 1. Grille HPE Pearson VUE — France / developed countries

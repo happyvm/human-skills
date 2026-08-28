@@ -120,6 +120,8 @@ Source :
 
 C'est l'une des meilleures surprises de cette passe.
 
+**Auto-formation officielle :** [nokia.com/networks/training/nsp](https://www.nokia.com/networks/training/nsp/) — self-paced training et NSP Learning Labs (accès distant 24/7) en complément de l'instructor-led.
+
 ## Credential
 
 **Nokia Certified NSP IP Network Automation Professional**

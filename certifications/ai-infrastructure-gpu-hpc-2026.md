@@ -39,6 +39,8 @@ verified: 2026-08-28
 
 NVIDIA dispose en 2026 d'une vraie hiérarchie infrastructure.
 
+**Auto-formation officielle et gratuite :** [learn.nvidia.com](https://learn.nvidia.com/) — Deep Learning Institute, filtre « Free Courses » (600+ modules).
+
 ## NCA-AIIO — AI Infrastructure and Operations Associate
 
 ```text
@@ -216,6 +218,8 @@ Source :
 
 AMD a annoncé le **13 juillet 2026** un nouveau programme ROCm Certification centré sur les GPU AMD Instinct et le stack open ROCm/HIP.
 
+**Auto-formation officielle et gratuite :** [ROCm Developer Hub](https://www.amd.com/en/developer/resources/rocm-hub/dev-hpc.html) et [rocm.docs.amd.com](https://rocm.docs.amd.com/) — documentation, training videos et webinars.
+
 ## Level 1 — ROCm Certification Associate
 
 L'Associate est lancé fin juillet 2026.
@@ -313,6 +317,8 @@ Source :
 # 6. HPE AI Solutions — nouvelle filière 2026
 
 HPE publie désormais un chemin de certification **AI solutions**.
+
+**Auto-formation officielle :** [education.hpe.com](https://education.hpe.com/) — eLearning à la carte, Digital Skill Advisor gratuit, Digital Learner (essai 7 jours puis abonnement).
 
 ## HPE ATP - AI solutions
 
