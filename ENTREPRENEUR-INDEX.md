@@ -12,13 +12,13 @@ verified: 2026-08-28
 
 # Entrepreneur / TPE / PME Index — human-skills
 
-> Vue entrepreneur de `human-skills` : **créer, vendre, piloter, protéger, financer, recruter, reprendre, transmettre et développer** une entreprise.
+> Vue entrepreneur de `human-skills` : **créer, vendre, piloter, protéger, financer, recruter, reprendre, transmettre, gouverner et développer** une entreprise ou un groupe.
 >
-> Une certification étrangère n'est pas écartée par principe : si la compétence est portable, on cherche le **meilleur credential mondial**. France / Europe restent prioritaires pour le droit, la fiscalité et les obligations réglementaires locales.
+> Principe : **France / Europe first** quand le droit, la fiscalité ou une autorisation locale dominent ; meilleur credential mondial quand la compétence est portable.
 
 ---
 
-# 1. Les six catalogues principaux
+# 1. Les sept catalogues principaux
 
 | Axe | Catalogue |
 |---|---|
@@ -28,6 +28,7 @@ verified: 2026-08-28
 | Financer / scaler / e-commerce / IP | [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md) |
 | Reprendre / transmettre / franchise / risk / conformité France | [`certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md`](certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md) |
 | ETA / family business / ESS / export / activités réglementées | [`certifications/entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md) |
+| Holding / LBO / gouvernance / impact / coopératives | [`certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md`](certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md) |
 
 ---
 
@@ -68,7 +69,7 @@ encaissement
 pilotage
 ```
 
-À voir : CCI **RS7378**, Xero L1/L2/L3, CFI CBCA, CICM / FCIB selon exposition crédit.
+À voir : CCI RS7378, Xero L1/L2/L3, CFI CBCA, CICM / FCIB selon exposition crédit.
 
 ## Livraison → satisfaction client
 
@@ -80,7 +81,7 @@ support
 relation client
 ```
 
-À voir : CCI **RS7385**, Scrum.org PSM I, ASQ Six Sigma, CCI **RS7376**.
+À voir : CCI RS7385, Scrum.org PSM I, ASQ Six Sigma, CCI RS7376.
 
 ## Premières embauches
 
@@ -91,7 +92,7 @@ paie
 formation interne
 ```
 
-À voir : CCI **RS6952 / RS7377 / RS7382 / RS7379**, HRCI aPHRi / PHRi.
+À voir : CCI RS6952 / RS7377 / RS7382 / RS7379, HRCI aPHRi / PHRi.
 
 ## Croissance → structuration
 
@@ -104,9 +105,13 @@ continuité
 sécurité
 ```
 
-À voir : CCI **RS7380**, WorldCC, ASQ, RIMS-CRMP / ARM si la fonction risk devient structurée.
+À voir : CCI RS7380, WorldCC, ASQ, RIMS-CRMP / ARM lorsque la fonction risk devient structurée.
 
-## Levée de fonds → investisseurs
+---
+
+# 3. Financement, investisseurs & acquisitions
+
+## Levée de fonds
 
 ```text
 forecast
@@ -118,27 +123,37 @@ term sheet
 governance
 ```
 
-À voir : **CFI FMVA**, **VC University**, `business-valuation.md`.
+Parcours :
+
+```text
+CFI FMVA
+   ↓
+VC University
+   ↓
+WorldCC / négociation selon complexité
+```
 
 ## Reprise / croissance externe
 
 ```text
 cibles
+screening
 diagnostic
 valorisation
-LOI / négociation
+LOI
 financement
-montage
+due diligence
 closing
+transition
 ```
 
 À voir :
 
-- **CCI France RS7413 — Reprise d'entreprise** ;
-- Bpifrance Université — Parcours Transmission ;
-- CFI FMVA / business valuation ;
-- **IESE Search Fund & Entrepreneurial Acquisitions Bootcamp** pour une démarche ETA structurée ;
-- WorldCC pour le cycle contractuel B2B.
+- CCI RS7413 — Reprise d'entreprise ;
+- Bpifrance Université — Transmission ;
+- CFI FMVA / valuation ;
+- IESE Search Fund Bootcamp ;
+- WorldCC.
 
 ## ETA / Search Fund
 
@@ -152,166 +167,254 @@ due diligence
 valuation
 financement
 closing
-prise de fonction CEO
+CEO
 création de valeur
 exit
 ```
 
-À voir :
+Référence européenne : **IESE Search Fund & Entrepreneurial Acquisitions Bootcamp — 4 500 € tarif général 2026**.
 
-- **IESE Search Fund & Entrepreneurial Acquisitions Bootcamp — 4 500 € général en 2026** ;
-- CCI RS7413 pour la couche reprise France ;
-- CFI FMVA / valuation ;
-- WorldCC / négociation ;
-- [`certifications/entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md).
+## Holding de reprise / LBO
 
-## Entreprise familiale
+```text
+repreneur
+   ↓
+holding d'acquisition
+   ↓
+dette + fonds propres
+   ↓
+cible opérationnelle
+   ↓
+remontée de cash / dividendes
+   ↓
+service de la dette
+```
+
+### Couche France
+
+Bpifrance Création pour :
+
+- holding passive / animatrice ;
+- régime mère-fille ;
+- intégration fiscale ;
+- dette de reprise ;
+- family buy-out / Dutreil ;
+- risques juridiques et fiscaux.
+
+### Couche technique internationale
+
+```text
+CFI IB & Private Equity Modeling    497 $/an
+CFA Private Equity Certificate      890 $
+CFA Advanced Private Equity         890 $ après PE Certificate
+```
+
+Le CFA Private Equity Certificate couvre notamment LBO modeling, dette, structuration, valuation, due diligence et value creation.
+
+---
+
+# 4. De société à groupe : gouvernance multi-sociétés
+
+Quand le dirigeant possède plusieurs entités, la compétence change :
+
+```text
+opérations
+   ↓
+allocation du capital
+   ↓
+gouvernance filiales
+   ↓
+reporting groupe
+   ↓
+contrôle / risques
+   ↓
+portfolio decisions
+```
+
+Le juridique et la fiscalité de groupe restent français / européens. Les méthodes de gouvernance sont largement internationales.
+
+### Credentials premium
+
+| Besoin | Credential | Prix indicatif 2026 |
+|---|---|---:|
+| Premier mandat board | INSEAD Aspiring Directors Programme | **12 500 €** |
+| Gouvernance internationale | INSEAD International Directors Programme | **28 900 €** |
+| Qualification formelle de director | IoD Certificate in Company Direction | **12 250 £ membre / 15 950 £ non-membre** hors TVA |
+| Gouvernance globale premium | IoD Global Certificate in Company Direction | **17 500 £** hors TVA |
+
+L'INSEAD Aspiring Directors Programme cible explicitement aussi les **family members et controlling shareholders de PME familiales**.
+
+---
+
+# 5. Entreprise familiale
 
 ```text
 famille
 + propriété
 + entreprise
 + succession
-+ continuité
 + gouvernance
++ transmission
 ```
 
 À voir :
 
 - reprise / transmission France ;
-- gouvernance ;
+- holding familiale / Dutreil ;
 - finance / valorisation ;
-- **Family Enterprise Advisor — FEA** comme référence internationale des conseillers d'entreprises familiales.
+- gouvernance board ;
+- Family Enterprise Advisor (FEA) comme référence pour les **conseillers** de familles entrepreneuriales.
 
-> Le FEA complet coûte **19 495 CAD + taxes** en 2026 et cible d'abord les conseillers professionnels. Pour un dirigeant familial, apprendre les méthodes est intéressant ; collectionner la désignation n'est généralement pas rationnel.
+Le FEA complet coûte **19 495 CAD + taxes** en 2026 : intéressant comme benchmark professionnel, généralement surdimensionné pour le dirigeant familial lui-même.
 
-## ESS / entrepreneuriat social
+---
+
+# 6. SCOP / SCIC / CAE
+
+Un dirigeant coopératif doit maîtriser :
 
 ```text
-utilité sociale
-viabilité économique
-gouvernance
-ancrage territorial
-impact
-management responsable
+stratégie
+finance
+RH
+management
++
+gouvernance coopérative
+assemblées
+participation des sociétaires
+culture coopérative
 ```
+
+## Parcours français actuel
+
+**Dauphine-PSL + Confédération générale des Scop — DU Business Management Cadres et Dirigeants de SCOP, SCIC et CAE**
+
+```text
+durée       30 jours / 12 mois
+tarif       10 000 € net de taxes
+session     octobre 2026 → septembre 2027
+```
+
+L'ancien **RNCP23654 — Gérant de société coopérative et participative** est expiré depuis 2020 : référence historique uniquement.
+
+---
+
+# 7. ESS, entreprise à mission & impact
+
+## ESS
 
 À voir :
 
-- **RNCP38126 — Entrepreneur de l'économie sociale et solidaire — niveau 7** ;
-- **RNCP41817 — Responsable d'entreprise d'économie sociale et solidaire — niveau 6** ;
-- **RNCP41704 — Manager de proximité dans l'ESS — niveau 6** ;
-- ESG / impact / gouvernance dans les catalogues connexes.
+- RNCP38126 — Entrepreneur de l'économie sociale et solidaire — niveau 7 ;
+- RNCP41817 — Responsable d'entreprise ESS — niveau 6 ;
+- RNCP41704 — Manager de proximité ESS — niveau 6.
 
-## Franchise
+## B Corp : ne pas confondre personne et organisation
 
-### Futur franchisé
+### Formation individuelle
+
+```text
+B Lab Europe — Introduction to B Corp Movement
+0 €
+```
+
+### Certification entreprise
+
+**B Corp Certification V2 = `ORG`, pas une certification personnelle.**
+
+En Europe / France, ordre de grandeur 2026 pour une petite entreprise :
+
+```text
+submission fee              250 €
+annual certification fee  2 000 € minimum environ
+Year-0 audit              1 000–2 000 € pour 0–49 salariés
+```
+
+Le TCO dépend ensuite du CA, des effectifs, de la structure et du scope d'audit.
+
+### Consultants
+
+B Lab Europe remplace progressivement les anciens **B Leaders** par le **B Corp Consultants Program**. L'ouverture générale aux nouveaux candidats est annoncée plus tard en 2026 ; attendre la grille publique avant d'enregistrer un TCO définitif.
+
+---
+
+# 8. Franchise
+
+## Futur franchisé
 
 ```text
 FFF Devenir Franchisé — 50 € TTC
         ↓
-due diligence du réseau
+due diligence réseau
         ↓
-DIP / contrat analysés en droit français
+DIP / contrat en droit français
         ↓
 formation métier du franchiseur
 ```
 
-### Créer / développer un réseau
+## Créer un réseau
 
 ```text
 FFF Créer et développer son réseau — 1 800 € TTC
         ↓
-FFF Animation de réseau — certificat FFF
+FFF Animation de réseau
         ↓
-IFA Foundations / CFE uniquement si dimension internationale
+IFA Foundations / CFE si international
 ```
 
-### Multi-unit / international
+IFA Foundations of Franchising : **2 400 $**.
 
-```text
-unit economics
-animation réseau
-franchise operations
-leadership
-growth
-```
+---
 
-À voir : **IFA Foundations of Franchising — 2 400 $** puis CFE si la franchise devient une fonction professionnelle centrale.
+# 9. E-commerce, IP & international
 
-## E-commerce → marketplace
+## E-commerce
 
-À voir : Amazon Ads Academy, Shopify Verified Skills, Google Ads / Analytics, WIPO DL-101.
+À voir : Amazon Ads Academy, Shopify Verified Skills, Google Ads / Analytics, HubSpot, Semrush.
 
 ## Propriété intellectuelle
 
 ```text
-WIPO DL-101                       0 €
+WIPO DL-101                    0 €
         ↓
-formations courtes INPI
+formations INPI
         ↓
-INPI référent PI               6 000 €
-        uniquement si besoin réel
+INPI référent PI            6 000 €
 ```
-
-Le certificat INPI 2026 **« Exploiter avec succès l'innovation grâce à la PI »** fait 129 h / 18 jours et vise un véritable rôle interne de référent PI.
 
 ## Internationalisation
 
-```text
-préparation export
-Incoterms
-import/export
-credit risk
-implantation
-recrutement local / V.I.E
-```
-
 À voir :
 
-- Team France Export comme guichet d'accompagnement ;
-- CCI **RS7383 / CCE import-export** ;
+- Team France Export ;
+- CCI RS7383 ;
 - ICC Incoterms / Export-Import / FTA / Digital Trade ;
-- FCIB si risque crédit international important ;
-- **V.I.E Business France** quand une présence commerciale/opérationnelle locale devient justifiée.
+- FCIB pour credit risk international ;
+- V.I.E Business France lorsque la présence locale devient pertinente.
 
-Le V.I.E est un **dispositif**, pas une certification. Il peut aller jusqu'à 24 mois et son coût dépend du pays, de la durée, du chiffre d'affaires et des aides disponibles.
+---
 
-## Activité réglementée — vérifier avant de collectionner les certifs
+# 10. Activité réglementée — routeur obligatoire
 
 ```text
 activité envisagée
        ↓
 est-elle réglementée ?
        ↓
-OUI → qualification / carte / capacité / autorisation d'abord
+OUI
        ↓
-ENSUITE → certifications business complémentaires
+qualification / carte / capacité / autorisation
+       ↓
+certifications business complémentaires
 ```
 
-Routeur officiel :
+Routeur officiel : https://entreprendre.service-public.fr/vosdroits/R60814
 
-- https://entreprendre.service-public.fr/vosdroits/R60814
-
-Exemples : taxi/VTC, immobilier, sécurité privée, transport, certaines activités artisanales/BTP, alimentaire, finance/assurance.
-
-## Transmission / sortie
-
-```text
-préparer l'entreprise
-normaliser reporting / contrats / dépendances
-valoriser
-trouver les repreneurs
-négocier
-sécuriser closing
-transmettre l'exploitation
-```
-
-À voir : Bpifrance Université — Parcours Transmission + CCI RS7413 côté repreneur.
+Exemples : VTC, immobilier, sécurité privée, transport, certaines activités BTP/artisanales, alimentaire, finance/assurance.
 
 ---
 
-# 3. Stack gratuite recommandée
+# 11. Stack gratuite entrepreneur
 
 ```text
 IBM SkillsBuild — Be an Entrepreneur
@@ -319,103 +422,51 @@ HP LIFE — Starting a Small Business
 OpenLearn — Entrepreneurship
 
 HubSpot — Sales / Marketing / RevOps
-Google Ads + Google Analytics
+Google Ads + Analytics
 Semrush SEO / Content
 Xero L1 → L2 → L3
 Amazon Ads Academy si Amazon
 WIPO DL-101
-CNIL — Atelier RGPD
+CNIL Atelier RGPD
+B Lab Europe Intro B Corp
 
 Bpifrance Université :
   finance
-  financement de croissance
-  notation de crédit
-  BFR clients / fournisseurs
+  BFR
+  crédit
   transmission
+  croissance
   CIR / CII
-
-Team France Export :
-  diagnostic / accompagnement export
-  selon région et maturité
 ```
 
-Bpifrance Université peut délivrer des attestations / certificats de réussite de formation, mais ses CGU précisent que ces certificats **n'ont pas de valeur légale** : on ne les confond pas avec une certification professionnelle.
-
 ---
 
-# 4. Stack France — certifications opérationnelles
-
-| Besoin | Credential | Code / coût indicatif |
-|---|---|---|
-| Gestion / trésorerie | Maîtriser les fondamentaux de la gestion d'une TPE-PME | RS7378 |
-| Prospection | Prospection commerciale phygitale | RS6951 |
-| Relation client | Développer la qualité de service et la relation client | RS7376 |
-| Projet | Manager un projet | RS7385 |
-| Achats | Réaliser des achats en TPE-PME | RS7380 |
-| Recrutement | Conduire un recrutement | RS6952 |
-| Management | Animer une équipe de travail | RS7377 |
-| Paie | Traiter la paie en TPE-PME | RS7382 |
-| Formation interne | Exercer la mission de formateur en entreprise | RS7379 |
-| International | Réaliser une opération d'import-export | RS7383 |
-| Reprise | Reprise d'entreprise : développer un projet entrepreneurial réussi | **RS7413 — ~1 650–1 695 €** |
-| ESS dirigeant | Entrepreneur de l'économie sociale et solidaire | **RNCP38126 — niveau 7** |
-| ESS direction | Responsable d'entreprise de l'économie sociale et solidaire | **RNCP41817 — niveau 6** |
-| PI innovation | Exploiter avec succès l'innovation grâce à la PI | **INPI — 6 000 €** |
-
----
-
-# 5. Stack internationale — quand l'étranger est meilleur
+# 12. Stack internationale — sélection dirigeant
 
 | Besoin | Credential | Prix indicatif 2026 |
 |---|---|---:|
 | Finance workflow | Xero L1/L2/L3 | **0 €** |
 | Vente / RevOps | HubSpot | **0 €** |
-| Amazon | Amazon Ads certifications | **0 €** |
 | IP | WIPO DL-101 | **0 €** |
-| CRM | Salesforce Platform Foundations | **75 $** |
 | Projet | Scrum.org PSM I | **200 $** |
 | Marketing | AMA PCM | **249–349 $** |
-| Process | ASQ Yellow / Green Belt | **334–483 $** selon niveau / statut |
+| Process | ASQ Yellow / Green Belt | **334–483 $** |
 | RH hors US | HRCI aPHRi | **400 $** |
 | Export | ICC Incoterms | **399 $** |
 | Finance / valo | CFI FMVA | **497 $/an** |
+| LBO / PE modeling | CFI IB & PE Specialization | **497 $/an** |
 | Crédit | CFI CBCA | **497 $/an** |
 | Privacy UE | IAPP CIPP/E | **550 $ + maintenance** |
 | Contrats B2B | WorldCC CCM Associate | **780 $ + membership** |
+| Private Equity | CFA Institute PE Certificate | **890 $** |
 | Credit risk export | FCIB ICRM / CICP path | **950–2 250 $** |
 | Venture finance | VC University | **1 500–1 850 $** |
-| Franchise internationale | IFA CFE | **499 / 915 $ + parcours** |
-| Franchise bootcamp | IFA Foundations | **2 400 $** |
-| Risk management | RIMS-CRMP | **375 / 525 $** |
-| ETA / search fund | IESE Search Fund Bootcamp | **4 500 € général** |
-| Family business advising | FEA | **19 495 CAD + taxes** |
+| Franchise | IFA Foundations | **2 400 $** |
+| ETA | IESE Search Fund Bootcamp | **4 500 €** |
 
 ---
 
-# 6. Facturation électronique France — maintenant un P0
-
-Au **1er septembre 2026** :
-
-```text
-toutes les entreprises
-→ doivent pouvoir RECEVOIR des factures électroniques
-
-grands groupes / ETI
-→ doivent aussi ÉMETTRE + e-reporting
-```
-
-Au **1er septembre 2027** :
-
-```text
-PME / TPE / micro
-→ émission électronique + e-reporting
-```
-
-Ce n'est pas une certification à collectionner : c'est une **compétence réglementaire française obligatoire** à intégrer au fonctionnement de l'entreprise.
-
----
-
-# 7. Le principe de délégation
+# 13. Le principe de délégation
 
 ```text
 COMPRENDRE
@@ -430,26 +481,25 @@ EXÉCUTER OU DÉLÉGUER
 | Fonction | À comprendre | Souvent à déléguer |
 |---|---|---|
 | Comptabilité | marge, cash, bilan, résultat | tenue / clôture / fiscalité |
-| Levée | valo, dilution, cap table | documentation juridique complexe |
-| Reprise / ETA | valorisation, dette, risques, transition | due diligence juridique/fiscale/sociale |
-| Family business | gouvernance, succession, rôles | structuration patrimoniale / médiation complexe |
-| Franchise | economics, royalties, KPI | DIP / contrat / contentieux |
-| Risk / assurance | scénarios, franchises, plafonds | placement / wording complexe |
-| PI | actifs, territoires, stratégie | brevet / opposition / litige |
-| ESS | modèle économique + gouvernance | ingénierie juridique/fiscale spécifique |
-| Export | marché, Incoterms, pricing, risque | douane / fiscalité / implantation complexe |
-| Paie | coût salarié, bulletin, contrôles | production mensuelle |
-| Cyber | MFA, backup, accès, incident | architecture / audit / SOC |
-| Vente | offre, qualification, closing | difficile à déléguer trop tôt |
+| Levée | valo, dilution, cap table | juridique complexe |
+| LBO | dette, DSCR, IRR, covenants | structuration juridique / fiscale |
+| Groupe | allocation capital, KPI filiales | consolidation / fiscalité groupe |
+| Reprise / ETA | valorisation, dette, risques | due diligence spécialisée |
+| Family business | gouvernance, succession | ingénierie patrimoniale complexe |
+| SCOP / SCIC | gouvernance sociétaires | ingénierie juridique spécifique |
+| B Corp | standards / impact | assurance / audit |
+| Franchise | economics / KPI | DIP / contrat / contentieux |
+| Export | marché / pricing / risque | douane / fiscalité / implantation |
+| Cyber | accès / backup / incident | architecture / audit / SOC |
 
 ---
 
-# 8. La règle France / étranger
+# 14. Règle France / étranger
 
 ```text
-DROIT / FISCAL / RÉGLEMENTAIRE LOCAL
+DROIT / FISCAL / RÉGLEMENTAIRE
         ↓
-France / Europe d'abord
+France / Europe
 
 MÉTHODE MÉTIER PORTABLE
         ↓
@@ -457,38 +507,41 @@ meilleur credential mondial
 
 OUTIL RÉELLEMENT UTILISÉ
         ↓
-certification éditeur pertinente
+vendor certification
+
+CERTIFICATION D'ENTREPRISE
+        ↓
+ne jamais la présenter comme credential personnel
 ```
 
-Bons imports : WorldCC, ICC, IAPP CIPP/E, HRCI aPHRi, ASQ, Scrum.org, AMA, HubSpot, Xero, CFI, VC University, WIPO, RIMS, IFA, FCIB, IESE Search Funds.
-
-À ne pas transposer aveuglément : PHR/SPHR US, CIPP/US, US CPA/tax, payroll US, securities licensing US, franchise law US, bankruptcy/collections law locales, qualifications professionnelles locales non reconnues en France.
+Bons imports : WorldCC, ICC, IAPP CIPP/E, HRCI aPHRi, ASQ, Scrum.org, AMA, HubSpot, Xero, CFI, CFA PE, VC University, WIPO, RIMS, IFA, FCIB, IESE, IoD, INSEAD.
 
 ---
 
-# 9. Catalogues connexes
+# 15. Catalogues connexes
 
+- [`certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md`](certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md)
 - [`certifications/entrepreneur-eta-family-ess-export-regulated-2026.md`](certifications/entrepreneur-eta-family-ess-export-regulated-2026.md)
 - [`certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md`](certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md)
 - [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
 - [`certifications/entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md)
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md)
 - [`certifications/business-valuation.md`](certifications/business-valuation.md)
-- [`certifications/marketing-sales-professional.md`](certifications/marketing-sales-professional.md)
+- [`certifications/governance-board-over-500.md`](certifications/governance-board-over-500.md)
+- [`certifications/esg-sustainability-carbon.md`](certifications/esg-sustainability-carbon.md)
 - [`certifications/legal-contract-management.md`](certifications/legal-contract-management.md)
-- [`certifications/privacy-dpo-france.md`](certifications/privacy-dpo-france.md)
-- [`certifications/hr-people-hrtech.md`](certifications/hr-people-hrtech.md)
-- [`certifications/supply-chain-procurement-over-500.md`](certifications/supply-chain-procurement-over-500.md)
 - [`certifications/business-continuity-crisis.md`](certifications/business-continuity-crisis.md)
 
 ---
 
-# 10. Prochaines extensions
+# 16. Prochaines extensions
 
-- search fund France : dette d'acquisition / holding / LBO entrepreneur ;
-- family governance owner-targeted à TCO inférieur au FEA ;
-- société à mission : credentials de personne réellement reconnus ;
-- B Corp / impact entrepreneur ;
-- coopératives / SCOP / SCIC ;
-- V.I.E partagé / dispositifs régionaux ;
-- qualifications métiers sectorielles avec routeur plus fin vers chaque catalogue spécialisé.
+- pacte Dutreil / gouvernance patrimoniale owner-targeted à TCO raisonnable ;
+- consolidation financière / group reporting ;
+- management fees, conventions de trésorerie et contrôle intra-groupe comme compétences France ;
+- private credit / acquisition debt ;
+- integration post-merger / PMI ;
+- stratégie de portefeuille / corporate development ;
+- certifications de board françaises à coût inférieur aux programmes INSEAD / IoD ;
+- nouveau B Corp Consultants Program dès publication de son tarif public ;
+- certifications facturation électronique / PDP / ERP à mesure que l'écosystème français se stabilise.
