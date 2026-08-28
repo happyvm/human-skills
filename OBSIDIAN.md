@@ -60,7 +60,7 @@ tier: free | under-500 | over-500 | general
 domain:
   - <une ou plusieurs valeurs, voir §4>
 scope:
-  - international | europe | france | national-us | national-uk | ... | mixed
+  - unverified | international | europe | france | national-us | national-uk | ... | mixed
 jurisdiction:
   - FR | EU | US | GB | ...
 regulatory_basis:
@@ -82,7 +82,7 @@ Champs :
 
 - `tier` — tranche de prix dominante du fichier ;
 - `domain` — une ou plusieurs valeurs du vocabulaire métier ;
-- `scope` — **portabilité géographique réelle**, pas pays d'origine de l'organisme ;
+- `scope` — **portabilité géographique réelle**, pas pays d'origine de l'organisme ; utiliser `unverified` tant qu'elle n'a pas été vérifiée ;
 - `jurisdiction` — juridiction juridique ou réglementaire pertinente ;
 - `regulatory_basis` — réglementation, model code ou norme locale dont dépend réellement le credential ;
 - `status` — `active`, `deprecated` ou `draft` ;
@@ -118,6 +118,7 @@ Tags `tier/` : `tier/free`, `tier/under-500`, `tier/over-500`, `tier/general`.
 Valeurs principales :
 
 ```text
+scope/unverified
 scope/international
 scope/europe
 scope/france
@@ -144,6 +145,8 @@ ICC Building Inspector : scope national-us / US model codes
 CACES : scope france
 CSCS : scope national-uk
 ```
+
+Une nouvelle fiche ne doit jamais être mise `international` par défaut : **`scope/unverified` est la valeur d'attente**.
 
 Voir [`GEOGRAPHY.md`](GEOGRAPHY.md).
 
@@ -186,7 +189,7 @@ Priorité de migration :
 5. catalogues IT généralement internationaux
 ```
 
-Quand la portée d'une ancienne entrée n'a pas encore été vérifiée, ne pas l'inférer uniquement depuis la devise, le pays du fournisseur ou le domaine du site web.
+Quand la portée d'une ancienne entrée n'a pas encore été vérifiée, utiliser `unverified` plutôt que de l'inférer uniquement depuis la devise, le pays du fournisseur ou le domaine du site web.
 
 ---
 
