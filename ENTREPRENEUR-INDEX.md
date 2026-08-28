@@ -12,54 +12,21 @@ verified: 2026-08-28
 
 # Entrepreneur / TPE / PME Index — human-skills
 
-> Vue entrepreneur de `human-skills` : **créer l'entreprise**, puis savoir **vendre, piloter, livrer, protéger, recruter, financer et développer** l'activité.
+> Vue entrepreneur de `human-skills` : **créer, vendre, piloter, protéger, financer, recruter, reprendre, transmettre et développer** une entreprise.
 >
-> Une certification étrangère n'est pas écartée par principe : si la compétence est portable, on cherche **le meilleur credential mondial**. Les credentials France/UE restent prioritaires lorsque le sujet dépend du droit, de la fiscalité ou de la réglementation locale.
+> Une certification étrangère n'est pas écartée par principe : si la compétence est portable, on cherche le **meilleur credential mondial**. France / Europe restent prioritaires pour le droit, la fiscalité et les obligations réglementaires locales.
 
 ---
 
-# 1. Les quatre catalogues principaux
+# 1. Les cinq catalogues principaux
 
-## Créer / lancer l'entreprise
-
-[`certifications/entrepreneurship-startup-business-creation-2026.md`](certifications/entrepreneurship-startup-business-creation-2026.md)
-
-Couvre : entrepreneuriat, business model, création/reprise, micro-entreprise, startup, CCI/BGE/CréActifs/Cnam, badges gratuits et qualifications académiques entrepreneuriales.
-
-## Faire fonctionner l'entreprise
-
-[`certifications/entrepreneur-essential-operations-2026.md`](certifications/entrepreneur-essential-operations-2026.md)
-
-Couvre : vente, prospection, CRM/RevOps, marketing, finance/trésorerie, achats, projet, relation client, recrutement, management, paie, contrats, RGPD/cyber, data, export et e-commerce.
-
-## Chercher les meilleures certifications fonctionnelles mondiales
-
-[`certifications/entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md)
-
-Couvre : Xero / QuickBooks, HubSpot / Google / AMA, Salesforce, Scrum.org, ASQ, WorldCC, HRCI aPHRi/PHRi, IAPP CIPP/E/CIPM et ICC.
-
-Le fichier contient une colonne **Pertinence FR** pour distinguer :
-
-```text
-credential étranger
-       ≠
-credential inutile en France
-```
-
-## Financer, scaler, vendre en ligne et protéger les actifs
-
-[`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
-
-Couvre :
-
-- levée de fonds et venture finance ;
-- valorisation / financial modeling ;
-- compréhension du crédit bancaire ;
-- credit management / recouvrement ;
-- négociation premium ;
-- Amazon Ads / retail media ;
-- Shopify verified skills ;
-- propriété intellectuelle / WIPO.
+| Axe | Catalogue |
+|---|---|
+| Créer / lancer | [`certifications/entrepreneurship-startup-business-creation-2026.md`](certifications/entrepreneurship-startup-business-creation-2026.md) |
+| Faire fonctionner | [`certifications/entrepreneur-essential-operations-2026.md`](certifications/entrepreneur-essential-operations-2026.md) |
+| Meilleures compétences fonctionnelles mondiales | [`certifications/entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md) |
+| Financer / scaler / e-commerce / IP | [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md) |
+| Reprendre / transmettre / franchise / risk / conformité France | [`certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md`](certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md) |
 
 ---
 
@@ -75,30 +42,19 @@ pricing
 pitch
 ```
 
-À voir :
-
-- [`certifications/entrepreneurship-startup-business-creation-2026.md`](certifications/entrepreneurship-startup-business-creation-2026.md)
-- [`certifications/innovation-pricing.md`](certifications/innovation-pricing.md)
-- [`certifications/product-management-marketing.md`](certifications/product-management-marketing.md)
+À voir : IBM SkillsBuild, HP LIFE, OpenLearn, CCI/BGE/Cnam, `innovation-pricing.md`, `product-management-marketing.md`.
 
 ## Création → premiers clients
 
 ```text
 vente
 prospection
-marketing digital
-SEO
-Ads
+marketing
 CRM
 contrats
 ```
 
-À voir :
-
-- [`certifications/entrepreneur-essential-operations-2026.md`](certifications/entrepreneur-essential-operations-2026.md)
-- [`certifications/entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md)
-- [`certifications/marketing-sales-professional.md`](certifications/marketing-sales-professional.md)
-- [`certifications/legal-contract-management.md`](certifications/legal-contract-management.md)
+À voir : HubSpot, Google, Semrush, AMA PCM, Salesforce, CCI RS6951, WorldCC.
 
 ## Activité → rentabilité
 
@@ -107,20 +63,11 @@ marge
 coûts
 trésorerie
 facturation
-recouvrement
-analytics
+encaissement
 pilotage
 ```
 
-À voir :
-
-- CCI France **RS7378 — Maîtriser les fondamentaux de la gestion d'une TPE-PME** ;
-- **Xero L1/L2/L3** pour la culture des workflows financiers ;
-- **QuickBooks ProAdvisor** si activité internationale / écosystème Intuit ;
-- **CFI CBCA** pour comprendre l'analyse crédit d'un financeur ;
-- **CICM Level 3** si le poste client devient structurant ;
-- [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md)
-- [`certifications/business-valuation.md`](certifications/business-valuation.md)
+À voir : CCI **RS7378**, Xero L1/L2/L3, CFI CBCA, CICM / FCIB selon exposition crédit.
 
 ## Livraison → satisfaction client
 
@@ -132,14 +79,7 @@ support
 relation client
 ```
 
-À voir :
-
-- CCI **RS7385 — Manager un projet** ;
-- **Scrum.org PSM I** ;
-- **ASQ Six Sigma Yellow / Green Belt** si l'activité est process-heavy ;
-- CCI **RS7376 — Développer la qualité de service et la relation client** ;
-- [`certifications/customer-experience.md`](certifications/customer-experience.md)
-- [`certifications/lean-it-lean-management-2026.md`](certifications/lean-it-lean-management-2026.md)
+À voir : CCI **RS7385**, Scrum.org PSM I, ASQ Six Sigma, CCI **RS7376**.
 
 ## Premières embauches
 
@@ -150,36 +90,20 @@ paie
 formation interne
 ```
 
-À voir :
-
-- CCI **RS6952 — Conduire un recrutement** ;
-- CCI **RS7377 — Animer une équipe de travail** ;
-- CCI **RS7382 — Traiter la paie en TPE-PME** ;
-- CCI **RS7379 — Exercer la mission de formateur en entreprise** ;
-- **HRCI aPHRi** pour les fondamentaux RH internationaux hors US ;
-- **HRCI PHRi** lorsque la fonction RH devient réellement professionnelle ;
-- [`certifications/hr-people-hrtech.md`](certifications/hr-people-hrtech.md)
+À voir : CCI **RS6952 / RS7377 / RS7382 / RS7379**, HRCI aPHRi / PHRi.
 
 ## Croissance → structuration
 
 ```text
 achats
-supply chain
 procurement
-contrôle
-qualité
+contrats
+risk management
 continuité
 sécurité
-contrats
 ```
 
-À voir :
-
-- CCI **RS7380 — Réaliser des achats en TPE-PME** ;
-- **WorldCC CCM Associate / Practitioner** pour le B2B et les contrats complexes ;
-- **ASQ Six Sigma** pour l'amélioration des opérations ;
-- [`certifications/supply-chain-procurement-over-500.md`](certifications/supply-chain-procurement-over-500.md)
-- [`certifications/business-continuity-crisis.md`](certifications/business-continuity-crisis.md)
+À voir : CCI **RS7380**, WorldCC, ASQ, RIMS-CRMP / ARM si la fonction risk devient structurée.
 
 ## Levée de fonds → investisseurs
 
@@ -190,111 +114,122 @@ valuation
 cap table
 dilution
 term sheet
-venture economics
 governance
 ```
 
-À voir :
+À voir : **CFI FMVA**, **VC University**, `business-valuation.md`.
 
-- **CFI FMVA® — 497 $/an Self-Study standard** ;
-- **VC University ONLINE — 1 500 $ early-bird / 1 850 $ standard en 2026** ;
-- [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
-- [`certifications/business-valuation.md`](certifications/business-valuation.md)
-
-## E-commerce → marketplace
+## Reprise / croissance externe
 
 ```text
-conversion
-catalogue
-retail media
-marketplace ads
-analytics
-brand/IP
+cibles
+diagnostic
+valorisation
+LOI / négociation
+financement
+montage
+closing
 ```
 
 À voir :
 
-- **Amazon Ads Academy certifications — gratuites** ;
-- **Shopify Academy Verified Skills** si Shopify ;
-- Google Ads / Analytics ;
-- WIPO DL-101 pour marque, design et autres actifs PI ;
-- [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
+- **CCI France RS7413 — Reprise d'entreprise : développer un projet entrepreneurial réussi** ;
+- Bpifrance Université — **Parcours Transmission** ;
+- CFI FMVA / business valuation ;
+- WorldCC pour le cycle contractuel B2B.
+
+## Franchise
+
+### Futur franchisé
+
+```text
+FFF Devenir Franchisé — 50 € TTC
+        ↓
+due diligence du réseau
+        ↓
+DIP / contrat analysés en droit français
+        ↓
+formation métier du franchiseur
+```
+
+### Créer / développer un réseau
+
+```text
+FFF Créer et développer son réseau — 1 800 € TTC
+        ↓
+FFF Animation de réseau — certificat FFF
+        ↓
+IFA Foundations / CFE uniquement si dimension internationale
+```
+
+## E-commerce → marketplace
+
+À voir : Amazon Ads Academy, Shopify Verified Skills, Google Ads / Analytics, WIPO DL-101.
 
 ## Propriété intellectuelle
 
 ```text
-marque
-brevet
-dessin & modèle
-copyright
-licensing
-commercialisation IP
+WIPO DL-101                       0 €
+        ↓
+formations courtes INPI
+        ↓
+INPI référent PI               6 000 €
+        uniquement si besoin réel
 ```
 
-À voir :
-
-- **WIPO Academy DL-101 — 55 h, certificat, gratuit** ;
-- **WIPO DL-450 — 100 h, gratuit mais sans certificat en self-study 2026** ;
-- INPI / conseil PI pour les procédures françaises ;
-- [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
+Le certificat INPI 2026 **« Exploiter avec succès l'innovation grâce à la PI »** fait 129 h / 18 jours et vise un véritable rôle interne de référent PI.
 
 ## Internationalisation
 
+À voir : CCI **RS7383**, ICC Incoterms, ICC FTA, ICC Digital Trade Strategy, ICC Export/Import, FCIB si risque crédit international important.
+
+## Transmission / sortie
+
 ```text
-Incoterms
-import/export
-douane
-logistique
-contrats internationaux
-digital trade
+préparer l'entreprise
+normaliser reporting / contrats / dépendances
+valoriser
+trouver les repreneurs
+négocier
+sécuriser closing
+transmettre l'exploitation
 ```
 
-À voir :
-
-- CCI **RS7383 — Réaliser une opération d'import-export** ;
-- **ICC Incoterms® 2020 Certificate — 399 $** ;
-- **ICC Free Trade Agreement Certificate — 350 $** ;
-- **ICC Certificate in Digital Trade Strategy — 499 $** ;
-- **ICC Export/Import Certificate — 699 $** ;
-- [`certifications/supply-chain-procurement-over-500.md`](certifications/supply-chain-procurement-over-500.md)
+À voir : Bpifrance Université — Parcours Transmission + CCI RS7413 côté repreneur.
 
 ---
 
 # 3. Stack gratuite recommandée
 
-Pour un entrepreneur qui veut apprendre avant de payer :
-
 ```text
 IBM SkillsBuild — Be an Entrepreneur
-OpenLearn — Entrepreneurship
 HP LIFE — Starting a Small Business
+OpenLearn — Entrepreneurship
 
-HubSpot — Inbound
-HubSpot — Inbound Sales
-HubSpot — Digital Marketing
-HubSpot — Revenue Operations
-HubSpot — Sales Management
-
-Google Ads Search / Measurement
-Google Analytics Certification
-Semrush SEO / Content Marketing
-
-Xero Level 1 → Level 2 → Level 3
-
-Amazon Ads Academy si Amazon est un canal
-WIPO DL-101 pour la propriété intellectuelle
-WIPO DL-450 pour approfondir la gestion IP (sans credential)
-
+HubSpot — Sales / Marketing / RevOps
+Google Ads + Google Analytics
+Semrush SEO / Content
+Xero L1 → L2 → L3
+Amazon Ads Academy si Amazon
+WIPO DL-101
 CNIL — Atelier RGPD
+
+Bpifrance Université :
+  finance
+  financement de croissance
+  notation de crédit
+  BFR clients / fournisseurs
+  transmission
+  CIR / CII
 ```
 
-Puis seulement payer une certification qui corrige un **vrai point faible**.
+Bpifrance Université peut délivrer des attestations / certificats de réussite de formation, mais ses CGU précisent que ces certificats **n'ont pas de valeur légale** : on ne les confond pas avec une certification professionnelle.
 
 ---
 
-# 4. Stack France — CCI CCE
+# 4. Stack France — certifications opérationnelles
 
-| Besoin | Certification | Code |
+| Besoin | Credential | Code / coût indicatif |
 |---|---|---|
 | Gestion / trésorerie | Maîtriser les fondamentaux de la gestion d'une TPE-PME | RS7378 |
 | Prospection | Prospection commerciale phygitale | RS6951 |
@@ -306,36 +241,61 @@ Puis seulement payer une certification qui corrige un **vrai point faible**.
 | Paie | Traiter la paie en TPE-PME | RS7382 |
 | Formation interne | Exercer la mission de formateur en entreprise | RS7379 |
 | International | Réaliser une opération d'import-export | RS7383 |
-
-> Les CCE sont intéressants parce qu'ils valident des **compétences opérationnelles séparées**. Ils ne doivent pas devenir une collection : choisir ceux qui correspondent réellement au rôle du dirigeant et au stade de l'entreprise.
+| Reprise | Reprise d'entreprise : développer un projet entrepreneurial réussi | **RS7413 — ~1 650–1 695 €** |
+| PI innovation | Exploiter avec succès l'innovation grâce à la PI | **INPI — 6 000 €** |
 
 ---
 
 # 5. Stack internationale — quand l'étranger est meilleur
 
-| Besoin | Credential | Prix indicatif 2026 | Pourquoi |
-|---|---|---:|---|
-| Finance workflow | Xero L1/L2/L3 | **0 €** | pratique et global |
-| Vente | HubSpot Inbound Sales | **0 €** | directement applicable |
-| RevOps | HubSpot Revenue Operations | **0 €** | sales + marketing + service |
-| Amazon | Amazon Ads certifications | **0 €** | retail media réellement utilisé |
-| IP | WIPO DL-101 | **0 €** | fondations PI + certificat |
-| Marketing vendor-neutral | AMA PCM | **249–349 $** | examen seul possible |
-| CRM | Salesforce Platform Foundations | **75 $** | compréhension d'un CRM structuré |
-| Projet | Scrum.org PSM I | **200 $** | pas de formation obligatoire |
-| Process | ASQ Yellow Belt | **334–434 $** | DMAIC / amélioration continue |
-| Finance / valo | CFI FMVA | **497 $/an** | modèles, forecast, valuation |
-| Crédit | CFI CBCA | **497 $/an** | comprendre prêteur / risque / dette |
-| RH hors US | HRCI aPHRi | **400 $** | aucune expérience RH requise |
-| Privacy UE | IAPP CIPP/E | **550 $ + maintenance** | GDPR / Europe |
-| Contrats B2B | WorldCC CCM Associate | **780 $ + membership** | cycle contractuel global |
-| Venture finance | VC University | **1 500–1 850 $** | levée, cap table, term sheets |
-| Export | ICC Incoterms | **399 $** | standard mondial |
-| Import/export | ICC EIC | **699 $** | parcours complet |
+| Besoin | Credential | Prix indicatif 2026 |
+|---|---|---:|
+| Finance workflow | Xero L1/L2/L3 | **0 €** |
+| Vente / RevOps | HubSpot | **0 €** |
+| Amazon | Amazon Ads certifications | **0 €** |
+| IP | WIPO DL-101 | **0 €** |
+| CRM | Salesforce Platform Foundations | **75 $** |
+| Projet | Scrum.org PSM I | **200 $** |
+| Marketing | AMA PCM | **249–349 $** |
+| Process | ASQ Yellow / Green Belt | **334–483 $** selon niveau / statut |
+| RH hors US | HRCI aPHRi | **400 $** |
+| Export | ICC Incoterms | **399 $** |
+| Finance / valo | CFI FMVA | **497 $/an** |
+| Crédit | CFI CBCA | **497 $/an** |
+| Privacy UE | IAPP CIPP/E | **550 $ + maintenance** |
+| Contrats B2B | WorldCC CCM Associate | **780 $ + membership** |
+| Credit risk export | FCIB ICRM / CICP path | **950–2 250 $** |
+| Venture finance | VC University | **1 500–1 850 $** |
+| Franchise internationale | IFA CFE | **499 / 915 $ + parcours** |
+| Franchise bootcamp | IFA Foundations | **2 400 $** |
+| Risk management | RIMS-CRMP | **375 / 525 $** |
 
 ---
 
-# 6. Le principe de délégation
+# 6. Facturation électronique France — maintenant un P0
+
+Au **1er septembre 2026** :
+
+```text
+toutes les entreprises
+→ doivent pouvoir RECEVOIR des factures électroniques
+
+grands groupes / ETI
+→ doivent aussi ÉMETTRE + e-reporting
+```
+
+Au **1er septembre 2027** :
+
+```text
+PME / TPE / micro
+→ émission électronique + e-reporting
+```
+
+Ce n'est pas une certification à collectionner : c'est une **compétence réglementaire française obligatoire** à intégrer au fonctionnement de l'entreprise.
+
+---
+
+# 7. Le principe de délégation
 
 ```text
 COMPRENDRE
@@ -350,18 +310,18 @@ EXÉCUTER OU DÉLÉGUER
 | Fonction | À comprendre | Souvent à déléguer |
 |---|---|---|
 | Comptabilité | marge, cash, bilan, résultat | tenue / clôture / fiscalité |
-| Levée | valo, dilution, cap table, termes | documentation juridique complexe |
+| Levée | valo, dilution, cap table | documentation juridique complexe |
+| Reprise | valorisation, dette, risques | due diligence juridique/fiscale/sociale |
+| Franchise | economics, royalties, KPI | DIP / contrat / contentieux |
+| Risk / assurance | scénarios, franchises, plafonds | placement / wording complexe |
+| PI | actifs, territoires, stratégie | brevet / opposition / litige |
 | Paie | coût salarié, bulletin, contrôles | production mensuelle |
-| Juridique | clauses, risques, obligations | rédaction complexe / contentieux |
-| PI | actifs, stratégie, coûts, territoires | rédaction brevet / procédure complexe |
-| RGPD | principes, registre, sous-traitants | DPO/juriste si traitement complexe |
-| Cyber | MFA, sauvegarde, accès, incident | architecture / audit / SOC selon taille |
-| Marketing | CAC, conversion, attribution | production média / agence selon besoin |
+| Cyber | MFA, backup, accès, incident | architecture / audit / SOC |
 | Vente | offre, qualification, closing | difficile à déléguer trop tôt |
 
 ---
 
-# 7. La règle France / étranger
+# 8. La règle France / étranger
 
 ```text
 DROIT / FISCAL / RÉGLEMENTAIRE LOCAL
@@ -374,17 +334,18 @@ meilleur credential mondial
 
 OUTIL RÉELLEMENT UTILISÉ
         ↓
-vendor certification pertinente
+certification éditeur pertinente
 ```
 
-Bons imports : WorldCC, ICC, IAPP CIPP/E, HRCI aPHRi, ASQ, Scrum.org, AMA, HubSpot, Xero, CFI, VC University, WIPO.
+Bons imports : WorldCC, ICC, IAPP CIPP/E, HRCI aPHRi, ASQ, Scrum.org, AMA, HubSpot, Xero, CFI, VC University, WIPO, RIMS, IFA, FCIB.
 
-À ne pas transposer aveuglément : PHR/SPHR US, CIPP/US, US CPA/tax, payroll US, bankruptcy/collections law locales, qualifications juridiques brevet locales.
+À ne pas transposer aveuglément : PHR/SPHR US, CIPP/US, US CPA/tax, payroll US, securities licensing US, franchise law US, bankruptcy/collections law locales.
 
 ---
 
-# 8. Catalogues connexes
+# 9. Catalogues connexes
 
+- [`certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md`](certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md)
 - [`certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md`](certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md)
 - [`certifications/entrepreneur-international-functional-credentials-2026.md`](certifications/entrepreneur-international-functional-credentials-2026.md)
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md)
@@ -398,13 +359,12 @@ Bons imports : WorldCC, ICC, IAPP CIPP/E, HRCI aPHRi, ASQ, Scrum.org, AMA, HubSp
 
 ---
 
-# 9. Prochaines extensions
+# 10. Prochaines extensions
 
-- reprise / transmission ;
-- franchise ;
-- INPI / propriété intellectuelle France ;
-- facturation électronique française ;
-- ESS / impact ;
-- Team France Export ;
-- assurances du dirigeant / risk management TPE ;
-- certifications métiers artisan / commerce lorsque l'activité l'impose.
+- ESS / impact / entreprises à mission ;
+- Team France Export / VIE / douane avancée ;
+- search funds / entrepreneurship through acquisition ;
+- family business / gouvernance familiale ;
+- multi-unit / master franchise ;
+- certifications éditeurs de facturation électronique / ERP à mesure que l'écosystème 2026 se stabilise ;
+- qualifications métiers artisan / commerce lorsque l'activité réglementée l'exige.
