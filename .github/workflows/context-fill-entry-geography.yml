@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write
 
+# One-shot rerun after table-context support was added.
 jobs:
   fill:
     runs-on: ubuntu-latest
@@ -15,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Fill missing labels
+      - name: Fill missing labels and credential tables
         run: python tools/context-fill-entry-geography.py
       - name: Regenerate entry report
         run: python tools/refine-entry-geography.py --sync
