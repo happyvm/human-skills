@@ -1,0 +1,31 @@
+name: Refine mixed catalogue geography
+
+on:
+  push:
+    paths:
+      - '.github/workflows/refine-entry-geography.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  refine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Resolve remaining UNV labels
+        run: python tools/refine-entry-geography.py --sync
+      - name: Commit refinement
+        shell: bash
+        run: |
+          if git diff --quiet -- certifications metadata/entry-geography-report.md; then
+            echo "No refinement changes required."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add certifications metadata/entry-geography-report.md
+          git commit -m "meta: resolve entry geography review queue"
+          git push origin HEAD:main
