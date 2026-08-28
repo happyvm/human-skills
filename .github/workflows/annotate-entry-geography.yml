@@ -1,0 +1,33 @@
+name: Annotate mixed catalogue geography
+
+on:
+  push:
+    paths:
+      - '.github/workflows/annotate-entry-geography.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  annotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Apply entry-level geography
+        run: python tools/annotate-entry-geography.py --sync
+
+      - name: Commit annotations
+        shell: bash
+        run: |
+          if git diff --quiet -- certifications metadata/entry-geography-report.md; then
+            echo "No entry geography changes required."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add certifications metadata/entry-geography-report.md
+          git commit -m "meta: annotate mixed catalogues with entry geography"
+          git push origin HEAD:main
