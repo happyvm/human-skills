@@ -1,0 +1,402 @@
+# Cross-catalog overlap analysis
+
+> Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
+
+- catalogues scanned: **97**
+- credential-like table rows scanned: **1425**
+- exact normalized names present in 2+ files: **86**
+- specialist↔specialist file pairs with exact overlap: **61**
+- conservative near-duplicate candidates: **0**
+
+## Interpretation
+
+- `free-it.md`, `free-non-it.md`, `paid-under-500.md`, `paid-over-500.md` are treated as intentional aggregators.
+- `entrepreneur*` catalogues are excluded from cleanup ranking because canonical ownership is already enforced separately.
+- A specialist↔specialist overlap is the main signal for the next dedup pass.
+
+## Highest-overlap specialist catalogue pairs
+
+| Shared exact names | Catalogue A | Catalogue B | Examples |
+|---:|---|---|---|
+| 6 | `observability-sre-devops-under-500.md` | `tools-platforms-under-500.md` | Elastic Certified Analyst, Elastic Engineer / Observability Engineer, Elastic Certified SIEM Analyst, Elastic Analyst / SIEM Analyst, Elastic Certified Engineer |
+| 4 | `arista-academy-certification-2026.md` | `storage-data-protection-under-500.md` | Professional, Associate, Specialist, Expert |
+| 4 | `hpe-morpheus-private-cloud-2026.md` | `tools-platforms-under-500.md` | HPE0 / HPE6, HPE2, HPE3, HPE7 |
+| 3 | `data-database-platforms-under-500.md` | `observability-sre-devops-under-500.md` | Elastic Certified Analyst, Elastic Engineer / Observability Engineer, Elastic SIEM Analyst |
+| 3 | `data-database-platforms-under-500.md` | `tools-platforms-under-500.md` | Elastic Certified Analyst, Elastic Engineer / Observability Engineer, Elastic SIEM Analyst |
+| 3 | `ibm-enterprise-security-ai-under-500.md` | `mainframe-enterprise-software.md` | IBM Db2 13 for z/OS DBA Professional, IBM MQ 9.4 Administrator Professional, IBM z/OS v3.x Administrator Professional |
+| 3 | `hpe-morpheus-private-cloud-2026.md` | `virtualization-private-cloud-under-500.md` | Nutanix NCM-MCI, Nutanix NCP-MCI, VMware VCP-VCF Architect |
+| 2 | `arista-academy-certification-2026.md` | `itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md` | Professional, Associate |
+| 2 | `arista-academy-certification-2026.md` | `network-security-adc-sase-under-500.md` | Professional, Specialist |
+| 2 | `arista-academy-certification-2026.md` | `public-cloud-multicloud-under-500.md` | Professional, Associate |
+| 2 | `arista-academy-certification-2026.md` | `tools-platforms-under-500.md` | Professional, Associate |
+| 2 | `itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md` | `public-cloud-multicloud-under-500.md` | Certified Professional, Certified Associate |
+| 2 | `itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md` | `storage-data-protection-under-500.md` | Certified Professional, Certified Associate |
+| 2 | `itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md` | `tools-platforms-under-500.md` | Certified Professional, Certified Associate |
+| 2 | `network-security-adc-sase-under-500.md` | `public-cloud-multicloud-under-500.md` | Professional, Foundational |
+| 2 | `network-security-adc-sase-under-500.md` | `storage-data-protection-under-500.md` | Professional, Specialist |
+| 2 | `public-cloud-multicloud-under-500.md` | `storage-data-protection-under-500.md` | Professional, Associate |
+| 2 | `public-cloud-multicloud-under-500.md` | `tools-platforms-under-500.md` | Professional, Associate |
+| 2 | `storage-data-protection-under-500.md` | `tools-platforms-under-500.md` | Professional, Associate |
+| 2 | `compensation-total-rewards.md` | `management-transformation-over-500.md` | GPHR, HRCI SPHR / SPHRi / GPHR |
+| 2 | `cloud-native-platform-engineering-under-500.md` | `observability-sre-devops-under-500.md` | OpenTelemetry Certified Associate, Prometheus Certified Associate |
+| 2 | `cyber-premium-over-500.md` | `practical-cyber-under-500.md` | Practitioner, Registered |
+| 2 | `business-finance-under-500.md` | `lean-it-lean-management-2026.md` | Six Sigma Green Belt — CSSC, Six Sigma Yellow Belt — CSSC |
+| 1 | `arista-academy-certification-2026.md` | `marketing-sales-professional.md` | Professional |
+| 1 | `arista-academy-certification-2026.md` | `network-datacenter-advanced-under-500.md` | Professional |
+| 1 | `itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md` | `marketing-sales-professional.md` | Certified Professional |
+| 1 | `itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md` | `network-datacenter-advanced-under-500.md` | Certified Professional |
+| 1 | `itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md` | `network-security-adc-sase-under-500.md` | Certified Professional |
+| 1 | `marketing-sales-professional.md` | `network-datacenter-advanced-under-500.md` | professional certification |
+| 1 | `marketing-sales-professional.md` | `network-security-adc-sase-under-500.md` | professional certification |
+| 1 | `marketing-sales-professional.md` | `public-cloud-multicloud-under-500.md` | professional certification |
+| 1 | `marketing-sales-professional.md` | `storage-data-protection-under-500.md` | professional certification |
+| 1 | `marketing-sales-professional.md` | `tools-platforms-under-500.md` | professional certification |
+| 1 | `network-datacenter-advanced-under-500.md` | `network-security-adc-sase-under-500.md` | Professional |
+| 1 | `network-datacenter-advanced-under-500.md` | `public-cloud-multicloud-under-500.md` | Professional |
+| 1 | `network-datacenter-advanced-under-500.md` | `storage-data-protection-under-500.md` | Professional |
+| 1 | `network-datacenter-advanced-under-500.md` | `tools-platforms-under-500.md` | Professional |
+| 1 | `network-security-adc-sase-under-500.md` | `tools-platforms-under-500.md` | Professional |
+| 1 | `arista-academy-certification-2026.md` | `hr-people-hrtech.md` | Associate |
+| 1 | `arista-academy-certification-2026.md` | `observability-vendor-low-cost-2026.md` | Associate |
+
+## Domain-pair overlap hotspots
+
+| Exact overlaps | Domain A | Domain B |
+|---:|---|---|
+| 7 | `network` | `storage-backup` |
+| 7 | `devops-automation` | `observability` |
+| 5 | `cloud` | `network` |
+| 4 | `itsm-middleware` | `network` |
+| 4 | `network` | `network` |
+| 4 | `devops-automation` | `network` |
+| 4 | `devops-automation` | `virtualization` |
+| 3 | `business-soft-skills` | `network` |
+| 3 | `data-database` | `observability` |
+| 3 | `data-database` | `devops-automation` |
+| 3 | `mainframe` | `security` |
+| 3 | `virtualization` | `virtualization` |
+| 2 | `cloud` | `itsm-middleware` |
+| 2 | `itsm-middleware` | `storage-backup` |
+| 2 | `devops-automation` | `itsm-middleware` |
+| 2 | `cloud` | `storage-backup` |
+| 2 | `cloud` | `devops-automation` |
+| 2 | `devops-automation` | `storage-backup` |
+| 2 | `governance-grc` | `hr-people` |
+| 2 | `kubernetes-platform` | `observability` |
+| 2 | `security` | `security` |
+| 2 | `finance-risk` | `itsm-middleware` |
+| 1 | `business-soft-skills` | `itsm-middleware` |
+| 1 | `business-soft-skills` | `cloud` |
+| 1 | `business-soft-skills` | `storage-backup` |
+| 1 | `business-soft-skills` | `devops-automation` |
+| 1 | `hr-people` | `network` |
+| 1 | `network` | `observability` |
+| 1 | `hr-people` | `itsm-middleware` |
+| 1 | `hr-people` | `observability` |
+
+## Exact duplicate-name groups — specialist files
+
+### Professional
+
+- `arista-academy-certification-2026.md:29` — `| Professional | Professional practical exam | **395 $** |`
+- `itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md:29` — `| Atlassian | Certified Professional | **249 $** | ✅ sous 500 |`
+- `marketing-sales-professional.md:33` — `| AMA PCM Marketing Management — exam only | **249 $ membre / 349 $ non-membre** | professional certification |`
+- `network-datacenter-advanced-under-500.md:34` — `| Extreme Networks | Professional | **495 $** / exemples EMEA >500 € | ⚠️ dépend de la région |`
+- `network-security-adc-sase-under-500.md:144` — `| Professional | **200 $** |`
+- `public-cloud-multicloud-under-500.md:55` — `| Professional | 300 $ | **256 €** |`
+- `storage-data-protection-under-500.md:108` — `| Professional | **300 $** |`
+- `tools-platforms-under-500.md:126` — `| Professional | **300 $ + taxes** |`
+
+### Associate
+
+- `arista-academy-certification-2026.md:27` — `| Associate | Foundation practical exam | **295 $** |`
+- `hr-people-hrtech.md:229` — `| Associate | **2 065 £** | **2 296 £** |`
+- `hr-people-hrtech.md:253` — `| Associate | **229 €** |`
+- `itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md:28` — `| Atlassian | Certified Associate | **100 $** | ✅ excellent ROI |`
+- `observability-vendor-low-cost-2026.md:29` — `| Dynatrace | Associate Certification | **~200 $** | ⚠️ prix communautaire à revalider |`
+- `public-cloud-multicloud-under-500.md:54` — `| Associate | 150 $ | **128 €** |`
+- `storage-data-protection-under-500.md:107` — `| Associate | **200 $** |`
+- `tools-platforms-under-500.md:125` — `| Associate | **150 $ + taxes** |`
+
+### Foundational
+
+- `free-data-governance-dataworld-2026.md:30` — `| data.world End User Certification | Foundational | **0 $** | assessment |`
+- `network-security-adc-sase-under-500.md:143` — `| Foundational | **150 $** |`
+- `public-cloud-multicloud-under-500.md:53` — `| Foundational | 100 $ | **85 €** |`
+
+### Specialist
+
+- `arista-academy-certification-2026.md:28` — `| Specialist | Specialist practical exam | **295 $** |`
+- `network-security-adc-sase-under-500.md:145` — `| Specialist | **250 $** |`
+- `storage-data-protection-under-500.md:109` — `| Specialist | **300 $** |`
+
+### Elastic Certified Analyst
+
+- `data-database-platforms-under-500.md:35` — `| Elastic Certified Analyst | **400 $** | performance-based |`
+- `observability-sre-devops-under-500.md:173` — `| Elastic Certified Analyst | **400 $** |`
+- `tools-platforms-under-500.md:218` — `| Elastic Certified Analyst | **400 $** |`
+
+### Elastic Engineer / Observability Engineer
+
+- `data-database-platforms-under-500.md:37` — `| Elastic Engineer / Observability Engineer | **500 $** | performance-based |`
+- `observability-sre-devops-under-500.md:39` — `| Elastic Engineer / Observability Engineer | **500 $** | performance-based |`
+- `tools-platforms-under-500.md:45` — `| Elastic Certified Engineer / Observability Engineer | Elastic | **500 $** | ⚠️ frontière |`
+
+### Elastic SIEM Analyst
+
+- `data-database-platforms-under-500.md:36` — `| Elastic SIEM Analyst | **400 $** | performance-based |`
+- `observability-sre-devops-under-500.md:174` — `| Elastic Certified SIEM Analyst | **400 $** |`
+- `tools-platforms-under-500.md:219` — `| Elastic Certified SIEM Analyst | **400 $** |`
+
+### Expert
+
+- `arista-academy-certification-2026.md:30` — `| Expert | Expert practical exam | **1 995 $** |`
+- `storage-data-protection-under-500.md:110` — `| Expert | **400 $** |`
+
+### IAPP AIGP
+
+- `ai-governance-risk-safety.md:32` — `| IAPP AIGP | **649 $ membre / 799 $ non-membre** | maintenance 2 ans |`
+- `privacy-dpo-france.md:35` — `| IAPP AIGP | **799 $ non-member exam + maintien** | cycle 2 ans | AI governance |`
+
+### Cambridge C1 Advanced
+
+- `business-finance-under-500.md:42` — `| Cambridge C1 Advanced | Anglais | **~295 € recommandé France** | ⭐⭐⭐⭐⭐ | 🌍 INT |`
+- `language-certifications.md:34` — `| Cambridge C1 Advanced | **295 € recommandé** | diplôme CECR |`
+
+### Elastic Analyst / SIEM Analyst
+
+- `observability-sre-devops-under-500.md:38` — `| Elastic Analyst / SIEM Analyst | **400 $** | performance-based |`
+- `tools-platforms-under-500.md:44` — `| Elastic Certified Analyst / SIEM Analyst | Elastic / SIEM | **400 $** | ⭐⭐⭐⭐ |`
+
+### Elastic Certified Engineer
+
+- `observability-sre-devops-under-500.md:175` — `| Elastic Certified Engineer | **500 $** |`
+- `tools-platforms-under-500.md:220` — `| Elastic Certified Engineer | **500 $** |`
+
+### Elastic Certified Observability Engineer
+
+- `observability-sre-devops-under-500.md:176` — `| Elastic Certified Observability Engineer | **500 $** |`
+- `tools-platforms-under-500.md:221` — `| Elastic Certified Observability Engineer | **500 $** |`
+
+### GPHR
+
+- `compensation-total-rewards.md:137` — `| GPHR | 100 $ | 495 $ | **595 $** | 🌍 INT |`
+- `management-transformation-over-500.md:248` — `| GPHR | 100 $ | 495 $ | **595 $** |`
+
+### HPE0 / HPE6
+
+- `hpe-morpheus-private-cloud-2026.md:35` — `| HPE0 / HPE6 | **260 $** |`
+- `tools-platforms-under-500.md:157` — `| HPE0 / HPE6 | **260 $** |`
+
+### HPE2
+
+- `hpe-morpheus-private-cloud-2026.md:34` — `| HPE2 | **140 $** |`
+- `tools-platforms-under-500.md:156` — `| HPE2 | **140 $** |`
+
+### HPE3
+
+- `hpe-morpheus-private-cloud-2026.md:33` — `| HPE3 | **65 $** |`
+- `tools-platforms-under-500.md:155` — `| HPE3 | **65 $** |`
+
+### HPE7
+
+- `hpe-morpheus-private-cloud-2026.md:36` — `| HPE7 | **350 $** |`
+- `tools-platforms-under-500.md:158` — `| HPE7 | **350 $** |`
+
+### HRCI SPHR / SPHRi / GPHR
+
+- `compensation-total-rewards.md:33` — `| HRCI SPHR / SPHRi / GPHR | 1 examen | **595 $** total application+exam | 🌐 MIX |`
+- `management-transformation-over-500.md:29` — `| HRCI SPHR / SPHRi / GPHR | **595 $** application incluse | Ressources humaines |`
+
+### IBM Db2 13 for z/OS DBA Professional
+
+- `ibm-enterprise-security-ai-under-500.md:34` — `| IBM Db2 13 for z/OS DBA Professional | **200 $** |`
+- `mainframe-enterprise-software.md:29` — `| IBM Db2 13 for z/OS DBA Professional | **200 $** | Mainframe database |`
+
+### IBM MQ 9.4 Administrator Professional
+
+- `ibm-enterprise-security-ai-under-500.md:32` — `| IBM MQ 9.4 Administrator Professional | **200 $** |`
+- `mainframe-enterprise-software.md:30` — `| IBM MQ 9.4 Administrator Professional | **200 $** | Middleware / messaging |`
+
+### IBM z/OS v3.x Administrator Professional
+
+- `ibm-enterprise-security-ai-under-500.md:30` — `| IBM z/OS v3.x Administrator Professional | **200 $** |`
+- `mainframe-enterprise-software.md:27` — `| IBM z/OS v3.x Administrator Professional | **200 $** | Mainframe / z/OS |`
+
+### LOMA FLMI — non-member pricing
+
+- `actuarial-accounting-insurance.md:405` — `| LOMA FLMI — non-member pricing | **8 500 $** | 🌍 INT |`
+- `insurance-risk-designations.md:309` — `| LOMA FLMI non-member pricing | **8 500 $** | 🌍 INT |`
+
+### Nutanix NCM-MCI
+
+- `hpe-morpheus-private-cloud-2026.md:218` — `| Nutanix NCM-MCI | **300 $** + prerequisite |`
+- `virtualization-private-cloud-under-500.md:35` — `| Nutanix NCM-MCI | **300 $** | NCP/NCM valide requis | Advanced practical lab |`
+
+### Nutanix NCP-MCI
+
+- `hpe-morpheus-private-cloud-2026.md:215` — `| Nutanix NCP-MCI | **200 $** |`
+- `virtualization-private-cloud-under-500.md:32` — `| Nutanix NCP-MCI | **~199–200 $** | ❌ | AHV / AOS / Prism / multicloud |`
+
+### NVIDIA
+
+- `ai-infrastructure-gpu-hpc-2026.md:27` — `| NVIDIA | NCA AI Infrastructure & Operations | **125 $** | ✅ excellent point d'entrée |`
+- `ai-infrastructure-gpu-hpc-2026.md:28` — `| NVIDIA | NCP AI Infrastructure | **400 $** | ✅ sous 500 |`
+- `ai-infrastructure-gpu-hpc-2026.md:29` — `| NVIDIA | NCP AI Networking | **400 $** | ✅ sous 500 |`
+- `ai-infrastructure-gpu-hpc-2026.md:30` — `| NVIDIA | NCP AI Rack & Interconnect | **400 $** | ✅ sous 500 |`
+- `ai-infrastructure-gpu-hpc-2026.md:31` — `| NVIDIA | NCP AI Operations | **500 $** | ✅ limite haute, hands-on lab |`
+- `network-datacenter-advanced-under-500.md:28` — `| NVIDIA | NCA AI Infrastructure & Operations | **125 $** | ✅ sous 500 |`
+- `network-datacenter-advanced-under-500.md:33` — `| NVIDIA | NCP AI Networking / Infrastructure / Rack | **400 $** | ✅ sous 500 |`
+- `network-datacenter-advanced-under-500.md:35` — `| NVIDIA | NCP AI Operations | **500 $** | ⚠️ exactement à la limite |`
+
+### OpenTelemetry Certified Associate
+
+- `cloud-native-platform-engineering-under-500.md:39` — `| OpenTelemetry Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
+- `observability-sre-devops-under-500.md:36` — `| OpenTelemetry Certified Associate | **250 $** | CNCF |`
+
+### PMI Construction Professional — PMI-CP
+
+- `construction-btp-global-2026.md:56` — `| PMI Construction Professional — **PMI-CP** | CERT | management de projet construction | 🌍 INT |`
+- `construction-cost-engineering.md:30` — `| PMI Construction Professional — PMI-CP | **319 $ membre / 399 $ plein tarif** | 4 modules obligatoires + 3 ans expérience |`
+
+### PMI Project Management Ready
+
+- `business-finance-under-500.md:30` — `| PMI Project Management Ready | Projet | **123 $ US indicatif** | ⭐⭐⭐ | 🌍 INT |`
+- `tools-platforms-under-500.md:312` — `| PMI Project Management Ready | **123 $** |`
+
+### Practitioner
+
+- `cyber-premium-over-500.md:31` — `| Practitioner | CPSA, CPTIA, CPIA | **275 £** |`
+- `practical-cyber-under-500.md:36` — `| CREST CPSA / CPTIA / CPIA | Practitioner | **275 £ + taxes** | Non | selon règles | ⭐⭐⭐⭐ |`
+- `practical-cyber-under-500.md:214` — `| Practitioner | CPSA, CPTIA, CPIA | **275 £** |`
+
+### Prix officiel
+
+- `construction-cost-engineering.md:27` — `| Credential | Prix officiel | Prérequis / TCO |`
+- `privacy-dpo-france.md:27` — `| Credential | Prix officiel | Validité / maintien | Notes |`
+
+### Prometheus Certified Associate
+
+- `cloud-native-platform-engineering-under-500.md:36` — `| Prometheus Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
+- `observability-sre-devops-under-500.md:35` — `| Prometheus Certified Associate | **250 $** | CNCF |`
+
+### Red Hat exam standard
+
+- `iam-devsecops-automation-under-500.md:31` — `| Red Hat exam standard | **500 $ list price** | performance-based |`
+- `virtualization-private-cloud-under-500.md:36` — `| Red Hat certification exam standard | **500 $ list price** | selon examen | Linux / OpenShift / Ceph |`
+
+### Registered
+
+- `cyber-premium-over-500.md:32` — `| Registered | CRT, CRTIA, CRIA | **600 £** |`
+- `practical-cyber-under-500.md:215` — `| Registered | CRT, CRTIA, CRIA | **600 £** |`
+
+### Six Sigma Green Belt — CSSC
+
+- `business-finance-under-500.md:32` — `| Six Sigma Green Belt — CSSC | Lean / qualité | **195 $** | ⭐⭐⭐⭐ | 🌍 INT |`
+- `lean-it-lean-management-2026.md:35` — `| Six Sigma Green Belt — CSSC | Council for Six Sigma Certification | **195 $** | ✅ voir `business-finance-under-500.md` |`
+
+### Six Sigma Yellow Belt — CSSC
+
+- `business-finance-under-500.md:31` — `| Six Sigma Yellow Belt — CSSC | Lean / qualité | **99 $** | ⭐⭐⭐ | 🌍 INT |`
+- `lean-it-lean-management-2026.md:32` — `| Six Sigma Yellow Belt — CSSC | Council for Six Sigma Certification | **99 $** | ✅ voir `business-finance-under-500.md` |`
+
+### Sumo Logic
+
+- `observability-vendor-certifications-2026.md:28` — `| Sumo Logic | autres certifications | **150 $** |`
+- `observability-vendor-low-cost-2026.md:27` — `| Sumo Logic | Fundamentals certifications | **100 $** | ✅ sous 500 |`
+- `observability-vendor-low-cost-2026.md:28` — `| Sumo Logic | Advanced certifications | **150 $** | ✅ sous 500 |`
+
+### Total
+
+- `apm-chartered-project.md:73` — `| Total | **£1 325** | **£1 590** |`
+- `apm-chartered-project.md:101` — `| Total | **£900** | **£1 080** |`
+- `audit-finance-project-over-500.md:61` — `| **Total certification** | **990 $** |`
+- `audit-finance-project-over-500.md:71` — `| **Total certification** | **1 515 $** |`
+
+### VMware VCP-VCF Architect
+
+- `hpe-morpheus-private-cloud-2026.md:216` — `| VMware VCP-VCF Architect | **250 $** |`
+- `virtualization-private-cloud-under-500.md:28` — `| VMware VCP-VCF Architect | **250 $** | ❌ | Private cloud architecture |`
+
+## Near-duplicate candidates
+
+| Similarity | Catalogue A | Entry A | Catalogue B | Entry B |
+|---:|---|---|---|---|
+| — | — | — | — | — |
+
+## Largest catalogues by credential-like table rows
+
+| Rows | Catalogue |
+|---:|---|
+| 124 | `paid-under-500.md` |
+| 64 | `entrepreneurship-startup-business-creation-2026.md` |
+| 56 | `paid-over-500.md` |
+| 48 | `practical-cyber-under-500.md` |
+| 40 | `tools-platforms-under-500.md` |
+| 39 | `networking-wireless-ai-infra.md` |
+| 36 | `audit-finance-project-over-500.md` |
+| 34 | `entrepreneur-international-functional-credentials-2026.md` |
+| 30 | `actuarial-accounting-insurance.md` |
+| 30 | `hr-people-hrtech.md` |
+| 29 | `entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md` |
+| 29 | `network-security-adc-sase-under-500.md` |
+| 27 | `entrepreneur-treasury-cash-pooling-epm-carveout-2026.md` |
+| 25 | `business-finance-under-500.md` |
+| 24 | `public-cloud-multicloud-under-500.md` |
+| 21 | `real-estate-property.md` |
+| 20 | `entrepreneur-growth-finance-ecommerce-ip-2026.md` |
+| 19 | `entrepreneur-eta-family-ess-export-regulated-2026.md` |
+| 19 | `language-certifications.md` |
+| 19 | `storage-data-protection-under-500.md` |
+| 18 | `cloud-native-platform-engineering-under-500.md` |
+| 18 | `entrepreneur-france-practical-resources-2026.md` |
+| 17 | `ibm-enterprise-security-ai-under-500.md` |
+| 17 | `lean-it-lean-management-2026.md` |
+| 17 | `network-datacenter-advanced-under-500.md` |
+| 17 | `observability-sre-devops-under-500.md` |
+| 16 | `compliance-aml-fpa-over-500.md` |
+| 16 | `insurance-risk-designations.md` |
+| 15 | `ai-engineering-mlops-agents-under-500.md` |
+| 14 | `finance-risk-fraud-over-500.md` |
+
+## Domain row volume
+
+| Rows | Domain |
+|---:|---|
+| 260 | `entrepreneurship` |
+| 251 | `finance-risk` |
+| 183 | `general-it` |
+| 159 | `business-management` |
+| 86 | `governance-grc` |
+| 81 | `governance` |
+| 78 | `security` |
+| 72 | `supply-chain` |
+| 69 | `ai-infrastructure` |
+| 63 | `network` |
+| 55 | `business-soft-skills` |
+| 47 | `itsm-middleware` |
+| 46 | `hr-people` |
+| 40 | `devops-automation` |
+| 36 | `storage-backup` |
+| 28 | `observability` |
+| 27 | `enterprise-software` |
+| 27 | `virtualization` |
+| 26 | `datacenter-facilities` |
+| 25 | `linux` |
+| 25 | `pharma-regulatory` |
+| 24 | `cloud` |
+| 21 | `real-estate` |
+| 20 | `esg-sustainability` |
+| 20 | `legal` |
+| 19 | `language` |
+| 18 | `kubernetes-platform` |
+| 16 | `industrial-ot` |
+| 15 | `data-database` |
+| 13 | `sustainability` |
+| 11 | `project-management` |
+| 10 | `safety-occupational` |
+| 8 | `identity-iam` |
+| 8 | `mainframe` |
+| 5 | `construction-btp` |
+| 4 | `accessibility` |
+| 4 | `euc-endpoint` |
