@@ -24,26 +24,26 @@ verified: 2026-08-28
 
 ## Vue rapide
 
-| Certification / credential | Domaine | Prix officiel indicatif | Valeur |
-|---|---|---:|:---:|
-| Entrepreneurship and Small Business — Certiport | Entrepreneuriat | **84 $ US indicatif** | ⭐⭐⭐ |
-| PMI Project Management Ready | Projet | **123 $ US indicatif** | ⭐⭐⭐ |
-| Six Sigma Yellow Belt — CSSC | Lean / qualité | **99 $** | ⭐⭐⭐ |
-| Six Sigma Green Belt — CSSC | Lean / qualité | **195 $** | ⭐⭐⭐⭐ |
-| Scrum.org PSM I | Agile / management | **200 $** | ⭐⭐⭐⭐⭐ |
-| Scrum.org PSPO I | Produit | **200 $** | ⭐⭐⭐⭐ |
-| Scrum.org PAL I | Leadership Agile | **200 $** | ⭐⭐⭐⭐ |
-| ISACA COBIT Foundation | Gouvernance | **175 $** | ⭐⭐⭐⭐⭐ |
-| ISACA IT Risk Fundamentals | Risque IT | **175 $ membre / 225 $ non-membre** | ⭐⭐⭐⭐ |
-| PMI CAPM | Projet | **225 $ membre / 300 $ non-membre** | ⭐⭐⭐⭐ |
-| Scrum.org PSM II | Agile | **250 $** | ⭐⭐⭐⭐⭐ |
-| CSSC Six Sigma Black Belt | Lean / qualité | **295 $** | ⭐⭐⭐⭐ |
-| TOEIC Listening & Reading | Anglais | **~189 € Paris** | ⭐⭐⭐⭐⭐ |
-| Cambridge C1 Advanced | Anglais | **~295 € recommandé France** | ⭐⭐⭐⭐⭐ |
-| CFA Investment Foundations Certificate | Finance | **350 $** | ⭐⭐⭐⭐ |
-| IIBA ECBA | Business Analysis | **195 $ membre / 350 $ non-membre** | ⭐⭐⭐⭐ |
-| TOGAF EA Foundation | Architecture d'entreprise | **395 $** | ⭐⭐⭐⭐⭐ |
-| PMI-ACP | Agile / projet | **435 $ membre / 495 $ non-membre** | ⭐⭐⭐⭐⭐ |
+| Certification / credential | Domaine | Prix officiel indicatif | Valeur | Portée |
+| --- | --- | ---: | :---: | :---: |
+| Entrepreneurship and Small Business — Certiport | Entrepreneuriat | **84 $ US indicatif** | ⭐⭐⭐ | 🌍 INT |
+| PMI Project Management Ready | Projet | **123 $ US indicatif** | ⭐⭐⭐ | 🌍 INT |
+| Six Sigma Yellow Belt — CSSC | Lean / qualité | **99 $** | ⭐⭐⭐ | 🌍 INT |
+| Six Sigma Green Belt — CSSC | Lean / qualité | **195 $** | ⭐⭐⭐⭐ | 🌍 INT |
+| Scrum.org PSM I | Agile / management | **200 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
+| Scrum.org PSPO I | Produit | **200 $** | ⭐⭐⭐⭐ | 🌍 INT |
+| Scrum.org PAL I | Leadership Agile | **200 $** | ⭐⭐⭐⭐ | 🌍 INT |
+| ISACA COBIT Foundation | Gouvernance | **175 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
+| ISACA IT Risk Fundamentals | Risque IT | **175 $ membre / 225 $ non-membre** | ⭐⭐⭐⭐ | 🌍 INT |
+| PMI CAPM | Projet | **225 $ membre / 300 $ non-membre** | ⭐⭐⭐⭐ | 🌍 INT |
+| Scrum.org PSM II | Agile | **250 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
+| CSSC Six Sigma Black Belt | Lean / qualité | **295 $** | ⭐⭐⭐⭐ | 🌍 INT |
+| TOEIC Listening & Reading | Anglais | **~189 € Paris** | ⭐⭐⭐⭐⭐ | 🌍 INT |
+| Cambridge C1 Advanced | Anglais | **~295 € recommandé France** | ⭐⭐⭐⭐⭐ | 🌍 INT |
+| CFA Investment Foundations Certificate | Finance | **350 $** | ⭐⭐⭐⭐ | 🌍 INT |
+| IIBA ECBA | Business Analysis | **195 $ membre / 350 $ non-membre** | ⭐⭐⭐⭐ | 🌍 INT |
+| TOGAF EA Foundation | Architecture d'entreprise | **395 $** | ⭐⭐⭐⭐⭐ | 🌍 INT |
+| PMI-ACP | Agile / projet | **435 $ membre / 495 $ non-membre** | ⭐⭐⭐⭐⭐ | 🌍 INT |
 
 ---
 
@@ -86,7 +86,7 @@ Source : https://www.cfainstitute.org/programs/investment-foundations-certificat
 
 Tarif 2026 :
 
-- membre PMI : **435 $** ;
+- membre PMI : **435 $** ; — 🌍 INT
 - non-membre : **495 $**.
 
 Prérequis annoncés :
@@ -110,7 +110,7 @@ Source : https://www.pmi.org/certifications/agile-acp
 
 Tarif de référence :
 
-- membre PMI : **225 $** ;
+- membre PMI : **225 $** ; — 🌍 INT
 - non-membre : **300 $**.
 
 Intéressant pour structurer :
@@ -133,21 +133,21 @@ Pas de formation obligatoire.
 
 **Auto-formation officielle et gratuite :** [scrum.org/open-assessments](https://www.scrum.org/open-assessments) — assessments gratuits sans certification (Scrum Open, Product Owner Open, Agile Leadership Open…) pour préparer les examens payants.
 
-| Credential | Prix |
-|---|---:|
-| PSM I | **200 $** |
-| PSPO I | **200 $** |
-| PAL I | **200 $** |
-| PSM II | **250 $** |
+| Credential | Prix | Portée |
+| --- | ---: | :---: |
+| PSM I | **200 $** | 🌍 INT |
+| PSPO I | **200 $** | 🌍 INT |
+| PAL I | **200 $** | 🌍 INT |
+| PSM II | **250 $** | 🌍 INT |
 
 Source : https://www.scrum.org/assessments
 
 Pour management / direction :
 
-- **PSM I** : très bon socle ;
-- **PAL I** : leadership Agile ;
-- **PSM II** : signal plus avancé ;
-- **PSPO I** : intéressant pour produit / valeur / priorisation.
+- **PSM I** : très bon socle ; — 🌍 INT
+- **PAL I** : leadership Agile ; — 🌍 INT
+- **PSM II** : signal plus avancé ; — 🌍 INT
+- **PSPO I** : intéressant pour produit / valeur / priorisation. — 🌍 INT
 
 ---
 
@@ -275,7 +275,7 @@ Pour un CV international, un score / niveau externe standardisé est généralem
 Le store US Certiport affiche notamment :
 
 - Entrepreneurship and Small Business : **84 $** ;
-- PMI Project Management Ready : **123 $** ;
+- PMI Project Management Ready : **123 $** ; — 🌍 INT
 - Critical Career Skills : **72 $**.
 
 Source : https://store.certiport.com/shop/certiport-products

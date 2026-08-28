@@ -219,19 +219,19 @@ Source :
 
 # 6. Comparatif
 
-| Credential | Coût initial indicatif |
-|---|---:|
-| LEED Green Associate étudiant | **100 $** |
-| WELL AP étudiant | **125 $** |
-| LEED Green Associate | **250 $** |
-| WELL AP | **299 $** |
-| LEED AP specialty | **350 $** |
-| WELL AP + materials | **369 $** |
-| LEED combined membre | **400 $** |
-| LEED combined standard | **550 $** |
-| GRI exam seul | **250 € + 4 cours obligatoires** |
-| BREEAM AP DACH | **1 500 € HT formation + test** |
-| BREEAM AP + 1 an listing optionnel | **2 000 € HT** |
+| Credential | Coût initial indicatif | Portée |
+| --- | ---: | :---: |
+| LEED Green Associate étudiant | **100 $** | 🌍 INT |
+| WELL AP étudiant | **125 $** | 🌍 INT |
+| LEED Green Associate | **250 $** | 🌍 INT |
+| WELL AP | **299 $** | 🌍 INT |
+| LEED AP specialty | **350 $** | 🌍 INT |
+| WELL AP + materials | **369 $** | 🌍 INT |
+| LEED combined membre | **400 $** | 🌍 INT |
+| LEED combined standard | **550 $** | 🌍 INT |
+| GRI exam seul | **250 € + 4 cours obligatoires** | 🌍 INT |
+| BREEAM AP DACH | **1 500 € HT formation + test** | 🌍 INT · UK-origin |
+| BREEAM AP + 1 an listing optionnel | **2 000 € HT** | 🌍 INT · UK-origin |
 
 ---
 

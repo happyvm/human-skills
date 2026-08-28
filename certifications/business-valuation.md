@@ -24,14 +24,14 @@ verified: 2026-08-28
 
 # Vue rapide
 
-| Credential / parcours | Prix | Remarque |
-|---|---:|---|
-| NACVA CVA application | **100 $** | one-time designation application |
-| NACVA CVA exam | **625 $** | 5 h proctored |
-| NACVA membership | **599 $ / an** | facultatif depuis changement de politique, autres designee fees si non-member |
-| CVA Self-Study Package | **2 999 $** | training + exam + 1st-year membership + resources |
-| CVA Live/Virtual Package | **4 195 $** | 5-day training + exam + resources + membership |
-| CVA Student Package | **1 299 $** | full-time eligible students |
+| Credential / parcours | Prix | Remarque | Portée |
+| --- | ---: | --- | :---: |
+| NACVA CVA application | **100 $** | one-time designation application | 🌍 INT · US-centric |
+| NACVA CVA exam | **625 $** | 5 h proctored | 🌍 INT · US-centric |
+| NACVA membership | **599 $ / an** | facultatif depuis changement de politique, autres designee fees si non-member | 🌍 INT · US-centric |
+| CVA Self-Study Package | **2 999 $** | training + exam + 1st-year membership + resources | 🌍 INT · US-centric |
+| CVA Live/Virtual Package | **4 195 $** | 5-day training + exam + resources + membership | 🌍 INT · US-centric |
+| CVA Student Package | **1 299 $** | full-time eligible students | 🌍 INT · US-centric |
 
 ---
 
@@ -269,13 +269,13 @@ Cela illustre l'intérêt de calculer le TCO **selon les credentials déjà dét
 
 # 10. Positionnement
 
-| Besoin | Credential / organisme |
-|---|---|
-| Business valuation US/international | NACVA CVA |
-| Appraisal multidiscipline | ASA |
-| Real estate valuation | RICS / TEGoVA / Appraisal Institute |
-| Financial forensics | NACVA MAFF |
-| Commercial real estate investment | CCIM |
+| Besoin | Credential / organisme | Portée |
+| --- | --- | :---: |
+| Business valuation US/international | NACVA CVA | 🌐 MIX |
+| Appraisal multidiscipline | ASA | ❓ UNV |
+| Real estate valuation | RICS / TEGoVA / Appraisal Institute | 🌐 MIX |
+| Financial forensics | NACVA MAFF | 🌍 INT · US-centric |
+| Commercial real estate investment | CCIM | 🇺🇸 US |
 
 ---
 

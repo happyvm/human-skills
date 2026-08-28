@@ -125,7 +125,7 @@ NICET distingue plusieurs programmes avec niveaux de certification, expérience 
 
 ### Retired / testing discontinued
 
-- **Video Security Systems Designer / Technician** : testing discontinued depuis le 31 décembre 2023 ; titulaires existants peuvent maintenir leur certification selon NICET.
+- **Video Security Systems Designer / Technician** : testing discontinued depuis le 31 décembre 2023 ; titulaires existants peuvent maintenir leur certification selon NICET. — 🇺🇸 US
 
 Sources :
 
@@ -170,10 +170,10 @@ Sources :
 
 Le programme **CST — Certified Survey Technician** du National Society of Professional Surveyors fonctionne par examen + expérience avec deux grands tracks, **Field** et **Office**.
 
-- **CST Level I** — entry level — CERT
-- **CST Level II** — instrument/computer operator — CERT
-- **CST Level III** — party chief / chief computer operator — CERT
-- **CST Level IV** — chief of parties / office manager — CERT ; nécessite déjà Level III
+- **CST Level I** — entry level — CERT — 🌍 INT
+- **CST Level II** — instrument/computer operator — CERT — 🌍 INT
+- **CST Level III** — party chief / chief computer operator — CERT — 🌍 INT
+- **CST Level IV** — chief of parties / office manager — CERT ; nécessite déjà Level III — 🌍 INT
 
 Source : https://cstnsps.com/
 
@@ -211,7 +211,7 @@ Source : https://www.asprs.org/Main/Main/Certification/ASPRS-Certification-Progr
 Graphisoft présente un système multi-level :
 
 - **Archicad BIM User** — COURSE/CERT selon exam path
-- **Graphisoft Certified Archicad BIM Author** — CERT
+- **Graphisoft Certified Archicad BIM Author** — CERT — 🌍 INT
 - **Archicad BIM Coordinator** — COURSE/CERT, programme avec assessments
 - **Archicad BIM Manager** — COURSE/CERT, programme avancé avec assessments
 
@@ -249,7 +249,7 @@ Sources :
 
 ## Bluebeam Certified Professional — BCP
 
-- **BCP — Bluebeam Certified Professional** — CERT / vendor credential
+- **BCP — Bluebeam Certified Professional** — CERT / vendor credential — 🌍 INT
 - prix observé : **89 $**
 - 40 questions
 - 90 minutes
@@ -262,14 +262,14 @@ Source : https://university.bluebeam.com/bluebeam-certified-professional-exam
 
 ## Bluebeam Certified Studio Management
 
-- **Bluebeam Certified Studio Management** — CERT / vendor credential
+- **Bluebeam Certified Studio Management** — CERT / vendor credential — 🌍 INT
 - prix catalogue observé : **89 $**
 
 ## Bluebeam Certified Instructor — BCI
 
-- **BCI — Bluebeam Certified Instructor** — CERT / trainer credential
+- **BCI — Bluebeam Certified Instructor** — CERT / trainer credential — 🌍 INT
 - programme premium ; prix observé dans le learning library : **3 000 $**
-- recertification BCI : programme distinct, tarif observé **600 $**
+- recertification BCI : programme distinct, tarif observé **600 $** — 🌍 INT
 
 Source : https://university.bluebeam.com/page/bluebeam-certified
 

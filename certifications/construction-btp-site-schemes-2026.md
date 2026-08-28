@@ -28,9 +28,9 @@ Le **Construction Plant Competence Scheme (CPCS)** est un scheme de cartes de co
 
 ## Routes principales
 
-- **CPCS Red Trained Operator Card** — REG / industry competence card
-- **CPCS Blue Competent Operator Card** — REG / industry competence card
-- **CPCS Tester Card / Full Tester Card** — REG/QUAL selon route
+- **CPCS Red Trained Operator Card** — REG / industry competence card — 🇬🇧 UK
+- **CPCS Blue Competent Operator Card** — REG / industry competence card — 🇬🇧 UK
+- **CPCS Tester Card / Full Tester Card** — REG/QUAL selon route — 🇬🇧 UK
 
 La carte Blue associe normalement :
 
@@ -77,13 +77,13 @@ NPORS couvre plus de 100 catégories de machines / activités et distingue clair
 
 ## NPORS CSCS route
 
-- **NPORS CSCS Trained Operator Card — Red** — REG
+- **NPORS CSCS Trained Operator Card — Red** — REG — 🇬🇧 UK
   - route opérateur formé ;
   - sans NVQ/SVQ de compétence achevé ;
   - validité 2 ans ;
   - le titulaire doit progresser vers une qualification reconnue.
 
-- **NPORS CSCS Competent Operator Card — Blue** — REG
+- **NPORS CSCS Competent Operator Card — Blue** — REG — 🇬🇧 UK
   - qualification NVQ/SVQ correspondante ;
   - validité 5 ans ;
   - renewal / CPD selon règles du scheme.
@@ -111,21 +111,21 @@ Le scheme CISRS est suffisamment structuré pour être indexé par carte / rôle
 
 ## Operative route
 
-- **CISRS Scaffolding Labourer Card** — REG
-- **CISRS Trainee Scaffolder Card** — REG
-- **CISRS Scaffolder Card — Tube & Fitting** — REG/QUAL
-- **CISRS Scaffolder Card — System** — REG/QUAL
-- **CISRS Advanced Scaffolder Card** — REG/QUAL
-- **CISRS BASE — Basic Access System Erector Card** — REG
+- **CISRS Scaffolding Labourer Card** — REG — 🇬🇧 UK
+- **CISRS Trainee Scaffolder Card** — REG — 🇬🇧 UK
+- **CISRS Scaffolder Card — Tube & Fitting** — REG/QUAL — 🇬🇧 UK
+- **CISRS Scaffolder Card — System** — REG/QUAL — 🇬🇧 UK
+- **CISRS Advanced Scaffolder Card** — REG/QUAL — 🇬🇧 UK
+- **CISRS BASE — Basic Access System Erector Card** — REG — 🇬🇧 UK
 
 ## Supervisory / management
 
-- **CISRS Scaffolding Supervisor / Manager Card** — REG/QUAL
+- **CISRS Scaffolding Supervisor / Manager Card** — REG/QUAL — 🇬🇧 UK
 
 ## Inspection
 
-- **CISRS Basic Scaffold Inspection Card** — REG/QUAL
-- **CISRS Advanced Scaffold Inspection Card** — REG/QUAL
+- **CISRS Basic Scaffold Inspection Card** — REG/QUAL — 🇬🇧 UK
+- **CISRS Advanced Scaffold Inspection Card** — REG/QUAL — 🇬🇧 UK
 - **System Scaffold Product Inspection endorsements / training** — REG / endorsement
 
 ## Parcours indicatif Scaffolder
@@ -205,7 +205,7 @@ ATSSA maintient en 2026 un portefeuille de certifications directement pertinent 
 - **Flagger Certification** — CERT / dépend aussi des règles de l'État
 - **FIT — Flagger Instructor Training** — CERT / instructor route
 - **GI — Guardrail Installer** — CERT
-- **PMI — Pavement Marking Inspector** — CERT
+- **PMI — Pavement Marking Inspector** — CERT — 🌍 INT
 - **PMT — Pavement Marking Technician** — CERT
 - **TST — Traffic Sign Technician** — CERT
 - **TMA — Truck-Mounted Attenuator Operator** — CERT

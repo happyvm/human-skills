@@ -61,62 +61,62 @@ Source : https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_referenc
 
 ## 500–1 000 € environ
 
-| Certification / parcours | Prix officiel | Coût réel indicatif | Domaine |
-|---|---:|---:|---|
-| ASQ Six Sigma Black Belt | **585 $** | ≈ **502 €** examen | Lean / qualité |
-| TOGAF Enterprise Architecture Practitioner — Combined | **595 $ affiché sur la grille Open Group consultée** | ≈ **511 €** | Architecture d'entreprise |
-| CSA CCSK + CCZT bundle | **620 $** | ≈ **532 €** | Cloud / Zero Trust |
-| GARP SCR | **625–750 $** selon statut | ≈ **537–644 €** + taxes | Climate Risk |
-| GARP RAI | **625–750 $** selon statut | ≈ **537–644 €** + taxes | AI Risk |
-| PMP non-membre | **655 $** | ≈ **562 €** + formation admissible si nécessaire | Projet |
-| ITIL Foundation direct | **690 $ TTC** | ≈ **593 €** | ITSM |
-| Cisco CCNP — core + concentration | **400 + 300 $** | ≈ **601 €** | Réseau / Cyber / Automation |
-| PRINCE2 7 Foundation direct | **701 $ TTC** | ≈ **602 €** | Projet |
-| PRINCE2 7 Practitioner direct | **778 $ TTC** | ≈ **668 €** + prérequis | Projet |
-| CSA TAISE | **795 $** | ≈ **683 €**, training + 2 attempts | AI Security / Governance |
-| IAPP CIPP/E / CIPM / CIPT | **550 $ examen + 250 $ CMF** | ≈ **687 €** sur le premier terme non-membre | Privacy |
-| IAPP AIGP | **799 $ examen + 250 $ CMF** | ≈ **901 €** sur le premier terme non-membre | AI Governance |
-| ISACA CISA / CISM / CRISC… non-membre | **760 $ + 50 $ application** | ≈ **696 €** avant maintenance | Audit / GRC / Cyber |
-| ISC2 CCSP / CGRC / CSSLP / concentrations CISSP | **575,04 € examen** | ≈ **923 € sur 3 ans** avec AMF, hors CPE | Cyber |
-| GIAC — exam only | **999 $** | ≈ **858 €** | Cyber |
+| Certification / parcours | Prix officiel | Coût réel indicatif | Domaine | Portée |
+| --- | ---: | ---: | --- | :---: |
+| ASQ Six Sigma Black Belt | **585 $** | ≈ **502 €** examen | Lean / qualité | 🌍 INT |
+| TOGAF Enterprise Architecture Practitioner — Combined | **595 $ affiché sur la grille Open Group consultée** | ≈ **511 €** | Architecture d'entreprise | 🌍 INT |
+| CSA CCSK + CCZT bundle | **620 $** | ≈ **532 €** | Cloud / Zero Trust | ❓ UNV |
+| GARP SCR | **625–750 $** selon statut | ≈ **537–644 €** + taxes | Climate Risk | 🌍 INT |
+| GARP RAI | **625–750 $** selon statut | ≈ **537–644 €** + taxes | AI Risk | 🌍 INT |
+| PMP non-membre | **655 $** | ≈ **562 €** + formation admissible si nécessaire | Projet | ❓ UNV |
+| ITIL Foundation direct | **690 $ TTC** | ≈ **593 €** | ITSM | 🌍 INT |
+| Cisco CCNP — core + concentration | **400 + 300 $** | ≈ **601 €** | Réseau / Cyber / Automation | 🌍 INT |
+| PRINCE2 7 Foundation direct | **701 $ TTC** | ≈ **602 €** | Projet | ❓ UNV |
+| PRINCE2 7 Practitioner direct | **778 $ TTC** | ≈ **668 €** + prérequis | Projet | ❓ UNV |
+| CSA TAISE | **795 $** | ≈ **683 €**, training + 2 attempts | AI Security / Governance | ❓ UNV |
+| IAPP CIPP/E / CIPM / CIPT | **550 $ examen + 250 $ CMF** | ≈ **687 €** sur le premier terme non-membre | Privacy | 🌍 INT |
+| IAPP AIGP | **799 $ examen + 250 $ CMF** | ≈ **901 €** sur le premier terme non-membre | AI Governance | 🌍 INT |
+| ISACA CISA / CISM / CRISC… non-membre | **760 $ + 50 $ application** | ≈ **696 €** avant maintenance | Audit / GRC / Cyber | 🌍 INT |
+| ISC2 CCSP / CGRC / CSSLP / concentrations CISSP | **575,04 € examen** | ≈ **923 € sur 3 ans** avec AMF, hors CPE | Cyber | 🇫🇷 FR |
+| GIAC — exam only | **999 $** | ≈ **858 €** | Cyber | 🌍 INT |
 
 ## 1 000–2 500 € environ
 
-| Certification / parcours | Coût indicatif | Domaine |
-|---|---:|---|
-| Red Hat RHCE depuis zéro — RHCSA + RHCE exam | **~1 000 $** ≈ **859 €** | Linux / Ansible |
-| PECB Foundation en candidat indépendant | **500 $ exam + 200 $ application** = **700 $** ≈ **601 €** | ISO / GRC |
-| PECB Manager en candidat indépendant | **700 + 500 $** = **1 200 $** ≈ **1 030 €** | ISO / Management |
-| PECB Lead Auditor / Lead Implementer indépendant | **1 000 + 500 $** = **1 500 $** ≈ **1 288 €** | ISO / Audit / GRC |
-| CFA Level I standard | **1 490 $** ≈ **1 280 €** | Finance |
-| CFA Level III standard | **1 590 $** ≈ **1 365 €** | Finance |
-| OffSec OSCP+ standalone | **1 699 $** ≈ **1 459 €** | Pentest |
-| OffSec Course + Certification bundle | **1 749 $** ≈ **1 502 €** | Cyber pratique |
-| ITIL Foundation + Create, Deliver & Support eLearning depuis zéro | **690 + 1 338 $** | ≈ **1 742 €** | ITSM |
-| GARP FRM complet, tarif standard, premier passage | **2 000 $ + taxes** ≈ **1 717 €** | Financial Risk |
-| Cisco CCIE minimal — core + lab | **400 + 1 600 $** ≈ **1 717 €** | Réseau expert |
-| Cisco CCDE minimal — written + practical | **450 + 1 600 $** ≈ **1 760 €** | Network Architecture |
-| ASQ Master Black Belt | **800 + 1 599 $** = **2 399 $** ≈ **2 060 €** | Lean / Qualité |
-| ASCM CLTD bundle membre+upgrade | **1 980 $** ≈ **1 700 €** | Supply Chain |
-| ASCM CPIM bundle membre+upgrade | **2 275 $** ≈ **1 954 €** | Supply Chain |
+| Certification / parcours | Coût indicatif | Domaine | Portée |
+| --- | ---: | --- | :---: |
+| Red Hat RHCE depuis zéro — RHCSA + RHCE exam | **~1 000 $** ≈ **859 €** | Linux / Ansible | 🌍 INT |
+| PECB Foundation en candidat indépendant | **500 $ exam + 200 $ application** = **700 $** ≈ **601 €** | ISO / GRC | 🌍 INT |
+| PECB Manager en candidat indépendant | **700 + 500 $** = **1 200 $** ≈ **1 030 €** | ISO / Management | 🌍 INT |
+| PECB Lead Auditor / Lead Implementer indépendant | **1 000 + 500 $** = **1 500 $** ≈ **1 288 €** | ISO / Audit / GRC | 🌍 INT |
+| CFA Level I standard | **1 490 $** ≈ **1 280 €** | Finance | 🌍 INT |
+| CFA Level III standard | **1 590 $** ≈ **1 365 €** | Finance | 🌍 INT |
+| OffSec OSCP+ standalone | **1 699 $** ≈ **1 459 €** | Pentest | 🌍 INT |
+| OffSec Course + Certification bundle | **1 749 $** ≈ **1 502 €** | Cyber pratique | 🌍 INT |
+| ITIL Foundation + Create, Deliver & Support eLearning depuis zéro | **690 + 1 338 $** | ≈ **1 742 €** | ITSM | 🌍 INT |
+| GARP FRM complet, tarif standard, premier passage | **2 000 $ + taxes** ≈ **1 717 €** | Financial Risk | 🌍 INT |
+| Cisco CCIE minimal — core + lab | **400 + 1 600 $** ≈ **1 717 €** | Réseau expert | 🌍 INT |
+| Cisco CCDE minimal — written + practical | **450 + 1 600 $** ≈ **1 760 €** | Network Architecture | 🌍 INT |
+| ASQ Master Black Belt | **800 + 1 599 $** = **2 399 $** ≈ **2 060 €** | Lean / Qualité | 🌍 INT |
+| ASCM CLTD bundle membre+upgrade | **1 980 $** ≈ **1 700 €** | Supply Chain | ❓ UNV |
+| ASCM CPIM bundle membre+upgrade | **2 275 $** ≈ **1 954 €** | Supply Chain | ❓ UNV |
 
 ## 2 500–5 000 € environ
 
-| Certification / parcours | Coût indicatif | Domaine |
-|---|---:|---|
-| OffSec Learn One | **2 749 $ / an** ≈ **2 361 €** | Cyber pratique |
-| ASCM CSCP bundle membre+upgrade | **2 620 $** ≈ **2 250 €** | Supply Chain |
-| ASCM CPIM bundle non-membre | **3 175 $** ≈ **2 726 €** | Supply Chain |
-| ASCM CSCP bundle non-membre | **3 650 $** ≈ **3 134 €** | Supply Chain |
-| CFA Program — 3 niveaux, examens seuls | **3 520–4 570 $** ≈ **3 023–3 924 €** | Finance |
+| Certification / parcours | Coût indicatif | Domaine | Portée |
+| --- | ---: | --- | :---: |
+| OffSec Learn One | **2 749 $ / an** ≈ **2 361 €** | Cyber pratique | 🌍 INT |
+| ASCM CSCP bundle membre+upgrade | **2 620 $** ≈ **2 250 €** | Supply Chain | ❓ UNV |
+| ASCM CPIM bundle non-membre | **3 175 $** ≈ **2 726 €** | Supply Chain | ❓ UNV |
+| ASCM CSCP bundle non-membre | **3 650 $** ≈ **3 134 €** | Supply Chain | ❓ UNV |
+| CFA Program — 3 niveaux, examens seuls | **3 520–4 570 $** ≈ **3 023–3 924 €** | Finance | 🌍 INT |
 
 ## > 5 000 €
 
-| Parcours | Coût indicatif | Domaine |
-|---|---:|---|
-| SANS course + GIAC — ordre de grandeur Europe | **~8 230 € + ~905 € certification**, hors taxes selon événement | Cyber premium |
-| Plusieurs SANS/GIAC | rapidement **> 15–30 k€** | Cyber expert |
-| Parcours RHCA avec formations officielles | très variable, potentiellement plusieurs milliers d'euros | Linux / Cloud |
+| Parcours | Coût indicatif | Domaine | Portée |
+| --- | ---: | --- | :---: |
+| SANS course + GIAC — ordre de grandeur Europe | **~8 230 € + ~905 € certification**, hors taxes selon événement | Cyber premium | 🌍 INT |
+| Plusieurs SANS/GIAC | rapidement **> 15–30 k€** | Cyber expert | 🌍 INT |
+| Parcours RHCA avec formations officielles | très variable, potentiellement plusieurs milliers d'euros | Linux / Cloud | ❓ UNV |
 
 ---
 
@@ -212,7 +212,7 @@ Au taux BCE de référence utilisé ici, le voucher seul vaut environ **472 €*
 Mais IAPP exige, pour maintenir la certification active :
 
 - soit une **Certification Maintenance Fee de 250 $ par terme de certification de deux ans** ;
-- soit une **adhésion IAPP à 295 $ / an**.
+- soit une **adhésion IAPP à 295 $ / an**. — 🌍 INT
 
 ### Premier terme non-membre
 
@@ -620,7 +620,7 @@ Source : https://www.garp.org/scr/fees-payments
 
 Même logique tarifaire actuelle :
 
-- **625 $** pour certains détenteurs de credentials GARP ;
+- **625 $** pour certains détenteurs de credentials GARP ; — 🌍 INT
 - **650 $** membre ;
 - **750 $** non-membre.
 
@@ -716,7 +716,7 @@ Source :
 
 La grille Open Group consultée affiche :
 
-- TOGAF Enterprise Architecture Part 1 : **395 $** ;
+- TOGAF Enterprise Architecture Part 1 : **395 $** ; — 🌍 INT
 - Part 2 : **395 $** ;
 - Combined Part 1 + Part 2 : **595 $** sur la grille disponible.
 
@@ -759,14 +759,14 @@ Statut : **À chiffrer précisément avec offre de formation France / EMEA.**
 
 Cette catégorie est importante pour la méthode du dépôt.
 
-| Credential | Voucher seul | Pourquoi le TCO dépasse 500 € |
-|---|---:|---|
-| IAPP CIPP/E / CIPM / CIPT | ~472 € | + 250 $ de CMF ou adhésion |
-| ISACA CISA/CISM/CRISC membre | ~494 € | adhésion + application + maintenance |
-| PMP membre | ~348 € | adhésion + 35 h de formation si nécessaires + renouvellement |
-| Red Hat RHCE | ~429 € par examen | plusieurs examens dans le parcours |
-| PECB Foundation | ~429 € pour le Foundation Exam | + 200 $ d'application |
-| Cisco CCNP | chaque examen <500 € | 2 examens nécessaires |
+| Credential | Voucher seul | Pourquoi le TCO dépasse 500 € | Portée |
+| --- | ---: | --- | :---: |
+| IAPP CIPP/E / CIPM / CIPT | ~472 € | + 250 $ de CMF ou adhésion | 🌍 INT |
+| ISACA CISA/CISM/CRISC membre | ~494 € | adhésion + application + maintenance | 🌍 INT |
+| PMP membre | ~348 € | adhésion + 35 h de formation si nécessaires + renouvellement | ❓ UNV |
+| Red Hat RHCE | ~429 € par examen | plusieurs examens dans le parcours | 🌍 INT |
+| PECB Foundation | ~429 € pour le Foundation Exam | + 200 $ d'application | 🌍 INT |
+| Cisco CCNP | chaque examen <500 € | 2 examens nécessaires | 🌍 INT |
 
 À l'inverse, certaines certifications qui semblent `>500` parce que leur tarif est exprimé en dollars restent **sous 500 € au seul prix du voucher**, par exemple certains examens autour de 544–575 $ au taux actuel. Le dépôt doit donc toujours conserver la monnaie d'origine.
 

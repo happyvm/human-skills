@@ -24,13 +24,13 @@ verified: 2026-08-28
 
 # Vue rapide
 
-| Credential | Parcours | Prix bundle observé |
-|---|---:|---:|
-| WorldatWork CCP | **8 cours + 8 examens** | **7 812 $** |
-| WorldatWork CBP | **7 cours + 7 examens** | **6 835,50 $** |
-| WorldatWork GRP | **9 cours + 9 examens** | tarification régionale ; ex. Inde **INR 508 113 + GST** |
-| HRCI PHR / PHRi | 1 examen | **495 $** total application+exam |
-| HRCI SPHR / SPHRi / GPHR | 1 examen | **595 $** total application+exam |
+| Credential | Parcours | Prix bundle observé | Portée |
+| --- | ---: | ---: | :---: |
+| WorldatWork CCP | **8 cours + 8 examens** | **7 812 $** | 🌍 INT · US-centric |
+| WorldatWork CBP | **7 cours + 7 examens** | **6 835,50 $** | 🌍 INT · US-centric |
+| WorldatWork GRP | **9 cours + 9 examens** | tarification régionale ; ex. Inde **INR 508 113 + GST** | 🌍 INT · US-centric |
+| HRCI PHR / PHRi | 1 examen | **495 $** total application+exam | 🌐 MIX |
+| HRCI SPHR / SPHRi / GPHR | 1 examen | **595 $** total application+exam | 🌐 MIX |
 
 ---
 
@@ -129,12 +129,12 @@ Les certifications HRCI sont plus généralistes RH que WorldatWork, mais nettem
 
 Tarifs :
 
-| Exam | Application | Exam | Total |
-|---|---:|---:|---:|
-| aPHR / aPHRi | 100 $ | 300 $ | **400 $** |
-| PHR / PHRi | 100 $ | 395 $ | **495 $** |
-| SPHR / SPHRi | 100 $ | 495 $ | **595 $** |
-| GPHR | 100 $ | 495 $ | **595 $** |
+| Exam | Application | Exam | Total | Portée |
+| --- | ---: | ---: | ---: | :---: |
+| aPHR / aPHRi | 100 $ | 300 $ | **400 $** | 🇺🇸 US |
+| PHR / PHRi | 100 $ | 395 $ | **495 $** | 🌐 MIX |
+| SPHR / SPHRi | 100 $ | 495 $ | **595 $** | 🌐 MIX |
+| GPHR | 100 $ | 495 $ | **595 $** | 🌍 INT |
 
 Source :
 
@@ -181,9 +181,9 @@ Les bundles réduisent fortement le coût et incluent du membership, mais leur d
 
 L'American Payroll Association a été rebaptisée **PayrollOrg (PAYO)** en 2024 — même organisme, nouveau nom.
 
-- **FPC — Fundamental Payroll Certification** : ≈ 359 $ membre / 459 $ non-membre ;
-- **CPP — Certified Payroll Professional** : ≈ 419 $ membre / 609 $ non-membre ;
-- remises officielles confirmées : **-20 % membre sur FPC, -30 % membre sur CPP** (site officiel), cohérentes avec les montants ci-dessus.
+- **FPC — Fundamental Payroll Certification** : ≈ 359 $ membre / 459 $ non-membre ; — 🇺🇸 US
+- **CPP — Certified Payroll Professional** : ≈ 419 $ membre / 609 $ non-membre ; — 🇺🇸 US
+- remises officielles confirmées : **-20 % membre sur FPC, -30 % membre sur CPP** (site officiel), cohérentes avec les montants ci-dessus. — 🇺🇸 US
 
 Source :
 

@@ -26,19 +26,19 @@ Les prix sont conservés dans leur monnaie officielle. Les conversions EUR sont 
 
 # Vue rapide
 
-| Credential / parcours | Coût officiel minimal observé | Domaine |
-|---|---:|---|
-| IPMA Level D — France | **440 € HT** → ~**528 € TTC** si TVA 20 % | Projet |
-| IIA CRMA non-membre | **830 $** | Risk / assurance |
-| ACMP CCMP non-membre | **795 $ + 21 h de formation admissible** | Change Management |
-| ACMP CCMP membre | **595 $ + membership + 21 h de formation admissible** | Change Management |
-| IIA CIA — membre | **990 $ + membership** | Audit interne |
-| IIA CIA — non-membre | **1 515 $** | Audit interne |
-| IPMA Level C — France | **1 680 € HT** | Projet |
-| IMA CMA — professionnel | **1 715 $ la première année** hors préparation | Management accounting |
-| IPMA Level B — France | **2 090 € HT** | Projet complexe / programme |
-| IPMA Level A — France | **2 530 € HT** | Direction projet / portefeuille |
-| ACCA Qualification | **parcours multi-examens et multi-années** | Comptabilité / finance |
+| Credential / parcours | Coût officiel minimal observé | Domaine | Portée |
+| --- | ---: | --- | :---: |
+| IPMA Level D — France | **440 € HT** → ~**528 € TTC** si TVA 20 % | Projet | 🇫🇷 FR |
+| IIA CRMA non-membre | **830 $** | Risk / assurance | 🌍 INT |
+| ACMP CCMP non-membre | **795 $ + 21 h de formation admissible** | Change Management | 🌍 INT |
+| ACMP CCMP membre | **595 $ + membership + 21 h de formation admissible** | Change Management | 🌍 INT |
+| IIA CIA — membre | **990 $ + membership** | Audit interne | 🌍 INT |
+| IIA CIA — non-membre | **1 515 $** | Audit interne | 🌍 INT |
+| IPMA Level C — France | **1 680 € HT** | Projet | 🇫🇷 FR |
+| IMA CMA — professionnel | **1 715 $ la première année** hors préparation | Management accounting | 🌍 INT |
+| IPMA Level B — France | **2 090 € HT** | Projet complexe / programme | 🇫🇷 FR |
+| IPMA Level A — France | **2 530 € HT** | Direction projet / portefeuille | 🇫🇷 FR |
+| ACCA Qualification | **parcours multi-examens et multi-années** | Comptabilité / finance | 🌍 INT · UK-origin |
 
 ---
 
@@ -85,7 +85,7 @@ The IIA précise que les prix peuvent varier hors Amérique du Nord via les inst
 
 La page tarifaire actuelle indique notamment :
 
-- renouvellement CIA actif : **30 $ membre / 120 $ non-membre** dans les régions relevant directement de cette grille ;
+- renouvellement CIA actif : **30 $ membre / 120 $ non-membre** dans les régions relevant directement de cette grille ; — 🌍 INT
 - les frais peuvent varier via les instituts nationaux.
 
 La certification implique également des exigences de formation professionnelle continue.
@@ -399,12 +399,12 @@ Statut : `REGIONAL-PRICE-TO-CONFIRM`.
 
 # Comparatif change management — première lecture
 
-| Parcours | Logique | Prix / TCO indicatif |
-|---|---|---:|
-| SMaP Gestion du changement | Certification française | **1 280 € HT** |
-| APMG Change Management | Méthode + Foundation/Practitioner | tarif régional ; Practitioner UK normal **£448 TTC** |
-| ACMP CCMP | Certification d'expérience vendor-neutral | **595/795 $ + 21 h de formation** |
-| Prosci Change Management | Formation méthodologique + certification | **3 386 € online / 3 810 € présentiel hors taxes** |
+| Parcours | Logique | Prix / TCO indicatif | Portée |
+| --- | --- | ---: | :---: |
+| SMaP Gestion du changement | Certification française | **1 280 € HT** | 🇫🇷 FR |
+| APMG Change Management | Méthode + Foundation/Practitioner | tarif régional ; Practitioner UK normal **£448 TTC** | 🌍 INT |
+| ACMP CCMP | Certification d'expérience vendor-neutral | **595/795 $ + 21 h de formation** | 🌍 INT |
+| Prosci Change Management | Formation méthodologique + certification | **3 386 € online / 3 810 € présentiel hors taxes** | 🌍 INT |
 
 Ces quatre credentials ne valident pas exactement la même chose. Le coût seul ne suffit donc pas à choisir.
 

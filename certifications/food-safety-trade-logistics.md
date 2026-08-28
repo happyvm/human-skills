@@ -24,19 +24,19 @@ verified: 2026-08-28
 
 # Vue rapide
 
-| Credential / parcours | Prix | Domaine |
-|---|---:|---|
-| SQF Advanced Practitioner Exam | **85 $** | Food safety |
-| IATA DGR general cargo e-learning | **170 $** | Dangerous goods / air cargo |
-| Certified SQF Practitioner | **250 $** | Food safety |
-| FSPCA PCQI Part 1 | **299 $** + Part 2 variable | FDA preventive controls |
-| ICC Incoterms 2020 Certificate | **380 € / 399 $** | International trade |
-| ICC Incoterms + eBook bundle | **410 € / 429 $** | International trade |
-| ICC Export/Import Certificate | **670 €** observé | Import/export |
-| SQF Practitioner 7-course training program | **899 $** | Food safety training |
-| ICC CDCE | **1 060 €** | Documentary credits |
-| IATA DGR processing initial | **2 250 $** | Dangerous goods |
-| IATA DGR accepting initial | **2 380 $** | Dangerous goods |
+| Credential / parcours | Prix | Domaine | Portée |
+| --- | ---: | --- | :---: |
+| SQF Advanced Practitioner Exam | **85 $** | Food safety | ❓ UNV |
+| IATA DGR general cargo e-learning | **170 $** | Dangerous goods / air cargo | 🌍 INT |
+| Certified SQF Practitioner | **250 $** | Food safety | ❓ UNV |
+| FSPCA PCQI Part 1 | **299 $** + Part 2 variable | FDA preventive controls | ❓ UNV |
+| ICC Incoterms 2020 Certificate | **380 € / 399 $** | International trade | 🇺🇸 US |
+| ICC Incoterms + eBook bundle | **410 € / 429 $** | International trade | 🇺🇸 US |
+| ICC Export/Import Certificate | **670 €** observé | Import/export | 🇺🇸 US |
+| SQF Practitioner 7-course training program | **899 $** | Food safety training | ❓ UNV |
+| ICC CDCE | **1 060 €** | Documentary credits | 🇺🇸 US |
+| IATA DGR processing initial | **2 250 $** | Dangerous goods | 🌍 INT |
+| IATA DGR accepting initial | **2 380 $** | Dangerous goods | 🌍 INT |
 
 ---
 
@@ -118,7 +118,7 @@ La certification officielle ICC comprend :
 
 Prix :
 
-- **399 $** sur ICC Academy ;
+- **399 $** sur ICC Academy ; — 🇺🇸 US
 - store européen observé : **380 €** ;
 - bundle avec eBook : **429 $ / 410 €**.
 

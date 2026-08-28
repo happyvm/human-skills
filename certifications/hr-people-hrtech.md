@@ -24,16 +24,16 @@ verified: 2026-08-28
 
 # Vue rapide
 
-| Credential / route | Prix officiel | Notes |
-|---|---:|---|
-| SHRM-CP | **350 $ member / 450 $ nonmember early** ; **399 / 499 $ standard** | no degree/experience requirement for CP |
-| SHRM-SCP | **350 / 450 $ early** ; **399 / 499 $ standard** | 3+ years strategic HR or equivalent route |
-| IHRIM HRIP — active member | **400 $** | application fee waived |
-| IHRIM HRIP — nonmember | **445 $ exam + 75 $ application** | ≈ 520 $ |
-| HRIP Exam + new membership | **600 $ + 75 $ application** | discounted first-year membership |
-| CIPD Associate Experience Assessment | **2 065 £ assessment** | + membership / joining fee |
-| CIPD Chartered Member Experience Assessment | **2 115 £ assessment** | + membership / joining fee |
-| CIPD Chartered Fellow Experience Assessment | **2 460 £ assessment** | + membership / joining fee |
+| Credential / route | Prix officiel | Notes | Portée |
+| --- | ---: | --- | :---: |
+| SHRM-CP | **350 $ member / 450 $ nonmember early** ; **399 / 499 $ standard** | no degree/experience requirement for CP | 🌍 INT · US-centric |
+| SHRM-SCP | **350 / 450 $ early** ; **399 / 499 $ standard** | 3+ years strategic HR or equivalent route | 🌍 INT · US-centric |
+| IHRIM HRIP — active member | **400 $** | application fee waived | ❓ UNV |
+| IHRIM HRIP — nonmember | **445 $ exam + 75 $ application** | ≈ 520 $ | ❓ UNV |
+| HRIP Exam + new membership | **600 $ + 75 $ application** | discounted first-year membership | ❓ UNV |
+| CIPD Associate Experience Assessment | **2 065 £ assessment** | + membership / joining fee | 🌍 INT · UK-origin |
+| CIPD Chartered Member Experience Assessment | **2 115 £ assessment** | + membership / joining fee | 🌍 INT · UK-origin |
+| CIPD Chartered Fellow Experience Assessment | **2 460 £ assessment** | + membership / joining fee | 🌍 INT · UK-origin |
 
 ---
 
@@ -295,14 +295,14 @@ Source :
 
 # 10. Positionnement
 
-| Besoin | Credential naturel |
-|---|---|
-| HR généraliste | SHRM-CP |
-| HR leadership | SHRM-SCP |
-| HRIS / HR tech | HRIP |
-| Chartered people profession UK/international | CIPD Chartered Member/Fellow |
-| Compensation spécialiste | WorldatWork CCP/GRP |
-| Global HR | HRCI GPHR |
+| Besoin | Credential naturel | Portée |
+| --- | --- | :---: |
+| HR généraliste | SHRM-CP | 🌍 INT · US-centric |
+| HR leadership | SHRM-SCP | 🌍 INT · US-centric |
+| HRIS / HR tech | HRIP | ❓ UNV |
+| Chartered people profession UK/international | CIPD Chartered Member/Fellow | 🌍 INT · UK-origin |
+| Compensation spécialiste | WorldatWork CCP/GRP | 🌍 INT · US-centric |
+| Global HR | HRCI GPHR | 🌍 INT |
 
 ---
 

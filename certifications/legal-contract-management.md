@@ -24,16 +24,16 @@ verified: 2026-08-28
 
 # Vue rapide
 
-| Credential | Prix indicatif | Domaine | Notes |
-|---|---:|---|---|
-| NCMA CCCM / CFCM — international | **365 $ application non-membre + 160 $ exam** | Contract management | ≈ 525 $ first attempt non-member |
-| NCMA CPCM — international | **425 $ application non-membre + 160 $ exam** | Contract management senior | ≈ 585 $ first attempt non-member |
-| WorldCC CCM Associate | **780 $** | Commercial & Contract Management | 16 h + examen |
-| WorldCC CCM Practitioner | **1 495 $** | Commercial & Contract Management | 80 h + examen |
-| WorldCC CCM Advanced Practitioner | **1 495 $** | Contracting avancé | 60 h + examen |
-| WorldCC CCM Expert | **995 $** | Transformation / leadership contractuel | après Advanced, membres WorldCC |
-| WorldCC SRM Practitioner | **1 395 $** | Supplier Relationship Management | programme complet |
-| WorldCC SRM Advanced Practitioner | **1 395 $** | SRM avancé | programme complet |
+| Credential | Prix indicatif | Domaine | Notes | Portée |
+| --- | ---: | --- | --- | :---: |
+| NCMA CCCM / CFCM — international | **365 $ application non-membre + 160 $ exam** | Contract management | ≈ 525 $ first attempt non-member | ❓ UNV |
+| NCMA CPCM — international | **425 $ application non-membre + 160 $ exam** | Contract management senior | ≈ 585 $ first attempt non-member | ❓ UNV |
+| WorldCC CCM Associate | **780 $** | Commercial & Contract Management | 16 h + examen | 🌍 INT |
+| WorldCC CCM Practitioner | **1 495 $** | Commercial & Contract Management | 80 h + examen | 🌍 INT |
+| WorldCC CCM Advanced Practitioner | **1 495 $** | Contracting avancé | 60 h + examen | 🌍 INT |
+| WorldCC CCM Expert | **995 $** | Transformation / leadership contractuel | après Advanced, membres WorldCC | 🌍 INT |
+| WorldCC SRM Practitioner | **1 395 $** | Supplier Relationship Management | programme complet | 🌍 INT |
+| WorldCC SRM Advanced Practitioner | **1 395 $** | SRM avancé | programme complet | 🌍 INT |
 
 ---
 

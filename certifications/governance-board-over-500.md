@@ -184,14 +184,14 @@ Source :
 
 # Comparatif
 
-| Credential | Ticket initial observé | Type |
-|---|---:|---|
-| CGI Advanced Certificate Corporate Governance | **2 050 £** | Level 6 qualification |
-| NACD Directorship Certification package | **3 995 $** | Certification + examen |
-| NACD Cyber-Risk Oversight | **3 995–4 495 $** | Certificate programme |
-| NACD nouveau membre + certification | **5 600 $** | Membership + credential |
-| IoD Certificate in Company Direction | **12 250–15 950 £ HT** | SCQF Level 9 qualification |
-| IoD Chartered Director full path | **> Certificate price** | Qualification + chartered status |
+| Credential | Ticket initial observé | Type | Portée |
+| --- | ---: | --- | :---: |
+| CGI Advanced Certificate Corporate Governance | **2 050 £** | Level 6 qualification | ❓ UNV |
+| NACD Directorship Certification package | **3 995 $** | Certification + examen | 🇺🇸 US |
+| NACD Cyber-Risk Oversight | **3 995–4 495 $** | Certificate programme | 🇺🇸 US |
+| NACD nouveau membre + certification | **5 600 $** | Membership + credential | 🇺🇸 US |
+| IoD Certificate in Company Direction | **12 250–15 950 £ HT** | SCQF Level 9 qualification | ❓ UNV |
+| IoD Chartered Director full path | **> Certificate price** | Qualification + chartered status | ❓ UNV |
 
 ---
 

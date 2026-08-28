@@ -183,7 +183,7 @@ Le CII britannique fonctionne par **crédits**, et non par un nombre fixe d'exam
 
 Il faut :
 
-- minimum **120 CII credits** ;
+- minimum **120 CII credits** ; — 🌍 INT · UK-origin
 - dont au moins **90 credits au niveau Diploma ou supérieur** ;
 - M05 Insurance Law obligatoire ;
 - M92 Insurance Business and Finance **ou** 530 Economics and Business ;
@@ -229,7 +229,7 @@ Source :
 
 L'Advanced Diploma in Insurance exige :
 
-- total **290 CII credits** ;
+- total **290 CII credits** ; — 🌍 INT · UK-origin
 - au moins **150 credits au niveau Advanced Diploma** ;
 - autres règles de niveau / unités core ;
 - généralement progression depuis le Diploma.
@@ -288,7 +288,7 @@ Le FLMI est déjà chiffré dans :
 Rappel 2026 :
 
 - 10 cours ;
-- **4 250 $** au tarif entreprise membre LOMA ;
+- **4 250 $** au tarif entreprise membre LOMA ; — 🌍 INT
 - **8 500 $** au tarif non-member ;
 - matériel + exam enrollment inclus.
 
@@ -296,19 +296,19 @@ Rappel 2026 :
 
 # Vue rapide
 
-| Credential / parcours | Ticket indicatif |
-|---|---:|
-| CAS MAS-I / MAS-II | **550 $ chacun** |
-| CAS 5–9 | **850 $ chacun** |
-| CAS PCPA Exam + Project | **1 000 $** |
-| CII M05 enrolment member UK example | **518 £** |
-| CII Diploma prep training facultatif | **699 / 849 £ + units** |
-| CPCU — 8 Recommended Packages | **~3 352 $** |
-| CPCU — 8 Comprehensive Packages | **~4 152 $** |
-| LOMA FLMI member-company pricing | **4 250 $** |
-| LOMA FLMI non-member pricing | **8 500 $** |
-| ACAS / FCAS | **multi-exam TCO à consolider** |
-| CII ACII | **290-credit pathway, unit-dependent** |
+| Credential / parcours | Ticket indicatif | Portée |
+| --- | ---: | :---: |
+| CAS MAS-I / MAS-II | **550 $ chacun** | ❓ UNV |
+| CAS 5–9 | **850 $ chacun** | ❓ UNV |
+| CAS PCPA Exam + Project | **1 000 $** | ❓ UNV |
+| CII M05 enrolment member UK example | **518 £** | 🌍 INT · UK-origin |
+| CII Diploma prep training facultatif | **699 / 849 £ + units** | 🌍 INT · UK-origin |
+| CPCU — 8 Recommended Packages | **~3 352 $** | 🇺🇸 US |
+| CPCU — 8 Comprehensive Packages | **~4 152 $** | 🇺🇸 US |
+| LOMA FLMI member-company pricing | **4 250 $** | 🌍 INT |
+| LOMA FLMI non-member pricing | **8 500 $** | 🌍 INT |
+| ACAS / FCAS | **multi-exam TCO à consolider** | ❓ UNV |
+| CII ACII | **290-credit pathway, unit-dependent** | 🌍 INT · UK-origin |
 
 ---
 

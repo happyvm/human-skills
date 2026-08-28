@@ -113,7 +113,7 @@ Le Fellowship est un niveau supplémentaire après / au-delà du pathway Associa
 
 La grille 2026 affiche notamment :
 
-- **FSA Exam : 1 150 $** ;
+- **FSA Exam : 1 150 $** ; — 🌍 INT
 - Global Access Tier 2/3 : **920 $** ;
 - Fellowship Admissions Course virtual : **2 305 $** ;
 - FAC in-person : **2 953 $**.
@@ -395,14 +395,14 @@ Source :
 
 # Vue rapide
 
-| Parcours | Frais officiels indicatifs depuis zéro |
-|---|---:|
-| SOA ASA — standard, avant prep/retakes | **~7 553 $** |
-| IFoA Associate — 10 examens Core seulement | **4 637 £** + membership/PPD/etc. |
-| CIMA CGMA Professional — 12 examens Tier 1 | **2 670 £** |
-| CIMA exemple 3 ans avec admin/PER | **~3 268 £** avant tuition |
-| LOMA FLMI — entreprise membre | **4 250 $** |
-| LOMA FLMI — non-member pricing | **8 500 $** |
+| Parcours | Frais officiels indicatifs depuis zéro | Portée |
+| --- | ---: | :---: |
+| SOA ASA — standard, avant prep/retakes | **~7 553 $** | 🌍 INT |
+| IFoA Associate — 10 examens Core seulement | **4 637 £** + membership/PPD/etc. | 🌍 INT · UK-origin |
+| CIMA CGMA Professional — 12 examens Tier 1 | **2 670 £** | 🌍 INT · UK-origin |
+| CIMA exemple 3 ans avec admin/PER | **~3 268 £** avant tuition | 🌍 INT · UK-origin |
+| LOMA FLMI — entreprise membre | **4 250 $** | 🌍 INT |
+| LOMA FLMI — non-member pricing | **8 500 $** | 🌍 INT |
 
 ---
 

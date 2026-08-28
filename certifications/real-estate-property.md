@@ -26,15 +26,15 @@ verified: 2026-08-28
 
 # Vue rapide
 
-| Credential / route | Prix officiel 2026 | Maintenance / notes |
-|---|---:|---|
-| RICS Associate Assessment — France | **104 € + 162 € candidate subscription** | puis election + Associate subscription |
-| RICS Chartered Assessment — France | **774 € + 212 € candidate subscription** | puis election + MRICS subscription |
-| RICS MRICS annual subscription — France | **705 €/an** | après qualification |
-| RICS Associate subscription — France | **319 €/an** | après qualification |
-| CCIM Candidate membership — International | **195 $/an** | candidacy requise pour portfolio/exam |
-| CCIM Comprehensive Exam + Core Review | **1 220 $** | + cursus / portfolio / membership |
-| CCIM Designation — published US member reference | **8 286 $** | reference US, pas France exact |
+| Credential / route | Prix officiel 2026 | Maintenance / notes | Portée |
+| --- | ---: | --- | :---: |
+| RICS Associate Assessment — France | **104 € + 162 € candidate subscription** | puis election + Associate subscription | 🌍 INT · UK-origin |
+| RICS Chartered Assessment — France | **774 € + 212 € candidate subscription** | puis election + MRICS subscription | 🌍 INT · UK-origin |
+| RICS MRICS annual subscription — France | **705 €/an** | après qualification | 🌍 INT · UK-origin |
+| RICS Associate subscription — France | **319 €/an** | après qualification | 🌍 INT · UK-origin |
+| CCIM Candidate membership — International | **195 $/an** | candidacy requise pour portfolio/exam | 🇺🇸 US |
+| CCIM Comprehensive Exam + Core Review | **1 220 $** | + cursus / portfolio / membership | 🇺🇸 US |
+| CCIM Designation — published US member reference | **8 286 $** | reference US, pas France exact | 🇺🇸 US |
 
 ---
 
@@ -86,8 +86,8 @@ avant éventuels frais de formation, préparation, retake ou expérience profess
 ## Après qualification
 
 - Chartered Election Fee Europe : **193 €** ;
-- Professional Member / MRICS subscription France 2026 : **705 €/an** ;
-- Fellow / FRICS : **858 €/an**.
+- Professional Member / MRICS subscription France 2026 : **705 €/an** ; — 🌍 INT · UK-origin
+- Fellow / FRICS : **858 €/an**. — 🌍 INT · UK-origin
 
 Sources :
 
@@ -216,13 +216,13 @@ Source :
 
 # 8. Positionnement
 
-| Objectif | Qualification naturelle |
-|---|---|
-| Chartered property professional Europe | RICS MRICS |
-| Entry / technician property route | RICS Associate |
-| Commercial investment real estate | CCIM |
-| Valuation immobilière | RICS valuation routes + valuation credentials |
-| Property / facility bridge | RICS + IFMA / facilities |
+| Objectif | Qualification naturelle | Portée |
+| --- | --- | :---: |
+| Chartered property professional Europe | RICS MRICS | 🌍 INT · UK-origin |
+| Entry / technician property route | RICS Associate | 🌍 INT · UK-origin |
+| Commercial investment real estate | CCIM | 🇺🇸 US |
+| Valuation immobilière | RICS valuation routes + valuation credentials | 🌍 INT · UK-origin |
+| Property / facility bridge | RICS + IFMA / facilities | 🌍 INT · UK-origin |
 
 ---
 

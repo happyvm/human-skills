@@ -112,8 +112,8 @@ AEE indique que tous les candidats doivent suivre un approved training program.
 
 Exemples 2026 US / online :
 
-- Accelerated CEM : environ **1 300–1 500 $** selon membership / date ;
-- Premier CEM : environ **2 100–2 445 $** selon membership / date.
+- Accelerated CEM : environ **1 300–1 500 $** selon membership / date ; — 🌍 INT · US std
+- Premier CEM : environ **2 100–2 445 $** selon membership / date. — 🌍 INT · US std
 
 Le coût exact international passe par un Approved Training Partner local.
 
@@ -292,20 +292,20 @@ Une ancienne grille PDF BSI France affichait environ 3 020 €, ce qui illustre 
 
 # Vue rapide
 
-| Credential | Coût initial indicatif |
-|---|---:|
-| IOSH Level 3 AO fees | **180 £ + tuition provider** |
-| IOSH Level 6 AO fees | **295 £ + tuition provider** |
-| AEE CEM exam/application | **500 $ + mandatory training** |
-| AEE CEA exam/application | **500 $ + mandatory training** |
-| AEE CMVP | **400 $ + mandatory training** |
-| IFMA CFM membre | **615 $** |
-| IFMA CFM standard | **910 $** |
-| IFMA FMP member bundle | **1 850 $** |
-| IFMA FMP standard bundle | **2 150 $** |
-| BSI ISO 45001 Lead Auditor | **2 495 € + TVA** |
-| AEE CEM from-zero | **~1,8–2,95 k$** selon training |
-| AEE CMVP from-zero | **~2,3–2,5 k$** |
+| Credential | Coût initial indicatif | Portée |
+| --- | ---: | :---: |
+| IOSH Level 3 AO fees | **180 £ + tuition provider** | 🌍 INT · UK-origin |
+| IOSH Level 6 AO fees | **295 £ + tuition provider** | 🌍 INT · UK-origin |
+| AEE CEM exam/application | **500 $ + mandatory training** | 🌍 INT · US std |
+| AEE CEA exam/application | **500 $ + mandatory training** | 🌍 INT · US std |
+| AEE CMVP | **400 $ + mandatory training** | 🌍 INT · US std |
+| IFMA CFM membre | **615 $** | 🌍 INT |
+| IFMA CFM standard | **910 $** | 🌍 INT |
+| IFMA FMP member bundle | **1 850 $** | 🌍 INT |
+| IFMA FMP standard bundle | **2 150 $** | 🌍 INT |
+| BSI ISO 45001 Lead Auditor | **2 495 € + TVA** | 🌍 INT |
+| AEE CEM from-zero | **~1,8–2,95 k$** selon training | 🌍 INT · US std |
+| AEE CMVP from-zero | **~2,3–2,5 k$** | 🌍 INT · US std |
 
 ---
 

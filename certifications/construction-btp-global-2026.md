@@ -51,9 +51,9 @@ renewal_tco
 
 ## PMI
 
-| Credential | Type | Domaine |
-|---|---|---|
-| PMI Construction Professional — **PMI-CP** | CERT | management de projet construction |
+| Credential | Type | Domaine | Portée |
+| --- | --- | --- | :---: |
+| PMI Construction Professional — **PMI-CP** | CERT | management de projet construction | 🌍 INT |
 
 Déjà détaillé : [`construction-cost-engineering.md`](construction-cost-engineering.md).
 
@@ -65,21 +65,21 @@ Source : https://www.pmi.org/certifications/construction
 
 ### Technician level
 
-- **CCT — Certified Cost Technician** — CERT
-- **CST — Certified Scheduling Technician** — CERT
+- **CCT — Certified Cost Technician** — CERT — 🌍 INT
+- **CST — Certified Scheduling Technician** — CERT — 🌍 INT
 
 ### Professional level
 
 - **CCP — Certified Cost Professional** — CERT — nouvelles candidatures temporairement suspendues depuis le 1er juillet 2026 lors de la revue
-- **CEP — Certified Estimating Professional** — CERT
-- **EVP — Earned Value Professional** — CERT
-- **PSP — Planning & Scheduling Professional** — CERT
-- **PRMP — Project Risk Management Professional** — CERT
+- **CEP — Certified Estimating Professional** — CERT — 🌍 INT
+- **EVP — Earned Value Professional** — CERT — 🌍 INT
+- **PSP — Planning & Scheduling Professional** — CERT — 🌍 INT
+- **PRMP — Project Risk Management Professional** — CERT — 🌍 INT
 
 ### Expertise level
 
-- **CFCC — Certified Forensic Claims Consultant** — CERT
-- **DRMP — Decision & Risk Management Professional** — CERT
+- **CFCC — Certified Forensic Claims Consultant** — CERT — 🌍 INT
+- **DRMP — Decision & Risk Management Professional** — CERT — 🌍 INT
 
 Sources :
 
@@ -91,9 +91,9 @@ Sources :
 
 ## CMAA / CMCI — Construction Management Association of America
 
-- **CCM — Certified Construction Manager** — CERT
-- **CACM — Certified Associate Construction Manager** — CERT
-- **CMIT — Construction Manager-in-Training** — credential early-career, programme à niveaux
+- **CCM — Certified Construction Manager** — CERT — 🌍 INT
+- **CACM — Certified Associate Construction Manager** — CERT — 🌍 INT
+- **CMIT — Construction Manager-in-Training** — credential early-career, programme à niveaux — 🌍 INT
 
 Source : https://www.cmaanet.org/certification
 
@@ -101,9 +101,9 @@ Source : https://www.cmaanet.org/certification
 
 ## DBIA — Design-Build Institute of America
 
-- **DBIA — Design-Build Professional** — CERT
-- **Assoc. DBIA — Associate Design-Build Professional** — CERT
-- **FDBIA — DBIA Fellow** — QUAL / reconnaissance senior, pas un examen standalone
+- **DBIA — Design-Build Professional** — CERT — 🇺🇸 US
+- **Assoc. DBIA — Associate Design-Build Professional** — CERT — 🇺🇸 US
+- **FDBIA — DBIA Fellow** — QUAL / reconnaissance senior, pas un examen standalone — 🇺🇸 US
 
 Les parcours DBIA imposent des core courses ; le tarif visible d'un workshop de certification ne doit donc pas être réduit au seul examen.
 
@@ -113,8 +113,8 @@ Source : https://dbia.org/certification/
 
 ## American Institute of Constructors — AIC
 
-- **CAC — Certified Associate Constructor** — CERT
-- **CPC — Certified Professional Constructor** — CERT
+- **CAC — Certified Associate Constructor** — CERT — 🇺🇸 US
+- **CPC — Certified Professional Constructor** — CERT — 🇺🇸 US
 
 Source : https://www.professionalconstructor.org/
 
@@ -124,8 +124,8 @@ Source : https://www.professionalconstructor.org/
 
 - **CDT — Construction Documents Technologist** — CERT
 - **CCS — Certified Construction Specifier** — CERT
-- **CCCA — Certified Construction Contract Administrator** — CERT
-- **CCPR — Certified Construction Product Representative** — CERT
+- **CCCA — Certified Construction Contract Administrator** — CERT — 🇺🇸 US
+- **CCPR — Certified Construction Product Representative** — CERT — 🇺🇸 US
 
 Source : https://www.csiresources.org/certification
 
@@ -142,8 +142,8 @@ Source : https://www.aspenational.org/page/Certification
 
 ## Associated General Contractors of America — AGC
 
-- **CM-BIM — Certificate of Management — Building Information Modeling** — COURSE / programme évalué
-- **CM-Lean — Certificate of Management — Lean Construction** — COURSE / programme évalué
+- **CM-BIM — Certificate of Management — Building Information Modeling** — COURSE / programme évalué — 🇺🇸 US
+- **CM-Lean — Certificate of Management — Lean Construction** — COURSE / programme évalué — 🇺🇸 US
 
 Source : https://www.agc.org/learn/education-training
 
@@ -151,7 +151,7 @@ Source : https://www.agc.org/learn/education-training
 
 ## Construction Financial Management Association — CFMA
 
-- **CCIFP — Certified Construction Industry Financial Professional** — CERT
+- **CCIFP — Certified Construction Industry Financial Professional** — CERT — 🇺🇸 US
 
 Credential construction-finance dédié à la finance, comptabilité, risk, taxes et opérations financières du secteur construction.
 
@@ -167,9 +167,9 @@ Ces titres sont souvent des **qualifications professionnelles** : diplôme/expé
 
 ### Grades
 
-- **AssocRICS — Associate** — QUAL
-- **MRICS — Chartered Surveyor** — QUAL
-- **FRICS — Fellow** — QUAL / senior
+- **AssocRICS — Associate** — QUAL — 🌍 INT · UK-origin
+- **MRICS — Chartered Surveyor** — QUAL — 🌍 INT · UK-origin
+- **FRICS — Fellow** — QUAL / senior — 🌍 INT · UK-origin
 
 ### Pathways directement BTP
 
@@ -208,9 +208,9 @@ Source : https://ciqs.org/
 
 ## CIOB — Chartered Institute of Building
 
-- **TechCIOB — Technical Member** — QUAL
-- **MCIOB — Chartered Member / Chartered Construction Manager** — QUAL
-- **FCIOB — Chartered Fellow** — QUAL
+- **TechCIOB — Technical Member** — QUAL — 🌍 INT · UK-origin
+- **MCIOB — Chartered Member / Chartered Construction Manager** — QUAL — 🌍 INT · UK-origin
+- **FCIOB — Chartered Fellow** — QUAL — 🌍 INT · UK-origin
 
 Source : https://www.ciob.org/membership
 
@@ -220,10 +220,10 @@ Source : https://www.ciob.org/membership
 
 Routes professionnelles liées à l'Engineering Council :
 
-- **EngTech MICE — Engineering Technician** — QUAL
-- **IEng MICE — Incorporated Engineer** — QUAL
-- **CEng MICE — Chartered Engineer** — QUAL
-- **FICE — Fellow** — QUAL / senior
+- **EngTech MICE — Engineering Technician** — QUAL — 🌍 INT · UK-origin
+- **IEng MICE — Incorporated Engineer** — QUAL — 🌍 INT · UK-origin
+- **CEng MICE — Chartered Engineer** — QUAL — 🌍 INT · UK-origin
+- **FICE — Fellow** — QUAL / senior — 🌍 INT · UK-origin
 - **IntPE** / autres registres internationaux selon éligibilité
 
 Source : https://www.ice.org.uk/membership
@@ -232,7 +232,7 @@ Source : https://www.ice.org.uk/membership
 
 ## IStructE — Institution of Structural Engineers
 
-- **MIStructE / Chartered Structural Engineer** — QUAL avec Professional Review + Chartered Membership Examination
+- **MIStructE / Chartered Structural Engineer** — QUAL avec Professional Review + Chartered Membership Examination — 🌍 INT · UK-origin
 - **Incorporated-Member** — QUAL
 - **FIStructE — Fellow** — QUAL / senior
 
@@ -253,10 +253,10 @@ Source : https://www.cibse.org/registration
 
 ## CICES — Chartered Institution of Civil Engineering Surveyors
 
-- **MCInstCES — Member** — QUAL
-- **FCInstCES — Fellow** — QUAL
-- accès possible **IEng / CEng** via CICES selon parcours
-- **Chartered Civil Engineering Surveyor** : designation conjointe RICS/CICES pour certains dual members éligibles à partir de 2026
+- **MCInstCES — Member** — QUAL — 🌍 INT · UK-origin
+- **FCInstCES — Fellow** — QUAL — 🌍 INT · UK-origin
+- accès possible **IEng / CEng** via CICES selon parcours — 🌍 INT · UK-origin
+- **Chartered Civil Engineering Surveyor** : designation conjointe RICS/CICES pour certains dual members éligibles à partir de 2026 — 🌍 INT · UK-origin
 
 Source : https://www.cices.org/membership/membership-grades/
 
@@ -268,12 +268,12 @@ Source : https://www.cices.org/membership/membership-grades/
 
 Portefeuille observé en 2026 :
 
-- **FIDIC Certified Contract Manager** — CERT
-- **FIDIC Certified Procurement Specialist** — CERT
-- **FIDIC Certified Adjudicator** — CERT
-- **FIDIC Certified Consulting Engineer** — CERT
-- **FIDIC Certified Consulting Professional** — CERT
-- **FIDIC Certified Trainer** — CERT
+- **FIDIC Certified Contract Manager** — CERT — 🌍 INT
+- **FIDIC Certified Procurement Specialist** — CERT — 🌍 INT
+- **FIDIC Certified Adjudicator** — CERT — 🌍 INT
+- **FIDIC Certified Consulting Engineer** — CERT — 🌍 INT
+- **FIDIC Certified Consulting Professional** — CERT — 🌍 INT
+- **FIDIC Certified Trainer** — CERT — 🌍 INT
 
 Source : https://fcl.fidic.org/
 
@@ -285,18 +285,18 @@ Registre d'accréditations professionnelles NEC observé en 2026 :
 
 ### NEC4
 
-- **NEC4 ECC Project Manager Accreditation** — ACC
-- **NEC4 ECC Supervisor Accreditation** — ACC
-- **NEC4 TSC Service Manager Accreditation** — ACC
-- **NEC4 DBO Service Manager Accreditation** — ACC
-- **NEC4 ALC Alliance Member Accreditation** — ACC
-- **NEC4 FMC Service Manager Accreditation** — ACC
+- **NEC4 ECC Project Manager Accreditation** — ACC — 🌍 INT · UK-origin
+- **NEC4 ECC Supervisor Accreditation** — ACC — 🌍 INT · UK-origin
+- **NEC4 TSC Service Manager Accreditation** — ACC — 🌍 INT · UK-origin
+- **NEC4 DBO Service Manager Accreditation** — ACC — 🌍 INT · UK-origin
+- **NEC4 ALC Alliance Member Accreditation** — ACC — 🌍 INT · UK-origin
+- **NEC4 FMC Service Manager Accreditation** — ACC — 🌍 INT · UK-origin
 
 ### NEC3 encore présent dans le registre
 
-- **NEC3 ECC Project Manager Accreditation** — ACC
-- **NEC3 ECC Supervisor Accreditation** — ACC
-- **NEC3 TSC Service Manager Accreditation** — ACC
+- **NEC3 ECC Project Manager Accreditation** — ACC — 🌍 INT · UK-origin
+- **NEC3 ECC Supervisor Accreditation** — ACC — 🌍 INT · UK-origin
+- **NEC3 TSC Service Manager Accreditation** — ACC — 🌍 INT · UK-origin
 
 Source : https://www.neccontract.com/get-accredited
 
@@ -304,10 +304,10 @@ Source : https://www.neccontract.com/get-accredited
 
 ## CP³P — PPP Certification Program
 
-- **CP³P Foundation** — CERT
-- **CP³P Preparation** — CERT
-- **CP³P Execution** — CERT
-- **CP³P Certified PPP Professional** — QUAL résultant des trois examens
+- **CP³P Foundation** — CERT — 🌍 INT
+- **CP³P Preparation** — CERT — 🌍 INT
+- **CP³P Execution** — CERT — 🌍 INT
+- **CP³P Certified PPP Professional** — QUAL résultant des trois examens — 🌍 INT
 
 Déjà détaillé : [`public-procurement-ppp.md`](public-procurement-ppp.md).
 
@@ -332,19 +332,19 @@ Familles Autodesk pertinentes au BTP selon catalogue d'examens disponible :
 
 ### Associate
 
-- **Autodesk Certified Associate** — CERT, niveau entrée/intermédiaire selon produit
+- **Autodesk Certified Associate** — CERT, niveau entrée/intermédiaire selon produit — 🌍 INT
 
 ### Professional
 
-- **Autodesk Certified Professional in AutoCAD for Design and Drafting** — CERT
-- **Autodesk Certified Professional in Revit for Architectural Design** — CERT
-- **Autodesk Certified Professional in Revit for Structural Design** — CERT
-- **Autodesk Certified Professional in Revit for Mechanical Design** — CERT
-- **Autodesk Certified Professional in Civil 3D for Infrastructure Design** — CERT
+- **Autodesk Certified Professional in AutoCAD for Design and Drafting** — CERT — 🌍 INT
+- **Autodesk Certified Professional in Revit for Architectural Design** — CERT — 🌍 INT
+- **Autodesk Certified Professional in Revit for Structural Design** — CERT — 🌍 INT
+- **Autodesk Certified Professional in Revit for Mechanical Design** — CERT — 🌍 INT
+- **Autodesk Certified Professional in Civil 3D for Infrastructure Design** — CERT — 🌍 INT
 
 ### Expert
 
-- **Autodesk Certified Expert** — CERT sur les examens AEC/produits disponibles dans le catalogue régional
+- **Autodesk Certified Expert** — CERT sur les examens AEC/produits disponibles dans le catalogue régional — 🌍 INT
 
 Déjà documenté : [`tools-platforms-under-500.md`](tools-platforms-under-500.md).
 
@@ -379,14 +379,14 @@ Source : https://learn.procore.com/certification
 
 ## USGBC / GBCI — LEED
 
-- **LEED Green Associate** — CERT
-- **LEED AP BD+C — Building Design + Construction** — CERT
-- **LEED AP ID+C — Interior Design + Construction** — CERT
-- **LEED AP O+M — Operations + Maintenance** — CERT
-- **LEED AP Homes** — CERT
-- **LEED AP ND — Neighborhood Development** — CERT
-- **LEED Green Rater** — ACC / qualification de vérification résidentielle
-- **LEED Fellow** — QUAL / reconnaissance senior
+- **LEED Green Associate** — CERT — 🌍 INT
+- **LEED AP BD+C — Building Design + Construction** — CERT — 🌍 INT
+- **LEED AP ID+C — Interior Design + Construction** — CERT — 🌍 INT
+- **LEED AP O+M — Operations + Maintenance** — CERT — 🌍 INT
+- **LEED AP Homes** — CERT — 🌍 INT
+- **LEED AP ND — Neighborhood Development** — CERT — 🌍 INT
+- **LEED Green Rater** — ACC / qualification de vérification résidentielle — 🌍 INT
+- **LEED Fellow** — QUAL / reconnaissance senior — 🌍 INT
 
 Source : https://www.usgbc.org/credentials
 
@@ -394,7 +394,7 @@ Source : https://www.usgbc.org/credentials
 
 ## WELL
 
-- **WELL AP — WELL Accredited Professional** — CERT
+- **WELL AP — WELL Accredited Professional** — CERT — 🌍 INT
 
 Source : https://www.wellcertified.com/well-ap/
 
@@ -402,10 +402,10 @@ Source : https://www.wellcertified.com/well-ap/
 
 ## BREEAM
 
-- **BREEAM Advisory Professional — BREEAM AP** — ACC
-- **BREEAM Assessor** — ACC / licence par scheme
-- **BREEAM Infrastructure Assessor** — ACC
-- **BREEAM Infrastructure Verifier** — ACC avancée
+- **BREEAM Advisory Professional — BREEAM AP** — ACC — 🌍 INT · UK-origin
+- **BREEAM Assessor** — ACC / licence par scheme — 🌍 INT · UK-origin
+- **BREEAM Infrastructure Assessor** — ACC — 🌍 INT · UK-origin
+- **BREEAM Infrastructure Verifier** — ACC avancée — 🌍 INT · UK-origin
 
 Les Assessor et AP n'ont pas le même rôle : seul un assessor licencié dans le scheme concerné peut gérer l'assessment formel et demander la certification du projet.
 
@@ -419,8 +419,8 @@ Sources :
 
 ## EDGE / IFC / GBCI
 
-- **EDGE Expert** — ACC / professional credential
-- **EDGE Auditor** — ACC / audit role
+- **EDGE Expert** — ACC / professional credential — 🌍 INT
+- **EDGE Auditor** — ACC / audit role — 🌍 INT
 
 Source : https://edgebuildings.com/
 
@@ -431,7 +431,7 @@ Source : https://edgebuildings.com/
 - **Certified Passive House Designer** — CERT
 - **Certified Passive House Consultant** — CERT
 - **Certified Passive House Tradesperson** — CERT
-- **PHPP Expert** — add-on qualification
+- **PHPP Expert** — add-on qualification — 🌍 INT · DE-origin
 - **Accredited Passive House Certifier for Buildings** — ACC
 
 Source : https://passivehouse.com/
@@ -440,12 +440,12 @@ Source : https://passivehouse.com/
 
 ## Phius
 
-- **CPHC — Phius Certified Consultant** — CERT
-- **CPHB — Phius Certified Builder** — CERT
-- **Phius Certified Rater** — CERT
-- **Phius Certified Verifier** — CERT
-- **Phius Certified Trades Professional** — CERT
-- **Phius Associate** — credential d'entrée
+- **CPHC — Phius Certified Consultant** — CERT — 🇺🇸 US
+- **CPHB — Phius Certified Builder** — CERT — 🇺🇸 US
+- **Phius Certified Rater** — CERT — 🇺🇸 US
+- **Phius Certified Verifier** — CERT — 🇺🇸 US
+- **Phius Certified Trades Professional** — CERT — 🇺🇸 US
+- **Phius Associate** — credential d'entrée — 🇺🇸 US
 
 Source : https://www.phius.org/certifications/professionals
 
@@ -453,7 +453,7 @@ Source : https://www.phius.org/certifications/professionals
 
 ## SITES
 
-- **SITES AP — SITES Accredited Professional** — CERT
+- **SITES AP — SITES Accredited Professional** — CERT — 🌍 INT · US-centric
 
 Examen Prometric / remote proctored et maintenance tous les deux ans.
 
@@ -463,7 +463,7 @@ Source : https://www.sustainablesites.org/professionals
 
 ## TRUE Zero Waste
 
-- **TRUE Advisor** — COURSE / certificate program avec examen final
+- **TRUE Advisor** — COURSE / certificate program avec examen final — 🌍 INT · US-centric
 
 En 2026 : programme de 12 modules + examen 75 questions ; nouvelle logique de renouvellement annoncée pour 2027.
 
@@ -473,7 +473,7 @@ Source : https://true.gbci.org/true-advisor
 
 ## Envision / Institute for Sustainable Infrastructure
 
-- **ENV SP — Envision Sustainability Professional** — CERT / professional credential infrastructure durable
+- **ENV SP — Envision Sustainability Professional** — CERT / professional credential infrastructure durable — 🌍 INT
 
 Source : https://sustainableinfrastructure.org/credentialing/
 
@@ -481,7 +481,7 @@ Source : https://sustainableinfrastructure.org/credentialing/
 
 ## Fitwel
 
-- **Fitwel Ambassador** — ACC / credential avec cours + examen
+- **Fitwel Ambassador** — ACC / credential avec cours + examen — 🌍 INT
 
 Source : https://www.fitwel.org/ambassadors
 
@@ -489,11 +489,11 @@ Source : https://www.fitwel.org/ambassadors
 
 ## Green Building Initiative — Green Globes / Guiding Principles
 
-- **GGP — Green Globes Professional** — ACC
-- **GGEP — Green Globes Emerging Professional** — ACC / early-career
-- **GPCP — Guiding Principles Compliance Professional** — ACC
-- **GGA — Green Globes Assessor** — assessor role
-- **GPCA — Guiding Principles Compliance Assessor** — assessor role
+- **GGP — Green Globes Professional** — ACC — 🌐 REG
+- **GGEP — Green Globes Emerging Professional** — ACC / early-career — 🌐 REG
+- **GPCP — Guiding Principles Compliance Professional** — ACC — 🌐 REG
+- **GGA — Green Globes Assessor** — assessor role — 🌐 REG
+- **GPCA — Guiding Principles Compliance Assessor** — assessor role — 🌐 REG
 
 Source : https://thegbi.org/professional-credentials/
 
@@ -501,13 +501,13 @@ Source : https://thegbi.org/professional-credentials/
 
 ## DGNB
 
-- **DGNB Registered Professional** — ACC / foundation
-- **DGNB Consultant** — ACC
-- **DGNB Auditor** — ACC
-- **DGNB Auditor for Buildings In Use** — ACC
-- **DGNB ESG Manager** — ACC
-- **International DGNB Consultant** — ACC
-- **International DGNB Auditor** — ACC / après exigences projet selon route internationale
+- **DGNB Registered Professional** — ACC / foundation — 🌍 INT · DE-origin
+- **DGNB Consultant** — ACC — 🌍 INT · DE-origin
+- **DGNB Auditor** — ACC — 🌍 INT · DE-origin
+- **DGNB Auditor for Buildings In Use** — ACC — 🌍 INT · DE-origin
+- **DGNB ESG Manager** — ACC — 🌍 INT · DE-origin
+- **International DGNB Consultant** — ACC — 🌍 INT · DE-origin
+- **International DGNB Auditor** — ACC / après exigences projet selon route internationale — 🌍 INT · DE-origin
 
 Source : https://www.dgnb.de/en/academy/qualifications
 
@@ -544,10 +544,10 @@ Source : https://www1.bca.gov.sg/buildsg/sustainability/green-mark-certification
 
 ## NGBS Green — Home Innovation Research Labs
 
-- **NGBS Green Field Rep** — ACC
-- **NGBS Green Verifier** — ACC
-- **NGBS Green Master Verifier** — ACC avancée
-- **NGBS Green WRI Verifier** — ACC spécialisée Water Rating Index
+- **NGBS Green Field Rep** — ACC — 🇺🇸 US
+- **NGBS Green Verifier** — ACC — 🇺🇸 US
+- **NGBS Green Master Verifier** — ACC avancée — 🇺🇸 US
+- **NGBS Green WRI Verifier** — ACC spécialisée Water Rating Index — 🇺🇸 US
 
 Source : https://www.ngbs.com/education/become-ngbs-green-verifier
 
@@ -559,12 +559,12 @@ Source : https://www.ngbs.com/education/become-ngbs-green-verifier
 
 Certifications individuelles visibles dans les standards / code of ethics 2026 :
 
-- **Certified HERS Rater** — CERT
+- **Certified HERS Rater** — CERT — 🇺🇸 US
 - **Rating Field Inspector — RFI** — CERT
-- **HERS Modeler** — CERT
+- **HERS Modeler** — CERT — 🇺🇸 US
 - **HERSH2O Rater** — CERT
 - **Quality Assurance Designee — QAD** — CERT / QA role
-- **RESNET Instructor** — CERT / trainer role
+- **RESNET Instructor** — CERT / trainer role — 🇺🇸 US
 
 Source : https://www.resnet.us/raters/
 
@@ -581,7 +581,7 @@ Source : https://www.resnet.us/raters/
 - **AC / Heat Pump Professional** — CERT
 - **Air Leakage Control Installer** — CERT
 - **Heating Professional** — CERT
-- **Healthy Home Evaluator — HHE** — CERT, nécessite une certification BPI éligible active
+- **Healthy Home Evaluator — HHE** — CERT, nécessite une certification BPI éligible active — 🇺🇸 US
 - **Infiltration & Duct Leakage — IDL** — CERT
 - **Manufactured Housing** — CERT
 - **Multifamily Building Analyst** — CERT
@@ -613,10 +613,10 @@ Source : https://www.ashrae.org/professional-development/ashrae-certification
 
 Portefeuille utile au built environment :
 
-- **CEM — Certified Energy Manager** — CERT
-- **CEA — Certified Energy Auditor** — CERT
+- **CEM — Certified Energy Manager** — CERT — 🌍 INT · US std
+- **CEA — Certified Energy Auditor** — CERT — 🌍 INT · US std
 - **CBCP — Certified Building Commissioning Professional** — CERT
-- **CMVP — Certified Measurement & Verification Professional** — CERT
+- **CMVP — Certified Measurement & Verification Professional** — CERT — 🌍 INT · US std
 - **BEP — Business Energy Professional** — CERT
 - **CIEP — Certified Industrial Energy Professional** — CERT
 - **CLEP — Certified Lighting Efficiency Professional** — CERT
@@ -647,7 +647,7 @@ Source : https://www.commissioning.org/certification/
 
 ## Energy Management Association — EMA
 
-- **EMP — Energy Management Professional** — CERT, ANAB ISO/IEC 17024
+- **EMP — Energy Management Professional** — CERT, ANAB ISO/IEC 17024 — 🌍 INT
 
 Source : https://www.energymgmt.org/energy-management-professional
 
@@ -674,9 +674,9 @@ Source : https://www.nebb.org/certified-professionals/
 
 ## IFMA
 
-- **CFM — Certified Facility Manager** — CERT
-- **FMP — Facility Management Professional** — COURSE / multi-module credential
-- **SFP — Sustainability Facility Professional** — COURSE / sustainability credential
+- **CFM — Certified Facility Manager** — CERT — 🌍 INT
+- **FMP — Facility Management Professional** — COURSE / multi-module credential — 🌍 INT
+- **SFP — Sustainability Facility Professional** — COURSE / sustainability credential — 🌍 INT
 
 Source : https://www.ifma.org/credentials/
 
@@ -715,7 +715,7 @@ Source : https://www.aspe.org/education-credentialing/certification/
 - **RWC — Registered Waterproofing Consultant** — QUAL/CERT
 - **REWC — Registered Exterior Wall Consultant** — QUAL/CERT
 - **RBEC — Registered Building Enclosure Consultant** — QUAL avancée, combinaison des consultant credentials requis
-- **CBECxP — Certified Building Enclosure Commissioning Provider** — CERT, ISO/IEC 17024
+- **CBECxP — Certified Building Enclosure Commissioning Provider** — CERT, ISO/IEC 17024 — 🌍 INT
 
 Source : https://iibec.org/credentials/
 
@@ -860,9 +860,9 @@ Source : https://www.post-tensioning.org/certification/
 # 14. Welding — AWS
 
 - **CW — Certified Welder** — CERT / performance qualification
-- **CAWI — Certified Associate Welding Inspector** — CERT
-- **CWI — Certified Welding Inspector** — CERT
-- **SCWI — Senior Certified Welding Inspector** — CERT / legacy-current-holder maintenance ; nouvelles candidatures initiales arrêtées à partir du 1er avril 2026 pendant la refonte du pathway
+- **CAWI — Certified Associate Welding Inspector** — CERT — 🌍 INT · US std
+- **CWI — Certified Welding Inspector** — CERT — 🌍 INT · US std
+- **SCWI — Senior Certified Welding Inspector** — CERT / legacy-current-holder maintenance ; nouvelles candidatures initiales arrêtées à partir du 1er avril 2026 pendant la refonte du pathway — 🌍 INT · US std
 
 ### Endorsements / code specializations CWI
 
@@ -883,10 +883,10 @@ Source : https://www.aws.org/certification/
 
 # 15. Nondestructive testing — ASNT
 
-- **ASNT NDT Level II** — CERT
-- **ASNT NDT Level III** — CERT
-- **ASNT 9712 Level II** — CERT avec exigences pratiques selon scheme
-- **ASNT 9712 Level III** — CERT
+- **ASNT NDT Level II** — CERT — 🌍 INT · US std
+- **ASNT NDT Level III** — CERT — 🌍 INT · US std
+- **ASNT 9712 Level II** — CERT avec exigences pratiques selon scheme — 🌍 INT · US std
+- **ASNT 9712 Level III** — CERT — 🌍 INT · US std
 
 Méthodes :
 
@@ -1053,8 +1053,8 @@ Déjà documenté : [`safety-professional-bcsp.md`](safety-professional-bcsp.md)
 
 Credentials pertinents :
 
-- **STSC — Safety Trained Supervisor Construction** — CERT
-- **CHST — Construction Health and Safety Technician** — CERT
+- **STSC — Safety Trained Supervisor Construction** — CERT — 🌍 INT · US-centric
+- **CHST — Construction Health and Safety Technician** — CERT — 🌍 INT · US-centric
 - STS — Safety Trained Supervisor — CERT
 - OHST — Occupational Hygiene and Safety Technician — CERT
 - CIT — Certified Instructional Trainer — CERT
@@ -1080,7 +1080,7 @@ Source : https://www.nebosh.org.uk/qualifications/
 
 ## IOSH
 
-- **IOSH Managing Safely** — COURSE
+- **IOSH Managing Safely** — COURSE — 🌍 INT · UK-origin
 - **CMIOSH — Chartered Member** — QUAL
 
 Source : https://iosh.com/
@@ -1093,9 +1093,9 @@ Cette section ne doit surtout pas être mélangée avec les certifications inter
 
 ## AIPR — Autorisation d'Intervention à Proximité des Réseaux
 
-- **AIPR Opérateur** — REG
-- **AIPR Encadrant** — REG
-- **AIPR Concepteur** — REG
+- **AIPR Opérateur** — REG — 🇫🇷 FR
+- **AIPR Encadrant** — REG — 🇫🇷 FR
+- **AIPR Concepteur** — REG — 🇫🇷 FR
 
 L'AIPR est délivrée par l'employeur sur la base d'un mode de preuve admissible, dont le QCM encadré correspondant.
 
@@ -1170,8 +1170,8 @@ Source : https://www.inrs.fr/publications/bdd/caces.html
 
 ## SST — Sauveteur Secouriste du Travail
 
-- **Certificat SST** — REG / certificate métier, validité 24 mois avec MAC
-- **Formateur SST** — certification de formateur selon dispositif INRS
+- **Certificat SST** — REG / certificate métier, validité 24 mois avec MAC — 🇫🇷 FR
+- **Formateur SST** — certification de formateur selon dispositif INRS — 🇫🇷 FR
 
 Source : https://www.inrs.fr/services/formation/publics/sauveteur-secouriste.html
 
@@ -1181,9 +1181,9 @@ Source : https://www.inrs.fr/services/formation/publics/sauveteur-secouriste.htm
 
 Diplômes réglementés :
 
-- **SSIAP 1 — Agent de service de sécurité incendie et d'assistance à personnes** — REG
-- **SSIAP 2 — Chef d'équipe** — REG
-- **SSIAP 3 — Chef de service** — REG
+- **SSIAP 1 — Agent de service de sécurité incendie et d'assistance à personnes** — REG — 🇫🇷 FR
+- **SSIAP 2 — Chef d'équipe** — REG — 🇫🇷 FR
+- **SSIAP 3 — Chef de service** — REG — 🇫🇷 FR
 
 Sources :
 

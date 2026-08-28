@@ -24,17 +24,17 @@ verified: 2026-08-28
 
 # Vue rapide
 
-| Credential / programme | Coût officiel indicatif | Domaine |
-|---|---:|---|
-| ICA Certificate AML / Compliance | **860 € + 220 € membership + taxes** | AML / Compliance |
-| AFP FPAC | **1 025 $ membre / 1 420 $ non-membre early** | FP&A |
-| ACAMS CAFS | **1 995 $ privé / 1 495 $ public + membership** | Fraud |
-| ACAMS CGSS | **1 995 $ privé / 1 495 $ public + membership** | Sanctions |
-| ACAMS CAMS | **2 095 $ privé / 1 595 $ public + membership** | AML |
-| ICA Certified Financial Crime Investigator | **2 200 € + 220 € membership + taxes** | Financial Crime Investigation |
-| ACAMS Advanced CAMS / AFC Risk Manager | **2 195 $ privé / 1 695 $ public + membership** | AFC Risk |
-| ICA Advanced Certificate AML / GRC | **2 540 € + 220 € membership + taxes** | AML / GRC |
-| ICA Diploma AML | **5 085 € + 220 € membership + taxes** | AML leadership |
+| Credential / programme | Coût officiel indicatif | Domaine | Portée |
+| --- | ---: | --- | :---: |
+| ICA Certificate AML / Compliance | **860 € + 220 € membership + taxes** | AML / Compliance | 🌍 INT · UK-origin |
+| AFP FPAC | **1 025 $ membre / 1 420 $ non-membre early** | FP&A | 🌍 INT |
+| ACAMS CAFS | **1 995 $ privé / 1 495 $ public + membership** | Fraud | 🌍 INT |
+| ACAMS CGSS | **1 995 $ privé / 1 495 $ public + membership** | Sanctions | 🌍 INT |
+| ACAMS CAMS | **2 095 $ privé / 1 595 $ public + membership** | AML | 🌍 INT |
+| ICA Certified Financial Crime Investigator | **2 200 € + 220 € membership + taxes** | Financial Crime Investigation | 🌍 INT · UK-origin |
+| ACAMS Advanced CAMS / AFC Risk Manager | **2 195 $ privé / 1 695 $ public + membership** | AFC Risk | 🌍 INT |
+| ICA Advanced Certificate AML / GRC | **2 540 € + 220 € membership + taxes** | AML / GRC | 🌍 INT · UK-origin |
+| ICA Diploma AML | **5 085 € + 220 € membership + taxes** | AML leadership | 🌍 INT · UK-origin |
 
 ---
 
@@ -58,7 +58,7 @@ Le package comprend :
 - eLearning ;
 - cours électifs ;
 - simulateur ;
-- **examen CAMS**.
+- **examen CAMS**. — 🌍 INT
 
 ### Avec Virtual Classroom
 
@@ -208,7 +208,7 @@ L'**International Compliance Association** propose un modèle différent : forma
 Tarifs :
 
 - course fee : **860 €** ;
-- membership ICA 12 mois : **220 €** ;
+- membership ICA 12 mois : **220 €** ; — 🌍 INT · UK-origin
 - taxes locales en sus.
 
 ```text
@@ -369,7 +369,7 @@ Le **FPAC** est un credential spécialisé Financial Planning & Analysis.
 
 ### Early
 
-- AFP Member : **1 025 $** ;
+- AFP Member : **1 025 $** ; — 🌍 INT
 - Non-member : **1 420 $**.
 
 ### Standard
@@ -410,15 +410,15 @@ Sources :
 
 # CAMS vs ICA — lecture rapide
 
-| Besoin | Credential intéressant |
-|---|---|
-| AML très reconnu banque / international | **CAMS** |
-| Parcours académique/professionnel structuré EMEA | **ICA AML / Advanced / Diploma** |
-| Sanctions | **CGSS** |
-| Fraud | **CAFS** ou **CFE** |
-| Investigation financière | **ICA Financial Crime Investigator** / Advanced CAMS-FCI |
-| GRC large | **ICA Advanced GRC** |
-| AML senior / MLRO | **ICA Diploma AML** |
+| Besoin | Credential intéressant | Portée |
+| --- | --- | :---: |
+| AML très reconnu banque / international | **CAMS** | 🌍 INT |
+| Parcours académique/professionnel structuré EMEA | **ICA AML / Advanced / Diploma** | 🌍 INT · UK-origin |
+| Sanctions | **CGSS** | 🌍 INT |
+| Fraud | **CAFS** ou **CFE** | 🌍 INT |
+| Investigation financière | **ICA Financial Crime Investigator** / Advanced CAMS-FCI | 🌍 INT · UK-origin |
+| GRC large | **ICA Advanced GRC** | 🌍 INT · UK-origin |
+| AML senior / MLRO | **ICA Diploma AML** | 🌍 INT · UK-origin |
 
 ---
 

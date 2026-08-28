@@ -29,12 +29,12 @@ verified: 2026-08-28
 Tarif 2026 :
 
 - prix catalogue : **550 $** ;
-- membre ASQ : **450 $** ;
+- membre ASQ : **450 $** ; — 🌍 INT
 - retake : **350 $**.
 
 ### Prérequis
 
-- **5 ans** d'expérience professionnelle dans le Body of Knowledge CPGP ;
+- **5 ans** d'expérience professionnelle dans le Body of Knowledge CPGP ; — 🌍 INT
 - dont **3 ans** en position de décision ;
 - emploi full-time rémunéré ;
 - **aucune exemption de durée par diplôme**.
@@ -75,14 +75,14 @@ Source :
 
 Même grille générale pour plusieurs certifications senior :
 
-| Credential | Liste | Membre |
-|---|---:|---:|
-| Certified Quality Auditor — CQA | **550 $** | **450 $** |
-| Certified Quality Engineer — CQE | **550 $** | **450 $** |
-| Certified Reliability Engineer — CRE | **550 $** | **450 $** |
-| Certified Software Quality Engineer — CSQE | **550 $** | **450 $** |
-| Certified Supplier Quality Professional — CSQP | **550 $** | **450 $** |
-| Six Sigma Black Belt — CSSBB | **585 $** | **485 $** |
+| Credential | Liste | Membre | Portée |
+| --- | ---: | ---: | :---: |
+| Certified Quality Auditor — CQA | **550 $** | **450 $** | ❓ UNV |
+| Certified Quality Engineer — CQE | **550 $** | **450 $** | ❓ UNV |
+| Certified Reliability Engineer — CRE | **550 $** | **450 $** | ❓ UNV |
+| Certified Software Quality Engineer — CSQE | **550 $** | **450 $** | ❓ UNV |
+| Certified Supplier Quality Professional — CSQP | **550 $** | **450 $** | ❓ UNV |
+| Six Sigma Black Belt — CSSBB | **585 $** | **485 $** | 🌍 INT |
 
 Plusieurs de ces examens sont donc **sous 500 € au tarif membre**, même si le membership doit être intégré au TCO si acheté uniquement pour la remise.
 
@@ -247,16 +247,16 @@ Source :
 
 # Vue rapide
 
-| Credential | Coût indicatif |
-|---|---:|
-| RAPS FRA Pharma / Device | **200–300 $** |
-| RAPS RCC MDR / IVDR | **285–385 $** |
-| ACRP flagship early | **435–485 $** |
-| ASQ CPGP membre | **450 $** |
-| ACRP regular membre | **460 $** |
-| ASQ CPGP liste | **550 $** |
-| SOCRA CCRP hors NA | **570–625 $** |
-| RAPS RAC Drugs / Devices | **605–760 $** |
+| Credential | Coût indicatif | Portée |
+| --- | ---: | :---: |
+| RAPS FRA Pharma / Device | **200–300 $** | 🌍 INT |
+| RAPS RCC MDR / IVDR | **285–385 $** | 🌍 INT |
+| ACRP flagship early | **435–485 $** | 🌍 INT |
+| ASQ CPGP membre | **450 $** | 🌍 INT |
+| ACRP regular membre | **460 $** | 🌍 INT |
+| ASQ CPGP liste | **550 $** | 🌍 INT |
+| SOCRA CCRP hors NA | **570–625 $** | 🌍 INT |
+| RAPS RAC Drugs / Devices | **605–760 $** | 🌍 INT |
 
 ---
 
@@ -296,7 +296,7 @@ Source :
 
 Suit le même modèle que les autres Lead Auditor PECB déjà documentés dans `iso-grc-europe-over-500.md` (voir aussi la mise en garde ISO 42001 sur la distinction prix individuel / prix de certification d'entreprise, applicable ici aussi).
 
-- PECB : examen **≈ 500 $** (ExamShield, online proctoré) ; formation recommandée 5 jours + 60-90 h de self-study ;
+- PECB : examen **≈ 500 $** (ExamShield, online proctoré) ; formation recommandée 5 jours + 60-90 h de self-study ; — 🌍 INT
 - BSI : parcours Practitioner et Professional distincts, prix non exposé publiquement.
 
 Source :
