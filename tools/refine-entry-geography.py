@@ -15,7 +15,7 @@ OVERRIDES = ROOT / "metadata" / "entry-geography-overrides.json"
 REPORT = ROOT / "metadata" / "entry-geography-report.md"
 
 LABELS = [
-    "🇫🇷 FR", "🇪🇺 EUR", "🇺🇸 US", "🇬🇧 UK", "🇨🇦 CA", "🇦🇺 AU",
+    "🇫🇷 FR", "🇪🇺 EUR", "🇺🇸 US", "🇬🇧 UK", "🇨🇦 CA", "🇦🇺 AU", "🇸🇬 SG",
     "🌍 INT · US std", "🌍 INT · US-centric", "🌍 INT · UK-origin",
     "🌍 INT · DE-origin", "🌍 INT", "🌐 MIX", "🌐 REG", "❓ UNV",
 ]
@@ -112,6 +112,9 @@ def scan_report() -> str:
                     if label in lines[i]:
                         bullets += 1
                         total[label] += 1
+                        if label == "❓ UNV":
+                            unv += 1
+                            unresolved.append((str(path.relative_to(ROOT)), lines[i].strip()))
                         break
             i += 1
         rows.append((str(path.relative_to(ROOT)), tables, table_rows, bullets, unv))
@@ -129,11 +132,11 @@ def scan_report() -> str:
     out.append(f"- tableaux avec colonne `Portée` : **{sum(r[1] for r in rows)}** ;")
     out.append(f"- lignes credential annotées : **{sum(r[2] for r in rows)}** ;")
     out.append(f"- bullets credential annotés : **{sum(r[3] for r in rows)}** ;")
-    out.append(f"- lignes restant `❓ UNV` : **{sum(r[4] for r in rows)}**.")
+    out.append(f"- entrées restant `❓ UNV` : **{sum(r[4] for r in rows)}**.")
     out += ["", "### Répartition visible", ""]
     for label, count in sorted(total.items()):
         out.append(f"- `{label}` : **{count}**")
-    out += ["", "## Lignes `❓ UNV` à vérifier", ""]
+    out += ["", "## Entrées `❓ UNV` à vérifier", ""]
     if unresolved:
         for p, line in unresolved:
             out.append(f"- `{p}` — `{line.replace('|', r'\|')}`")
