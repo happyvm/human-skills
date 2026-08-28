@@ -16,15 +16,18 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Analyze cross-catalog overlaps
+      - name: Analyze table overlaps
         run: python tools/audit-catalog-overlaps.py
 
-      - name: Commit analysis report
+      - name: Analyze bullet overlaps
+        run: python tools/audit-catalog-bullet-overlaps.py
+
+      - name: Commit analysis reports
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+happyvm@users.noreply.github.com"
-          git add metadata/catalog-overlap-analysis.md
+          git add metadata/catalog-overlap-analysis.md metadata/catalog-bullet-overlap-analysis.md
           if git diff --cached --quiet; then exit 0; fi
-          git commit -m "meta: add cross-catalog overlap analysis"
+          git commit -m "meta: refresh cross-catalog overlap analysis"
           git push origin HEAD:main
