@@ -6,31 +6,55 @@
 
 | Vendor | Credential / gamme | Prix observé | Statut |
 |---|---|---:|---|
-| CyberArk | Defender / Sentry, selon examen | **~200 $** | ✅ sous 500, prix à revalider au checkout |
 | SailPoint | Knowledge Credentials | **0 $** | ✅ gratuit |
-| SailPoint | Professional Certifications | **400–500 $** | ✅ / limite du plafond |
 | Ping Identity | Professional Certifications | **365 € / 395 $** | ✅ sous 500 |
-| BeyondTrust | Certifications BTU | formation ILT requise | ⚠️ TCO non public / souvent employeur |
+| SailPoint | Professional Certifications | **400–500 $** | ✅ / limite du plafond |
+| CyberArk | Defender / Sentry / Guardian | **prix checkout** | ⚠️ aucun tarif 2026 public fiable |
+| BeyondTrust | Certified Administrator | **TCO non public** | ❌ ILT obligatoire / employer-funded |
 
 ---
 
 # CyberArk
 
-CyberArk maintient plusieurs niveaux et familles de certification autour de PAM et IAM. Le catalogue 2026 expose notamment des parcours **Defender** et **Sentry**, avec renommage récent de certaines certifications — par exemple **Defender - Access** devenu **Defender - IAM**.
+CyberArk maintient ses certifications **Defender**, **Sentry** et **Guardian** autour de PAM, EPM, IAM et Secrets Management.
 
-Le prix historiquement publié pour les examens Defender/Sentry est de **200 $ par tentative**. Des sources récentes continuent à afficher ce montant, mais CyberArk ne fournit pas actuellement un tableau public aussi clair que Ping ou SailPoint : **vérifier le prix exact au moment de la réservation**.
+Pearson VUE expose notamment :
 
-Évolution importante : CyberArk a annoncé qu'après le **1er novembre 2025**, les examens de certification ne sont plus proposés en online proctoring et doivent être passés dans les modalités indiquées par son programme de certification / centre de test.
+- Defender Access/IAM — ACC-DEF ;
+- Defender EPM — EPM-DEF ;
+- Defender PAM — PAM-DEF ;
+- Sentry PAM — PAM-SEN ;
+- Sentry Privilege Cloud — CPC-SEN ;
+- Sentry Secrets Manager — SECRET-SEN ;
+- Guardian — GUARD.
 
-### ROI
+## Prix : correction 2026
 
-Si le tarif de 200 $ est maintenu, CyberArk Defender reste un très bon credential spécialisé PAM pour un ingénieur sécurité/IAM.
+Les anciennes références à environ **200 $** ne sont plus suffisamment vérifiables pour être présentées comme prix officiel 2026.
+
+La page Pearson VUE publique ne fournit pas de grille tarifaire ; le montant doit être vérifié pendant le parcours de réservation.
+
+```text
+Prix public confirmé    non
+Classification          checkout-required
+```
+
+## Delivery
+
+Depuis le **1er novembre 2025**, CyberArk a supprimé OnVUE : les examens sont administrés **exclusivement en centre Pearson VUE**.
+
+## Préparation gratuite
+
+CyberArk University propose gratuitement plusieurs study guides et sample items pour Defender/Sentry.
+
+Voir la fiche détaillée :
+
+- [`cyberark-certification-status-2026.md`](cyberark-certification-status-2026.md)
 
 Sources :
 
-- https://training.cyberark.com/learn
-- https://community.cyberark.com/s/topic/0TO2J000000JPLZWA4/certification
-- https://community.cyberark.com/s/topic/0TO2J000000ZuPEWA0/training
+- https://www.pearsonvue.com/us/en/cyberark.html
+- https://training.cyberark.com/learn/public/catalog/view/1
 
 ---
 
@@ -69,14 +93,13 @@ Depuis le programme de recertification 2026 :
 SailPoint est intéressant à deux niveaux :
 
 1. **credentials gratuits** pour ajouter rapidement du signal identity-security ;
-2. certifications professionnelles à **400–500 $**, donc encore dans notre plafond mais nettement plus chères.
+2. certifications professionnelles à **400–500 $**.
 
 Sources :
 
 - https://www.sailpoint.com/university
 - https://community.sailpoint.com/t5/Identity-University-FAQs/What-is-the-fee-for-a-Professional-Certification-exam/ta-p/240480
 - https://community.sailpoint.com/t5/Identity-University-FAQs/How-much-does-it-cost-to-take-the-exam-to-receive-my-Knowledge/ta-p/259564
-- https://community.sailpoint.com/t5/Identity-University-Blog/What-s-new-in-SailPoint-s-Certification-and-Credentialing/ba-p/263974
 - https://community.sailpoint.com/t5/Identity-University-Blog/Stay-SailPoint-certified-with-the-SailPoint-Recertification/ba-p/276431
 
 ---
@@ -93,8 +116,7 @@ Credentials visibles en 2026 :
 - Certified Professional - PingOne DaVinci ;
 - Certified Professional - PingAM ;
 - Certified Professional - PingIDM ;
-- Certified Professional - PingOne Advanced Identity Cloud ;
-- autres credentials associés à la plateforme Ping.
+- Certified Professional - PingOne Advanced Identity Cloud.
 
 Tarif affiché :
 
@@ -102,11 +124,9 @@ Tarif affiché :
 365 € / 310 £ / 395 $
 ```
 
-La plupart des examens sont proctorés, autour de 70 questions et 75 à 90 minutes selon le produit.
-
 ## Opportunité gratuite 2026
 
-Ping YOUniverse London annonce une session de certification **gratuite** le **14 septembre 2026**, avec suppression du tarif de 310 £ pour les participants éligibles à l'événement. Plusieurs examens Professional y sont proposés.
+Ping YOUniverse London annonce une session de certification **gratuite** le **14 septembre 2026** pour les participants éligibles.
 
 ### Verdict
 
@@ -121,24 +141,32 @@ Sources :
 
 # BeyondTrust
 
-BeyondTrust University propose désormais beaucoup de contenu **self-paced sans coût additionnel pour les clients actifs** via son programme Success Included.
+BeyondTrust University propose du self-paced learning sans coût additionnel pour les clients via **Success Included**, mais cela ne suffit pas à obtenir la certification.
 
-En revanche, la certification BTU standard est délivrée après :
+La certification Certified Administrator nécessite :
 
-1. réalisation de la formation **Instructor-Led Training (ILT)** requise ;
-2. réussite de l'examen avec **75 % minimum**.
+1. la formation **Instructor-Led Training requise** ;
+2. un examen online de **40 questions** ;
+3. **75 % minimum** ;
+4. deux tentatives maximum avant obligation de racheter une nouvelle formation.
 
-Le prix public standalone de l'examen n'est pas clairement exposé et le TCO dépend du parcours de formation / abonnement / statut client.
+La certification est valide **2 ans** et le renouvellement nécessite **une nouvelle formation + un nouvel examen**.
+
+Le prix de Success Elevated / Private ILT n'est pas publié sous forme de tarif individuel simple.
 
 ### Verdict
 
-À classer en **employer-funded / customer-entitlement** plutôt qu'en certification low-cost individuelle. Le contenu self-paced gratuit reste néanmoins intéressant pour apprendre le produit.
+À classer en **employer-funded / customer subscription**, et non dans les certifications standalone <500.
+
+Voir :
+
+- [`beyondtrust-certification-tco-2026.md`](beyondtrust-certification-tco-2026.md)
 
 Sources :
 
 - https://www.beyondtrust.com/services/beyondtrust-university/get-certified
 - https://www.beyondtrust.com/services/beyondtrust-university/success-included
-- https://www.beyondtrust.com/services-training/beyondtrust-university
+- https://www.beyondtrust.com/services/beyondtrust-university/success-elevated
 
 ---
 
@@ -146,10 +174,11 @@ Sources :
 
 ```text
 0 $        SailPoint Knowledge Credentials
-~200 $     CyberArk Defender/Sentry (prix à confirmer au checkout)
 365 €      Ping Identity Professional
 400 $      SailPoint Identity Security Engineer
 400–500 $  SailPoint Professional Certifications
+?          CyberArk Defender / Sentry / Guardian — checkout
+premium    BeyondTrust — ILT/subscription obligatoire
 ```
 
-Pour maximiser le signal à coût contenu : **SailPoint gratuit → CyberArk Defender → PingFederate/PingOne**.
+Pour maximiser le signal à coût contenu : **SailPoint gratuit → Ping Professional → CyberArk seulement après vérification du checkout local**.
