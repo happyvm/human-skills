@@ -80,7 +80,195 @@ Source :
 
 ---
 
-# 3. Barracuda Campus — training gratuit, prix certification non confirmé
+# 3. Acronis Academy — vaste catalogue de certifications gratuites pour partenaires
+
+Acronis est l'un des plus gros catalogues gratuits identifiés dans la catégorie **partner entitlement**.
+
+Les credentials Acronis actuellement publiés sur Credly portent explicitement :
+
+```text
+Type    Certification
+Cost    Free
+```
+
+Mais plusieurs critères renvoient directement au **Acronis Partner Portal**. Acronis indique également que ses partenaires disposent gratuitement des training and certification courses via Acronis Academy.
+
+## Acronis Certified Engineer — ACE
+
+```text
+Type          Certification
+Level         Advanced
+Cost          Free
+Passing score 70 %
+```
+
+Le credential couvre notamment :
+
+- fundamentals ;
+- backup ;
+- disaster recovery ;
+- security + EDR ;
+- management ;
+- Acronis Cyber Protect Cloud.
+
+Source : https://www.credly.com/org/acronis/badge/acronis-certified-engineer
+
+## Tech / Cloud Tech Fundamentals
+
+Credentials foundational gratuits observés :
+
+- **Tech Fundamentals** ;
+- **Cloud Tech Fundamentals** ;
+- anciens/variants Cloud Tech Foundation encore vérifiables.
+
+Le parcours Cloud Tech Fundamentals couvre notamment :
+
+- licensing ;
+- agents ;
+- tenant/user management ;
+- Acronis Cyber Protect Cloud ;
+- cyber protection fundamentals.
+
+Conditions : compléter le cours sur Partner Portal + **70 %** à l'assessment.
+
+Sources :
+
+- https://www.credly.com/org/acronis/badge/tech-fundamentals
+- https://www.credly.com/org/acronis/badge/cloud-tech-fundamentals
+
+## Cloud Tech Associate — Protect
+
+```text
+Type          Certification
+Level         Intermediate
+Cost          Free
+Passing score 70 %
+```
+
+Compétences :
+
+- cyber protection ;
+- remote management ;
+- Acronis Cyber Protect Cloud ;
+- planification et opérations de protection.
+
+Source : https://www.credly.com/org/acronis/badge/cloud-tech-associate-protect
+
+## Cloud Tech Associate — Advanced Security / Security + EDR
+
+Credentials gratuits :
+
+- **Cloud Tech Associate Advanced Security** ;
+- **Cloud Tech Associate Advanced Security + EDR**.
+
+Ils couvrent :
+
+- endpoint security ;
+- EDR ;
+- cyber protection ;
+- opérations Advanced Security.
+
+Sources :
+
+- https://www.credly.com/org/acronis/badge/cloud-tech-associate-advanced-security
+- https://www.credly.com/org/acronis/badge/cloud-tech-associate-advanced-security-edr
+
+## Cloud Tech Associate — Advanced Cyber Infrastructure
+
+Certification particulièrement intéressante pour infrastructure :
+
+```text
+Type     Certification
+Level    Intermediate
+Cost     Free
+```
+
+Le track traite notamment :
+
+- Acronis Cyber Infrastructure ;
+- HCI / hyper-converged infrastructure ;
+- networking ;
+- infrastructure cloud ;
+- exploitation MSP.
+
+Source : https://www.credly.com/org/acronis/badge/cloud-tech-associate-advanced-cyber-infrastructure
+
+## Cloud Tech Associate — Advanced Automation
+
+```text
+Type     Certification
+Level    Intermediate
+Cost     Free
+```
+
+Compétences :
+
+- automation ;
+- cloud ;
+- deployment/scaling automation ;
+- management ;
+- outils/frameworks d'automatisation.
+
+Source : https://www.credly.com/org/acronis/badge/cloud-tech-associate-advanced-automation
+
+## Cloud Tech Professional — Advanced Security
+
+```text
+Type          Certification
+Level         Advanced
+Cost          Free
+Passing score 70 %
+```
+
+Couvre les composants Advanced Security, EDR et sécurité avancée Acronis.
+
+Source : https://www.credly.com/org/acronis/badge/cloud-tech-professional-advanced-security
+
+## Cloud Tech Professional — XDR
+
+```text
+Type          Certification
+Level         Advanced
+Cost          Free
+Passing score 70 %
+```
+
+Compétences :
+
+- XDR ;
+- incident response ;
+- integrations ;
+- provisioning ;
+- security operations.
+
+Source : https://www.credly.com/org/acronis/badge/cloud-tech-professional-xdr
+
+## Autres certifications Acronis gratuites observées
+
+Le catalogue 2026 inclut également selon les versions/tracks :
+
+- Cloud Tech Professional Microsoft 365 ;
+- Cloud Tech Professional MDR ;
+- Cloud Tech Professional / Cyber Protect variants ;
+- MSP Academy credentials, par exemple **MSP Explorer** ;
+- plusieurs certifications Sales / Cloud Sales.
+
+Le dépôt doit privilégier les tracks techniques ci-dessus pour un profil IT.
+
+### Verdict Acronis
+
+Si l'entreprise est partenaire Acronis, c'est une **mine majeure** : backup, DR, EDR/XDR, HCI, automation, M365 et cyber protection peuvent générer une pile de certifications vendor sans frais supplémentaires.
+
+```text
+Public individuel sans Partner Portal     non garanti
+Partenaire Acronis                         oui
+Exam/assessment                            0 $ selon credentials listés
+Badge                                      Credly
+```
+
+---
+
+# 4. Barracuda Campus — training gratuit, prix certification non confirmé
 
 Barracuda Campus maintient :
 
@@ -108,7 +296,7 @@ Source :
 
 ---
 
-# 4. Tenable — cours gratuits, certifications payantes
+# 5. Tenable — cours gratuits, certifications payantes
 
 Tenable University propose plusieurs cours gratuits, mais le site sépare clairement :
 
@@ -125,7 +313,7 @@ Source :
 
 ---
 
-# 5. KnowBe4 — training certificates, pas certification gratuite publique
+# 6. KnowBe4 — training certificates, pas certification gratuite publique
 
 KnowBe4 délivre des certificats après les formations assignées par une organisation et propose divers badges Learner Experience.
 
