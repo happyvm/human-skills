@@ -1,0 +1,400 @@
+# Geographic scope registry for legacy certification catalogues.
+# Generated/reviewed: 2026-08-28
+#
+# Precedence:
+#   1. File frontmatter `scope` when present and not `unverified`
+#   2. This registry for legacy files
+#
+# `mixed` means the file contains credentials with materially different
+# geographic portability/jurisdictions. Consumers must inspect entry-level
+# labels before recommending a credential.
+#
+version: 1
+verified: 2026-08-28
+catalogue_count: 128
+
+catalogues:
+  "certifications/accessibility-digital-inclusion.md":
+    scope:
+      - international
+  "certifications/actuarial-accounting-insurance.md":
+    scope:
+      - mixed
+  "certifications/ai-engineering-mlops-agents-under-500.md":
+    scope:
+      - international
+  "certifications/ai-governance-risk-safety.md":
+    scope:
+      - international
+  "certifications/ai-infrastructure-gpu-hpc-2026.md":
+    scope:
+      - international
+  "certifications/api-management-specialists-2026.md":
+    scope:
+      - international
+  "certifications/apm-chartered-project.md":
+    scope:
+      - international
+  "certifications/arista-academy-certification-2026.md":
+    scope:
+      - international
+  "certifications/audit-finance-project-over-500.md":
+    scope:
+      - mixed
+  "certifications/automation-semiconductor.md":
+    scope:
+      - international
+  "certifications/automotive-rail-quality.md":
+    scope:
+      - international
+  "certifications/beyondtrust-certification-tco-2026.md":
+    scope:
+      - international
+  "certifications/business-continuity-crisis.md":
+    scope:
+      - international
+  "certifications/business-finance-under-500.md":
+    scope:
+      - mixed
+  "certifications/business-valuation.md":
+    scope:
+      - mixed
+  "certifications/cicd-devops-tooling-2026.md":
+    scope:
+      - international
+  "certifications/cloud-native-platform-engineering-under-500.md":
+    scope:
+      - international
+  "certifications/coaching-learning-development.md":
+    scope:
+      - international
+  "certifications/compensation-total-rewards.md":
+    scope:
+      - mixed
+  "certifications/compliance-aml-fpa-over-500.md":
+    scope:
+      - mixed
+  "certifications/construction-btp-global-2026.md":
+    scope:
+      - mixed
+  "certifications/construction-btp-site-schemes-2026.md":
+    scope:
+      - mixed
+  "certifications/construction-btp-specialties-2026.md":
+    scope:
+      - mixed
+  "certifications/construction-cost-engineering.md":
+    scope:
+      - international
+  "certifications/customer-experience.md":
+    scope:
+      - international
+  "certifications/cyber-premium-over-500.md":
+    scope:
+      - international
+  "certifications/cyberark-certification-status-2026.md":
+    scope:
+      - international
+  "certifications/data-database-platforms-under-500.md":
+    scope:
+      - international
+  "certifications/datacenter-facilities-over-500.md":
+    scope:
+      - international
+  "certifications/datacenter-networking-aruba-cisco-2026.md":
+    scope:
+      - international
+  "certifications/edge-sase-security-2026.md":
+    scope:
+      - international
+  "certifications/electronics-manufacturing-ipc.md":
+    scope:
+      - international
+  "certifications/enterprise-linux-suse-canonical-2026.md":
+    scope:
+      - international
+  "certifications/enterprise-messaging-streaming-2026.md":
+    scope:
+      - international
+  "certifications/esg-sustainability-carbon.md":
+    scope:
+      - international
+  "certifications/euc-vdi-endpoint-under-500-2026.md":
+    scope:
+      - international
+  "certifications/facilities-energy-qhse.md":
+    scope:
+      - mixed
+  "certifications/finance-risk-fraud-over-500.md":
+    scope:
+      - international
+  "certifications/finops-veeam-over-500.md":
+    scope:
+      - international
+  "certifications/food-safety-trade-logistics.md":
+    scope:
+      - mixed
+  "certifications/france-amf-regulatory.md":
+    scope:
+      - france
+  "certifications/free-ai-dev-academic-certificates-2026.md":
+    scope:
+      - international
+  "certifications/free-ataccama-data-governance-mdm-2026.md":
+    scope:
+      - international
+  "certifications/free-cato-sase-security-certifications-2026.md":
+    scope:
+      - international
+  "certifications/free-cisco-networking-academy-badges-2026.md":
+    scope:
+      - international
+  "certifications/free-cloud-data-microcredentials-2026.md":
+    scope:
+      - international
+  "certifications/free-data-governance-dataworld-2026.md":
+    scope:
+      - international
+  "certifications/free-data-science-engineering-certificates-2026.md":
+    scope:
+      - international
+  "certifications/free-devops-automation-certifications-2026.md":
+    scope:
+      - international
+  "certifications/free-extreme-networks-associate-2026.md":
+    scope:
+      - international
+  "certifications/free-hackersgen-linux-devops-dev-cyber-2026.md":
+    scope:
+      - international
+  "certifications/free-harness-developer-certifications-2026.md":
+    scope:
+      - international
+  "certifications/free-iac-platform-orchestration-2026.md":
+    scope:
+      - international
+  "certifications/free-ibm-skillsbuild-credentials-2026.md":
+    scope:
+      - international
+  "certifications/free-it.md":
+    scope:
+      - international
+  "certifications/free-mainframe-ibmz-2026.md":
+    scope:
+      - international
+  "certifications/free-microsoft-applied-skills-2026.md":
+    scope:
+      - international
+  "certifications/free-microsoft-licensing-scholar-2026.md":
+    scope:
+      - international
+  "certifications/free-network-devsecops-agile-2026.md":
+    scope:
+      - international
+  "certifications/free-non-it.md":
+    scope:
+      - mixed
+  "certifications/free-openhpi-records-2026.md":
+    scope:
+      - international
+  "certifications/free-practical-community-credentials-2026.md":
+    scope:
+      - international
+  "certifications/free-purdue-cyber-ai-microcredentials-2026.md":
+    scope:
+      - international
+  "certifications/free-qa-test-automation-certifications-2026.md":
+    scope:
+      - international
+  "certifications/free-sap-learning-badges-2026.md":
+    scope:
+      - international
+  "certifications/free-saylor-computer-science-certificates-2026.md":
+    scope:
+      - international
+  "certifications/free-siemens-eda-asic-certifications-2026.md":
+    scope:
+      - international
+  "certifications/free-soloio-cloud-native-certifications-2026.md":
+    scope:
+      - international
+  "certifications/free-sysadmin-hosting-identity-2026.md":
+    scope:
+      - international
+  "certifications/free-under-entitlement-security-vendors-2026.md":
+    scope:
+      - international
+  "certifications/free-university-helsinki-it-certificates-2026.md":
+    scope:
+      - international
+  "certifications/governance-board-over-500.md":
+    scope:
+      - mixed
+  "certifications/green-building-sustainability.md":
+    scope:
+      - mixed
+  "certifications/hpe-certification-pricing-ai-private-cloud-2026.md":
+    scope:
+      - international
+  "certifications/hpe-morpheus-private-cloud-2026.md":
+    scope:
+      - international
+  "certifications/hr-people-hrtech.md":
+    scope:
+      - mixed
+  "certifications/iam-devsecops-automation-under-500.md":
+    scope:
+      - international
+  "certifications/ibm-enterprise-security-ai-under-500.md":
+    scope:
+      - international
+  "certifications/ibm-storage-2026.md":
+    scope:
+      - international
+  "certifications/identity-iam-pam-under-500.md":
+    scope:
+      - international
+  "certifications/industrial-ot-automation.md":
+    scope:
+      - international
+  "certifications/innovation-pricing.md":
+    scope:
+      - international
+  "certifications/insurance-risk-designations.md":
+    scope:
+      - mixed
+  "certifications/iso-grc-europe-over-500.md":
+    scope:
+      - europe
+  "certifications/itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md":
+    scope:
+      - international
+  "certifications/language-certifications.md":
+    scope:
+      - international
+  "certifications/lean-it-lean-management-2026.md":
+    scope:
+      - international
+  "certifications/legal-contract-management.md":
+    scope:
+      - mixed
+  "certifications/linux-vendor-neutral-suse-2026.md":
+    scope:
+      - international
+  "certifications/mainframe-enterprise-software.md":
+    scope:
+      - international
+  "certifications/management-transformation-over-500.md":
+    scope:
+      - international
+  "certifications/maritime-shipping-aviation.md":
+    scope:
+      - international
+  "certifications/marketing-sales-professional.md":
+    scope:
+      - international
+  "certifications/microsoft-azure-local-hci-2026.md":
+    scope:
+      - international
+  "certifications/microsoft-windows-infrastructure-2026.md":
+    scope:
+      - international
+  "certifications/middleware-api-integration-2026.md":
+    scope:
+      - international
+  "certifications/network-automation-under-500-2026.md":
+    scope:
+      - international
+  "certifications/network-datacenter-advanced-under-500.md":
+    scope:
+      - international
+  "certifications/network-security-adc-sase-under-500.md":
+    scope:
+      - international
+  "certifications/networking-wireless-ai-infra.md":
+    scope:
+      - international
+  "certifications/observability-sre-devops-under-500.md":
+    scope:
+      - international
+  "certifications/observability-vendor-certifications-2026.md":
+    scope:
+      - international
+  "certifications/observability-vendor-low-cost-2026.md":
+    scope:
+      - international
+  "certifications/occupational-safety-nebosh-iosh.md":
+    scope:
+      - international
+  "certifications/open-networking-sonic-ai-fabrics-2026.md":
+    scope:
+      - international
+  "certifications/open-source-private-cloud-2026.md":
+    scope:
+      - international
+  "certifications/open-source-storage-ceph-minio-2026.md":
+    scope:
+      - international
+  "certifications/oracle-database-mysql-enterprise-2026.md":
+    scope:
+      - international
+  "certifications/oracle-linux-virtualization-engineered-systems-2026.md":
+    scope:
+      - international
+  "certifications/paid-over-500.md":
+    scope:
+      - mixed
+  "certifications/paid-under-500.md":
+    scope:
+      - mixed
+  "certifications/pharma-clinical-regulatory.md":
+    scope:
+      - mixed
+  "certifications/practical-cyber-under-500.md":
+    scope:
+      - international
+  "certifications/privacy-dpo-france.md":
+    scope:
+      - france
+  "certifications/product-management-marketing.md":
+    scope:
+      - international
+  "certifications/public-cloud-multicloud-under-500.md":
+    scope:
+      - international
+  "certifications/public-procurement-ppp.md":
+    scope:
+      - international
+  "certifications/real-estate-property.md":
+    scope:
+      - mixed
+  "certifications/redhat-framework-europe-2026.md":
+    scope:
+      - europe
+  "certifications/redhat-openshift-linux-tco.md":
+    scope:
+      - international
+  "certifications/rubrik-certification-status-2026.md":
+    scope:
+      - international
+  "certifications/rubrik-veeam-data-protection-2026.md":
+    scope:
+      - international
+  "certifications/safety-professional-bcsp.md":
+    scope:
+      - international
+  "certifications/server-compute-oem-dell-lenovo-supermicro-2026.md":
+    scope:
+      - international
+  "certifications/storage-data-protection-under-500.md":
+    scope:
+      - international
+  "certifications/supply-chain-procurement-over-500.md":
+    scope:
+      - international
+  "certifications/tools-platforms-under-500.md":
+    scope:
+      - international
+  "certifications/virtualization-private-cloud-under-500.md":
+    scope:
+      - international
