@@ -1,19 +1,22 @@
 # IT Certification Index — human-skills
 
-> Index prioritaire des certifications **IT / infrastructure / cloud / cyber / data / platform engineering** du dépôt.
+> Porte d'entrée **IT-first** du dépôt : infrastructure, cloud, virtualisation, Linux, cyber, réseau, stockage, data, platform engineering, observability, middleware et IA.
 >
 > Revue : **28 août 2026**.
 
-Le dépôt global couvre aussi de nombreux domaines hors IT, mais cette page sert désormais de **porte d'entrée IT-first**.
+Les prix sont des références publiques observées lors de la revue. Toujours vérifier taxes, conversion France/EMEA, version active, retakes et prérequis avant paiement.
 
 ---
 
 # 1. Gratuit / presque gratuit
 
+Fichiers principaux :
+
 - [`certifications/free-it.md`](certifications/free-it.md)
+- [`certifications/identity-iam-pam-under-500.md`](certifications/identity-iam-pam-under-500.md)
 - [`certifications/ibm-enterprise-security-low-cost-2026.md`](certifications/ibm-enterprise-security-low-cost-2026.md)
 - [`certifications/observability-vendor-low-cost-2026.md`](certifications/observability-vendor-low-cost-2026.md)
-- [`certifications/identity-iam-pam-under-500.md`](certifications/identity-iam-pam-under-500.md)
+- [`certifications/middleware-api-integration-2026.md`](certifications/middleware-api-integration-2026.md)
 
 ### Opportunités 2026 à très forte valeur
 
@@ -30,13 +33,19 @@ Le dépôt global couvre aussi de nombreux domaines hors IT, mais cette page ser
 | IBM QRadar SIEM Foundation Badge | **0 $** |
 | New Relic Verified Foundation | **0 $** |
 | SailPoint Knowledge Credentials | **0 $** |
+| Boomi training + 20+ certifications | **0 $** |
+| Solace Solutions Consultant | **0 $** |
+| Solace Developer Practitioner | **0 $** |
+| Solace Event Driven Architecture Practitioner | **0 $** |
+| Solace Agent Mesh Practitioner | **0 $** |
 | Infoblox Associate / Operator | **29 $** |
-| Juniper JNCIA / JNCIA-DevOps via Open Learning voucher | **50 $** |
+| Juniper JNCIA / JNCIA-DevOps via Open Learning | **50 $** |
 | Infoblox Professional / Administrator | **69 $** |
-| HashiCorp Terraform Associate | **70,50 $** |
-| HashiCorp Vault Associate | **70,50 $** |
+| Terraform Associate | **70,50 $** |
+| Vault Associate | **70,50 $** |
 | Infoblox Expert | **99 $** |
 | GitHub certification | **99 $** |
+| SUSE AI Deployment Specialist | **99 $** |
 | Apache CloudStack Certification by ShapeBlue | **100 $** |
 | IBM AIX v7.3 Administrator Specialty | **100 $** |
 | Nokia NSP IP Network Automation Professional | **125 $** |
@@ -84,55 +93,65 @@ OpenNebula Certified Admin       899 €  >500
 - [`certifications/microsoft-windows-infrastructure-2026.md`](certifications/microsoft-windows-infrastructure-2026.md)
 - [`certifications/microsoft-azure-local-hci-2026.md`](certifications/microsoft-azure-local-hci-2026.md)
 
-Transition importante 2026 :
-
-```text
-AZ-800 + AZ-801 retirés le 30/09/2026
-              ↓
-AZ-802 Windows Server Administrator
-1 examen = 126 € en France
-```
-
-Microsoft publie :
-
 ```text
 Azure Local Accreditation 2025       0 €  achievement Learn
 Windows Server 2025 Accreditation    0 €  achievement Learn
-AZ-802                              126 €  vraie certification role-based
+AZ-802                              126 €  certification role-based
 ```
 
-Aucune certification role-based ni Applied Skill **spécifiquement Azure Local** n'a été identifiée dans le catalogue public au 28 août 2026. Les Accreditation sont utiles mais ne doivent pas être confondues avec une certification proctored ou un Applied Skills lab-based.
+Transition 2026 : **AZ-800 + AZ-801 sont retirés le 30 septembre 2026**, remplacés par **AZ-802 Windows Server Administrator**.
+
+Aucun credential role-based ou Applied Skill dédié spécifiquement à Azure Local n'a été identifié au 28 août 2026.
 
 ---
 
-# 5. Linux / Red Hat / OpenShift
+# 5. Enterprise Linux / Red Hat / SUSE / Canonical
 
 - [`certifications/redhat-openshift-linux-tco.md`](certifications/redhat-openshift-linux-tco.md)
 - [`certifications/redhat-framework-europe-2026.md`](certifications/redhat-framework-europe-2026.md)
+- [`certifications/enterprise-linux-suse-canonical-2026.md`](certifications/enterprise-linux-suse-canonical-2026.md)
 
-Red Hat a **refondu son framework de certification le 11 mai 2026** avec une progression en cinq niveaux et des spécialisations structurées.
-
-Le parcours OpenShift avancé s'appuie notamment sur :
+## SUSE — très fort rapport coût/signal
 
 ```text
-EX280  OpenShift Administrator
-EX380  Advanced OpenShift Administration
-+ au moins 3 spécialisations parmi :
-EX229  ROSA
-EX282  OpenShift Networking
-EX316  OpenShift Virtualization
-EX336  Automating OpenShift VM Management
-EX370  OpenShift Data Foundation
-EX430  Advanced Cluster Security
-EX432  Advanced Cluster Management
-EX480  MultiCluster Management
+SUSE AI Deployment Specialist            99 $
+SLES 16 Administrator                    149 $
+SLES 15 Administrator                    149 $
+Rancher Prime Administrator              149 $
+RKE2 Administrator                       149 $
+Multi-Linux Manager Administrator        149 $
+SUSE Observability Administrator         149 $
+NeuVector Administrator                  149 $
+SLE High Availability Engineer           195 $
+SLES for SAP Applications Engineer       298 $  = 2 x 149 $
 ```
 
-### Prix Europe : correction importante
+Combo particulièrement intéressant :
 
-Le tarif US autour de **500 $** ne doit pas être traduit automatiquement par « moins de 500 € ». Un voucher KIOSK EMEA est affiché à **530 € HT** chez un partenaire Red Hat, donc le coût TTC français dépasse nettement 500 €.
+```text
+SLES 16 Administrator                   149 $
+RKE2 Administrator                      149 $
+SUSE AI Deployment Specialist            99 $
+---------------------------------------------
+Total                                   397 $
+```
 
-Une première tentative échouée d'un Individual Exam peut toutefois donner droit à **un retake gratuit** dans la période d'éligibilité.
+## Canonical Academy
+
+Canonical Academy est désormais un programme de certification Ubuntu actif avec examens hands-on. Le track System Administrator repose notamment sur :
+
+- Using Linux Terminal ;
+- Using Ubuntu Desktop ;
+- Using Ubuntu Server ;
+- Using DevOps Principles — encore beta lors de la revue.
+
+Le prix du shop est derrière Ubuntu SSO : **ne pas inventer de tarif**.
+
+## Red Hat — correction Europe
+
+Red Hat a refondu son framework le **11 mai 2026**. Le parcours OpenShift avancé s'appuie notamment sur EX280, EX380 puis des spécialisations EX229, EX282, EX316, EX336, EX370, EX430, EX432, EX480.
+
+Un voucher KIOSK EMEA a été observé à **530 € HT**, donc Red Hat ne doit pas être classé automatiquement dans « ≤500 € » pour un acheteur français. Un retake gratuit peut être disponible après un premier échec selon la politique Individual Exam.
 
 ---
 
@@ -162,18 +181,18 @@ CKS                     445 $
 Couvre Terraform, Vault, GitHub, Okta, Ansible, CyberArk, SailPoint, Ping Identity et BeyondTrust.
 
 ```text
-SailPoint Knowledge Credentials    0 $
-Terraform Associate            70,50 $
-Vault Associate                70,50 $
-GitHub Actions / GHAS             99 $
-CyberArk Defender/Sentry         ~200 $  à confirmer checkout
-Okta Professional                 250 $
-Vault Operations Professional     295 $
-Ping Identity Professional        365 €
-SailPoint Professional         400–500 $
+SailPoint Knowledge Credentials     0 $
+Terraform Associate             70,50 $
+Vault Associate                 70,50 $
+GitHub Actions / GHAS              99 $
+CyberArk Defender/Sentry          ~200 $  à confirmer checkout
+Okta Professional                  250 $
+Vault Operations Professional      295 $
+Ping Identity Professional         365 €
+SailPoint Professional          400–500 $
 ```
 
-Opportunité ponctuelle : **Ping YOUniverse London — 14 septembre 2026** annonce des examens Ping Professional gratuits pour les participants éligibles.
+Opportunité ponctuelle : Ping YOUniverse London du **14 septembre 2026** annonce des examens Professional gratuits pour les participants éligibles.
 
 ---
 
@@ -184,8 +203,6 @@ Opportunité ponctuelle : **Ping YOUniverse London — 14 septembre 2026** annon
 - [`certifications/network-automation-under-500-2026.md`](certifications/network-automation-under-500-2026.md)
 - [`certifications/open-networking-sonic-ai-fabrics-2026.md`](certifications/open-networking-sonic-ai-fabrics-2026.md)
 
-Couvre Juniper, CWNP, Nokia, MEF SD-WAN, Infoblox, Extreme, Cisco DevNet, NVIDIA AI Networking, Arista, SONiC/open networking et Huawei.
-
 ```text
 Infoblox Associate / Operator          29 $
 Juniper JNCIA-DevOps Open Learning     50 $
@@ -193,28 +210,18 @@ Infoblox Professional / Administrator  69 $
 Infoblox Expert                         99 $
 Nokia NSP Network Automation Pro       125 $
 NVIDIA NCA-AIIO                        125 $
+Cisco DevNet Associate                 300 $
 Extreme Administrator             325 € / 375 $
-Cisco DevNet Associate                  300 $
 NVIDIA NCP-AIN / AII / ARI             400 $
 Extreme Professional                   495 $  régional
 NVIDIA NCP-AIO                          500 $
 ```
 
-**NCP InfiniBand est retirée** : NVIDIA oriente désormais vers NCP-AIN Professional AI Networking.
+Très bon combo automation : **JNCIA-DevOps 50 $ + Nokia NSP Automation 125 $ = 175 $**.
 
-### SONiC
+L'ancienne NCP InfiniBand est retirée ; NVIDIA oriente vers **NCP-AIN Professional AI Networking**.
 
-Aucune certification professionnelle officielle SONiC clairement proposée par la SONiC Foundation/Linux Foundation n'a été identifiée lors de cette revue. SONiC reste donc une compétence pratique/watchlist plutôt qu'un credential inventé.
-
-### Très bon combo network automation
-
-```text
-JNCIA-DevOps                    50 $
-Nokia NSP Automation Pro       125 $
-Total                           175 $
-```
-
-Cisco DevNet Associate complète cette stack à 300 $.
+Aucune certification professionnelle SONiC officielle n'a été identifiée : SONiC reste une compétence pratique/watchlist. NCP-AIN constitue actuellement un bon proxy certifiant pour Spectrum-X, RoCE, BGP/EVPN, Cumulus, NetQ, ConnectX/SuperNIC, BlueField/DPU et DOCA.
 
 ---
 
@@ -226,7 +233,7 @@ Couvre F5 BIG-IP/NGINX, Palo Alto, Fortinet, Check Point, Zscaler, Cloudflare, A
 
 ```text
 Palo Alto Professional           200 $
-F5 BIG-IP Admin complet online   250 $
+F5 BIG-IP Admin                  250 $
 Palo Alto Architect              300 $
 Check Point CCSA                 300 $
 Fortinet FCP                    ~400 $ minimum
@@ -242,15 +249,29 @@ Fortinet FCP                    ~400 $ minimum
 
 Couvre NetApp, Dell Technologies, Pure Storage, Hitachi Vantara, Nutanix Storage, VAST Data, IBM Storage, Cohesity, Commvault, Veritas/NetBackup, Rubrik, Veeam et Huawei.
 
-Notable : plusieurs **Commvault Engineer/Expert** restent obtenables sans payer l'ILT via curricula/exam paths gratuits au moment de la revue.
+### Quelques prix
+
+```text
+Commvault Engineer / Expert               0 $  selon free curricula
+Nutanix NCP                              199 $
+NetApp exam                              200 $
+Cohesity Protection Professional        200 $
+NetBackup / Veritas                      200 $
+Pure Storage Associate                   200 $
+Hitachi HCE                              225 $
+Dell Proven Professional                 230 $
+Pure Professional / Specialist           300 $
+VAST VCP-AD1                             300 $
+Pure Expert                              400 $
+```
 
 ### Rubrik
 
-RCSA dispose d'un **parcours de préparation officiel gratuit** et le bootcamp 4 jours n'est pas obligatoire. En revanche, l'accès au final exam nécessite un credential support/partner actif et le prix public du final exam n'est pas clairement exposé sans portal : ne pas inventer un prix.
+RCSA dispose d'une préparation officielle gratuite et le bootcamp 4 jours n'est pas obligatoire. Le prix du final exam n'est pas publiquement exposé de manière fiable ; accès support/partner requis. Ne pas inventer de prix.
 
 ### Veeam 2026
 
-VMCE+ est live depuis le **1er juin 2026** et exige trois formations avant l'examen : VBR, Veeam ONE et Recovery Orchestrator. Un exemple France affiche **3 440 € HT rien que pour le cours VBR v13 de 4 jours** ; le TCO VMCE+ from-zero est donc clairement premium/employer-funded.
+VMCE+ est live depuis le **1er juin 2026** et exige les formations VBR + Veeam ONE + Recovery Orchestrator avant l'examen. Un exemple France affiche **3 440 € HT pour le seul cours VBR v13 de 4 jours** : VMCE+ est clairement un parcours premium/employer-funded.
 
 ---
 
@@ -275,20 +296,20 @@ SnowPro Advanced         375 $
 - [`certifications/observability-sre-devops-under-500.md`](certifications/observability-sre-devops-under-500.md)
 - [`certifications/observability-vendor-low-cost-2026.md`](certifications/observability-vendor-low-cost-2026.md)
 
-Couvre Datadog, Splunk, Elastic, Prometheus, OpenTelemetry, New Relic, Sumo Logic, Dynatrace et cloud DevOps.
-
 ```text
 New Relic Verified Foundation     0 $
 Datadog                          100 $
 Sumo Logic Fundamentals          100 $
 Splunk exams                     130 $
 Sumo Logic Advanced              150 $
-Dynatrace Associate             ~200 $ à vérifier
+Dynatrace Associate             ~200 $  à vérifier
 Google Cloud DevOps              200 $
 PCA / OTCA                       250 $
 AWS DevOps Pro                   256 €
 Elastic                       400–500 $
 ```
+
+Grafana Labs reste en watchlist : aucun examen professionnel officiel clairement tarifé n'a été confirmé lors de la revue.
 
 ---
 
@@ -316,8 +337,6 @@ Couvre TOGAF, CISSP/CCSP, ISACA CISA/CISM/CRISC/CGEIT, IAPP, ISO 27001/42001, SA
 - [`certifications/mainframe-enterprise-software.md`](certifications/mainframe-enterprise-software.md)
 - [`certifications/ibm-enterprise-security-low-cost-2026.md`](certifications/ibm-enterprise-security-low-cost-2026.md)
 
-Couvre IBM z/OS, AIX, Db2 for z/OS, IBM MQ, QRadar, Guardium, IBM Z free learning, SAP et watchlist RACF/CICS/IMS.
-
 ```text
 QRadar SIEM Foundation Badge       0 $
 IBM AIX v7.3 Administrator       100 $
@@ -328,6 +347,8 @@ IBM QRadar v7.5 certifications   200 $
 IBM Guardium v12.x Admin         200 $
 SAP one attempt                  230 $
 ```
+
+RACF/CICS/IMS restent en watchlist : formation active ne signifie pas certification live séparée.
 
 ---
 
@@ -353,13 +374,49 @@ Couvre Uptime Institute, BICSI, Schneider Electric, energy, facilities et QHSE.
 
 - [`certifications/finops-veeam-over-500.md`](certifications/finops-veeam-over-500.md)
 
-FinOps Practitioner/Engineer peuvent rester sous ou autour de 500 $ selon exam-only/self-paced, tandis que Professional implique un TCO nettement supérieur avec credentials préalables.
+FinOps Practitioner/Engineer peuvent rester sous ou autour de 500 $ selon exam-only/self-paced. Professional implique un TCO plus élevé et plusieurs credentials préalables.
 
 ---
 
-# Parcours IT à haut ROI — shortlist mise à jour
+# 19. Middleware / API / integration / event-driven
+
+- [`certifications/middleware-api-integration-2026.md`](certifications/middleware-api-integration-2026.md)
+
+## Gratuit
 
 ```text
+Boomi training + 20+ certifications             0 $
+Solace Solutions Consultant                     0 $
+Solace Developer Practitioner                   0 $
+Solace Event Driven Architecture Practitioner   0 $
+Solace Agent Mesh Practitioner                  0 $
+Solace Integration Architect tracks             0 $ selon parcours
+```
+
+Boomi couvre notamment Integration, APIM, B2B/EDI, DataHub, Flow, Task Automation, Boomi AI et Event Streams.
+
+Solace Agent Mesh Practitioner est particulièrement intéressant pour **agentic AI + event-driven architecture**.
+
+## Payant ciblé
+
+```text
+MuleSoft Hyperautomation Developer        200 $
+MuleSoft Platform Architect               400 $
+Solace Event Broker Administrator         500 $
+Solace Event Driven Integration Associate 500 $
+Kong Gateway Certified Associate            ?  checkout TrueAbility
+Kong Konnect Certified Associate            ?  checkout TrueAbility
+```
+
+Kong a des credentials actuels Gateway/Konnect, mais le prix public n'est pas clairement exposé : ne pas les classer comme gratuits ou <500 tant que le checkout n'est pas vérifié.
+
+---
+
+# Parcours IT à haut ROI — shortlist globale
+
+```text
+0 $      Boomi certifications
+0 $      Solace EDA / Developer / Agent Mesh
 0 $      IBM QRadar SIEM Foundation
 0 $      New Relic Verified Foundation
 0 $      SailPoint Knowledge Credentials
@@ -372,55 +429,61 @@ FinOps Practitioner/Engineer peuvent rester sous ou autour de 500 $ selon exam-o
 70,50 $  Vault Associate
 99 $     Infoblox Expert
 99 $     GitHub Actions / Advanced Security
+99 $     SUSE AI Deployment Specialist
 100 $    Apache CloudStack by ShapeBlue
 100 $    IBM AIX v7.3 Administrator
 125 $    Nokia NSP Network Automation Professional
 125 $    NVIDIA NCA-AIIO
 126 €    Microsoft AZ-802 / AZ-104 / SC-500
 128 €    AWS Solutions Architect Associate
-149 $    SUSE Rancher / RKE2
+149 $    SLES 16 / Rancher / RKE2 / NeuVector / SUSE Observability
 150 $    Confluent Kafka / MongoDB / Sumo Logic Advanced
 175 $    SnowPro Core
+195 $    SUSE SLE High Availability Engineer
 200 $    IBM z/OS / MQ / Db2 / QRadar / Guardium
+200 $    MuleSoft Hyperautomation Developer
 200 $    Palo Alto Professional
 200 $    Nutanix NCP
 250 $    VMware VCP / CNCF associates / F5 BIG-IP Admin
 295 $    Vault Operations Professional
+298 $    SUSE SLES for SAP Engineer — 2 examens
 300 $    Cisco DevNet Associate
 300 $    Palo Alto Architect / Check Point CCSA
 365 €    Ping Identity Professional
+400 $    MuleSoft Platform Architect
 400 $    OpenStack COA
 400 $    NVIDIA NCP-AIN / AII / ARI
 445 $    CKA / CKS / LFCS / CNPE
+500 $    Solace Event Broker Admin / Event Driven Integration Associate
 ```
 
 ### Juste au-dessus / premium
 
 ```text
 ~530 € HT   Red Hat Individual/KIOSK exam — exemple EMEA
+899 €       OpenNebula Certified Administrator Training
 3 440 € HT  Veeam VBR v13 ILT France — seulement 1 des 3 blocs VMCE+
 ```
 
 ---
 
-# Recherche IT active
+# Recherche IT active — trous restants
 
-Les grosses watchlists **OpenStack/OpenNebula/CloudStack**, **Azure Local**, **CyberArk/SailPoint/Ping/BeyondTrust**, **New Relic/Sumo/Dynatrace**, **Infoblox/Extreme/NVIDIA**, **network automation**, **SONiC/AI fabrics**, **Red Hat/OpenShift avancé**, **Rubrik/Veeam** et **IBM AIX/QRadar/Guardium** ont maintenant une première fiche dédiée.
+Les principaux gros écosystèmes IT sont maintenant couverts par au moins une première passe. Les trous restants sont surtout des **prix cachés derrière authentification, checkout ou entitlement**, ou des niches sans credential officiel.
 
-Priorités restantes :
-
-1. **CyberArk** — prix checkout 2026 par examen et prérequis exacts ;
-2. **BeyondTrust** — TCO certification par produit / customer entitlement ;
-3. **Grafana Labs** — surveiller l'apparition éventuelle d'un examen professionnel officiel ;
-4. **Arista** — prix standalone des examens Academy Certification ;
-5. **Red Hat** — confirmer prix France checkout/TTC exacts par examen et bundles utiles ;
-6. **Rubrik** — prix RCSA Final Exam depuis un portal client/partner éligible ;
-7. **Veeam** — prix Pearson VMCE+/VMCSE France et abonnement PRO individuel ;
-8. **RACF / CICS / IMS** — vérifier si de nouveaux credentials IBM live apparaissent ;
-9. **mainframe advanced / enterprise middleware** hors IBM ;
-10. **AI infrastructure / GPU clusters / MLOps** — approfondir AMD, Intel, NVIDIA, hardware/OEM stacks ;
-11. **SRE / platform engineering** — poursuivre les vendors émergents ;
-12. **open-source storage / Ceph** — certification standalone hors Red Hat ;
-13. **Ultra Ethernet / OCP networking / DPU-SuperNIC** — surveiller l'arrivée de credentials officiels ;
-14. **enterprise Linux hors Red Hat** — SUSE, Canonical, Oracle Linux, vendor-neutral ;
-15. **middleware / messaging / integration** — Kafka déjà couvert, approfondir IBM, Solace, MuleSoft, Boomi, Kong, Tyk, Apigee.
+1. **CyberArk** — prix checkout 2026 exact par examen et éventuels prérequis ;
+2. **BeyondTrust** — TCO par produit / customer entitlement ;
+3. **Arista** — prix standalone des examens Academy Certification ;
+4. **Canonical Academy** — prix exact des badges/examens après Ubuntu SSO ;
+5. **Oracle Linux** — confirmer statut live et prix France du track 1Z0-106 / éventuel successeur Linux 9 ;
+6. **Kong** — prix TrueAbility Gateway/Konnect Associate ;
+7. **Rubrik** — prix RCSA Final Exam depuis un portal client/partner ;
+8. **Veeam** — prix Pearson VMCE+/VMCSE France et University PRO individuel ;
+9. **Red Hat** — prix France/TTC exacts par examen et bundles ;
+10. **Grafana Labs** — surveiller l'arrivée éventuelle d'une certification professionnelle ;
+11. **RACF / CICS / IMS** — surveiller de nouveaux credentials IBM live ;
+12. **AI infrastructure / GPU clusters** — approfondir AMD, Intel, NVIDIA, OEM et hardware stacks ;
+13. **open-source storage / Ceph** — certification standalone hors Red Hat ;
+14. **Ultra Ethernet / OCP / DPU-SuperNIC** — surveiller les futurs credentials officiels ;
+15. **API management complémentaires** — Tyk, Apigee, WSO2, Gravitee, Axway ;
+16. **enterprise messaging complémentaires** — RabbitMQ, ActiveMQ, NATS, Pulsar, IBM integration avancé.
