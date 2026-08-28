@@ -38,6 +38,8 @@ verified: 2026-08-28
 
 SHRM propose deux certifications professionnelles majeures.
 
+**Auto-formation officielle et gratuite (partielle) :** [shrm.org/credentials/certification/exam-preparation](https://www.shrm.org/credentials/certification/exam-preparation) — questions retirées gratuites et démo gratuite du SHRM Learning System.
+
 ## SHRM-CP
 
 Orienté :
@@ -193,6 +195,8 @@ Sources :
 # 6. CIPD — statut professionnel
 
 Le Chartered Institute of Personnel and Development fonctionne davantage comme une **professional qualification + membership** que comme une certification exam-only.
+
+**Auto-formation officielle et gratuite (membres) :** [CIPD Learning Hub](https://www.cipd.org/en/learning/short-courses/learning-hub/) — Essential Insights et Introductory Programmes gratuits pour les membres.
 
 Grades :
 

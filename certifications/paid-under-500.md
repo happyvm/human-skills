@@ -363,6 +363,8 @@ Attention : des **Annual Maintenance Fees** s'appliquent après certification.
 
 Source : https://www.isc2.org/register-for-exam/isc2-exam-pricing
 
+**Auto-formation officielle :** [isc2.org/training](https://www.isc2.org/training) — Online Self-Paced Training payant ; Education Guarantee (repasser la formation gratuitement sous 1 an en cas d'échec).
+
 ## ISACA
 
 | Credential | Membre | Non-membre |
@@ -375,6 +377,8 @@ Source : https://www.isc2.org/register-for-exam/isc2-exam-pricing
 Très intéressant pour compléter une trajectoire architecture → gouvernance / direction.
 
 Sources : https://www.isaca.org/credentialing
+
+**Auto-formation officielle :** [isaca.org training](https://www.isaca.org/training-and-events) — self-paced payant ; 10 questions de practice gratuites et forum membre.
 
 ## Cloud Security Alliance
 
@@ -407,6 +411,8 @@ Tarifs US 2026 indicatifs :
 Les tarifs européens / TVA doivent être vérifiés avant achat.
 
 Source : https://www.comptia.org/certifications
+
+**Auto-formation officielle :** [CompTIA CertMaster Learn](https://www.comptia.org/en-us/resources/certmaster-training/learn/) — eLearning payant aligné sur les objectifs d'examen (labs et practice tests en options).
 
 ---
 

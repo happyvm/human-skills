@@ -38,6 +38,8 @@ Les tarifs IPC dépendent fortement des **Authorized / Licensed Training Centers
 
 # 1. Niveaux IPC
 
+**Auto-formation officielle (partielle) :** [IPC EDGE](https://www.ipc.org/education-main-page) — cours gratuits pour les entreprises membres IPC ; formations certifiantes dispensées via des centres agréés.
+
 ## CIS — Certified IPC Specialist
 
 Orientation :

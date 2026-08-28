@@ -63,6 +63,8 @@ La compétence SONiC elle-même peut donc avoir beaucoup de valeur même en l'ab
 
 Pour certifier des compétences adjacentes aux réseaux GPU/AI fabrics, le meilleur credential actuellement identifié est :
 
+**Auto-formation officielle et gratuite :** [learn.nvidia.com](https://learn.nvidia.com/) — Deep Learning Institute, filtre « Free Courses », dont le learning path AI Networking.
+
 ## NVIDIA-Certified Professional: AI Networking — NCP-AIN
 
 - prix : **400 $** ;

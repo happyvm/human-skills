@@ -79,6 +79,8 @@ Le voucher seul est très abordable mais les **quatre modules sont obligatoires*
 
 # 2. AACE International — Certified Cost Technician
 
+**Auto-formation officielle (membres, gamme AACE ci-dessous) :** [web.aacei.org/resources](https://web.aacei.org/resources) — TCM Framework, Recommended Practices et Virtual Library (6000+ contenus) inclus avec la membership.
+
 ## CCT
 
 Credential technician-level autour du cost engineering.

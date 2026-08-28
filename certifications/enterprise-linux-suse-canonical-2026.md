@@ -40,6 +40,8 @@ verified: 2026-08-28
 
 SUSE publie une grille d'examens particulièrement agressive : beaucoup de certifications et Deployment Specialists coûtent **149 $**, sans obligation générale de payer une formation officielle avant l'examen.
 
+**Auto-formation officielle et gratuite (toute la gamme SUSE ci-dessous) :** [learning.suse.com](https://learning.suse.com/) et [training.suse.com](https://training.suse.com/).
+
 ## SUSE Certified Deployment Specialist in SUSE AI — 99 $
 
 C'est probablement l'une des meilleures découvertes de cette passe.
@@ -243,6 +245,8 @@ Sources :
 - https://academy.canonical.com/
 - https://academy.canonical.com/exam-study-guides
 
+**Auto-formation officielle :** [ubuntu.com/training](https://ubuntu.com/training) et [canonical.com/academy](https://canonical.com/academy) — modules self-paced (dont *Using Linux Terminal* en accès public) alignés sur le track System Administrator.
+
 ## Prix : non visible publiquement
 
 Le shop Canonical Academy redirige actuellement vers **Ubuntu SSO** avant d'afficher les informations d'achat.
@@ -292,6 +296,8 @@ Sources :
 
 - https://education.oracle.com/file/general/Cloud%20%26%20On%20Prem%20Certification%20Links.pdf
 - https://education.oracle.com/exam-vouchers
+
+**Auto-formation officielle :** [Oracle University — MyLearn](https://mylearn.oracle.com/) — parcours self-paced sans carte bancaire requise.
 
 ---
 

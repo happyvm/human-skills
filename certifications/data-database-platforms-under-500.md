@@ -37,6 +37,8 @@ verified: 2026-08-28
 
 # MongoDB
 
+**Auto-formation officielle et gratuite :** [learn.mongodb.com](https://learn.mongodb.com/) — MongoDB University, cours et learning paths gratuits en self-paced.
+
 ## Associate Developer
 
 - prix : **150 $** ;
@@ -91,6 +93,8 @@ pour les tracks éligibles.
 
 # Snowflake — SnowPro
 
+**Auto-formation officielle :** [learn.snowflake.com](https://learn.snowflake.com/) — Snowflake University, badge Hands-On Essentials et cours de préparation SnowPro Core.
+
 ## SnowPro Core
 
 **175 $ par tentative**.
@@ -134,6 +138,8 @@ Sources :
 
 # Databricks
 
+**Auto-formation officielle et gratuite :** [Databricks Academy](https://www.databricks.com/learn/training/certification) — cours d'introduction gratuits par certification (data analysis, data engineering, ML).
+
 ## Certified Data Engineer Associate
 
 - prix : **200 $ + taxes** ;
@@ -162,6 +168,8 @@ Les autres certifications Databricks Associate / Professional doivent être cons
 ---
 
 # Confluent / Apache Kafka
+
+**Auto-formation officielle et gratuite :** [confluent.io/training](https://www.confluent.io/training/) — Confluent Fundamentals Accreditation gratuite, point de départ recommandé avant les certifications payantes.
 
 ## Confluent Certified Administrator for Apache Kafka
 
@@ -270,6 +278,8 @@ Le retake nécessite un nouvel achat plein tarif et un délai d'attente.
 # Oracle Database / MySQL
 
 Oracle conserve un vaste catalogue Database / MySQL / Java / Technology.
+
+**Auto-formation officielle et gratuite :** [Oracle University — MyLearn](https://mylearn.oracle.com/).
 
 Le modèle d'achat 2026 passe notamment par des **Oracle Technology Certification Exam Subscriptions** pour une tentative de certification.
 

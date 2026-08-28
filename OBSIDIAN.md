@@ -79,7 +79,7 @@ Champs :
 
 Vocabulaire contrôlé utilisé par le classement automatique :
 
-`accessibility`, `ai-infrastructure`, `business-soft-skills`, `cloud`, `data-database`, `datacenter-facilities`, `devops-automation`, `esg-sustainability`, `euc-endpoint`, `finance-risk`, `general-it`, `governance-grc`, `hr-people`, `identity-iam`, `industrial-ot`, `itsm-middleware`, `kubernetes-platform`, `language`, `legal`, `linux`, `mainframe`, `network`, `observability`, `pharma-regulatory`, `project-management`, `real-estate`, `safety-occupational`, `security`, `storage-backup`, `supply-chain`, `virtualization`, `windows-infra`.
+`accessibility`, `ai-infrastructure`, `business-soft-skills`, `cloud`, `data-database`, `datacenter-facilities`, `devops-automation`, `esg-sustainability`, `euc-endpoint`, `finance-risk`, `general-it`, `governance-grc`, `hr-people`, `identity-iam`, `industrial-ot`, `itsm-middleware`, `kubernetes-platform`, `language`, `lean-management`, `legal`, `linux`, `mainframe`, `network`, `observability`, `pharma-regulatory`, `project-management`, `real-estate`, `safety-occupational`, `security`, `storage-backup`, `supply-chain`, `virtualization`, `windows-infra`.
 
 Une fiche peut porter plusieurs valeurs `domain` (ex. un credential IAM orienté DevSecOps porte `identity-iam` et `security`). La liste peut être étendue librement — c'est un vocabulaire de travail, pas un schéma figé.
 

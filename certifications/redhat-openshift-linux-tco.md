@@ -19,6 +19,8 @@ Source pricing générale :
 
 - https://docs.redhat.com/en/documentation/red_hat_learning_subscription/1-latest/html/red_hat_certification_program_guide/index
 
+**Auto-formation officielle et gratuite :** [Red Hat Learning Community](https://learn.redhat.com/) et [RedHatOfficial/free-red-hat-learning](https://github.com/RedHatOfficial/free-red-hat-learning) — cours self-paced gratuits sur RHEL, containers, Kubernetes et OpenShift, en complément de la préparation aux examens ci-dessous.
+
 ---
 
 # Règle de base

@@ -21,6 +21,8 @@ verified: 2026-08-28
 
 Le catalogue FinOps Foundation s'est fortement étoffé.
 
+**Auto-formation officielle et gratuite :** [learn.finops.org](https://learn.finops.org/) — cours *Introduction to FinOps* et *Introduction to FOCUS* gratuits, point de départ avant les certifications payantes ; bourse Foundation disponible pour un cursus + examen offerts.
+
 ## Niveaux / credentials
 
 On retrouve notamment :

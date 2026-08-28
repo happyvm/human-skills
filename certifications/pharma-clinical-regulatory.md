@@ -19,6 +19,8 @@ verified: 2026-08-28
 
 # 1. ASQ — Pharmaceutical GMP Professional
 
+**Auto-formation officielle :** [RAPS — 50+ cours et Regulatory Competency Framework](https://www.raps.org/education/courses), avec checklist de préparation RAC gratuite.
+
 ## Certified Pharmaceutical GMP Professional — CPGP
 
 Tarif 2026 :

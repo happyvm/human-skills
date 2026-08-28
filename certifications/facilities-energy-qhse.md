@@ -19,6 +19,8 @@ verified: 2026-08-28
 
 # 1. IFMA — Certified Facility Manager
 
+**Auto-formation officielle :** [ifma.org/professional-development](https://www.ifma.org/professional-development/online-learning/) — 55+ cours self-paced payants, dont le parcours *Essentials of Facility Management*.
+
 ## CFM
 
 IFMA affiche en 2026 :
@@ -87,6 +89,8 @@ Source :
 Les frais AEE d'application + examen semblent modérés, mais **la plupart des certifications exigent la participation à un approved training program**.
 
 Il ne faut donc pas les classer sur le seul prix du voucher.
+
+**Auto-formation officielle et gratuite (partielle) :** [Schneider Electric University](https://www.se.com/ww/en/about-us/university/) propose des modules gratuits reconnus par certains partenaires AEE pour la préparation Professional Energy Manager (PEM).
 
 ---
 
@@ -220,6 +224,8 @@ Sources :
 ---
 
 # 5. IOSH Level 3 Certificate
+
+**Portail officiel :** [iosh.com/qualifications-and-courses](https://iosh.com/qualifications-and-courses) — dispensé via des organismes de formation agréés IOSH (pas de cours gratuit identifié).
 
 ## IOSH Level 3 Certificate in Occupational Safety and Health Principles and Practice
 

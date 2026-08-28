@@ -64,6 +64,8 @@ Sources :
 - https://www.pearsonvue.com/us/en/netapp.html
 - https://www.pearsonvue.com/us/en/netapp/insight.html
 
+**Auto-formation officielle :** [NetApp Learning Services](https://www.netapp.com/support-and-training/netapp-learning-services/) — cours en ligne par certification (compte NetApp Support Site requis).
+
 ---
 
 # 2. Dell Technologies Proven Professional
@@ -88,6 +90,8 @@ Sources :
 
 - https://learning.dell.com/content/emc/en-us/home/store/search/course-details.html?courseID=MR-1EV-VUEEMCPROV&mod=Exam%20Voucher
 - https://learning.dell.com/content/dell/en-us/home/certification-overview/resources/voucher-types.html
+
+**Auto-formation officielle et gratuite :** [Dell Learning](https://learning.dell.com/) — cours fondamentaux gratuits (cloud, HCI, storage, security) via l'Education Services Storefront.
 
 ---
 
@@ -115,6 +119,8 @@ Source :
 
 - https://www.purestorage.com/services/certifications.html
 
+**Auto-formation officielle et gratuite :** [Everpure Academy](https://academy.purestorage.com/) — accès gratuit inclus avec l'Evergreen Storage, practice exams gratuits pour FlashArray/FlashBlade Architect Associate.
+
 ---
 
 # 4. Hitachi Vantara
@@ -132,6 +138,8 @@ Les prix sont convertis en devise locale et les taxes locales peuvent s'ajouter.
 Source :
 
 - https://www.hitachivantara.com/en-us/pdf/training/hitachi-certification-frequently-asked-questions.pdf
+
+**Auto-formation officielle et gratuite :** [Hitachi Vantara Learning Center](https://www.hitachivantara.com/en-us/services/learning/training) — cours fondamentaux self-paced sans frais.
 
 ---
 
@@ -152,6 +160,8 @@ Sources :
 
 - https://www.nutanix.com/content/dam/nutanix/en/resources/support/ds-ncp-euc-6.pdf
 - https://www.nutanix.com/content/dam/nutanix/en/resources/support/ncp-mci-ebg.pdf
+
+**Auto-formation officielle et gratuite :** [Nutanix University](https://www.nutanix.com/support-services/training-certification/training) (via MyNutanix) — cours gratuits de ~60 min et campagnes périodiques d'examen offert après formation.
 
 ---
 

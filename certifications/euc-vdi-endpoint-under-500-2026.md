@@ -31,6 +31,8 @@ verified: 2026-08-28
 
 Jamf est particulièrement intéressant pour ajouter une vraie brique **Apple enterprise / MDM / endpoint security** à faible coût.
 
+**Auto-formation officielle et gratuite :** [training.jamf.com](https://training.jamf.com/) — cours 100/140/170 self-paced et gratuits, base des certifications.
+
 ## Associate — 100 $
 
 Les tracks self-paced 100 / 140 / 170 mènent aux certifications Associate :
@@ -109,6 +111,8 @@ Source :
 # 3. Citrix
 
 Citrix a migré son programme sur **Webassessor** et maintient des certifications Virtual Apps and Desktops ainsi que NetScaler/App Delivery & Security.
+
+**Portail officiel :** [citrix.com/training-and-certifications](https://www.citrix.com/training-and-certifications/).
 
 ## Prix
 

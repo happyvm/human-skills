@@ -17,6 +17,8 @@ verified: 2026-08-28
 >
 > **Vérification : 28 août 2026**
 
+**Auto-formation officielle :** [RICS Online Academy](https://academy.rics.org/) — 73+ cours e-learning, dont des certificats Residential/Commercial Real Estate.
+
 ---
 
 # Vue rapide

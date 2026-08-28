@@ -36,6 +36,8 @@ verified: 2026-08-28
 
 AIPMM distingue explicitement ses **certifications** des simples course certificates.
 
+**Portail officiel :** [aipmm.com](https://aipmm.com/) — self-study courses payants via Productside ; pas de couche gratuite officielle identifiée.
+
 Le programme est basé sur un body of knowledge et un examen proctoré.
 
 ## CPM — Certified Product Manager

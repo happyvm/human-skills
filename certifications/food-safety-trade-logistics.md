@@ -78,6 +78,8 @@ Source :
 
 Le cursus FSPCA est utilisé dans le contexte FSMA / FDA.
 
+**Portail officiel :** curriculum FSPCA dispensé via des organismes agréés (NSF, SGS, SCS Global…) ; pas de couche gratuite officielle identifiée.
+
 ## Preventive Controls for Human Food — PCQI v2.0
 
 ### Part 1

@@ -17,6 +17,8 @@ verified: 2026-08-28
 >
 > **Vérification : 28 août 2026**
 
+**Auto-formation officielle et gratuite (IAAP, CPACC/WAS ci-dessous) :** [IAAP Body of Knowledge](https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK) (PDF gratuit) et cours de préparation CPACC gratuit pour les membres actifs ; compléments gratuits chez [Deque University](https://dequeuniversity.com/) et [W3C WAI](https://www.w3.org/WAI/).
+
 ---
 
 # Vue rapide

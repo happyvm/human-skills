@@ -49,6 +49,8 @@ Certified Professional exam   249 $
 
 Les cours on-demand sont majoritairement gratuits ou très peu coûteux selon parcours.
 
+**Auto-formation officielle et gratuite :** [university.atlassian.com](https://university.atlassian.com/) — catalogue 100 % gratuit en on-demand, incluant des learning paths de préparation à la certification.
+
 Sources :
 
 - https://community.atlassian.com/learning/hub/resources-and-support/about-atlassian-credentials/
@@ -210,9 +212,13 @@ ServiceNow University propose désormais de nombreux cours on-demand, assessment
 
 Ces micro-credentials / accreditations ne doivent cependant pas être confondus avec une Mainline Certification proctorée.
 
+Accès : [learning.servicenow.com](https://learning.servicenow.com/) — ServiceNow University (ex-Now Learning).
+
 ---
 
 # 3. BMC Helix
+
+**Auto-formation officielle :** [bmc.com/education](https://www.bmc.com/education/training-and-certification.html) — principalement via abonnement (Education Subscription), peu de contenu gratuit confirmé.
 
 BMC maintient des certifications professionnelles autour de Helix, par exemple :
 

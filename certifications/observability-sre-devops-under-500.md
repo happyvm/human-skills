@@ -41,6 +41,8 @@ verified: 2026-08-28
 
 Les examens de certification Datadog standards sont actuellement affichés à **100 $**.
 
+**Auto-formation officielle et gratuite :** [learn.datadoghq.com](https://learn.datadoghq.com/) — Datadog Learning Center, cours interactifs gratuits sur instances cloud réelles, learning paths dédiés à chaque certification.
+
 Une campagne pilote Database Monitoring en 2026 était temporairement à 50 $, la page précisant explicitement que le tarif standard des certifications est **100 $**.
 
 Source :
@@ -63,6 +65,8 @@ Les certifications Datadog sont particulièrement intéressantes pour :
 # Splunk — 130 $ par examen sur de nombreux tracks
 
 Splunk utilise actuellement une tarification très homogène : **130 $ USD par tentative** pour de nombreux examens.
+
+**Auto-formation officielle et gratuite :** [splunk.com/training/free-courses](https://www.splunk.com/en_us/training/free-courses/overview.html) — plus de 60 cours self-paced gratuits.
 
 ## Core Certified User
 
@@ -156,6 +160,8 @@ Source training pricing :
 # Elastic
 
 Elastic est plus cher mais utilise des examens **performance-based** sur un cluster réel.
+
+**Auto-formation officielle et gratuite :** [elastic.co/training](https://www.elastic.co/training) — modules on-demand gratuits, self-paced.
 
 Tarifs :
 

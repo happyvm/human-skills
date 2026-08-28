@@ -255,6 +255,8 @@ Source :
 
 Kong maintient en 2026 deux credentials Associate publics importants :
 
+**Auto-formation officielle :** [Kong Academy](https://education.konghq.com/) — modules self-paced et labs hands-on par certification.
+
 ## Kong Gateway Certified Associate
 
 Pour développeurs, DevOps et architectes :
@@ -308,6 +310,8 @@ Prix public                   non confirmé
 # 7. MuleSoft / Salesforce
 
 Le portefeuille MuleSoft est désormais intégré au catalogue de certifications Salesforce.
+
+**Auto-formation officielle et gratuite :** [Trailhead](https://trailhead.salesforce.com/) — plateforme Salesforce gratuite et gamifiée, trails dédiés MuleSoft.
 
 Credentials visibles notamment :
 

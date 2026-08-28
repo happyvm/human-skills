@@ -19,6 +19,8 @@ verified: 2026-08-28
 
 # ASCM / APICS
 
+**Auto-formation officielle et gratuite (partielle) :** [ASCM — Exam Content Manuals](https://www.ascm.org/learning-development/certifications-credentials/cscp/ecm/) — téléchargeables gratuitement, base de la préparation avant les APICS Learning Systems payants.
+
 ASCM maintient quatre grandes certifications APICS :
 
 - CPIM — Certified in Planning and Inventory Management ;
@@ -97,6 +99,8 @@ Le niveau supérieur fonctionne davantage comme une démonstration de compétenc
 
 ## Certified Professional in Supply Management
 
+**Auto-formation officielle (membres) :** [ismworld.org — Tools & Resources](https://www.ismworld.org/for-individuals/tools-resources/) — webinars membres gratuits (jusqu'à 12 CEH/an) ; frais d'application offerts pour les membres ISM.
+
 Le CPSM demande **trois examens**.
 
 Ordres de grandeur 2026 par examen :
@@ -143,6 +147,8 @@ Source :
 ---
 
 # CIPS / MCIPS
+
+**Auto-formation officielle et gratuite (partielle) :** [cips.org/intelligence-hub](https://www.cips.org/intelligence-hub/procurement-fundamentals) — Procurement Fundamentals, sample exam questions et eLearning gratuit pour les membres (dont Socially Responsible Procurement).
 
 Le Chartered Institute of Procurement & Supply structure son parcours autour de :
 

@@ -121,6 +121,8 @@ Sources :
 
 Ping publie un tarif européen clair de **365 €** par tentative pour plusieurs certifications Professional.
 
+**Auto-formation officielle :** [training.pingidentity.com](https://training.pingidentity.com/courses) — cours par produit (PingFederate, PingAccess, PingOne…), instructor-led et on-demand.
+
 Credentials visibles en 2026 :
 
 - Certified Professional - PingFederate ;
@@ -164,6 +166,8 @@ La certification Certified Administrator nécessite :
 4. deux tentatives maximum avant obligation de racheter une nouvelle formation.
 
 La certification est valide **2 ans** et le renouvellement nécessite **une nouvelle formation + un nouvel examen**.
+
+**Portail officiel :** [BeyondTrust University](https://www.beyondtrust.com/services-training/beyondtrust-university).
 
 Le prix de Success Elevated / Private ILT n'est pas publié sous forme de tarif individuel simple.
 

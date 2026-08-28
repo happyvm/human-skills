@@ -108,6 +108,8 @@ Kong publie deux certifications Associate actives :
 
 Le FAQ officiel **2026** fournit une grille très claire.
 
+**Auto-formation officielle :** [Kong Academy](https://education.konghq.com/) — modules self-paced et labs hands-on.
+
 ## Prix et règles
 
 ```text

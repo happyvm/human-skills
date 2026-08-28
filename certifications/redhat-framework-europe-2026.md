@@ -33,6 +33,8 @@ Source :
 
 - https://www.redhat.com/en/services/training-and-certification/faq
 
+**Auto-formation officielle et gratuite :** [Red Hat Learning Community](https://learn.redhat.com/) et [RedHatOfficial/free-red-hat-learning](https://github.com/RedHatOfficial/free-red-hat-learning) — catalogue de cours self-paced gratuits (dont *Fundamentals of RHEL*, *Fundamentals of Containers, Kubernetes and Red Hat OpenShift*).
+
 ---
 
 # OpenShift — parcours avancé / RHCA

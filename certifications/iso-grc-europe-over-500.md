@@ -129,6 +129,8 @@ Le prix doit être confirmé sur la session exacte : certaines pages AFNOR sépa
 
 # PECB — modèle différent
 
+**Auto-formation officielle et gratuite (partielle) :** [pecb.com/elearning](https://pecb.com/en/elearning) — bibliothèque de templates, briefings et documentation de conformité gratuite en complément de l'eLearning payant.
+
 PECB commercialise des certifications de personne sur de nombreuses normes :
 
 - ISO/IEC 27001 ;
@@ -158,6 +160,8 @@ Source :
 ---
 
 # CQI / IRCA
+
+**Portail officiel :** annuaire des formations dans le [répertoire de cours CQI/IRCA](https://www.cqi.org/) — dispensées via des organismes de formation certifiés, pas de couche gratuite officielle identifiée au-delà de questions de practice tierces.
 
 Une formation CQI/IRCA Lead Auditor n'accorde pas automatiquement un grade permanent d'auditeur IRCA.
 

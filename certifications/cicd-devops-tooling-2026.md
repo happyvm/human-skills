@@ -27,6 +27,8 @@ GitLab University expose actuellement plusieurs certifications techniques offici
 - **GitLab Certified Security Specialist** ;
 - **Certified GitLab Duo (AI) Associate** — nouveau track AI.
 
+**Auto-formation officielle et gratuite :** [university.gitlab.com](https://university.gitlab.com/) — GitLab Learn, cours self-paced gratuits associés à chaque examen, dont deux certifications entièrement gratuites (GitLab 101/201).
+
 ## Format
 
 Pour les certifications techniques, GitLab indique :

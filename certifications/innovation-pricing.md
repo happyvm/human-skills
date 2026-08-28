@@ -35,6 +35,8 @@ verified: 2026-08-28
 
 ## New Product Development Professional
 
+**Auto-formation officielle et gratuite (partielle) :** [pdma.org — Free BoK](https://www.pdma.org/page/free_bok) — PDMA Body of Knowledge Guidebook gratuit pour les candidats NPDP.
+
 La Product Development and Management Association propose le credential **NPDP**, centré sur :
 
 - product innovation ;

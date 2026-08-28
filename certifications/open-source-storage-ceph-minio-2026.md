@@ -74,6 +74,8 @@ Source :
 
 MinIO maintient un vrai programme de certification autour de son object storage / AIStor.
 
+**Auto-formation officielle :** [min.io/training](https://www.min.io/training) — Enterprise Administration et Developer learning paths ; documentation et YouTube en base gratuite.
+
 La certification actuelle est :
 
 - **MinIO Certified Administrator - Practitioner**.
@@ -123,6 +125,8 @@ Source :
 # 3. Portworx Enterprise Professional
 
 Pure / Everpure maintient une certification **Portworx Enterprise Professional (PEP)** orientée stockage et data management Kubernetes.
+
+**Auto-formation officielle et gratuite :** cours **Portworx Fundamentals** gratuit sur [Everpure Academy](https://academy.purestorage.com/), avec labs réels avant le PEP payant.
 
 Le portail Academy affiche :
 

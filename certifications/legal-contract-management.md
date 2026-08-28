@@ -38,6 +38,8 @@ verified: 2026-08-28
 
 NCMA propose plusieurs certifications professionnelles formelles avec application préalable puis examen proctoré Kryterion.
 
+**Auto-formation officielle et gratuite :** [ncmahq.org — Catalog Free to All](https://ncmahq.org/Web/Web/Learning/Learning%20Catalog/Catalog.aspx?b9e5f74cde62=4) — contenu accessible sans membership.
+
 ## CPCM — Certified Professional Contract Manager
 
 Tarifs actuels :

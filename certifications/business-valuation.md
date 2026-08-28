@@ -36,6 +36,8 @@ verified: 2026-08-28
 
 Le **CVA — Certified Valuation Analyst** est un credential professionnel en business valuation de la National Association of Certified Valuators and Analysts.
 
+**Auto-formation officielle et gratuite (partielle) :** [nacva.com/freewebinars](https://www.nacva.com/freewebinars) — cours virtuels gratuits, dont *Introduction to Business Valuation*.
+
 NACVA indique que le CVA est accrédité par :
 
 - NCCA ;

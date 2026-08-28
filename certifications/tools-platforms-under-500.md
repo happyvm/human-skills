@@ -90,6 +90,8 @@ Source : https://training.confluent.io/learn/public/catalog/view/108
 
 # 3. dbt Labs
 
+**Auto-formation officielle et gratuite :** [learn.getdbt.com](https://learn.getdbt.com/) — dbt Fundamentals gratuit (~5 h, labs inclus), base du dbt Certified Developer Path.
+
 ## dbt Analytics Engineering Certification
 
 **Prix : 200 $**.
@@ -110,6 +112,8 @@ Les guides actuels affichent également un tarif de **200 $** pour l'examen Clou
 ---
 
 # 4. UiPath
+
+**Auto-formation officielle et gratuite :** [academy.uipath.com](https://academy.uipath.com/) — première plateforme RPA 100 % gratuite, learning paths et practice tests par certification.
 
 Tarifs officiels :
 
@@ -227,6 +231,8 @@ Les examens Engineer sont performance-based.
 
 Microsoft affiche plusieurs examens MOS autour de **100 $**, avec tarification régionale via Certiport.
 
+**Auto-formation :** GMetrix (préparation payante, ~40-75 $, parfois offerte via un établissement scolaire/universitaire).
+
 Exemples :
 
 - Word Associate / Expert ;
@@ -269,6 +275,8 @@ Source : https://certifiedprofessional.adobe.com/en/faq
 ---
 
 # 11. Autodesk
+
+**Auto-formation officielle et gratuite :** [autodesk.com/learn](https://www.autodesk.com/learn/catalog) — cours gratuits AutoCAD/Revit/Civil 3D et practice test gratuit avant l'examen Certiport.
 
 Prix standards :
 

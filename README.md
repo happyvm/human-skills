@@ -59,6 +59,7 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 - [`certifications/business-continuity-crisis.md`](certifications/business-continuity-crisis.md) — BCI CBCI, DRI ABCP/CBCP/CFCP, resilience.
 - [`certifications/management-transformation-over-500.md`](certifications/management-transformation-over-500.md) — Prosci, SABSA, IIBA CBAP, DAMA CDMP avancé, HRCI, SAFe, procurement.
 - [`certifications/audit-finance-project-over-500.md`](certifications/audit-finance-project-over-500.md) — IIA CIA/CRMA, IMA CMA, ACCA, IPMA France, SMaP Change, ACMP CCMP, APMG.
+- [`certifications/lean-it-lean-management-2026.md`](certifications/lean-it-lean-management-2026.md) — Lean IT (EXIN, retrait PeopleCert), IASSC, SME/AME/Shingo, IISE, Kaizen Institute.
 
 ## Finance, risk, assurance & actuariat
 

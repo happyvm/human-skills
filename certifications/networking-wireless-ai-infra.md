@@ -110,6 +110,8 @@ Sources :
 
 CWNP maintient un catalogue particulièrement intéressant pour les spécialistes wireless.
 
+**Auto-formation officielle :** [cwnp.com/training](https://www.cwnp.com/training/) — kits self-study et practice tests officiels pour CWTS/CWNA/CWSP/CWDP/CWAP/CWNE.
+
 ## Tarifs 2026
 
 | Exam | Prix |
@@ -246,6 +248,8 @@ Source :
 # 6. NVIDIA Certification — AI Infrastructure
 
 Le portefeuille NVIDIA 2026 est devenu très large et inclut désormais une vraie famille infrastructure / operations / networking.
+
+**Auto-formation officielle et gratuite :** [learn.nvidia.com](https://learn.nvidia.com/) — Deep Learning Institute (DLI), filtre « Free Courses » pour 600+ modules self-paced (GPU, AI infra, accelerated computing).
 
 ## Associate
 

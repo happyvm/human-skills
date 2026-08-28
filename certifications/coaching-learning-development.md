@@ -37,6 +37,8 @@ verified: 2026-08-28
 
 Le tarif d'application ICF inclut l'application review et l'examen correspondant, mais **pas le cursus de coaching préalable**.
 
+**Portail officiel :** [coachingfederation.org](https://coachingfederation.org/) — ressources et développement professionnel gratuits/réduits réservés aux membres ; le cursus de coaching accrédité reste payant.
+
 C'est donc un exemple classique où le voucher paraît peu cher alors que le first-cycle TCO dépend surtout de :
 
 - heures de coaching education ;
@@ -153,6 +155,8 @@ Source :
 ---
 
 # 5. ATD — Association for Talent Development
+
+**Portail officiel :** [td.org](https://www.td.org/) — Job Bank et chaîne YouTube gratuits ; le catalogue complet de ressources reste réservé aux membres.
 
 ## APTD — Associate Professional in Talent Development
 

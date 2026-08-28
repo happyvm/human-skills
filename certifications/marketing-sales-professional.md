@@ -112,6 +112,8 @@ Source :
 
 # 4. CIM — Chartered Institute of Marketing
 
+**Portail officiel :** [cim.co.uk](https://www.cim.co.uk/) — rapports et publications accessibles principalement via la membership.
+
 ## Level 6 Diploma in Professional & Digital Marketing
 
 Le coût total comprend trois blocs :
