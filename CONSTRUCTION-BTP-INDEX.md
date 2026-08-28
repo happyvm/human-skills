@@ -10,24 +10,22 @@ verified: 2026-08-28
 
 # Construction / BTP Certification Index — human-skills
 
-> Index **Construction / BTP / génie civil / built environment** : management de projet, cost engineering, quantity surveying, BIM, génie civil, structures, sécurité chantier, inspection, matériaux, béton, soudage, enveloppe, bâtiment durable, énergie, commissioning, facility management, contrats, PPP et réglementaire chantier.
+> Index **Construction / BTP / génie civil / built environment** : management de projet, cost engineering, quantity surveying, BIM, génie civil, structures, sécurité chantier, inspection, matériaux, béton, soudage, enveloppe, bâtiment durable, énergie, commissioning, facility management, contrats, PPP, travaux routiers et réglementaire chantier.
 >
 > **Revue : 28 août 2026.**
 
 ---
 
-# 1. Point d'entrée
+# 1. Catalogues principaux
 
-## Catalogue mondial massif
+## Radar mondial
 
 - [`certifications/construction-btp-global-2026.md`](certifications/construction-btp-global-2026.md)
 
-C'est maintenant le **radar principal BTP** du dépôt. Il recense explicitement plus de **150 credentials / qualifications / accréditations / catégories réglementaires**, avant même de compter toutes les licences locales et certifications produits.
-
-Familles couvertes :
+Catalogue principal : **150+ credentials / qualifications / accréditations / catégories réglementaires explicitement nommés**, couvrant notamment :
 
 ```text
-PMI / AACE / CMAA / DBIA / AIC / CSI / ASPE / AGC / CCIFP
+PMI / AACE / CMAA / DBIA / AIC / CSI / ASPE / AGC / CFMA
 RICS / AIQS / CIQS / CIOB / ICE / IStructE / CIBSE / CICES
 FIDIC / NEC / CP3P
 buildingSMART / Autodesk / Procore
@@ -41,33 +39,45 @@ ACI / ICRI / PTI
 AWS / ASNT / AMPP
 ICC / NICET / CCO-NCCCO
 BCSP / NEBOSH / IOSH
-France : AIPR / CACES / SST / SSIAP / CSPS / habilitation électrique
-fluides frigorigènes / diagnostics immobiliers / amiante
+France : AIPR / CACES / SST / SSIAP / CSPS / habilitations / diagnostics
 ```
 
-## Spécialités seconde passe
+## Spécialités, fire, survey & digital
 
 - [`certifications/construction-btp-specialties-2026.md`](certifications/construction-btp-specialties-2026.md)
 
-Ajouts :
-
 ```text
-UK CSCS cards
-IPAF PAL / PASMA
+CSCS
+IPAF / PASMA
 NICET fire protection
 NFPA fire / life safety
 NSPS Certified Survey Technician
 ASPRS photogrammetry / remote sensing / lidar / UAS
-Graphisoft Archicad BIM certifications
-Bluebeam Certified Professional / Studio / Instructor
+Graphisoft Archicad BIM
+Bluebeam
 Tekla learning credentials
+```
+
+## Cartes chantier, roadway safety & AEC schemes
+
+- [`certifications/construction-btp-site-schemes-2026.md`](certifications/construction-btp-site-schemes-2026.md)
+
+```text
+CPCS / NOCN Job Cards
+NPORS
+CISRS scaffolding
+CITB Site Safety Plus
+ATSSA roadway / work-zone safety
+Bentley ProjectWise accreditation
+Solibri — statut clarifié
+Trimble / Tekla — statut clarifié
 ```
 
 ---
 
-# 2. Méthode
+# 2. Méthode human-skills
 
-Comme dans tout `human-skills`, le prix visible n'est jamais assimilé automatiquement au coût réel.
+Le prix du voucher n'est jamais assimilé au coût réel :
 
 ```text
 exam_fee
@@ -79,16 +89,16 @@ first_cycle_tco
 renewal_tco
 ```
 
-Le BTP exige en plus de distinguer la **nature de la preuve** :
+Et le BTP oblige à distinguer plusieurs natures de preuve :
 
 | Code | Nature | Exemple |
 |---|---|---|
-| CERT | certification de personne | AACE PSP, AWS CWI, BCSP CHST |
-| QUAL | qualification/statut professionnel | MRICS, MCIOB, CEng |
-| ACC | accréditation liée à un scheme | BREEAM Assessor, Fitwel Ambassador |
-| REG | habilitation/carte/exigence réglementaire | CACES, AIPR, SSIAP |
-| COURSE | certificat de parcours / éditeur | Procore, certains programmes BIM |
-| ORG | qualification/certification d'entreprise | QUALIBAT, RGE, ISO organisation |
+| **CERT** | certification de personne | AACE PSP, AWS CWI, BCSP CHST |
+| **QUAL** | qualification / statut professionnel | MRICS, MCIOB, CEng |
+| **ACC** | accréditation liée à un scheme | BREEAM Assessor, ProjectWise Accreditation |
+| **REG** | habilitation / carte / exigence réglementaire | CACES, AIPR, SSIAP, CPCS |
+| **COURSE** | certificat de parcours / éditeur | Procore, CITB SMSTS |
+| **ORG** | qualification/certification d'entreprise | QUALIBAT, RGE, ISO organisation |
 
 ```text
 assessment fee ≠ coût complet
@@ -101,101 +111,81 @@ qualification d'entreprise ≠ certification individuelle
 
 ---
 
-# 3. Construction management & project controls
-
-Fiche détaillée existante :
+# 3. Construction management, cost & project controls
 
 - [`certifications/construction-cost-engineering.md`](certifications/construction-cost-engineering.md)
 
-## PMI
-
 ```text
-PMI-CP — Construction Professional
-```
+PMI-CP
 
-## AACE — 9 credentials
+AACE
+  CCT / CST
+  CCP / CEP / EVP / PSP / PRMP
+  CFCC / DRMP
 
-```text
-CCT   Certified Cost Technician
-CST   Certified Scheduling Technician
-CCP   Certified Cost Professional
-CEP   Certified Estimating Professional
-EVP   Earned Value Professional
-PSP   Planning & Scheduling Professional
-PRMP  Project Risk Management Professional
-CFCC  Certified Forensic Claims Consultant
-DRMP  Decision & Risk Management Professional
-```
+CMAA
+  CCM / CACM / CMIT
 
-**CCP :** nouvelles applications temporairement fermées depuis le 1er juillet 2026 lors de la revue.
+DBIA
+  DBIA / Assoc. DBIA
 
-## Autres familles désormais indexées
+AIC
+  CAC / CPC
 
-```text
-CMAA   CCM / CACM / CMIT
-DBIA   DBIA / Assoc. DBIA / Fellow
-AIC    CAC / CPC
-CSI    CDT / CCS / CCCA / CCPR
-ASPE   AEP / CPE
-AGC    CM-BIM / CM-Lean
-CFMA   CCIFP
+CSI
+  CDT / CCS / CCCA / CCPR
+
+ASPE estimating
+  AEP / CPE
+
+AGC
+  CM-BIM / CM-Lean
+
+CFMA
+  CCIFP
 ```
 
 ---
 
-# 4. Quantity surveying, génie civil & Chartered routes
+# 4. Quantity surveying, civil engineering & Chartered routes
 
 ```text
 RICS
-  AssocRICS
-  MRICS
-  FRICS
-  pathways Quantity Surveying & Construction / Project Management /
-  Building Surveying / Building Control / Infrastructure / Geomatics
+  AssocRICS / MRICS / FRICS
+  Quantity Surveying & Construction
+  Project Management
+  Building Surveying
+  Building Control
+  Infrastructure
+  Geomatics
 
 AIQS
-  CQS — Certified Quantity Surveyor
+  CQS
 
 CIQS
-  PQS — Professional Quantity Surveyor
-  CEC — Construction Estimator Certified
+  PQS / CEC
 
 CIOB
-  TechCIOB
-  MCIOB / Chartered Construction Manager
-  FCIOB
+  TechCIOB / MCIOB / FCIOB
 
 ICE
-  EngTech MICE
-  IEng MICE
-  CEng MICE
-  FICE
+  EngTech MICE / IEng MICE / CEng MICE / FICE
 
 IStructE
-  Incorporated-Member
-  MIStructE / Chartered Structural Engineer
-  FIStructE
+  Incorporated Member / MIStructE / FIStructE
 
 CIBSE
-  LCIBSE / EngTech
-  ACIBSE / IEng
-  MCIBSE / CEng
-  FCIBSE / CEng
+  LCIBSE / ACIBSE / MCIBSE / FCIBSE
+  EngTech / IEng / CEng routes
 
 CICES
-  MCInstCES
-  FCInstCES
+  MCInstCES / FCInstCES
   IEng / CEng routes
-  Chartered Civil Engineering Surveyor designation selon route RICS/CICES
 ```
-
-Ce sont principalement des **qualifications professionnelles**, pas des vouchers low-cost.
 
 ---
 
-# 5. Contracts, claims & grands projets
-
-## FIDIC Credentialing Limited
+# 5. Contracts, claims, PPP & infrastructure delivery
 
 ```text
 FIDIC Certified Contract Manager
@@ -204,11 +194,7 @@ FIDIC Certified Adjudicator
 FIDIC Certified Consulting Engineer
 FIDIC Certified Consulting Professional
 FIDIC Certified Trainer
-```
 
-## NEC
-
-```text
 NEC4 ECC Project Manager
 NEC4 ECC Supervisor
 NEC4 TSC Service Manager
@@ -216,82 +202,61 @@ NEC4 DBO Service Manager
 NEC4 ALC Alliance Member
 NEC4 FMC Service Manager
 
-+ NEC3 ECC Project Manager / Supervisor / TSC Service Manager encore au registre
+CP3P Foundation / Preparation / Execution
+CP3P Certified PPP Professional
 ```
 
-## PPP
-
-- [`certifications/public-procurement-ppp.md`](certifications/public-procurement-ppp.md) — CP³P Foundation / Preparation / Execution / Certified PPP Professional.
+- [`certifications/public-procurement-ppp.md`](certifications/public-procurement-ppp.md)
 
 ---
 
-# 6. BIM & construction numérique
-
-## Standards / openBIM
+# 6. BIM, CAO & construction numérique
 
 ```text
-buildingSMART Foundation Level
-buildingSMART Practitioner Level
+buildingSMART Foundation / Practitioner
+
+Autodesk
+  Associate
+  AutoCAD Design & Drafting Professional
+  Revit Architectural Professional
+  Revit Structural Professional
+  Revit Mechanical Professional
+  Civil 3D Infrastructure Professional
+  Expert levels selon catalogue
+
+Graphisoft
+  Archicad BIM User
+  BIM Author
+  BIM Coordinator
+  BIM Manager
+
+Bluebeam
+  Certified Professional
+  Certified Studio Management
+  Certified Instructor
+
+Bentley
+  ProjectWise Administrator Fundamentals Accreditation
+
+Procore
+  role/product certifications gratuites
 ```
 
-## Autodesk
-
-- [`certifications/tools-platforms-under-500.md`](certifications/tools-platforms-under-500.md)
-
-```text
-Autodesk Certified Associate
-Autodesk Certified Professional — AutoCAD Design & Drafting
-Autodesk Certified Professional — Revit Architectural Design
-Autodesk Certified Professional — Revit Structural Design
-Autodesk Certified Professional — Revit Mechanical Design
-Autodesk Certified Professional — Civil 3D Infrastructure Design
-Autodesk Certified Expert — examens disponibles selon catalogue
-```
-
-## Graphisoft
-
-```text
-Archicad BIM User
-Archicad BIM Author
-Archicad BIM Coordinator
-Archicad BIM Manager
-```
-
-## Bluebeam
-
-```text
-Bluebeam Certified Professional
-Bluebeam Certified Studio Management
-Bluebeam Certified Instructor
-```
-
-## Procore
-
-Credentials gratuits par rôle : Project Manager, Superintendent, Subcontractor, Architect, Engineer, Owner, Admin, Field Worker, BIM Manager, Estimator, Procore Pay, Student.
+Solibri et Tekla sont conservés comme **COURSE/vendor learning** tant qu'une certification utilisateur standalone comparable à Autodesk n'est pas confirmée.
 
 ---
 
-# 7. Green building & bâtiment performant
-
-Fiches existantes :
+# 7. Sustainable / high-performance building
 
 - [`certifications/green-building-sustainability.md`](certifications/green-building-sustainability.md)
 - [`certifications/esg-sustainability-carbon.md`](certifications/esg-sustainability-carbon.md)
 
-Nouveau radar :
-
 ```text
-LEED Green Associate
-LEED AP BD+C / ID+C / O+M / Homes / ND
-LEED Green Rater
+LEED Green Associate / LEED AP specialties / Green Rater
 WELL AP
-BREEAM AP
-BREEAM Assessor
-BREEAM Infrastructure Assessor / Verifier
+BREEAM AP / Assessor / Infrastructure Assessor / Verifier
 EDGE Expert / Auditor
-Certified Passive House Designer / Consultant / Tradesperson
-PHPP Expert
-Accredited Passive House Certifier
+Passive House Designer / Consultant / Tradesperson / PHPP Expert / Certifier
 Phius CPHC / CPHB / Rater / Verifier / Trades / Associate
 SITES AP
 TRUE Advisor
@@ -302,8 +267,8 @@ DGNB Registered Professional / Consultant / Auditor / ESG Manager
 Green Star Accredited Professional
 NABERS Accredited Assessor
 Singapore Green Mark AP / AAP / FM routes
-NGBS Green Field Rep / Verifier / Master Verifier / WRI Verifier
-RESNET HERS Rater / RFI / HERS Modeler / HERSH2O / QAD
+NGBS Field Rep / Verifier / Master Verifier / WRI Verifier
+RESNET HERS Rater / RFI / Modeler / HERSH2O / QAD
 BPI building-performance certifications
 ```
 
@@ -313,257 +278,218 @@ BPI building-performance certifications
 
 - [`certifications/facilities-energy-qhse.md`](certifications/facilities-energy-qhse.md)
 
-## ASHRAE
-
 ```text
-BCxP
-BEAP
-BEMP
-CHD
-HBDP
-HFDP
-OPMP
-```
+ASHRAE
+  BCxP / BEAP / BEMP / CHD / HBDP / HFDP / OPMP
 
-## AEE
+AEE
+  CEM / CEA / CBCP / CMVP
+  BEP / CIEP / CLEP / CWEP / EEP
+  REP / CAP / CDSM / PCF / 50001 Certified Professional
 
-```text
-CEM / CEA / CBCP / CMVP
-BEP / CIEP / CLEP / CWEP / EEP
-REP / CAP / CDSM / PCF / 50001 Certified Professional
-```
+ACG
+  CxA / CxS
 
-EBCP : legacy, pas de nouvelles applications observées.
+EMA
+  EMP
 
-## Commissioning
+NEBB
+  BET / Cx / CPT / FHT / SM / RCx / TAB / VM
 
-```text
-ACG CxA / CxS
-EMA EMP
-NEBB BET / Cx / CPT / FHT / SM / RCx / TAB / VM
-```
+IFMA
+  CFM / FMP / SFP
 
-## Facility / building services
+BOMI
+  RPA / FMA / SMA / SMT / BOMI-HP
 
-```text
-IFMA CFM / FMP / SFP
-BOMI RPA / FMA / SMA / SMT / BOMI-HP
-ASPE CPD / CPDT
+ASPE plumbing
+  CPD / CPDT
 ```
 
 ---
 
-# 9. Enveloppe, toiture, béton & matériaux
-
-## IIBEC
+# 9. Materials, enclosure, welding & inspection
 
 ```text
-RRO / REWO
-RRC / RWC / REWC
-RBEC
-CBECxP
-```
+IIBEC
+  RRO / REWO / RRC / RWC / REWC / RBEC / CBECxP
 
-## NRCA ProCertification
+NRCA ProCertification
+  roofing installer / technician / foreman specialties
 
-Onze credentials installateur/technicien/foreman explicitement recensés dans le catalogue global.
+ACI
+  30+ concrete testing / inspection / finishing / shotcrete / tilt-up programs
 
-## ACI
+ICRI
+  CSRT / CSMT
 
-Plus de 30 programmes explicitement nommés : aggregate, cement, field/lab concrete, masonry, inspection, anchor installation, flatwork, pervious concrete, shotcrete, tilt-up, GFRP, transportation inspection et ACI 318 Design Professional.
+PTI
+  14+ post-tensioning installation / inspection levels
 
-## ICRI
+AWS
+  CW / CAWI / CWI / SCWI + code endorsements
 
-```text
-CSRT — Concrete Surface Repair Technician
-CSMT — Concrete Slab Moisture Testing Technician
-```
+ASNT
+  NDT Level II / III
+  ASNT 9712 Level II / III
 
-## PTI
+AMPP
+  CIP 1 / 2 / Senior
+  CP1 / CP2 / CP3 / CP4
+  CAS 1 / 2 + craft specialties
 
-Quatorze niveaux / spécialités indexés : unbonded PT, repair, slab-on-ground, multistrand/grouted PT, installation et inspection.
+ICC
+  building / electrical / mechanical / plumbing inspectors
+  plans examiners
+  concrete / masonry / steel / welding / soils / fireproofing special inspectors
 
----
-
-# 10. Welding, NDT, corrosion & inspection
-
-## AWS
-
-```text
-CW
-CAWI
-CWI
-SCWI — initial applications stopped during 2026 pathway redesign
-+ structural steel / aluminum / bridge / railroad / pipeline / ASME endorsements
-```
-
-## ASNT
-
-```text
-NDT Level II
-NDT Level III
-ASNT 9712 Level II
-ASNT 9712 Level III
-ET / MT / PT / RT / UT / VT ...
-```
-
-## AMPP
-
-```text
-CIP Level 1 / Level 2 / Senior
-CP1 / CP2 / CP3 / CP4
-CAS Level 1 / Level 2
-+ abrasive blast / spray / waterjetting / plural component / thermal / aerospace specialties
-```
-
-## ICC
-
-```text
-Residential / Commercial Building Inspector
-Building Plans Examiner
-Accessibility Inspector / Plans Examiner
-Electrical / Mechanical / Plumbing inspector families
-Special Inspector:
-  Reinforced Concrete
-  Structural Masonry
-  Spray-Applied Fireproofing
-  Prestressed Concrete
-  Tall Mass Timber
-  Soils
-  Structural Steel & Bolting
-  Structural Welding
+NICET
+  construction materials / transportation / fire protection
 ```
 
 ---
 
-# 11. Fire & life safety
-
-## NICET
+# 10. Fire & life safety
 
 ```text
-Fire Alarm Systems
-Inspection & Testing of Fire Alarm Systems
-Inspection & Testing of Water-Based Systems
-Special Hazards Systems
-Water-Based Systems Layout
-In-Building Public Safety Communications
+NICET
+  Fire Alarm Systems
+  Inspection & Testing of Fire Alarm Systems
+  Inspection & Testing of Water-Based Systems
+  Special Hazards Systems
+  Water-Based Systems Layout
+  In-Building Public Safety Communications
+
+NFPA — actifs confirmés dans les ressources actuelles
+  CFPS
+  CFI-I
+  CFI-II
+  CFPE
 ```
-
-## NFPA
-
-Confirmés dans les ressources actuelles :
-
-```text
-CFPS   Certified Fire Protection Specialist
-CFI-I  Certified Fire Inspector I
-CFI-II Certified Fire Inspector II
-CFPE   Certified Fire Plan Examiner
-```
-
-Autres programmes NFPA sont maintenus dans la fiche spécialités avec statut à revérifier au checkout/program page.
 
 ---
 
-# 12. Survey / géomatique
-
-## NSPS CST
+# 11. Survey / geospatial
 
 ```text
-Certified Survey Technician Level I
-Level II
-Level III
-Level IV
-tracks Field / Office
-```
+NSPS CST
+  Level I / II / III / IV
+  Field / Office tracks
 
-## ASPRS
-
-```text
-Scientist / professional:
+ASPRS
   Certified Photogrammetrist
-  Mapping Scientist — Remote Sensing
-  Mapping Scientist — Lidar
-  Mapping Scientist — UAS
-  GIS/LIS family
-
-Technologist:
-  Photogrammetry
-  Remote Sensing
-  Lidar
-  UAS
-  GIS/LIS
+  Mapping Scientist — Remote Sensing / Lidar / UAS / GIS-LIS family
+  corresponding Technologist routes
 ```
 
 ---
 
-# 13. Levage / grues / rigging
+# 12. Lifting, cranes & work-zone safety
 
-CCO / NCCCO :
+## CCO / NCCCO
 
 ```text
-Mobile Crane Operator
-Tower Crane Operator
-Overhead Crane Operator
-Articulating Crane Operator
+Mobile / Tower / Overhead / Articulating Crane Operator
 Service Truck Crane Operator
-Digger Derrick Operator
-Drill Rig Operator
-Concrete Pump Operator
-Telehandler Operator
-Rigger Level I / II
+Digger Derrick / Drill Rig / Concrete Pump / Telehandler Operator
+Rigger I / II
 Signalperson
 Crane Inspector
 Lift Director
 ```
 
----
-
-# 14. Safety construction
-
-- [`certifications/safety-professional-bcsp.md`](certifications/safety-professional-bcsp.md)
-- [`certifications/occupational-safety-nebosh-iosh.md`](certifications/occupational-safety-nebosh-iosh.md)
+## ATSSA
 
 ```text
-BCSP STSC / CHST
-BCSP STS / OHST / CIT / ASP / CSP / SMP
-NEBOSH Construction Certificate
-NEBOSH General / Diploma routes
-IOSH Managing Safely
-CMIOSH
+TCT   Traffic Control Technician
+TCS   Traffic Control Supervisor
+TCDS  Traffic Control Design Specialist
+Flagger Certification
+FIT   Flagger Instructor Training
+GI    Guardrail Installer
+PMI   Pavement Marking Inspector
+PMT   Pavement Marking Technician
+TST   Traffic Sign Technician
+TMA   Truck-Mounted Attenuator Operator
+TMA Trainer
 ```
 
 ---
 
-# 15. France — chantier / réglementaire
+# 13. UK construction cards & site schemes
+
+## CSCS / access
+
+```text
+CSCS skilled / supervisor / manager / AQP / PQP / trainee routes
+IPAF PAL Card
+PASMA access-tower routes
+```
+
+## Plant
+
+```text
+CPCS Red Trained Operator
+CPCS Blue Competent Operator
+CPCS Tester routes
+
+NPORS Traditional Operator
+NPORS CSCS Red Trained Operator
+NPORS CSCS Blue Competent Operator
+```
+
+## Scaffolding — CISRS
+
+```text
+Labourer
+Trainee Scaffolder
+Scaffolder — Tube & Fitting
+Scaffolder — System
+Advanced Scaffolder
+BASE
+Supervisor / Manager
+Basic Scaffold Inspection
+Advanced Scaffold Inspection
+System Inspection endorsements
+```
+
+## CITB Site Safety Plus
+
+```text
+HSA
+SSSTS / SSSTS-R
+SMSTS / SMSTS-R
+DRHS
+SEATS
+TWSTC
+TWCTC / TWCTC-R
+TSTS
+```
+
+---
+
+# 14. France — chantier & réglementaire
 
 ```text
 AIPR
-  Opérateur
-  Encadrant
-  Concepteur
+  Opérateur / Encadrant / Concepteur
 
 CACES
-  R482 engins chantier — A/B1/B2/B3/C1/C2/C3/D/E/F/G
-  R483 grues mobiles — A/B
-  R484 ponts roulants — 1/2
-  R485 gerbeurs — 1/2
-  R486 PEMP — A/B/C
-  R487 grues à tour — 1/2/3
-  R489 chariots — 1A/1B/2A/2B/3/4/5/6/7
-  R490 grues de chargement
+  R482  A/B1/B2/B3/C1/C2/C3/D/E/F/G
+  R483  A/B
+  R484  1/2
+  R485  1/2
+  R486  A/B/C
+  R487  1/2/3
+  R489  1A/1B/2A/2B/3/4/5/6/7
+  R490
 
 SST / Formateur SST
-SSIAP 1 / SSIAP 2 / SSIAP 3
+SSIAP 1 / 2 / 3
 Coordonnateur SPS niveaux 1 / 2 / 3
-habilitation électrique NF C 18-510 selon symbole et opération
+habilitation électrique NF C 18-510 selon symbole
 attestation d'aptitude fluides frigorigènes
-certifications diagnostiqueur :
-  amiante avec/sans mention
-  plomb avec/sans mention
-  DPE avec/sans mention
-  termites
-  gaz
-  électricité
+certifications diagnostiqueur : amiante / plomb / DPE / termites / gaz / électricité
 amiante SS3 / SS4 selon fonction
 ```
 
@@ -571,24 +497,9 @@ amiante SS3 / SS4 selon fonction
 
 ---
 
-# 16. UK cards / access equipment
+# 15. Qualifications d'entreprise — ORG
 
-Voir : [`certifications/construction-btp-specialties-2026.md`](certifications/construction-btp-specialties-2026.md)
-
-```text
-CSCS Blue / Gold skilled
-CSCS Supervisor / Manager
-CSCS AQP / PQP
-CSCS Apprentice / Trainee / temporary routes
-IPAF PAL Card
-PASMA tower / low-level access / managers / instructor routes
-```
-
----
-
-# 17. Qualifications d'entreprise — hors classement individuel
-
-À indexer comme **ORG**, jamais comme certification de personne :
+À ne jamais mélanger aux credentials individuels :
 
 ```text
 QUALIBAT
@@ -596,84 +507,19 @@ RGE
 QUALIFELEC
 OPQIBI
 MASE
-ISO 9001 organisation
-ISO 14001 organisation
-ISO 45001 organisation
-ISO 50001 organisation
+ISO 9001 / 14001 / 45001 / 50001 organisation
 ```
 
 ---
 
-# 18. Parcours possibles
-
-## Project controls / OPC
-
-```text
-AACE CCT ou CST
-→ PSP / CEP / CCP / PRMP
-+ PMI-CP
-+ FIDIC / NEC
-```
-
-## Conducteur / Construction Manager
-
-```text
-PMI-CP / CMAA / AIC
-+ safety
-+ BIM
-+ contract administration
-```
-
-## Quantity Surveyor
-
-```text
-AACE cost / estimating
-+ RICS QS & Construction ou AIQS/CIQS
-+ FIDIC / NEC
-```
-
-## BIM
-
-```text
-Autodesk / Graphisoft / Bluebeam
-+ buildingSMART
-+ ISO 19650 knowledge
-+ coordination / CDE / projet réel
-```
-
-## QHSE chantier
-
-```text
-BCSP CHST/STSC ou NEBOSH Construction
-+ ISO 45001
-+ habilitations locales
-```
-
-## Building performance
-
-```text
-LEED / BREEAM / WELL
-+ Passive House / Phius
-+ ASHRAE / AEE / commissioning
-```
-
-## QA/QC civil
-
-```text
-ACI / ICRI / PTI
-+ ICC Special Inspector
-+ AWS CWI / ASNT / AMPP selon ouvrage
-```
-
----
-
-# 19. Fichiers BTP du dépôt
+# 16. Fichiers BTP du dépôt
 
 ```text
 CONSTRUCTION-BTP-INDEX.md
 │
 ├── certifications/construction-btp-global-2026.md
 ├── certifications/construction-btp-specialties-2026.md
+├── certifications/construction-btp-site-schemes-2026.md
 ├── certifications/construction-cost-engineering.md
 ├── certifications/tools-platforms-under-500.md
 ├── certifications/occupational-safety-nebosh-iosh.md
@@ -687,22 +533,27 @@ CONSTRUCTION-BTP-INDEX.md
 
 ---
 
-# 20. Watchlist résiduelle
+# 17. Watchlist résiduelle
 
-La liste restante est désormais surtout constituée de schemes très locaux ou de credentials éditeurs dont la nature varie :
+Après trois passes, le reliquat est surtout juridictionnel ou constructeur/éditeur :
 
 ```text
-CPCS / NOCN Job Cards — catégories détaillées
-NPORS
-CISRS scaffolding
-CITB SMSTS / SSSTS
-Bentley credentials
-Solibri
-Trimble/Tekla catalogue complet
+licences d'architecte / Professional Engineer / surveyor par pays ou État
 rail competence schemes par pays
-ATSSA roadway credentials
-licences professionnelles d'architecte / engineer / surveyor par juridiction
 qualifications artisanales nationales
+certifications fabricants de systèmes constructifs / HVAC / fire / roofing
+catalogues Bentley supplémentaires avec assessment formel
+local roadway certifications hors ATSSA
 ```
 
-Une entrée de watchlist ne bascule dans le catalogue vérifié qu'après confirmation de sa source officielle, de sa nature et de son TCO réel.
+Une entrée ne bascule dans le catalogue actif qu'après vérification de :
+
+```text
+source officielle
+credential encore actif
+nature CERT / QUAL / ACC / REG / COURSE / ORG
+formation et prérequis obligatoires
+TCO initial
+renouvellement / CPD
+portabilité géographique
+```
