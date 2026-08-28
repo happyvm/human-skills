@@ -21,6 +21,8 @@ verified: 2026-08-28
 
 Le titre **Associate of the Society of Actuaries (ASA)** n'est pas un examen unique.
 
+**Auto-formation officielle et gratuite :** [soa.org/education](https://www.soa.org/education/overview/) — sample exams officiels gratuits (P, FM), past exams et solutions.
+
 ## Composants actuels du pathway
 
 - VEE Mathematical Statistics ;
@@ -125,6 +127,8 @@ Source :
 
 L'IFoA britannique utilise une structure Associate puis Fellow.
 
+**Auto-formation officielle :** [Virtual Learning Environment (VLE)](https://actuaries.org.uk/virtual-learning-environment/) — accessible via le Member Portal, gratuite pour les membres.
+
 ## Associate — structure
 
 Core Principles :
@@ -221,6 +225,8 @@ avant membership, PPD et autres coûts.
 
 Pour la France / Europe occidentale, CIMA utilise le **Tier 1**.
 
+**Auto-formation officielle et gratuite :** [CGMA Study Hub](https://hub.cimaglobal.com/) — plus de 120 h de contenu gratuit par module.
+
 ## Frais 2026
 
 ### Administration
@@ -295,6 +301,8 @@ CIMA publie aussi des parcours Finance Leadership Program avec abonnement tout c
 # 5. LOMA — Fellow, Life Management Institute
 
 Le **FLMI** est un programme assurance / financial services de **10 cours**.
+
+**Portail officiel :** [loma.org](https://www.loma.org/en/professional-development/talent-mobility-suite/flmi/) — cours en ligne intégrant la formation, pas de couche gratuite séparée identifiée.
 
 Structure :
 

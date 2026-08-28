@@ -37,6 +37,8 @@ verified: 2026-08-28
 
 # 1. TOEIC
 
+**Auto-formation officielle et gratuite :** [ets.org/toeic](https://www.ets.org/toeic/test-takers/prepare.html) — examinee handbooks et sample tests officiels téléchargeables gratuitement.
+
 ## Listening & Reading
 
 ETS France affiche en août/septembre 2026 à Paris :
@@ -61,6 +63,8 @@ Les résultats TOEIC sont généralement utilisés comme preuve récente du nive
 ---
 
 # 2. IELTS
+
+**Auto-formation officielle et gratuite :** [IELTS Ready](https://takeielts.britishcouncil.org/take-ielts/prepare/ielts-ready) (British Council) — practice tests complets, mock speaking/reading/listening et feedback IA, entièrement gratuits.
 
 Centre British Council Paris :
 
@@ -87,6 +91,8 @@ IELTS est particulièrement reconnu pour :
 ---
 
 # 3. Cambridge English
+
+**Auto-formation officielle et gratuite (toute la gamme Cambridge ci-dessous) :** [cambridgeenglish.org/learning-english](https://www.cambridgeenglish.org/learning-english/) — sample papers, exam guides et Write & Improve gratuits.
 
 Cambridge ne peut pas imposer un prix unique à ses centres indépendants mais publie des **prix recommandés France**.
 

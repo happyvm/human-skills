@@ -46,6 +46,8 @@ verified: 2026-08-28
 
 # 1. CFA Institute — Investment Foundations Certificate
 
+**Auto-formation officielle et gratuite :** [CFA Institute Learning Ecosystem](https://www.cfainstitute.org/programs/cfa-program/candidate-resources/curriculum-print-version) — curriculum digital et practice questions inclus dans les frais d'examen.
+
 **Prix standard : 350 $**.
 
 Credential CFA Institute d'introduction au secteur de l'investissement couvrant notamment :
@@ -74,6 +76,8 @@ Source : https://www.cfainstitute.org/programs/investment-foundations-certificat
 ---
 
 # 2. PMI — Agile Certified Practitioner
+
+**Auto-formation officielle et gratuite (PMI, toute la gamme ci-dessous) :** [pmi.org/learning/free-online-courses](https://www.pmi.org/learning/free-online-courses) — cours self-paced gratuits (6-10 h), PDU éligibles.
 
 ## PMI-ACP
 
@@ -123,6 +127,8 @@ Source : https://www.pmi.org/certifications/certified-associate-capm
 # 4. Scrum.org
 
 Pas de formation obligatoire.
+
+**Auto-formation officielle et gratuite :** [scrum.org/open-assessments](https://www.scrum.org/open-assessments) — assessments gratuits sans certification (Scrum Open, Product Owner Open, Agile Leadership Open…) pour préparer les examens payants.
 
 | Credential | Prix |
 |---|---:|
@@ -192,6 +198,8 @@ Sources : https://www.isaca.org/credentialing
 
 # 7. IIBA — ECBA
 
+**Auto-formation officielle et gratuite :** [Global Business Analysis Core Standard](https://www.iiba.org/) — essence du BABOK Guide, gratuite même pour les non-membres ; ECBA Exam Blueprint et sample questions gratuits.
+
 ## Entry Certificate in Business Analysis
 
 Tarif :
@@ -218,6 +226,8 @@ Source : https://www.iiba.org/knowledgehub/certification/ecba-certification/
 
 ## TOGAF Enterprise Architecture Part 1 / Foundation
 
+**Auto-formation officielle et gratuite :** [opengroup.org](https://www.opengroup.org/togaf) — white papers et standard TOGAF 10th Edition téléchargeables gratuitement (inscription requise).
+
 **395 $**.
 
 Intérêt :
@@ -238,6 +248,8 @@ La Foundation seule reste sous le plafond ; le parcours combiné Foundation + Pr
 ---
 
 # 9. Anglais
+
+**Auto-formation officielle et gratuite :** voir [`language-certifications.md`](language-certifications.md) — ressources gratuites ETS (TOEIC) et British Council IELTS Ready.
 
 ## TOEIC Listening & Reading
 
