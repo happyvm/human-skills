@@ -17,6 +17,8 @@ verified: 2026-08-28
 >
 > **Vérification : 28 août 2026**
 
+**Auto-formation officielle et gratuite (partielle) :** guides d'examen et sample questions gratuits sur [nebosh.org.uk](https://www.nebosh.org.uk/) ; qualifications IOSH dispensées via des Approved Training Providers sur [iosh.com/qualifications-and-courses](https://iosh.com/qualifications-and-courses).
+
 ---
 
 # Vue rapide

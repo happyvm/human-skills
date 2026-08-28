@@ -17,6 +17,8 @@ verified: 2026-08-28
 >
 > **Vérification : 28 août 2026**
 
+**Auto-formation officielle :** [bcsp.org/get-certified](https://www.bcsp.org/get-certified) — self-assessments gratuits et eBook culture sécurité ; le cours examCORE reste payant (6 mois d'accès).
+
 ---
 
 # Vue rapide

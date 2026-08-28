@@ -17,6 +17,8 @@ verified: 2026-08-28
 >
 > **Vérification : 28 août 2026**
 
+**Auto-formation officielle et gratuite :** [apm.org.uk/resources](https://www.apm.org.uk/resources/) — webinars gratuits et téléchargements ; APM Body of Knowledge en accès membre.
+
 ---
 
 # Vue rapide
