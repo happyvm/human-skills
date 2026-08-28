@@ -1,3 +1,16 @@
+---
+title: "Product management, product marketing & pricing"
+type: certification-catalog
+tier: general
+domain:
+  - business-soft-skills
+tags:
+  - tier/general
+  - domain/business-soft-skills
+status: active
+verified: 2026-08-28
+---
+
 # Product management, product marketing & pricing
 
 > Certifications et certificats professionnels autour du product management, product marketing, go-to-market et pricing.

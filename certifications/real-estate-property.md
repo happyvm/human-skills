@@ -1,3 +1,16 @@
+---
+title: "Real estate, property & commercial investment qualifications"
+type: certification-catalog
+tier: general
+domain:
+  - real-estate
+tags:
+  - tier/general
+  - domain/real-estate
+status: active
+verified: 2026-08-28
+---
+
 # Real estate, property & commercial investment qualifications
 
 > Qualifications et certifications autour de l'immobilier, valuation, property management, commercial real estate et investissement immobilier.

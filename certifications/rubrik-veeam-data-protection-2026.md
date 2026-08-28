@@ -1,3 +1,16 @@
+---
+title: "Rubrik & Veeam — certification data protection 2026"
+type: certification-catalog
+tier: general
+domain:
+  - storage-backup
+tags:
+  - tier/general
+  - domain/storage-backup
+status: active
+verified: 2026-08-28
+---
+
 # Rubrik & Veeam — certification data protection 2026
 
 > Deux modèles opposés : Rubrik propose une préparation RCSA gratuite sans bootcamp obligatoire ; Veeam impose une chaîne de formations avant ses nouveaux examens VMCE+/VMCSE. Vérification : 28 août 2026.

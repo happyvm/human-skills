@@ -1,3 +1,16 @@
+---
+title: "Food safety, trade compliance & logistics"
+type: certification-catalog
+tier: general
+domain:
+  - pharma-regulatory
+tags:
+  - tier/general
+  - domain/pharma-regulatory
+status: active
+verified: 2026-08-28
+---
+
 # Food safety, trade compliance & logistics
 
 > Credentials professionnels autour de la sécurité alimentaire, qualité supply-chain, import/export, Incoterms et transport de marchandises dangereuses.

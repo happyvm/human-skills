@@ -1,3 +1,16 @@
+---
+title: "Ataccama ONE — certifications Data Governance / MDM gratuites — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - data-database
+tags:
+  - tier/free
+  - domain/data-database
+status: active
+verified: 2026-08-28
+---
+
 # Ataccama ONE — certifications Data Governance / MDM gratuites — 2026
 
 > Revue : **28 août 2026**. Ataccama propose des certifications Consumer gratuites autour de Data Governance & Quality et Master Data Management. L'accès Academy gratuit est explicitement annoncé **pour les clients Ataccama** : il faut donc les classer comme gratuit sous entitlement/environnement client, pas comme inscription publique anonyme garantie.

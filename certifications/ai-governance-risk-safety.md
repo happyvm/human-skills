@@ -1,3 +1,16 @@
+---
+title: "AI governance, risk, audit & safety"
+type: certification-catalog
+tier: general
+domain:
+  - ai-infrastructure
+tags:
+  - tier/general
+  - domain/ai-infrastructure
+status: active
+verified: 2026-08-28
+---
+
 # AI governance, risk, audit & safety
 
 > Credentials professionnels autour de la gouvernance de l'IA, AI risk, audit, responsible AI, sécurité et conformité.

@@ -1,3 +1,16 @@
+---
+title: "HackersGen / SORINT.lab — credentials IT gratuits — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - security
+tags:
+  - tier/free
+  - domain/security
+status: active
+verified: 2026-08-28
+---
+
 # HackersGen / SORINT.lab — credentials IT gratuits — 2026
 
 > Revue : **28 août 2026**. HackersGen est une plateforme éducative italienne portée par la Fondazione Gianfranco Marilli / SORINT.lab. Ses conditions 2026 indiquent que l'accès aux parcours est **totalement gratuit pour étudiants, enseignants et passionnés**.

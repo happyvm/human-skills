@@ -1,3 +1,16 @@
+---
+title: "Datacenter, facilities & critical infrastructure — credentials premium"
+type: certification-catalog
+tier: over-500
+domain:
+  - datacenter-facilities
+tags:
+  - tier/over-500
+  - domain/datacenter-facilities
+status: active
+verified: 2026-08-28
+---
+
 # Datacenter, facilities & critical infrastructure — credentials premium
 
 > Parcours professionnels autour de la conception, l'exploitation et la résilience physique des datacenters. Vérifié fin août 2026.

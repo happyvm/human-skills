@@ -1,3 +1,16 @@
+---
+title: "Free IaC, platform & orchestration credentials — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - kubernetes-platform
+tags:
+  - tier/free
+  - domain/kubernetes-platform
+status: active
+verified: 2026-08-28
+---
+
 # Free IaC, platform & orchestration credentials — 2026
 
 > Revue : **28 août 2026**. Fiche dédiée aux certifications et badges évalués gratuits en Infrastructure as Code, platform engineering et process orchestration.

@@ -1,3 +1,13 @@
+---
+title: "IT Certification Index — human-skills"
+type: moc
+tags:
+  - moc
+  - domain/general-it
+status: active
+verified: 2026-08-28
+---
+
 # IT Certification Index — human-skills
 
 > Index **IT-first** : certifications infrastructure, cloud, virtualisation, Linux, réseau, cyber, stockage, data, platform engineering, middleware, EUC, ITSM et AI infrastructure.

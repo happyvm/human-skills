@@ -1,3 +1,16 @@
+---
+title: "Arista Academy Certification — exact exam pricing 2026"
+type: certification-catalog
+tier: general
+domain:
+  - network
+tags:
+  - tier/general
+  - domain/network
+status: active
+verified: 2026-08-28
+---
+
 # Arista Academy Certification — exact exam pricing 2026
 
 > Revue : **28 août 2026**. Cette fiche ferme une ambiguïté importante du catalogue : les prix des **tracks de formation** Arista ne sont pas les prix des examens. Le document Academy 2026 publie une grille distincte pour les practical exams.

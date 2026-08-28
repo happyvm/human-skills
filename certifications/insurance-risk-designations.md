@@ -1,3 +1,16 @@
+---
+title: "Assurance, P&C actuarial & risk designations"
+type: certification-catalog
+tier: general
+domain:
+  - finance-risk
+tags:
+  - tier/general
+  - domain/finance-risk
+status: active
+verified: 2026-08-28
+---
+
 # Assurance, P&C actuarial & risk designations
 
 > Parcours professionnels spécifiques à l'assurance dommages, assurance vie, risk management, underwriting et reinsurance. Vérifié fin août 2026.

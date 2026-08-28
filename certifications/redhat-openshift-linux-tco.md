@@ -1,3 +1,16 @@
+---
+title: "Red Hat Linux, OpenShift & RHCA — coût réel des parcours"
+type: certification-catalog
+tier: general
+domain:
+  - linux
+tags:
+  - tier/general
+  - domain/linux
+status: active
+verified: 2026-08-28
+---
+
 # Red Hat Linux, OpenShift & RHCA — coût réel des parcours
 
 > Red Hat utilise des examens largement **performance-based**. Le prix catalogue standard 2026 est désormais de **500 $ par examen de certification**, avec variations régionales possibles. Vérification : 28 août 2026.

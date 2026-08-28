@@ -1,3 +1,16 @@
+---
+title: "Microsoft Azure Local / HCI / Windows Server 2025 credentials — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - windows-infra
+tags:
+  - tier/general
+  - domain/windows-infra
+status: active
+verified: 2026-08-28
+---
+
 # Microsoft Azure Local / HCI / Windows Server 2025 credentials — 2026
 
 > Revue : **28 août 2026**. Objectif : distinguer les vraies certifications Microsoft, les Applied Skills et les simples learning achievements autour d'Azure Local / HCI.

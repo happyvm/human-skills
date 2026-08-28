@@ -1,3 +1,16 @@
+---
+title: "EUC / VDI / endpoint certifications under 500 — 2026"
+type: certification-catalog
+tier: under-500
+domain:
+  - euc-endpoint
+tags:
+  - tier/under-500
+  - domain/euc-endpoint
+status: active
+verified: 2026-08-28
+---
+
 # EUC / VDI / endpoint certifications under 500 — 2026
 
 > Revue : **28 août 2026**. Périmètre : VDI, DaaS, application delivery, endpoint / Apple management et digital workspace.

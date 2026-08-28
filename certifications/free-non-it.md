@@ -1,3 +1,16 @@
+---
+title: "Certifications et credentials gratuits — hors IT"
+type: certification-catalog
+tier: free
+domain:
+  - business-soft-skills
+tags:
+  - tier/free
+  - domain/business-soft-skills
+status: active
+verified: 2026-08-28
+---
+
 # Certifications et credentials gratuits — hors IT
 
 > Catalogue de credentials gratuits utiles en management, projet, business, langues, risque, marketing, RGPD et amélioration continue.

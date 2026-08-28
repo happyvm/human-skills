@@ -1,3 +1,16 @@
+---
+title: "Mainframe & enterprise software — IBM Z, Db2, MQ, SAP"
+type: certification-catalog
+tier: general
+domain:
+  - mainframe
+tags:
+  - tier/general
+  - domain/mainframe
+status: active
+verified: 2026-08-28
+---
+
 # Mainframe & enterprise software — IBM Z, Db2, MQ, SAP
 
 > Certifications grands SI souvent absentes des listes généralistes. Vérification : 28 août 2026.

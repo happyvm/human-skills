@@ -1,3 +1,16 @@
+---
+title: "Outils, plateformes et certifications éditeurs sous 500"
+type: certification-catalog
+tier: under-500
+domain:
+  - devops-automation
+tags:
+  - tier/under-500
+  - domain/devops-automation
+status: active
+verified: 2026-08-28
+---
+
 # Outils, plateformes et certifications éditeurs sous 500
 
 > Certifications techniques ou métiers qui ne rentrent pas proprement dans les catégories cloud / réseau / cyber classiques.

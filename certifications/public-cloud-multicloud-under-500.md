@@ -1,3 +1,16 @@
+---
+title: "Public cloud & multicloud — certifications sous 500 € / $"
+type: certification-catalog
+tier: under-500
+domain:
+  - cloud
+tags:
+  - tier/under-500
+  - domain/cloud
+status: active
+verified: 2026-08-28
+---
+
 # Public cloud & multicloud — certifications sous 500 € / $
 
 > AWS, Microsoft Azure, Google Cloud, Oracle OCI et Alibaba Cloud. Vérification : 28 août 2026.

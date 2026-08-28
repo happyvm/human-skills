@@ -1,3 +1,16 @@
+---
+title: "Oracle Database, MySQL & enterprise technology — certifications 2026"
+type: certification-catalog
+tier: general
+domain:
+  - data-database
+tags:
+  - tier/general
+  - domain/data-database
+status: active
+verified: 2026-08-28
+---
+
 # Oracle Database, MySQL & enterprise technology — certifications 2026
 
 > Oracle University utilise désormais un modèle d'`Exam Subscription` : une tentative technologique est valorisée à **245 $ US**, avec prix local converti selon le pays. Vérification : 28 août 2026.

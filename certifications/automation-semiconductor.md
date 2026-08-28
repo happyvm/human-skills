@@ -1,3 +1,16 @@
+---
+title: "Industrial automation, control systems & semiconductor"
+type: certification-catalog
+tier: general
+domain:
+  - industrial-ot
+tags:
+  - tier/general
+  - domain/industrial-ot
+status: active
+verified: 2026-08-28
+---
+
 # Industrial automation, control systems & semiconductor
 
 > Certifications professionnelles autour de l'automation industrielle, control systems et de l'industrie semiconductor.

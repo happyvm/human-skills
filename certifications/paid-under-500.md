@@ -1,3 +1,16 @@
+---
+title: "Certifications payantes à moins de 500 €"
+type: certification-catalog
+tier: under-500
+domain:
+  - general-it
+tags:
+  - tier/under-500
+  - domain/general-it
+status: active
+verified: 2026-08-28
+---
+
 # Certifications payantes à moins de 500 €
 
 > Catalogue vérifié de certifications et credentials professionnels dont le **coût d'accès au credential** reste, en principe, sous un budget de 500 €.

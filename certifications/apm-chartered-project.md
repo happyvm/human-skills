@@ -1,3 +1,16 @@
+---
+title: "APM — Chartered Project Professional (ChPP)"
+type: certification-catalog
+tier: general
+domain:
+  - project-management
+tags:
+  - tier/general
+  - domain/project-management
+status: active
+verified: 2026-08-28
+---
+
 # APM — Chartered Project Professional (ChPP)
 
 > Statut professionnel chartered britannique pour les professionnels projet, programme et portefeuille.

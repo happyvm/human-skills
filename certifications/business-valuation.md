@@ -1,3 +1,16 @@
+---
+title: "Business valuation & financial appraisal"
+type: certification-catalog
+tier: general
+domain:
+  - finance-risk
+tags:
+  - tier/general
+  - domain/finance-risk
+status: active
+verified: 2026-08-28
+---
+
 # Business valuation & financial appraisal
 
 > Certifications professionnelles autour de la valorisation d'entreprise, financial forensics et appraisal.

@@ -1,3 +1,16 @@
+---
+title: "Cybersécurité premium — certifications pratiques et parcours >500 €"
+type: certification-catalog
+tier: over-500
+domain:
+  - security
+tags:
+  - tier/over-500
+  - domain/security
+status: active
+verified: 2026-08-28
+---
+
 # Cybersécurité premium — certifications pratiques et parcours >500 €
 
 > Tarifs vérifiés fin août 2026. Pour les examens en devises étrangères, la frontière dépend de la TVA et du taux de change ; le fichier conserve donc la devise officielle.

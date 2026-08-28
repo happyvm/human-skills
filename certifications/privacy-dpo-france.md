@@ -1,3 +1,16 @@
+---
+title: "Privacy, RGPD & DPO — France / Europe"
+type: certification-catalog
+tier: general
+domain:
+  - legal
+tags:
+  - tier/general
+  - domain/legal
+status: active
+verified: 2026-08-28
+---
+
 # Privacy, RGPD & DPO — France / Europe
 
 > Credentials individuels autour du RGPD, de la fonction DPO et de la privacy. Distinction importante entre **certification de personne conforme au référentiel CNIL**, certification internationale et simple formation RGPD.

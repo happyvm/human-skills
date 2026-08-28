@@ -1,3 +1,16 @@
+---
+title: "Networking, wireless, telecom & AI infrastructure"
+type: certification-catalog
+tier: general
+domain:
+  - ai-infrastructure
+tags:
+  - tier/general
+  - domain/ai-infrastructure
+status: active
+verified: 2026-08-28
+---
+
 # Networking, wireless, telecom & AI infrastructure
 
 > Certifications réseau, Wi-Fi, service provider, SD-WAN et infrastructure IA. Vérifié fin août 2026.

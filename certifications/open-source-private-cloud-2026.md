@@ -1,3 +1,16 @@
+---
+title: "Open-source private cloud certifications — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - virtualization
+tags:
+  - tier/general
+  - domain/virtualization
+status: active
+verified: 2026-08-28
+---
+
 # Open-source private cloud certifications — 2026
 
 > Revue : **28 août 2026**. Priorité aux certifications réellement achetables sans bundle de formation obligatoire quand le prix public est disponible.

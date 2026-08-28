@@ -1,3 +1,16 @@
+---
+title: "Open-source / cloud-native storage certifications — Ceph, Longhorn, MinIO, Portworx — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - storage-backup
+tags:
+  - tier/general
+  - domain/storage-backup
+status: active
+verified: 2026-08-28
+---
+
 # Open-source / cloud-native storage certifications — Ceph, Longhorn, MinIO, Portworx — 2026
 
 > Revue : **28 août 2026**. Périmètre : stockage distribué, object storage et Kubernetes storage, avec distinction entre certifications réellement actives et simples formations.

@@ -1,3 +1,16 @@
+---
+title: "FinOps & Veeam — certifications dont le TCO dépasse souvent 500 €"
+type: certification-catalog
+tier: over-500
+domain:
+  - storage-backup
+tags:
+  - tier/over-500
+  - domain/storage-backup
+status: active
+verified: 2026-08-28
+---
+
 # FinOps & Veeam — certifications dont le TCO dépasse souvent 500 €
 
 > Vérifié fin août 2026. Ces deux écosystèmes illustrent bien pourquoi le **prix de l'examen seul** est insuffisant : prérequis et formation peuvent dominer le coût total.

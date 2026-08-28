@@ -1,3 +1,16 @@
+---
+title: "Harness Developer certifications gratuites — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - devops-automation
+tags:
+  - tier/free
+  - domain/devops-automation
+status: active
+verified: 2026-08-28
+---
+
 # Harness Developer certifications gratuites — 2026
 
 > Revue : **28 août 2026**. Harness University confirme que les certifications de niveau **Developer sont gratuites**. Les niveaux Administrator / Architect restent payants.

@@ -1,3 +1,16 @@
+---
+title: "API Management specialist certifications — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - itsm-middleware
+tags:
+  - tier/general
+  - domain/itsm-middleware
+status: active
+verified: 2026-08-28
+---
+
 # API Management specialist certifications — 2026
 
 > Revue : **28 août 2026**. Focus APIM : WSO2, Kong, Tyk, Apigee, Gravitee et Axway.

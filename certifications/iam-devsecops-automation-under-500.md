@@ -1,3 +1,16 @@
+---
+title: "IAM, PAM, DevSecOps & automation — certifications sous 500 $"
+type: certification-catalog
+tier: under-500
+domain:
+  - identity-iam
+tags:
+  - tier/under-500
+  - domain/identity-iam
+status: active
+verified: 2026-08-28
+---
+
 # IAM, PAM, DevSecOps & automation — certifications sous 500 $
 
 > Okta, HashiCorp Vault, GitHub, Red Hat Ansible et automation/security tooling. Vérification : 28 août 2026.

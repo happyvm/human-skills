@@ -1,3 +1,16 @@
+---
+title: "AML, compliance et FP&A — parcours >500 €"
+type: certification-catalog
+tier: over-500
+domain:
+  - finance-risk
+tags:
+  - tier/over-500
+  - domain/finance-risk
+status: active
+verified: 2026-08-28
+---
+
 # AML, compliance et FP&A — parcours >500 €
 
 > Certifications et qualifications en **anti-money laundering, financial crime, compliance, sanctions et financial planning & analysis**.

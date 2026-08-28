@@ -1,3 +1,16 @@
+---
+title: "HPE certification pricing / AI / private cloud — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - virtualization
+tags:
+  - tier/general
+  - domain/virtualization
+status: active
+verified: 2026-08-28
+---
+
 # HPE certification pricing / AI / private cloud — 2026
 
 > Revue : **28 août 2026**. Cette fiche consolide la grille Pearson VUE HPE actuelle et les nouveaux parcours HPE AI / virtualization / private cloud.

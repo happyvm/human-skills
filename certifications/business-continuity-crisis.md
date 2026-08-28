@@ -1,3 +1,16 @@
+---
+title: "Business continuity, resilience & crisis management"
+type: certification-catalog
+tier: general
+domain:
+  - governance-grc
+tags:
+  - tier/general
+  - domain/governance-grc
+status: active
+verified: 2026-08-28
+---
+
 # Business continuity, resilience & crisis management
 
 > Certifications et qualifications en continuité d'activité, résilience et reprise. Vérifié fin août 2026.

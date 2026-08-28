@@ -1,3 +1,16 @@
+---
+title: "Free DevOps, automation & RPA certifications — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - devops-automation
+tags:
+  - tier/free
+  - domain/devops-automation
+status: active
+verified: 2026-08-28
+---
+
 # Free DevOps, automation & RPA certifications — 2026
 
 > Revue : **28 août 2026**. Cette fiche complète [`free-it.md`](free-it.md) avec des certifications et examens **réellement gratuits** dans les domaines CI/CD, GitOps, resilience/chaos, enterprise automation et RPA.

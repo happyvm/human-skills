@@ -1,3 +1,16 @@
+---
+title: "IBM enterprise / security low-cost certifications — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - security
+tags:
+  - tier/general
+  - domain/security
+status: active
+verified: 2026-08-28
+---
+
 # IBM enterprise / security low-cost certifications — 2026
 
 > Revue : **28 août 2026**. Complément au catalogue mainframe existant, avec focus sur les credentials IBM étonnamment abordables hors z/OS pur.

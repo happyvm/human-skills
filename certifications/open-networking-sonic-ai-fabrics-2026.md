@@ -1,3 +1,16 @@
+---
+title: "Open networking / SONiC / AI fabrics — certification status 2026"
+type: certification-catalog
+tier: general
+domain:
+  - network
+tags:
+  - tier/general
+  - domain/network
+status: active
+verified: 2026-08-28
+---
+
 # Open networking / SONiC / AI fabrics — certification status 2026
 
 > Revue : **28 août 2026**. Objectif : identifier les credentials crédibles autour de SONiC, Ethernet AI fabrics, RoCE, DPU/SuperNIC et réseaux GPU sans inventer de certification qui n'existe pas.

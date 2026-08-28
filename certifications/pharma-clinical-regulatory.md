@@ -1,3 +1,16 @@
+---
+title: "Pharma, GxP, clinical research & regulatory affairs"
+type: certification-catalog
+tier: general
+domain:
+  - pharma-regulatory
+tags:
+  - tier/general
+  - domain/pharma-regulatory
+status: active
+verified: 2026-08-28
+---
+
 # Pharma, GxP, clinical research & regulatory affairs
 
 > Certifications en qualité pharmaceutique, GMP, affaires réglementaires et recherche clinique. Vérifié fin août 2026.

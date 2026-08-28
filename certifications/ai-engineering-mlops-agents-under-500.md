@@ -1,3 +1,16 @@
+---
+title: "AI Engineering, MLOps & Agentic AI — certifications sous 500 € / $"
+type: certification-catalog
+tier: under-500
+domain:
+  - ai-infrastructure
+tags:
+  - tier/under-500
+  - domain/ai-infrastructure
+status: active
+verified: 2026-08-28
+---
+
 # AI Engineering, MLOps & Agentic AI — certifications sous 500 € / $
 
 > Parcours techniques pour construire, déployer et opérer des systèmes IA : agents, GenAI, ML engineering, MLOps et plateformes. Vérification : 28 août 2026.

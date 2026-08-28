@@ -1,3 +1,16 @@
+---
+title: "HR, People profession & HR technology"
+type: certification-catalog
+tier: general
+domain:
+  - hr-people
+tags:
+  - tier/general
+  - domain/hr-people
+status: active
+verified: 2026-08-28
+---
+
 # HR, People profession & HR technology
 
 > Certifications et statuts professionnels autour des ressources humaines, people strategy, HR technology et HR information management.

@@ -1,3 +1,16 @@
+---
+title: "Marketing, digital marketing & commercial credentials"
+type: certification-catalog
+tier: general
+domain:
+  - business-soft-skills
+tags:
+  - tier/general
+  - domain/business-soft-skills
+status: active
+verified: 2026-08-28
+---
+
 # Marketing, digital marketing & commercial credentials
 
 > Certifications professionnelles et qualifications autour du marketing, digital, CRM et marketing technology.

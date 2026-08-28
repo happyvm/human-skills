@@ -1,3 +1,16 @@
+---
+title: "Free University of Helsinki IT certificates — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - general-it
+tags:
+  - tier/free
+  - domain/general-it
+status: active
+verified: 2026-08-28
+---
+
 # Free University of Helsinki IT certificates — 2026
 
 > Revue : **28 août 2026**. L'Université d'Helsinki propose plusieurs MOOCs informatiques gratuits avec exercices pratiques et certificats. Les certificats sont distincts des crédits ECTS : selon le parcours, le certificat peut être obtenu gratuitement sans inscription universitaire officielle.

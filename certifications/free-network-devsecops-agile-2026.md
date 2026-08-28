@@ -1,3 +1,16 @@
+---
+title: "Free networking, DevSecOps & Agile credentials — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - security
+tags:
+  - tier/free
+  - domain/security
+status: active
+verified: 2026-08-28
+---
+
 # Free networking, DevSecOps & Agile credentials — 2026
 
 > Revue : **28 août 2026**. Cette fiche complète [`free-it.md`](free-it.md) avec des certifications et credentials gratuits vérifiés dans les domaines networking, secure software, supply-chain security et Agile.

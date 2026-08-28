@@ -1,3 +1,16 @@
+---
+title: "Network automation certifications under 500 — 2026"
+type: certification-catalog
+tier: under-500
+domain:
+  - network
+tags:
+  - tier/under-500
+  - domain/network
+status: active
+verified: 2026-08-28
+---
+
 # Network automation certifications under 500 — 2026
 
 > Revue : **28 août 2026**. Périmètre : NetDevOps, APIs réseau, YANG/NETCONF/RESTCONF, intent-based networking, workflows et automatisation multivendor.

@@ -1,3 +1,16 @@
+---
+title: "Management, transformation, architecture et métiers — parcours >500 €"
+type: certification-catalog
+tier: over-500
+domain:
+  - governance-grc
+tags:
+  - tier/over-500
+  - domain/governance-grc
+status: active
+verified: 2026-08-28
+---
+
 # Management, transformation, architecture et métiers — parcours >500 €
 
 > Complément du catalogue [`paid-over-500.md`](paid-over-500.md) pour les domaines moins purement techniques : **change management, architecture de sécurité, business analysis, data management, RH, Agile at scale et achats**.

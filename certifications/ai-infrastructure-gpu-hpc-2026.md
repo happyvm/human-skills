@@ -1,3 +1,16 @@
+---
+title: "AI infrastructure / GPU / HPC certifications — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - ai-infrastructure
+tags:
+  - tier/general
+  - domain/ai-infrastructure
+status: active
+verified: 2026-08-28
+---
+
 # AI infrastructure / GPU / HPC certifications — 2026
 
 > Revue : **28 août 2026**. Périmètre : GPU clusters, AI factories, HPC, ROCm, CUDA/NVIDIA infrastructure, DPU/SuperNIC, Slurm/Kubernetes et OEM private AI.

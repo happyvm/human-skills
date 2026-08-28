@@ -1,3 +1,12 @@
+---
+title: "Watchlist — certifications / parcours restant à chiffrer"
+type: research-note
+tags:
+  - research-note
+status: active
+verified: 2026-08-28
+---
+
 # Watchlist — certifications / parcours restant à chiffrer
 
 > Les sujets déjà suffisamment vérifiés ont été déplacés dans les catalogues thématiques sous `certifications/`.

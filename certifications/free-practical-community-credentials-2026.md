@@ -1,3 +1,16 @@
+---
+title: "Free practical & community IT credentials — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - general-it
+tags:
+  - tier/free
+  - domain/general-it
+status: active
+verified: 2026-08-28
+---
+
 # Free practical & community IT credentials — 2026
 
 > Revue : **28 août 2026**. Cette fiche regroupe des évaluations techniques gratuites très pratiques qui ne rentrent pas proprement dans les catégories vendor certifications classiques.

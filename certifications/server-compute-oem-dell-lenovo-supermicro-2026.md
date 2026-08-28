@@ -1,3 +1,16 @@
+---
+title: "Server / compute OEM certifications — Dell, Lenovo, Supermicro — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - datacenter-facilities
+tags:
+  - tier/general
+  - domain/datacenter-facilities
+status: active
+verified: 2026-08-28
+---
+
 # Server / compute OEM certifications — Dell, Lenovo, Supermicro — 2026
 
 > Revue : **28 août 2026**. Focus : certifications serveurs, compute, GPU/HPC et datacenter hardware hors HPE, déjà traité séparément.

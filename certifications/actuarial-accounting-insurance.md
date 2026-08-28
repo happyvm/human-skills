@@ -1,3 +1,16 @@
+---
+title: "Actuariat, management accounting & assurance"
+type: certification-catalog
+tier: general
+domain:
+  - finance-risk
+tags:
+  - tier/general
+  - domain/finance-risk
+status: active
+verified: 2026-08-28
+---
+
 # Actuariat, management accounting & assurance
 
 > Parcours professionnels cumulatifs : ici, le « prix de la certification » est la somme de nombreux examens, modules, memberships et parfois d'expérience professionnelle. Vérifié fin août 2026.

@@ -1,3 +1,12 @@
+---
+title: "Dépôts communautaires à surveiller"
+type: source-tracker
+tags:
+  - source-tracker
+status: active
+verified: 2026-08-28
+---
+
 # Dépôts communautaires à surveiller
 
 > Sources utilisées comme **radar**, jamais comme vérité. Chaque entrée trouvée dans ces dépôts doit être revérifiée sur le site officiel du fournisseur avant d'être ajoutée aux catalogues `human-skills`.

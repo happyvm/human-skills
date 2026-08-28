@@ -1,3 +1,16 @@
+---
+title: "Gouvernance, board & director credentials — TCO premium"
+type: certification-catalog
+tier: over-500
+domain:
+  - governance-grc
+tags:
+  - tier/over-500
+  - domain/governance-grc
+status: active
+verified: 2026-08-28
+---
+
 # Gouvernance, board & director credentials — TCO premium
 
 > Certifications et qualifications destinées à la gouvernance d'entreprise, aux administrateurs et aux professionnels du board. Vérifié fin août 2026.

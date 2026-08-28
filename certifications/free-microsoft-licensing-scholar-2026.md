@@ -1,3 +1,16 @@
+---
+title: "Licensing Scholar Core — Microsoft licensing — gratuit 2026"
+type: certification-catalog
+tier: free
+domain:
+  - windows-infra
+tags:
+  - tier/free
+  - domain/windows-infra
+status: active
+verified: 2026-08-28
+---
+
 # Licensing Scholar Core — Microsoft licensing — gratuit 2026
 
 > Revue : **28 août 2026**. Licensing School maintient un parcours gratuit orienté licences Microsoft desktop/server/cloud, avec quatre évaluations et badge Credly. Le programme est en transition en 2026 vers un rôle de préparation au BOK Foundation : cette fiche documente le statut actuel sans le sur-vendre.

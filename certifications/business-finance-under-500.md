@@ -1,3 +1,16 @@
+---
+title: "Business, finance, management et compétences professionnelles — sous 500"
+type: certification-catalog
+tier: under-500
+domain:
+  - finance-risk
+tags:
+  - tier/under-500
+  - domain/finance-risk
+status: active
+verified: 2026-08-28
+---
+
 # Business, finance, management et compétences professionnelles — sous 500
 
 > Credentials hors IT ou transverses dont le coût d'accès reste sous un budget d'environ 500 € / $.

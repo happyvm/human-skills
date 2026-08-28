@@ -1,3 +1,16 @@
+---
+title: "IBM Storage — certifications et credentials 2026"
+type: certification-catalog
+tier: general
+domain:
+  - storage-backup
+tags:
+  - tier/general
+  - domain/storage-backup
+status: active
+verified: 2026-08-28
+---
+
 # IBM Storage — certifications et credentials 2026
 
 > IBM Storage a changé de génération : plusieurs anciennes certifications Spectrum sont retirées, tandis que Storage Scale, FlashSystem/Storage Virtualize et Storage Defender utilisent désormais un mélange de certifications, validations et learning paths. Vérification : 28 août 2026.

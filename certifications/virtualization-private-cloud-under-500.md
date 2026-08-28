@@ -1,3 +1,16 @@
+---
+title: "Virtualisation, private cloud & hyperconverged infrastructure — certifications sous 500 $"
+type: certification-catalog
+tier: under-500
+domain:
+  - virtualization
+tags:
+  - tier/under-500
+  - domain/virtualization
+status: active
+verified: 2026-08-28
+---
+
 # Virtualisation, private cloud & hyperconverged infrastructure — certifications sous 500 $
 
 > VMware/Broadcom, Nutanix et autres credentials directement liés à la virtualisation et au cloud privé. Vérification : 28 août 2026.

@@ -1,3 +1,16 @@
+---
+title: "Free AI, developer & academic IT credentials — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - ai-infrastructure
+tags:
+  - tier/free
+  - domain/ai-infrastructure
+status: active
+verified: 2026-08-28
+---
+
 # Free AI, developer & academic IT credentials — 2026
 
 > Revue : **28 août 2026**. Cette fiche regroupe des credentials gratuits techniquement sérieux, basés sur quiz, projets, assignments ou examens, mais qui ne sont pas tous des certifications professionnelles proctorées de vendor.

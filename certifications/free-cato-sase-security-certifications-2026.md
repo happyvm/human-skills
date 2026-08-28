@@ -1,3 +1,16 @@
+---
+title: "Cato Networks — certifications SASE / Zero Trust / AI gratuites — 2026"
+type: certification-catalog
+tier: free
+domain:
+  - network
+tags:
+  - tier/free
+  - domain/network
+status: active
+verified: 2026-08-28
+---
+
 # Cato Networks — certifications SASE / Zero Trust / AI gratuites — 2026
 
 > Revue : **28 août 2026**. Cato Networks maintient un **Expert Certification Program public et gratuit**, distinct des certifications partenaires Cato Partner Portal.

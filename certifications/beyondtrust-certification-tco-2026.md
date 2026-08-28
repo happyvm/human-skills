@@ -1,3 +1,16 @@
+---
+title: "BeyondTrust certification TCO & eligibility — 2026"
+type: certification-catalog
+tier: general
+domain:
+  - identity-iam
+tags:
+  - tier/general
+  - domain/identity-iam
+status: active
+verified: 2026-08-28
+---
+
 # BeyondTrust certification TCO & eligibility — 2026
 
 > Revue : **28 août 2026**. BeyondTrust est un bon exemple de programme où le prix d'un « examen » isolé n'a pas beaucoup de sens : la certification est **conditionnée à une formation Instructor-Led** et le pricing est géré via subscription / private training / commercial inquiry.

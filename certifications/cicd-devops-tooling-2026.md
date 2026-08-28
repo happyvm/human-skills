@@ -1,3 +1,16 @@
+---
+title: "CI/CD, GitLab, Jenkins & DevOps tooling — certification status 2026"
+type: certification-catalog
+tier: general
+domain:
+  - devops-automation
+tags:
+  - tier/general
+  - domain/devops-automation
+status: active
+verified: 2026-08-28
+---
+
 # CI/CD, GitLab, Jenkins & DevOps tooling — certification status 2026
 
 > Revue : **28 août 2026**. Objectif : distinguer les vraies certifications professionnelles actives des anciens programmes, badges et contenus de formation.

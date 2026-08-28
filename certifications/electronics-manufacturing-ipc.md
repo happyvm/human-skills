@@ -1,3 +1,16 @@
+---
+title: "Electronics manufacturing & IPC certifications"
+type: certification-catalog
+tier: general
+domain:
+  - supply-chain
+tags:
+  - tier/general
+  - domain/supply-chain
+status: active
+verified: 2026-08-28
+---
+
 # Electronics manufacturing & IPC certifications
 
 > Qualifications professionnelles liées à l'assemblage électronique, au câblage, à la soudure, à l'inspection et aux standards IPC.

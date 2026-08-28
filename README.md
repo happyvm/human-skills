@@ -1,3 +1,12 @@
+---
+title: "human-skills"
+type: home
+tags:
+  - home
+status: active
+verified: 2026-08-28
+---
+
 # human-skills
 
 Catalogue vivant de **certifications, examens, credentials et qualifications professionnelles**, classés par coût, domaine, type de preuve et **TCO réel**.
@@ -82,6 +91,10 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 
 - [`sources/community-repositories.md`](sources/community-repositories.md) — anciens et nouveaux dépôts GitHub utilisés comme **radars**, avec leur fiabilité 2026.
 - [`research/over-500-watchlist.md`](research/over-500-watchlist.md) — uniquement ce qui reste réellement à consolider.
+
+## Structure du dépôt
+
+- [`OBSIDIAN.md`](OBSIDIAN.md) — conventions du vault (frontmatter, tags `tier/…`/`domain/…`, gabarit de nouvelle fiche) pour ouvrir ce dépôt comme coffre Obsidian.
 
 ---
 

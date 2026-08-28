@@ -1,3 +1,16 @@
+---
+title: "Construction, cost engineering & project controls"
+type: certification-catalog
+tier: general
+domain:
+  - supply-chain
+tags:
+  - tier/general
+  - domain/supply-chain
+status: active
+verified: 2026-08-28
+---
+
 # Construction, cost engineering & project controls
 
 > Certifications professionnelles autour du management de projets de construction, cost engineering, estimating, scheduling et project controls.

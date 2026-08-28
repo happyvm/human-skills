@@ -1,3 +1,16 @@
+---
+title: "Edge Security, SASE & Connectivity Cloud — certifications 2026"
+type: certification-catalog
+tier: general
+domain:
+  - network
+tags:
+  - tier/general
+  - domain/network
+status: active
+verified: 2026-08-28
+---
+
 # Edge Security, SASE & Connectivity Cloud — certifications 2026
 
 > Cloudflare, Cato Networks, Netskope et Akamai. Cette page sépare les **vraies certifications**, les **accréditations** et les **formations certifiantes**. Vérification : 28 août 2026.

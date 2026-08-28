@@ -1,3 +1,16 @@
+---
+title: "IBM Enterprise, Security, AI & Systems — certifications sous 500 $"
+type: certification-catalog
+tier: under-500
+domain:
+  - security
+tags:
+  - tier/under-500
+  - domain/security
+status: active
+verified: 2026-08-28
+---
+
 # IBM Enterprise, Security, AI & Systems — certifications sous 500 $
 
 > IBM a encore en 2026 un des catalogues enterprise les plus larges à prix raisonnable. Vérification : 28 août 2026.

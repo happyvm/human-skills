@@ -1,3 +1,16 @@
+---
+title: "Observability vendor certifications — low-cost opportunities 2026"
+type: certification-catalog
+tier: general
+domain:
+  - observability
+tags:
+  - tier/general
+  - domain/observability
+status: active
+verified: 2026-08-28
+---
+
 # Observability vendor certifications — low-cost opportunities 2026
 
 > Revue : **28 août 2026**. Complément au catalogue observability/SRE existant, avec focus sur les vendors qui publient des credentials réellement gratuits ou peu coûteux.

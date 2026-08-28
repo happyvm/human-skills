@@ -1,3 +1,16 @@
+---
+title: "Observability, SRE & DevOps — certifications sous 500 $"
+type: certification-catalog
+tier: under-500
+domain:
+  - observability
+tags:
+  - tier/under-500
+  - domain/observability
+status: active
+verified: 2026-08-28
+---
+
 # Observability, SRE & DevOps — certifications sous 500 $
 
 > Splunk, Datadog, Elastic, Prometheus/OpenTelemetry et cloud DevOps. Vérification : 28 août 2026.

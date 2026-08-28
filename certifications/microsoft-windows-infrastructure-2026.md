@@ -1,3 +1,16 @@
+---
+title: "Microsoft Windows Server & hybrid infrastructure — transition 2026"
+type: certification-catalog
+tier: general
+domain:
+  - windows-infra
+tags:
+  - tier/general
+  - domain/windows-infra
+status: active
+verified: 2026-08-28
+---
+
 # Microsoft Windows Server & hybrid infrastructure — transition 2026
 
 > Windows Server, Active Directory, hybrid management et sécurité Microsoft. Vérification : 28 août 2026.
