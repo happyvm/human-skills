@@ -223,6 +223,27 @@ Source :
 
 ---
 
+# 8 bis. TEGoVA — Recognised European Valuer (REV)
+
+Le statut **REV** n'est pas délivré directement par TEGoVA mais via les **associations membres nationales** habilitées (ex. IRRV au Royaume-Uni, CAAV pour l'agricole) — modèle décentralisé, donc pas de grille tarifaire unique.
+
+Exemple observé (IRRV, Royaume-Uni) :
+
+- cotisation annuelle membre : **224 £** ;
+- cotisation annuelle non-membre : **352 £** ;
+- statut valide **5 ans**, renouvelable.
+
+Variantes existantes : REV généraliste, **REV-RESI** (résidentiel), **REV-PME** (plant, machinery & equipment), **REV-BV** (business valuer).
+
+Source :
+
+- https://tegova.org/recognised-european-valuer-rev/
+- https://www.irrv.net/homenew/item.php?ty=10&iid=22220&wid=5&did=135
+
+**Verdict :** le prix dépend entièrement de l'association nationale relais — vérifier celle compétente pour son pays avant de comparer un chiffre à un autre credential du dépôt.
+
+---
+
 # 9. TCO
 
 Les deux programmes illustrent parfaitement deux formes de credential :
@@ -249,12 +270,12 @@ multi-course curriculum
 
 # À poursuivre
 
-- exact CCIM France/Europe course delivery pricing ;
+- exact CCIM France/Europe course delivery pricing (TCO US officiel 8 286 \$ membre / 11 810 \$ non-membre déjà confirmé) ;
 - RICS APC preparation providers France ;
 - RICS Assessment retakes ;
 - RICS Valuer Registration ;
 - RICS Registered Valuer ;
-- TEGoVA REV / TRV ;
+- TEGoVA TRV (autre variante que REV) ;
 - IREM CPM ;
 - IFMA / property asset management crossover ;
 - ARGUS Enterprise certification ;
