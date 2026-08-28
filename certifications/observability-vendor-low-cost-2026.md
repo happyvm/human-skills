@@ -1,16 +1,17 @@
 # Observability vendor certifications — low-cost opportunities 2026
 
-> Revue : **28 août 2026**. Complément au catalogue observability/SRE existant, avec focus sur les vendors qui publient des credentials réellement peu coûteux.
+> Revue : **28 août 2026**. Complément au catalogue observability/SRE existant, avec focus sur les vendors qui publient des credentials réellement gratuits ou peu coûteux.
 
 ## Résumé
 
 | Vendor | Credential | Prix observé | Statut |
 |---|---|---:|---|
 | New Relic | Verified Foundation | **0 $** | ✅ gratuit |
+| Elastic | GenAI Associate Accreditation | **0 $** | ✅ gratuit |
 | Sumo Logic | Fundamentals certifications | **100 $** | ✅ sous 500 |
 | Sumo Logic | Advanced certifications | **150 $** | ✅ sous 500 |
 | Dynatrace | Associate Certification | **~200 $** | ⚠️ prix communautaire à revalider |
-| Grafana Labs | certification publique identifiable | non confirmée | 🔎 watchlist |
+| Grafana Labs | learning journeys | **0 $** | ⚠️ training hands-on, credential final non confirmé |
 
 ---
 
@@ -29,23 +30,95 @@ Le credential couvre les bases de :
 - NRQL et dashboards ;
 - alerting.
 
-Des événements New Relic University 2025/2026 continuent à préparer à la NVF et certains offrent ponctuellement des vouchers gratuits pour le niveau supérieur.
+Des événements New Relic University 2026 continuent à préparer aux certifications et certains offrent ponctuellement des vouchers gratuits pour les niveaux supérieurs.
 
 ### Verdict
 
-**À prendre.** C'est un credential vendor observability à 0 $, donc aucun arbitrage budgétaire à faire.
+**À prendre.** C'est un credential vendor observability à 0 $.
 
 Sources :
 
 - https://newrelic.com/resources/nr-digital-onboarding
-- https://newrelic.com/events/2025-07-29/foundation-certification-training-new-relic-for-students
 - https://newrelic.com/event/new-relic-university-workshop-series
+
+---
+
+# Elastic — nouvelle accreditation gratuite
+
+Elastic a changé son modèle d'apprentissage fin 2025 : le **on-demand training est désormais gratuit pour tous**, tandis que les certifications professionnelles Elastic Engineer/Analyst restent un programme premium séparé.
+
+Elastic lance en parallèle une nouvelle famille d'**Associate Accreditations** gratuites avec examens et badges numériques.
+
+## GenAI Associate Accreditation Exam
+
+Credential actuellement live :
+
+```text
+Prix          0 $
+Durée         1 heure
+Format        on-demand assessment
+Proctoring    non
+Prérequis     aucun
+Badge         digital badge
+```
+
+L'examen valide les connaissances et compétences Associate sur les implémentations Generative AI utilisant Elastic Search solutions.
+
+Public visé :
+
+- Search Engineers ;
+- AI Engineers ;
+- Developers ;
+- Software Engineers ;
+- Solution Architects.
+
+Elastic indique explicitement que les Associate Accreditations sont **free and open in nature**, avec d'autres accreditations prévues au-delà du premier GenAI Associate.
+
+### Sources
+
+- https://www.elastic.co/training/genai-associate-accreditation-exam
+- https://www.elastic.co/blog/free-on-demand-training
+- https://www.elastic.co/training
+
+### Valeur
+
+⭐⭐⭐⭐⭐ en 2026 pour search / RAG / GenAI / Elastic.
+
+À surveiller : Elastic annonce d'autres Associate Accreditations autour de ses nouveaux modules Search, Security, Observability et Platform. Ne les ajouter qu'une fois la page d'examen réellement live.
+
+---
+
+# Elastic training gratuit ≠ certification professionnelle gratuite
+
+Les modules self-paced Elastic sont désormais gratuits, par exemple :
+
+- RAG foundations ;
+- semantic search ;
+- ES|QL Security ;
+- Elastic Attack Discovery ;
+- Elastic AI Assistant ;
+- logs essentials ;
+- Elastic Agent Builder / MCP selon disponibilité.
+
+Mais les certifications professionnelles comme **Elastic Certified Engineer** restent basées sur l'achat d'une exam attempt ou l'accès via une Training Subscription.
+
+Donc :
+
+```text
+GenAI Associate Accreditation      0 $
+On-demand modules                  0 $
+Elastic Certified Engineer         payant
+```
+
+Source certification premium :
+
+- https://www.elastic.co/training/certification/faq
 
 ---
 
 # Sumo Logic
 
-Sumo Logic Academy a renforcé son programme de certifications avec examens proctorés via Kryterion.
+Sumo Logic Academy utilise des examens proctorés via Kryterion.
 
 Tarifs publics :
 
@@ -56,7 +129,6 @@ Advanced exam         150 $
 
 Caractéristiques :
 
-- minimum de six mois d'expérience produit recommandé ;
 - examens chronométrés et proctorés online ;
 - nouveau paiement requis à chaque retake ;
 - délai de 48 h avant retake ;
@@ -64,15 +136,10 @@ Caractéristiques :
 - certification valide **2 ans** ;
 - badge Credly après réussite.
 
-### Verdict
-
-À 100–150 $, Sumo Logic est un excellent moyen d'ajouter une certification observability/SIEM vendor sans entrer dans les budgets Splunk/Elastic les plus élevés.
-
 Sources :
 
 - https://www.sumologic.com/learn/training
 - https://www.sumologic.com/help/docs/get-started/training-certification-faq/
-- https://www.sumologic.com/blog/sumo-logic-academy
 
 ---
 
@@ -80,27 +147,43 @@ Sources :
 
 Dynatrace maintient un programme de certification comprenant au minimum un niveau **Associate**.
 
-Des échanges récents dans la communauté Dynatrace indiquent un coût d'environ **200 $ par tentative**, y compris pour les retakes.
+Des échanges récents dans la communauté Dynatrace indiquent un coût d'environ **200 $ par tentative**, mais aucun programme public de certification gratuite permanente n'a été confirmé pendant cette passe.
 
-Cependant, ce prix n'est pas suffisamment exposé dans une page tarifaire publique officielle pour être considéré aussi solide que les montants New Relic ou Sumo Logic.
+Dynatrace propose en revanche des environnements d'essai et playground gratuits pour apprendre la plateforme ; cela ne doit pas être transformé en certification gratuite.
 
 ### Verdict
 
-Conserver Dynatrace dans la catégorie **<500 probable**, mais **vérifier le checkout avant achat**.
-
-Source indicative :
-
-- https://community.dynatrace.com/t5/Start-with-Dynatrace/Dynatrace-Associate-Certification-exam-March26/td-p/296677
+Certification payante probable : vérifier le checkout avant achat.
 
 ---
 
 # Grafana Labs
 
-Grafana Labs propose énormément de formation et de contenu technique autour de Grafana, Loki, Tempo, Mimir et OpenTelemetry, mais cette passe de recherche n'a pas permis de confirmer un **programme public de certification professionnelle Grafana Labs avec examen tarifé** comparable à Sumo Logic, Splunk ou New Relic.
+Grafana Labs a énormément enrichi son Learning Hub en 2026 :
+
+- journeys ;
+- learning paths ;
+- Grafana Cloud Free ;
+- Grafana Play ;
+- Interactive Learning ;
+- exercices hands-on autour de metrics/logs/traces/infrastructure.
+
+Cependant, cette revue n'a toujours pas trouvé de **badge, certificat ou examen de certification final** officiellement délivré à la fin des journeys.
 
 ### Verdict
 
-Ne pas inventer de credential : **watchlist**. Si Grafana lance ou republie un examen officiel, il faudra l'ajouter immédiatement car le stack Grafana/Loki/Tempo/Mimir est très pertinent pour SRE/platform engineering.
+```text
+Training hands-on        gratuit
+Grafana Cloud Free       oui
+Certification/badge      non confirmé
+```
+
+Ne pas inventer de certification Grafana.
+
+Sources :
+
+- https://grafana.com/docs/learning-journeys/
+- https://grafana.com/docs/learning-paths/grafana-cloud-onboarding/
 
 ---
 
@@ -108,9 +191,10 @@ Ne pas inventer de credential : **watchlist**. Si Grafana lance ou republie un e
 
 ```text
 0 $      New Relic Verified Foundation
+0 $      Elastic GenAI Associate Accreditation
 100 $    Sumo Logic Fundamentals
 150 $    Sumo Logic Advanced
 ~200 $   Dynatrace Associate — à vérifier
 ```
 
-Le meilleur ajout immédiat de cette passe : **New Relic NVF gratuit + Sumo Logic 100/150 $**.
+Pour un parcours observability gratuit immédiat : **New Relic NVF + Elastic GenAI Associate Accreditation**.
