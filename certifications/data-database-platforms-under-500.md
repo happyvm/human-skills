@@ -1,0 +1,300 @@
+# Databases, streaming & data platforms — certifications sous 500 $
+
+> MongoDB, PostgreSQL/EDB, Snowflake, Databricks, Confluent, Redis et autres credentials data. Vérification : 28 août 2026.
+
+---
+
+# Vue rapide
+
+| Credential | Prix officiel | Remarque |
+|---|---:|---|
+| MongoDB Associate Developer | **150 $** | learning path éligible : -50 % depuis août 2026 |
+| MongoDB Associate DBA | **150 $** | aucun prérequis |
+| Confluent Kafka Administrator | **150 $** | proctored |
+| SnowPro Core | **175 $** | data cloud généraliste |
+| EDB PostgreSQL Associate exam | **200 $** | prérequis de cours indiqué |
+| EDB PostgreSQL Professional exam | **200 $** | Associate + Advanced course requis |
+| Databricks Data Engineer Associate | **200 $ + taxes** | validité 2 ans |
+| SnowPro Advanced | **375 $** | role-based |
+| Elastic Certified Analyst | **400 $** | performance-based |
+| Elastic SIEM Analyst | **400 $** | performance-based |
+| Elastic Engineer / Observability Engineer | **500 $** | performance-based |
+
+---
+
+# MongoDB
+
+## Associate Developer
+
+- prix : **150 $** ;
+- 53 questions ;
+- 75 minutes ;
+- online proctored ;
+- aucun prérequis.
+
+Source :
+
+- https://learn.mongodb.com/pages/mongodb-associate-developer-exam
+
+## Associate Database Administrator
+
+- prix : **150 $** ;
+- 75 questions ;
+- 90 minutes ;
+- online proctored ;
+- aucun prérequis.
+
+Source :
+
+- https://learn.mongodb.com/pages/mongodb-associate-database-administrator-exam
+
+## Réduction 2026 via learning paths
+
+MongoDB a annoncé le 18 août 2026 que plusieurs certification learning paths donnent désormais **50 % de réduction sur l'examen** lorsque le parcours complet est terminé.
+
+Tracks explicitement cités :
+
+- Associate Data Modeler ;
+- Database Administrator ;
+- Atlas Administrator.
+
+Source :
+
+- https://www.mongodb.com/company/blog/news/introducing-a-more-connected-flexible-path-to-certifications
+
+Cela crée potentiellement un coût de :
+
+```text
+MongoDB exam 150 $
+- 50 % path discount
+= 75 $
+```
+
+pour les tracks éligibles.
+
+**Valeur / prix : ⭐⭐⭐⭐⭐** si MongoDB est pertinent.
+
+---
+
+# Snowflake — SnowPro
+
+## SnowPro Core
+
+**175 $ par tentative**.
+
+Couvre notamment :
+
+- Snowflake architecture ;
+- compute / storage ;
+- data loading ;
+- performance ;
+- security ;
+- governance ;
+- data sharing ;
+- connectivity.
+
+Source :
+
+- https://learn.snowflake.com/en/certifications/snowpro-core-c03
+
+**Valeur : ⭐⭐⭐⭐.**
+
+## SnowPro Advanced
+
+La série Advanced est à **375 $ par tentative**.
+
+Exemples :
+
+- Advanced Administrator ;
+- Advanced Security Engineer ;
+- Advanced Data Engineer / Architect selon catalogue ;
+- autres role-based exams.
+
+Sources :
+
+- https://learn.snowflake.com/en/certifications/snowpro-advanced-administrator-c02/
+- https://learn.snowflake.com/en/certifications/snowpro-advanced-securityengineer
+
+**Valeur : ⭐⭐⭐⭐⭐** pour data/cloud spécialisés.
+
+---
+
+# Databricks
+
+## Certified Data Engineer Associate
+
+- prix : **200 $ + taxes** ;
+- 45 questions scorées ;
+- 90 minutes ;
+- online ou test center ;
+- aucun prérequis obligatoire ;
+- validité : **2 ans**.
+
+Le guide d'examen 2026 couvre notamment :
+
+- Databricks Data Intelligence Platform ;
+- Spark SQL / PySpark ;
+- ETL ;
+- Workflows ;
+- jobs / orchestration.
+
+Source :
+
+- https://www.databricks.com/sites/default/files/2026-03/databricks-certified-data-engineer-associate-exam-guide-may-4-2026.pdf
+
+**Valeur : ⭐⭐⭐⭐⭐** en data engineering moderne.
+
+Les autres certifications Databricks Associate / Professional doivent être consolidées individuellement mais une partie du catalogue utilise également un ticket d'entrée autour de **200 $**.
+
+---
+
+# Confluent / Apache Kafka
+
+## Confluent Certified Administrator for Apache Kafka
+
+- prix : **150 $** ;
+- 90 minutes ;
+- proctored ;
+- voucher valable 12 mois.
+
+Couvre configuration, déploiement, monitoring et support de Kafka.
+
+Source :
+
+- https://training.confluent.io/learn/courses/1032/confluent-certified-administrator-for-apache-kafka-r
+
+## Developer certification
+
+Confluent maintient également le track **Certified Developer for Apache Kafka**, centré sur développement, APIs et applications de streaming.
+
+Source programme :
+
+- https://www.confluent.io/certification/
+
+**Valeur / prix : ⭐⭐⭐⭐⭐** pour Kafka/streaming.
+
+---
+
+# PostgreSQL / EDB
+
+EDB propose encore des certifications PostgreSQL officielles de son écosystème.
+
+## PostgreSQL Associate Certification
+
+- exam : **200 $** ;
+- 1 heure ;
+- 70 % requis ;
+- badge numérique ;
+- page actuelle indique `Foundations of PostgreSQL` comme prérequis.
+
+Source :
+
+- https://www.enterprisedb.com/course/postgresql-10-associate-certification
+
+## PostgreSQL Professional Certification
+
+- exam : **200 $** ;
+- 1 heure ;
+- 80 % requis ;
+- prérequis affichés : Associate certification + Advanced PostgreSQL course.
+
+Source :
+
+- https://www.enterprisedb.com/course/postgresql-10-professional-certification
+
+### Attention TCO
+
+Le voucher seul est sous 500 $, mais les prérequis de formation peuvent faire monter le coût réel. Il faut donc distinguer :
+
+```text
+EXAM PRICE      200 $
+COURSE COST     variable
+PREREQUISITES   Associate / course selon niveau
+```
+
+---
+
+# Redis — relance du programme 2026
+
+L'ancienne Redis Developer Certification avait été retirée, mais Redis a relancé un programme de certification en 2026.
+
+Les conditions publiées en juillet 2026 listent désormais :
+
+- **Redis Associate Developer Certification** ;
+- **Redis Associate Software Operator Certification** ;
+- **Redis Associate Cloud Operator Certification**.
+
+Livraison via Kryterion / AI-proctored.
+
+Sources :
+
+- https://redis.io/legal/redis-certification-program-terms-and-conditions/
+- https://redis.io/blog/redis-developer-certification-is-here/
+
+**Statut prix : 🟡 à récupérer au checkout / lancement commercial définitif.**
+
+C'est une entrée importante parce que beaucoup de vieux dépôts GitHub indiquent encore que Redis certification est simplement « retirée ».
+
+---
+
+# Elastic — data/search proche de la frontière
+
+Elastic propose des examens **performance-based** :
+
+- Elastic Certified Analyst — **400 $** ;
+- Elastic Certified SIEM Analyst — **400 $** ;
+- Elastic Certified Engineer — **500 $** ;
+- Elastic Certified Observability Engineer — **500 $**.
+
+Source :
+
+- https://www.elastic.co/training/certification/faq
+
+Le retake nécessite un nouvel achat plein tarif et un délai d'attente.
+
+---
+
+# Oracle Database / MySQL
+
+Oracle conserve un vaste catalogue Database / MySQL / Java / Technology.
+
+Le modèle d'achat 2026 passe notamment par des **Oracle Technology Certification Exam Subscriptions** pour une tentative de certification.
+
+Source :
+
+- https://www.oracle.com/fr/education/training/buy/
+
+Le tarif France exact de chaque subscription / examen doit être relevé au checkout avant de figer les certifications Oracle Database dans une tranche budgétaire.
+
+---
+
+# Priorités valeur / prix
+
+1. **MongoDB exam après learning path éligible — potentiellement 75 $** ;
+2. **Confluent Kafka — 150 $** ;
+3. **MongoDB — 150 $ standard** ;
+4. **SnowPro Core — 175 $** ;
+5. **Databricks Data Engineer Associate — 200 $** ;
+6. **SnowPro Advanced — 375 $** ;
+7. Elastic selon besoin pratique.
+
+---
+
+# À poursuivre
+
+- Redis prix final des trois nouvelles certifications ;
+- Oracle Database OCP / MySQL prix régional France ;
+- Microsoft SQL Server / Azure SQL credentials ;
+- CockroachDB ;
+- Yugabyte ;
+- Cassandra / DataStax actuel ;
+- Neo4j avancé ;
+- ClickHouse ;
+- Grafana databases / observability ;
+- dbt avancé ;
+- Cloudera ;
+- Teradata ;
+- Informatica ;
+- Collibra ;
+- Alation ;
+- data governance certifications.
