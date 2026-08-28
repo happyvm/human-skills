@@ -34,6 +34,8 @@ verified: 2026-08-28
 
 # 1. ISACA — AAIA
 
+**Auto-formation officielle :** [isaca.org training](https://www.isaca.org/training-and-events) — self-paced payant ; 10 questions de practice gratuites.
+
 ## Advanced in AI Audit
 
 AAIA est un credential avancé destiné aux auditeurs / advisors déjà qualifiés.
@@ -84,6 +86,8 @@ Source :
 
 Le **RAI Certificate** est plus accessible côté prérequis : aucun work experience spécifique n'est obligatoire pour s'inscrire.
 
+**Auto-formation officielle :** [GARP Learning](https://www.garp.org/frm/study-materials) — curriculum complet complimentary pour Part I, practice exams officiels.
+
 ## Prix octobre 2026
 
 - détenteur FRM / SCR / ERP : **625 $** ;
@@ -124,6 +128,8 @@ Sources :
 ---
 
 # 4. IAPP — AIGP
+
+**Auto-formation officielle et gratuite :** [study guide AIGP gratuit](https://iapp.org/certify/free-study-guides) sur iapp.org, avant la formation payante (classroom, live virtuel ou self-paced).
 
 ## Artificial Intelligence Governance Professional
 

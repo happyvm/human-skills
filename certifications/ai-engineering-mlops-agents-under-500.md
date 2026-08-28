@@ -43,6 +43,8 @@ verified: 2026-08-28
 
 Microsoft a profondément renouvelé ses certifications IA autour de **Microsoft Foundry**, agents et MLOps.
 
+**Auto-formation officielle et gratuite :** [Microsoft Learn — Training](https://learn.microsoft.com/training/).
+
 Le prix France des examens role-based actuels est généralement **126 €**.
 
 ---
@@ -193,6 +195,8 @@ Source :
 
 NVIDIA a une gamme 2026 très intéressante et relativement bon marché.
 
+**Auto-formation officielle et gratuite :** [learn.nvidia.com](https://learn.nvidia.com/) — Deep Learning Institute, filtre « Free Courses » (600+ modules).
+
 ## Associate — 125 $
 
 ### NCA-GENL — Generative AI LLM
@@ -264,6 +268,8 @@ selon rôle application vs infrastructure.
 
 # Databricks Generative AI Engineer Associate
 
+**Auto-formation officielle et gratuite :** [Databricks Academy](https://www.databricks.com/learn/training/certification) — cours d'introduction gratuits.
+
 - registration fee : **200 $** ;
 - 45 scored questions ;
 - 90 min ;
@@ -291,6 +297,8 @@ Source guide officiel :
 
 # Google Professional Machine Learning Engineer
 
+**Auto-formation officielle et gratuite :** [Google Skills / Cloud Skills Boost](https://www.skills.google/).
+
 - **200 $ + taxes** ;
 - 2 h ;
 - aucun prérequis formel ;
@@ -313,6 +321,8 @@ Google a annoncé une version mise à jour de l'examen à partir du **1er octobr
 ---
 
 # AWS Machine Learning Engineer — Associate
+
+**Auto-formation officielle et gratuite :** [AWS Skill Builder](https://skillbuilder.aws/).
 
 - coût US : **150 $** ;
 - catégorie Associate ;
