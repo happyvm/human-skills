@@ -34,7 +34,7 @@ verified: 2026-08-28
 | SUSE Multi-Linux Manager Admin | **149 $** | 149 $ |
 | SUSE Edge Deployment Specialist | **149 $** | 149 $ |
 | CompTIA Linux+ XK0-006 | regional / official-store opaque in crawl | partner Europe ~349 € indicative |
-| Canonical Academy Ubuntu | shop exists | price to confirm in shop |
+| Canonical Academy — Using Linux Terminal | **100 $** | premier prix confirmé de la track SysAdmin |
 
 ---
 
@@ -386,7 +386,11 @@ Le track System Administrator est basé sur plusieurs examens Ubuntu.
 
 ### Statut prix
 
-`CHECKOUT-REQUIRED` — le prix public n'est pas encore suffisamment stable/exposé pour être figé dans ce fichier.
+Premier prix officiellement confirmé : **Using Linux Terminal — 100 $**. Les autres examens du track SysAdmin (*Using Ubuntu Desktop*, *Using Ubuntu Server*, *Managing Complex Systems*) restent en beta ou sans prix public stable — `CHECKOUT-REQUIRED` pour ceux-ci. Des versions Ubuntu 26.04 LTS des examens sont attendues en **septembre 2026**, en remplacement des éditions 2024.
+
+Source additionnelle :
+
+- https://ubuntu.com/credentials/syllabus
 
 **Auto-formation officielle :** [ubuntu.com/training](https://ubuntu.com/training) et [canonical.com/academy](https://canonical.com/academy) — modules self-paced (dont *Using Linux Terminal* en accès public) préparant aux examens du track SysAdmin.
 
@@ -428,12 +432,19 @@ Mais la difficulté et la preuve ne sont pas identiques :
 
 ---
 
+## Vérifié : AlmaLinux / Rocky Linux — pas de certification individuelle
+
+Recherche effectuée : **AlmaLinux** propose un programme de *certification hardware/software* (compatibilité matérielle et logicielle avec la distribution), géré par un Special Interest Group — **ce n'est pas une certification professionnelle individuelle** comparable à RHCSA/RHCE. **Rocky Linux** n'a aucun programme de certification identifié, individuelle ou matérielle. À ne pas confondre avec un credential de carrière.
+
+Source :
+
+- https://almalinux.org/certification/
+
 # À poursuivre
 
-- Canonical Academy exact pricing Ubuntu 26.04 ;
+- Canonical Academy — prix exact des examens Ubuntu 26.04 restant en beta (Desktop, Server, Managing Complex Systems) ;
 - CompTIA France official checkout price ;
-- Oracle Linux certification ;
-- AlmaLinux / Rocky Linux credentials ;
+- Oracle Linux certification — voir aussi `enterprise-linux-suse-canonical-2026.md` (statut 2026 déjà couvert) ;
 - FreeBSD Foundation certifications éventuelles ;
 - Linux security vendor-neutral ;
 - systemd / SELinux specific credentials ;
