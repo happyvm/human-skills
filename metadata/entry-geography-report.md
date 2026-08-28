@@ -1,6 +1,6 @@
 # Entry-level geography report
 
-> Generated after the refinement pass; entrepreneurship catalogue added 2026-08-28.
+> Generated after the refinement pass.
 
 | Catalogue | Tables | Rows | Bullets | UNV |
 |---|---:|---:|---:|---:|
@@ -13,6 +13,7 @@
 | `certifications/construction-btp-global-2026.md` | 1 | 1 | 276 | 0 |
 | `certifications/construction-btp-site-schemes-2026.md` | 0 | 0 | 39 | 0 |
 | `certifications/construction-btp-specialties-2026.md` | 0 | 0 | 44 | 0 |
+| `certifications/entrepreneur-essential-operations-2026.md` | 5 | 44 | 0 | 0 |
 | `certifications/entrepreneurship-startup-business-creation-2026.md` | 15 | 60 | 0 | 0 |
 | `certifications/facilities-energy-qhse.md` | 1 | 12 | 2 | 0 |
 | `certifications/food-safety-trade-logistics.md` | 1 | 11 | 1 | 0 |
@@ -29,9 +30,9 @@
 
 ## Totaux
 
-- catalogues `mixed` analysés : **22** ;
-- tableaux avec colonne `Portée` : **61** ;
-- lignes credential annotées : **396** ;
+- catalogues `mixed` analysés : **23** ;
+- tableaux avec colonne `Portée` : **66** ;
+- lignes credential annotées : **440** ;
 - bullets credential annotés : **389** ;
 - entrées restant `❓ UNV` : **0**.
 
@@ -39,11 +40,11 @@
 
 - `🇦🇺 AU` : **3**
 - `🇨🇦 CA` : **2**
-- `🇫🇷 FR` : **51**
+- `🇫🇷 FR` : **64**
 - `🇬🇧 UK` : **51**
 - `🇸🇬 SG` : **4**
 - `🇺🇸 US` : **124**
-- `🌍 INT` : **341**
+- `🌍 INT` : **372**
 - `🌍 INT · DE-origin` : **12**
 - `🌍 INT · UK-origin` : **84**
 - `🌍 INT · US std` : **57**
