@@ -4,7 +4,7 @@
 >
 > Revue : **28 août 2026**.
 
-Le dépôt global couvre aussi de nombreux domaines hors IT, mais cette page sert de **porte d'entrée IT-first**.
+Le dépôt global couvre aussi de nombreux domaines hors IT, mais cette page sert désormais de **porte d'entrée IT-first**.
 
 ---
 
@@ -98,10 +98,33 @@ Inclut également AD DS Applied Skill, AZ-104, SC-300, SC-500, DP-300 et renouve
 # 5. Linux / Red Hat / OpenShift
 
 - [`certifications/redhat-openshift-linux-tco.md`](certifications/redhat-openshift-linux-tco.md)
+- [`certifications/redhat-framework-europe-2026.md`](certifications/redhat-framework-europe-2026.md)
 
-Couvre RHCSA, RHCE, EX280 OpenShift, EX380, EX316 OpenShift Virtualization, EX430 ACS, EX267 OpenShift AI, EX288, Ceph/ODF et RHCA.
+Red Hat a **refondu son framework de certification le 11 mai 2026** avec une progression en cinq niveaux et des spécialisations structurées.
 
-Prix catalogue standard Red Hat observé : **500 $ par examen**, avec variation régionale possible.
+Le parcours OpenShift avancé s'appuie notamment sur :
+
+```text
+EX280  OpenShift Administrator
+EX380  Advanced OpenShift Administration
++ au moins 3 spécialisations parmi :
+EX229  ROSA
+EX282  OpenShift Networking
+EX316  OpenShift Virtualization
+EX336  Automating OpenShift VM Management
+EX370  OpenShift Data Foundation
+EX430  Advanced Cluster Security
+EX432  Advanced Cluster Management
+EX480  MultiCluster Management
+```
+
+### Prix Europe : correction importante
+
+Le tarif US autour de **500 $** ne doit pas être traduit automatiquement par « moins de 500 € ». Un voucher KIOSK EMEA est affiché à **530 € HT** chez un partenaire Red Hat, donc le coût TTC français dépasse nettement 500 €.
+
+Une première tentative échouée d'un Individual Exam peut toutefois donner droit à **un retake gratuit** dans la période d'éligibilité.
+
+Pour un classement strict France/Europe, les examens Red Hat sont donc à ranger plutôt dans la tranche **500–700 €** que dans le catalogue ≤500 €.
 
 ---
 
@@ -146,12 +169,13 @@ Opportunité ponctuelle : **Ping YOUniverse London — 14 septembre 2026** annon
 
 ---
 
-# 8. Networking, Wi-Fi, DDI & AI infrastructure
+# 8. Networking, Wi-Fi, DDI, open networking & AI infrastructure
 
 - [`certifications/networking-wireless-ai-infra.md`](certifications/networking-wireless-ai-infra.md)
 - [`certifications/network-datacenter-advanced-under-500.md`](certifications/network-datacenter-advanced-under-500.md)
+- [`certifications/open-networking-sonic-ai-fabrics-2026.md`](certifications/open-networking-sonic-ai-fabrics-2026.md)
 
-Couvre Juniper, CWNP, Nokia, MEF SD-WAN, Infoblox, Extreme, NVIDIA AI Networking, Arista et Huawei.
+Couvre Juniper, CWNP, Nokia, MEF SD-WAN, Infoblox, Extreme, NVIDIA AI Networking, Arista, SONiC/open networking et Huawei.
 
 ```text
 Infoblox Associate / Operator          29 $
@@ -168,6 +192,12 @@ NVIDIA NCP-AIO                          500 $
 ```
 
 **NCP InfiniBand est retirée** : NVIDIA oriente désormais vers NCP-AIN Professional AI Networking.
+
+### SONiC
+
+Aucune certification professionnelle officielle SONiC clairement proposée par la SONiC Foundation/Linux Foundation n'a été identifiée lors de cette revue. On conserve donc SONiC comme compétence pratique/watchlist plutôt que d'inventer un credential.
+
+Pour les AI fabrics, **NVIDIA NCP-AIN à 400 $** est actuellement le proxy certifiant le plus pertinent : Spectrum-X, RoCE, BGP/EVPN, InfiniBand, Cumulus, NetQ, ConnectX/SuperNIC, BlueField/DPU, DOCA et Kubernetes networking.
 
 ---
 
@@ -334,29 +364,35 @@ Le Practitioner et les credentials moins coûteux sont également référencés 
 400 $    OpenStack COA
 400 $    NVIDIA NCP-AIN / AII / ARI
 445 $    CKA / CKS / LFCS / CNPE
-500 $    Red Hat performance exam
+```
+
+### Juste au-dessus du plafond européen
+
+```text
+~530 € HT  Red Hat Individual/KIOSK exam — exemple EMEA observé
+            + 1 retake gratuit après un premier échec selon politique
 ```
 
 ---
 
 # Recherche IT active
 
-Les grosses watchlists **OpenStack/OpenNebula/CloudStack**, **CyberArk/SailPoint/Ping/BeyondTrust**, **New Relic/Sumo/Dynatrace**, **Infoblox/Extreme/NVIDIA** et **IBM AIX/QRadar/Guardium** ont maintenant une première fiche dédiée.
+Les grosses watchlists **OpenStack/OpenNebula/CloudStack**, **CyberArk/SailPoint/Ping/BeyondTrust**, **New Relic/Sumo/Dynatrace**, **Infoblox/Extreme/NVIDIA**, **SONiC/AI fabrics**, **Red Hat/OpenShift avancé** et **IBM AIX/QRadar/Guardium** ont maintenant une première fiche dédiée.
 
 Priorités restantes :
 
-1. **OpenShift / Red Hat avancé** — prix France/EMEA, RHCA exact, ODF/ACM/ROSA ;
-2. **Azure Local / HCI / Windows Server 2025** — credential technique réellement vérifiable au-delà du learning achievement ;
-3. **CyberArk** — prix checkout 2026 par examen et prérequis de formation exacts ;
-4. **BeyondTrust** — TCO certification par produit et modalités Success Elevated ;
-5. **Grafana Labs** — confirmer l'existence ou l'absence d'un examen professionnel officiel ;
-6. **Arista** — prix standalone des examens Academy Certification ;
-7. **SONiC / DPU / Spectrum-X / Ethernet AI fabrics** ;
-8. **RACF / CICS / IMS** — vérifier si de nouveaux credentials IBM live apparaissent ;
-9. **Rubrik** — prix final examen et éventuels vouchers ;
-10. **Veeam VMCE+/VMCSE France** — TCO exact ;
-11. **mainframe advanced / enterprise middleware** hors IBM ;
-12. **AI infrastructure / GPU clusters / MLOps** ;
-13. **SRE / platform engineering** — poursuivre les vendors émergents ;
-14. **open-source storage / Ceph** — certification standalone hors Red Hat ;
-15. **network automation** — Arista, Cisco DevNet, Juniper automation, Nokia automation.
+1. **Azure Local / HCI / Windows Server 2025** — credential technique réellement vérifiable au-delà du learning achievement ;
+2. **CyberArk** — prix checkout 2026 par examen et prérequis de formation exacts ;
+3. **BeyondTrust** — TCO certification par produit et modalités Success Elevated ;
+4. **Grafana Labs** — surveiller l'apparition éventuelle d'un examen professionnel officiel ;
+5. **Arista** — prix standalone des examens Academy Certification ;
+6. **Red Hat** — confirmer prix France checkout/TTC exacts par examen et bundles utiles ;
+7. **RACF / CICS / IMS** — vérifier si de nouveaux credentials IBM live apparaissent ;
+8. **Rubrik** — prix final examen et éventuels vouchers ;
+9. **Veeam VMCE+/VMCSE France** — TCO exact ;
+10. **mainframe advanced / enterprise middleware** hors IBM ;
+11. **AI infrastructure / GPU clusters / MLOps** — approfondir vendors et hardware stacks ;
+12. **SRE / platform engineering** — poursuivre les vendors émergents ;
+13. **open-source storage / Ceph** — certification standalone hors Red Hat ;
+14. **network automation** — Arista, Cisco DevNet, Juniper automation, Nokia automation ;
+15. **Ultra Ethernet / OCP networking / DPU-SuperNIC** — surveiller l'arrivée de credentials officiels.
