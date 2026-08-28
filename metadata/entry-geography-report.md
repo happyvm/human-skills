@@ -16,6 +16,7 @@
 | `certifications/entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md` | 3 | 29 | 0 | 0 |
 | `certifications/entrepreneur-essential-operations-2026.md` | 5 | 44 | 0 | 0 |
 | `certifications/entrepreneur-eta-family-ess-export-regulated-2026.md` | 2 | 19 | 0 | 0 |
+| `certifications/entrepreneur-france-practical-resources-2026.md` | 1 | 18 | 0 | 0 |
 | `certifications/entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md` | 1 | 11 | 0 | 0 |
 | `certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md` | 4 | 21 | 0 | 0 |
 | `certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md` | 1 | 12 | 0 | 0 |
@@ -38,9 +39,9 @@
 
 ## Totaux
 
-- catalogues `mixed` analysés : **31** ;
-- tableaux avec colonne `Portée` : **85** ;
-- lignes credential annotées : **612** ;
+- catalogues `mixed` analysés : **32** ;
+- tableaux avec colonne `Portée` : **86** ;
+- lignes credential annotées : **630** ;
 - bullets credential annotés : **389** ;
 - entrées restant `❓ UNV` : **0**.
 
@@ -48,8 +49,9 @@
 
 - `🇦🇺 AU` : **3**
 - `🇨🇦 CA` : **3**
+- `🇪🇺 EUR` : **2**
 - `🇪🇺 EUR / 🌍 INT` : **5**
-- `🇫🇷 FR` : **91**
+- `🇫🇷 FR` : **107**
 - `🇫🇷 FR / 🇪🇺 EUR` : **3**
 - `🇫🇷 FR / 🌍 INT` : **1**
 - `🇬🇧 UK` : **51**
