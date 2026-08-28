@@ -41,6 +41,8 @@ verified: 2026-08-28
 
 F5 a refondu sa certification BIG-IP Administrator.
 
+**Auto-formation officielle :** [F5 Education Services Portal](https://education.f5.com/) et [f5.com/learn](https://www.f5.com/learn) — filtre « Free Training » disponible, complété par [DevCentral](https://community.f5.com/) (articles, iRules, webinars).
+
 ## BIG-IP Certified Administrator
 
 Le titre nécessite désormais **5 examens** :
@@ -144,6 +146,8 @@ Source officielle du voucher store Pearson VUE :
 
 - https://paloaltostore.pearsonvue.com/
 
+**Auto-formation officielle et gratuite :** [Beacon](https://beacon.paloaltonetworks.com/) — plateforme Palo Alto Networks combinant cours digitaux gratuits et premium par niveau de certification.
+
 ---
 
 ## Foundational — 150 $
@@ -232,6 +236,8 @@ Source programme :
 
 - https://www.fortinet.com/fr/training-certification
 
+**Auto-formation officielle et gratuite :** [training.fortinet.com](https://training.fortinet.com/) — Fortinet NSE Training Institute, plus de 30 cours self-paced gratuits couvrant le curriculum officiel NSE (crédits CPE ISC2 éligibles).
+
 ## FCF / FCA
 
 Les niveaux d'entrée utilisent les formations/évaluations Fortinet Training Institute et sont traités dans le catalogue gratuit lorsqu'ils sont accessibles sans frais.
@@ -295,6 +301,8 @@ Donc le lab NSE 8 est naturellement hors tranche `<500`.
 
 # Check Point
 
+**Auto-formation officielle et gratuite :** [checkpoint.com/elearning](https://www.checkpoint.com/elearning/) — curriculum self-paced gratuit, complété par la communauté [CheckMates](https://community.checkpoint.com/t5/Training-and-Certification/bd-p/training-and-certification).
+
 Pearson VUE publie directement la grille officielle :
 
 | Exam | Prix |
@@ -350,6 +358,8 @@ Toujours vérifier le code de version avant achat.
 ---
 
 # Zscaler
+
+**Auto-formation officielle :** [Zscaler Cyber Academy](https://www.zscaler.com/zscaler-cyber-academy) — cours foundation, platform et specialization avec labs.
 
 ## Zero Trust Cyber Associate — ZTCA
 

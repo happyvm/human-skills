@@ -73,6 +73,8 @@ Sources :
 - https://launchpad.education.infoblox.com/student/page/1767039-edu-achievements
 - https://www.infoblox.com/infoblox-education/industry-learning/
 
+**Auto-formation officielle :** [Infoblox Education / Launchpad](https://www.infoblox.com/infoblox-education/) — accès gratuit inclus avec les produits Infoblox, Industry Learning accessible sans être client.
+
 ---
 
 # Extreme Networks
@@ -100,6 +102,8 @@ Sources :
 - https://community.extremenetworks.com/t5/extremeswitching-vsp-fabric/exam-fees/m-p/122113
 - https://trainingcalendar.extremenetworks.com/events/category/region-emea/2026-06/
 - https://trainingcalendar.extremenetworks.com/event/extreme-certified-professional-in-extreme-switching-130/
+
+**Auto-formation officielle et gratuite :** [Extreme Networks Welcome Series](https://www.extremenetworks.com/support/training/welcome-series-training) (vidéos gratuites) et [Academy Live](https://academy.extremenetworks.com/) (streaming gratuit).
 
 ---
 
@@ -140,11 +144,15 @@ Sources :
 - https://www.nvidia.com/en-us/learn/certification/infiniband-professional/
 - https://www.nvidia.com/en-us/learn/learning-paths/ai-networking/
 
+**Auto-formation officielle et gratuite :** [learn.nvidia.com](https://learn.nvidia.com/) — Deep Learning Institute, filtre « Free Courses ».
+
 ---
 
 # Arista — prix exacts 2026
 
 Arista Academy utilise désormais un programme role-based et performance-based avec practical lab exams.
+
+**Auto-formation officielle :** [training.arista.com](https://www.training.arista.com/) — Academy Digital, 1000+ heures de contenu self-paced avec labs par learning pathway (Network Foundations, Data Center, Campus, Automation).
 
 Point essentiel : **aucune formation n'est obligatoire pour tenter un examen**. Les Academy Digital tracks constituent des parcours de préparation, pas des prerequisites.
 
