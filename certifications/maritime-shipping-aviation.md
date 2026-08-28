@@ -176,6 +176,18 @@ Source :
 
 - https://www.iata.org/en/training/courses/aviation-law/lrc009veen01/en/
 
+## Air Cargo Diploma (self-study)
+
+- 4 cours à valider sur 3 ans, ~160–200 h de travail ;
+- 12 mois pour terminer un cours + examen depuis l'achat ;
+- prix non affiché publiquement (`CHECKOUT-REQUIRED`) ;
+- un cours classroom comparable (*Cargo Skills and Procedures*) a été observé à **3 345 $** pour une session 2026 — indicatif seulement, pas le tarif self-study officiel.
+- possibilité d'achat groupé du diploma complet avec réduction, au lieu d'acheter chaque cours séparément.
+
+Source :
+
+- https://www.iata.org/en/training/courses/diploma_programs/air-cargo-diploma-self-study/dipl-44/
+
 Il faut donc cartographier IATA par :
 
 ```text
@@ -216,7 +228,7 @@ Les coûts vont d'environ **170 $** pour certains e-learning cargo à plus de **
 
 ## Aviation
 
-- IATA diplomas complets ;
+- IATA diplomas complets — prix officiel toujours opaque, voir Air Cargo Diploma ci-dessus pour l'ordre de grandeur ;
 - ICAO training / TRAINAIR PLUS ;
 - airport management credentials ;
 - ACI Airport Management Professional Accreditation Programme ;
