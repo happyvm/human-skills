@@ -34,7 +34,9 @@ verified: 2026-08-28
 | Prosci Change Management Certification — online Europe | **3 386 € HT / hors taxes applicables** | Change Management |
 | Prosci Change Management Certification — présentiel Europe | **3 810 € HT / hors taxes applicables** | Change Management |
 | SABSA Foundation — exemple AEP Europe | **3 200 € HT** | Enterprise Security Architecture |
+| SABSA Practitioner (module Advanced A1) — exemple AEP APAC | **4 850 AU$ virtuel / 5 450 AU$ présentiel + GST** | Enterprise Security Architecture |
 | Prosci PCACP | **545 € exam Europe**, mais prérequis très coûteux | Advanced Change Management |
+| APMG Change Management Practitioner | **448 £ TTC** 🟡 | Change Management |
 
 ---
 
@@ -99,6 +101,29 @@ Sources :
 
 ---
 
+## APMG Change Management (PCM) — alternative à Prosci
+
+**QUAL — 🌍 INT · UK-origin**
+
+Contrairement à Prosci (produit intégré formation+outillage), l'accréditation **APMG Change Management** suit le modèle classique Foundation → Practitioner avec des examens achetables séparément via l'**APMG Store**, un peu comme PRINCE2/MSP.
+
+```text
+Practitioner exam    448 £ TTC (voucher -25 % → 336 £)
+Foundation exam       prix non confirmé lors de cette revue
+```
+
+Un exam bundle inclut généralement l'ouvrage *Effective Change Manager's Handbook*.
+
+Source :
+
+- https://store.apmg-international.com/certification/change-management
+
+**Statut prix : 🟡 partiellement confirmé.** Page boutique officielle bloquée lors de cette revue (403) ; le prix Practitioner est corroboré par plusieurs pages APMG (bundle produit, code promo) mais pas vérifié en accès direct — **à revérifier au checkout**.
+
+**Pertinence :** alternative plus légère que Prosci pour un profil qui veut une accréditation change management reconnue sans s'engager dans le parcours complet Prosci (Practitioner + 4 Model Mastery Programs + PCACP).
+
+---
+
 # 2. SABSA — Enterprise Security Architecture
 
 SABSA Chartered Security Architect Foundation est particulièrement intéressant pour une trajectoire architecture + sécurité.
@@ -141,6 +166,40 @@ Une adhésion SABSA Institute est proposée à **£50/an**, mais elle doit être
 Source :
 
 - https://sabsa.org/membership-benefits/
+
+## SABSA Practitioner (SCP) — modules Advanced
+
+Comme pour Foundation, il n'existe pas de voie self-study + exam isolé : le Practitioner (**SABSA Chartered Architect — Practitioner, SCPR**) s'obtient en réussissant **un seul module Advanced au choix parmi A1 à A5** (Risk Assurance & Governance, Architectural Design, etc.), chacun vendu comme un bloc formation + examen par un AEP.
+
+```text
+SABSA Foundation (prérequis obligatoire)
+             ↓
+1 module Advanced (A1–A5)
+             ↓
+SABSA Chartered Architect — Practitioner (SCPR)
+```
+
+Exemples de prix observés (2026) :
+
+```text
+David Lynas Consulting — A1, 5 jours    prix variable selon devise/région du site
+ALC Training — A1 virtuel               4 850 AU$ + GST
+ALC Training — A1 présentiel            5 450 AU$ + GST
+```
+
+Les deux formats incluent l'examen (QCM/ouvert selon partenaire) et le badge Credly ; ALC précise un examen **open-book, project-based**, avec choix de 2 questions sur 5 et un délai de rendu de 4 semaines.
+
+Sources :
+
+- https://davidlynas.com/sabsa-training/sabsa-a1-risk-assurance-governance/
+- https://alctraining.com.au/course/sabsa-advanced-risk-assurance-governance/
+- https://sabsa.org/certification/
+
+**Statut prix : 🟡 exemples de partenaires AEP, pas de tarif catalogue unique publié par le SABSA Institute.** Comme pour Foundation, le prix dépend du partenaire, de la devise et de la région — à revérifier au moment de l'inscription.
+
+**TCO combiné Foundation + Practitioner (un seul module Advanced), ordre de grandeur** : env. **3 200 € + 3 000–3 500 €** selon partenaire/devise, soit environ **6 000–7 000 €** avant taxes — donc un palier nettement au-dessus de TOGAF ou CISSP pour un profil équivalent.
+
+Master (SCM) nécessite les cinq modules Advanced A1–A5 et reste hors du périmètre TCO documenté ici : voir `research/over-500-watchlist.md`.
 
 **Valeur CV : ⭐⭐⭐⭐⭐** pour Enterprise Security Architect / Security Architecture.
 
@@ -251,7 +310,7 @@ Ainsi, PHR reste sous la barre de 500 $ tandis que les certifications senior/glo
 
 Pour GPHR, le credential est valide trois ans et exige 60 crédits de recertification, dont 15 Global.
 
-La documentation HRCI de recertification consultée affiche une **recertification application fee de 169 $**.
+La documentation HRCI de recertification consultée affiche une **recertification application fee de 169 $** pour le premier credential, **50 $** par credential HRCI additionnel recertifié en même temps, et **100 $** de frais supplémentaires en cas de statut suspendu (fenêtre de rattrapage : 12 mois après la fin du cycle).
 
 Sources :
 
@@ -432,18 +491,17 @@ Source de consolidation 2026 :
 
 # À fouiller ensuite
 
-- IPMA Level C / B / A en France et Europe ;
-- APMG Change Management ;
-- ACMP CCMP ;
+- IPMA Level C / B / A en France — déjà chiffré dans `audit-finance-project-over-500.md` (SMaP) ;
+- APMG Change Management Foundation (recherché 2026-08-29, sans résultat : Practitioner documenté ci-dessus, Foundation non trouvé) ;
+- ACMP CCMP (recherché 2026-08-29, sans résultat : pages officielles acmpglobal.org bloquées/403) ;
 - MSP / MoP / P3O avancés ;
 - SAFe Practice Consultant et Lean Portfolio Management avec coût de formation ;
 - FinOps Certified Professional TCO exact ;
-- ISM CPSM checkout France ;
-- CSCMP SCPro ;
-- CIPS procurement qualifications ;
+- ISM CPSM — déjà chiffré dans `entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md` ;
+- CSCMP SCPro — déjà chiffré dans `supply-chain-procurement-over-500.md` ;
+- CIPS procurement qualifications (recherché 2026-08-29, sans résultat : qualification multi-centres type ILM, pas de tarif catalogue unique — observé £1 500–3 500 selon centre) ;
 - HRCI et SHRM renouvellement complet ;
 - Prosci PCACP full-path chiffré module par module ;
-- SABSA Practitioner / Master ;
-- BCS Business Analysis ;
+- SABSA Master (SCM, 5 modules Advanced) — TCO complet ;
 - DAMA maintenance / renouvellement ;
 - Board / governance credentials (IoD, NACD et équivalents européens).

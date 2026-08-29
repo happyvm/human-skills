@@ -165,6 +165,29 @@ Source :
 
 ---
 
+## 5bis. DRI CBCV — Certified Business Continuity Vendor
+
+Même famille « Certified Professional Qualifying » que ABCP/CBCP/CFCP ci-dessus, donc même **Qualifying Exam à 500 $** :
+
+- **2 ans d'expérience**, aucune subject area couverte requise (contrairement à CBCP) ;
+- application **400 $** ;
+- renewal **225 $/an**.
+
+```text
+DRI Qualifying Exam    500 $
+CBCV application       400 $
+----------------------------
+Initial                900 $
+```
+
+puis 225 $/an de renewal — même TCO initial que CBCP, mais un profil d'expérience différent (orienté vendor/tierce partie plutôt que généraliste BC).
+
+Source :
+
+- https://drii.org/public/docs/Certification_FLY_0525.pdf
+
+---
+
 # 6. DRI course bundle
 
 Le cours principal **Business Continuity — BCLE 2000** est affiché à :
@@ -211,6 +234,38 @@ Source :
 
 ---
 
+# 7bis. DRI MBCP et CRMP — ce qui est confirmé et ce qui ne l'est pas
+
+## MBCP — Master Business Continuity Professional
+
+Niveau « Master Certified Professional », processus différent des credentials ci-dessus : au lieu du Qualifying Exam standard, DRI exige une **Masters Case Study**.
+
+Confirmé (grille officielle DRI) :
+
+- application **500 $** ;
+- renewal **300 $/an** ;
+- **5 ans d'expérience**, 7 subject areas dont 4 core.
+
+**Non confirmé :** le coût spécifique de la Masters Case Study n'apparaît pas dans la grille de frais publiée — ne pas l'assimiler au Qualifying Exam à 500 $ des credentials Qualifying ci-dessus, le processus étant explicitement différent.
+
+## CRMP — Certified Risk Management Professional
+
+Famille distincte (« Certified Risk »), avec son propre Qualifying Exam de risk management plutôt que le BC Qualifying Exam.
+
+Confirmé :
+
+- application **400 $** ;
+- renewal **225 $/an** ;
+- **2 ans d'expérience**, 4 subject areas dont 2 core.
+
+**Non confirmé :** le prix exact de l'examen Risk Management — rien n'indique qu'il partage le tarif de 500 $ du BC Qualifying Exam ou celui de 750 $ du Cyber Resilience exam.
+
+Source (grille commune) :
+
+- https://drii.org/public/docs/Certification_FLY_0525.pdf
+
+---
+
 # Comparatif rapide
 
 | Credential / parcours | Coût initial indicatif |
@@ -219,6 +274,9 @@ Source :
 | DRI ABCP minimal | **700 $** + 200 $/an |
 | DRI CBCP minimal | **900 $** + 225 $/an |
 | DRI CFCP minimal | **900 $** + 225 $/an |
+| DRI CBCV minimal | **900 $** + 225 $/an |
+| DRI MBCP application seule | **500 $** + 300 $/an (Masters Case Study en sus, coût non publié) |
+| DRI CRMP application seule | **400 $** + 225 $/an (exam risk management, prix non publié) |
 | BCI CBCI Self-Study Bundle | **1 280 £** |
 | DRI BCLE 2000 course + exam | **2 850 $** |
 | DRI BCLE 2000 → CBCP | **~3 250 $** + renewal |
@@ -245,7 +303,7 @@ Bonne porte d'entrée lorsque l'expérience CBCP n'est pas encore disponible.
 
 - BCI membership post-CBCI et long-term TCO ;
 - MBCI / FBCI progression ;
-- DRI MBCP / CBCV / CRMP ;
+- DRI MBCP — coût de la Masters Case Study (recherché 2026-08-29, sans résultat : non publié dans la grille officielle) ; DRI CRMP — prix exact de l'examen risk management (recherché 2026-08-29, sans résultat) — CBCV désormais documenté ci-dessus ;
 - ISO 22301 Lead Implementer / Auditor — déjà partiellement couvert dans ISO/GRC ;
 - Disaster Recovery Institute audit credentials ;
 - crisis management ;

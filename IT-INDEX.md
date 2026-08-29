@@ -404,8 +404,9 @@ Couvre HTB, TCM, TryHackMe, Security Blue Team, Altered Security, Zero-Point, CR
 - [`certifications/paid-over-500.md`](certifications/paid-over-500.md)
 - [`certifications/iso-grc-europe-over-500.md`](certifications/iso-grc-europe-over-500.md)
 - [`certifications/ai-governance-risk-safety.md`](certifications/ai-governance-risk-safety.md)
+- [`certifications/bcs-chartered-institute-it-2026.md`](certifications/bcs-chartered-institute-it-2026.md)
 
-TOGAF, CISSP/CCSP, ISACA, IAPP, ISO 27001/42001, SABSA, AI governance.
+TOGAF, CISSP/CCSP, ISACA, IAPP, ISO 27001/42001, SABSA, AI governance, BCS (architecture, sécurité info, data protection, business analysis, ISTQB).
 
 ---
 
@@ -442,9 +443,10 @@ SUSE Edge Deployment Specialist : **149 $**, cours non obligatoire.
 # 24. Datacenter / facilities
 
 - [`certifications/datacenter-facilities-over-500.md`](certifications/datacenter-facilities-over-500.md)
+- [`certifications/datacenter-france-titre-professionnel-2026.md`](certifications/datacenter-france-titre-professionnel-2026.md)
 - [`certifications/facilities-energy-qhse.md`](certifications/facilities-energy-qhse.md)
 
-Uptime Institute, BICSI, Schneider Electric, energy/facilities/QHSE.
+Uptime Institute, BICSI, Schneider Electric, EPI/EXIN, titre professionnel France (AFPA × Equinix), energy/facilities/QHSE.
 
 ---
 

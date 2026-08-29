@@ -24,6 +24,26 @@ verified: 2026-08-28
 
 # A — Certifications réellement gratuites et accessibles en 2026
 
+## LFC131 — Green Software for Practitioners (Linux Foundation × Green Software Foundation)
+
+Cours de référence **green IT / green software** développé par la Linux Foundation en partenariat avec la **Green Software Foundation**, curriculum vendor-neutral.
+
+- **2 heures**, en ligne, self-paced ;
+- examen final intégré au cours, **open-book, non surveillé** (~85 % de passage) ;
+- **badge numérique** délivré à la réussite, attestant des fondamentaux green software (carbon awareness, hardware efficiency, energy efficiency, carbon-aware computing) ;
+- **100 % gratuit**, aucun coût caché identifié.
+
+**Coût : 0 $.**
+
+**Valeur : ⭐⭐⭐⭐⭐** — c'est actuellement le point d'entrée gratuit le plus reconnu du secteur pour le green IT/green software, utile pour tout profil dev/ops/architecture qui veut un premier signal sustainability sans budget.
+
+Sources :
+
+- https://trainingportal.linuxfoundation.org/learn/course/green-software-for-practitioners-lfc131
+- https://training.linuxfoundation.org/blog/new-course-brings-environmental-consciousness-to-software-development/
+
+---
+
 ## Commvault Readiverse
 
 Commvault reste l'une des meilleures opportunités gratuites pour les profils infrastructure / backup : plusieurs curricula standalone comprennent **examen + supports** sans obligation d'acheter l'ILT correspondant.
@@ -822,6 +842,27 @@ Source : https://campus.barracuda.com/
 Palo Alto Networks a historiquement publié plusieurs micro-credentials gratuits via Beacon/FLEXLearn avec assessments et badges. Les certifications professionnelles actuelles sont payantes.
 
 **Statut 2026 : 🟡 vérifier le credential individuel dans Beacon avant inscription**, car certaines pages publiques décrivant la gratuité sont anciennes.
+
+## ANSSI SecNumacadémie (France) — MOOC gratuit officiel, en cours de refonte
+
+**🇫🇷 FR — attestation / certificat de formation, pas une certification proctorée**
+
+Le MOOC cybersécurité gratuit de l'**ANSSI** (Agence nationale de la sécurité des systèmes d'information), historiquement une référence en France pour la sensibilisation/formation cybersécurité gratuite et officielle.
+
+**Statut à la date de cette revue (29 août 2026) : plateforme fermée pour refonte** depuis le 28 février 2026, relance annoncée « avant l'été 2026 » (donc potentiellement déjà relancée ou imminente selon la date de lecture — à vérifier).
+
+Structure annoncée pour la nouvelle version :
+
+- **3 niveaux** : novice, professionnels/étudiants, spécialistes cybersécurité avancés ;
+- **une attestation de réussite par parcours finalisé** — pas un examen surveillé, donc à classer comme attestation de formation plutôt que certification professionnelle au sens du reste du dépôt ;
+- gratuit, aucun frais mentionné.
+
+Source :
+
+- https://secnumacademie.gouv.fr/
+- https://cyber.gouv.fr/actualites/le-mooc-secnumacademie-fait-peau-neuve/
+
+**Statut : 🟡 à revérifier à la réouverture** — le contenu ci-dessus décrit l'annonce de refonte, pas encore une plateforme opérationnelle vérifiée lors de cette revue.
 
 ---
 

@@ -190,13 +190,7 @@ Source :
 
 - https://www.ibm.com/training/certification/ibm-certified-db2-v121-database-administrator-professional-C9009700
 
-## Db2 13 for z/OS DBA — Professional
-
-- prix : **200 $**.
-
-Source :
-
-- https://www.ibm.com/training/certification/ibm-certified-db2-13-for-zos-database-administrator-professional-C9006700
+Db2 13 for z/OS DBA (Associate/Professional, 200 $ chacune) est détaillé dans la fiche canonique mainframe : [`mainframe-enterprise-software.md`](mainframe-enterprise-software.md).
 
 ---
 

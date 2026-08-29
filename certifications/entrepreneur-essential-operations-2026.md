@@ -173,7 +173,7 @@ capitaliser
 ```
 
 - France : **CCI RS7385** ;
-- international portable : **Scrum.org PSM I** est détaillé une seule fois dans [`entrepreneur-international-functional-credentials-2026.md`](entrepreneur-international-functional-credentials-2026.md).
+- international portable : **Scrum.org PSM I** est détaillé une seule fois dans [`entrepreneur-international-functional-credentials-2026.md`](entrepreneur-international-functional-credentials-2026.md). — 🌍 INT
 
 ---
 

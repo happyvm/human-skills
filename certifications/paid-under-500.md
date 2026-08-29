@@ -639,7 +639,7 @@ Tarifs « à partir de » observés :
 | Practical Tester by A4Q | **à partir de 130 €** | 🌍 INT |
 | ISTQB Advanced Test Analyst | **à partir de 135 €** | 🌍 INT |
 
-Prix variables selon pays et taxes.
+Prix variables selon pays et taxes — ces montants sont ceux du board **iSQI**. ISTQB est un schéma international avec des boards nationaux distincts : le board **BCS (UK)** pratique des tarifs fixes différents (Foundation Level 165 £, Advanced Level 215 £, extensions incluses) — voir [`certifications/bcs-chartered-institute-it-2026.md`](bcs-chartered-institute-it-2026.md#8-software-testing--istqb) pour le détail et l'analyse de cette variabilité par board.
 
 Source : https://isqi.org/
 

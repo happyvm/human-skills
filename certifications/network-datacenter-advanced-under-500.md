@@ -151,49 +151,11 @@ Sources :
 
 ---
 
-# Arista — prix exacts 2026
+# Arista
 
-Arista Academy utilise désormais un programme role-based et performance-based avec practical lab exams.
-
-**Auto-formation officielle :** [training.arista.com](https://www.training.arista.com/) — Academy Digital, 1000+ heures de contenu self-paced avec labs par learning pathway (Network Foundations, Data Center, Campus, Automation).
-
-Point essentiel : **aucune formation n'est obligatoire pour tenter un examen**. Les Academy Digital tracks constituent des parcours de préparation, pas des prerequisites.
-
-## Prix examens standalone
-
-Le document officiel Academy Overview 2026 publie :
-
-```text
-Associate / Foundation practical      295 $
-Specialist practical                  295 $
-Professional practical                395 $
-Expert practical                    1 995 $
-Expert recertification                 TBD
-```
-
-Les trois premiers niveaux entrent donc dans notre seuil de 500 $.
-
-## Formation optionnelle
-
-```text
-Network Foundations Track          495 $
-Data Center Track                1 995 $
-Campus Track                     1 995 $
-Routing / Automation Track       1 995 $
-All-Access Pass                  4 995 $ / an
-```
-
-Le All-Access Pass inclut un voucher gratuit pour un Associate ou Specialist exam, mais pour un candidat expérimenté le standalone exam est nettement plus économique.
-
-Voir la fiche détaillée :
+Arista Academy (Associate/Specialist 295 $, Professional 395 $, Expert 1 995 $, practical lab exams, aucune formation obligatoire) est détaillé une seule fois dans sa fiche canonique :
 
 - [`arista-academy-certification-2026.md`](arista-academy-certification-2026.md)
-
-Sources :
-
-- https://www.training.arista.com/
-- https://www.training.arista.com/learning-pathways
-- https://www.training.arista.com/hubfs/Guides/Arista_Academy_Overview_Detailed.pdf
 
 ---
 

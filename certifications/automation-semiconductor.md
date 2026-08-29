@@ -220,7 +220,7 @@ Ces cours doivent être présentés comme **training certificates / courses** sa
 - Beckhoff / B&R ;
 - Emerson / Honeywell / Yokogawa ;
 - PLCopen ;
-- NI LabVIEW CLA/CLD/CLAD current program ;
+- NI LabVIEW CLA/CLD/CLAD current program (recherché 2026-08-29, sans résultat fiable : programme confirmé actif sur ni.com mais sans prix affiché ; seule donnée trouvée, un post forum communautaire à 99 $, date de 2021 et n'est pas fiable pour 2026) ;
 - FPGA vendor certifications ;
 - Cadence / Synopsys / Siemens EDA credentials ;
 - semiconductor process / metrology / packaging advanced credentials.

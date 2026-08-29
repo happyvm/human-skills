@@ -37,6 +37,7 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 
 - [`certifications/paid-under-500.md`](certifications/paid-under-500.md) — catalogue général.
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md) — PMI, Scrum.org, ISACA, TOGAF, Lean Six Sigma, CFA Investment Foundations, langues, business.
+- [`certifications/bcs-chartered-institute-it-2026.md`](certifications/bcs-chartered-institute-it-2026.md) — BCS (UK) : IA, business analysis, data protection, DevOps, architecture, sécurité info, SIAM, ISTQB, agile, transformation.
 
 ## Entrepreneuriat, startup & création d'entreprise
 
@@ -50,7 +51,8 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 - [`certifications/storage-data-protection-under-500.md`](certifications/storage-data-protection-under-500.md) — NetApp, Dell, Pure Storage, Hitachi Vantara, Nutanix, VAST, Cohesity, NetBackup/Veritas, Huawei.
 - [`certifications/networking-wireless-ai-infra.md`](certifications/networking-wireless-ai-infra.md) — Juniper, CWNP, Nokia, MEF, NVIDIA AI Infrastructure / Networking.
 - [`certifications/finops-veeam-over-500.md`](certifications/finops-veeam-over-500.md) — FinOps Professional et nouveau parcours Veeam VMCE+/VMCSE 2026.
-- [`certifications/datacenter-facilities-over-500.md`](certifications/datacenter-facilities-over-500.md) — Uptime ATD/ATS/AOS/ATP, BICSI DCDC/RCDD, Schneider DCCA à chiffrer.
+- [`certifications/datacenter-facilities-over-500.md`](certifications/datacenter-facilities-over-500.md) — Uptime ATD/ATS/AOS/ATP, BICSI DCDC/RCDD, EPI/EXIN, Schneider DCCA à chiffrer.
+- [`certifications/datacenter-france-titre-professionnel-2026.md`](certifications/datacenter-france-titre-professionnel-2026.md) — titre professionnel RNCP financé (AFPA × Equinix), alternative française gratuite aux certifications vendor.
 - [`certifications/facilities-energy-qhse.md`](certifications/facilities-energy-qhse.md) — IFMA, AEE CEM/CEA/CMVP, IOSH, ISO 45001.
 
 ## Cybersécurité
@@ -80,6 +82,7 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 
 - [`certifications/esg-sustainability-carbon.md`](certifications/esg-sustainability-carbon.md) — CFA Sustainable Investing, IFRS FSA, GHGMI, IEMA, GARP SCR.
 - [`certifications/green-building-sustainability.md`](certifications/green-building-sustainability.md) — LEED, WELL, BREEAM, GRI.
+- [`certifications/green-it-numerique-responsable-2026.md`](certifications/green-it-numerique-responsable-2026.md) — Green Software Foundation (LFC131, gratuit), INR numérique responsable (France).
 
 ## Pharma, qualité & réglementaire
 
@@ -102,6 +105,8 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 ## Structure du dépôt
 
 - [`OBSIDIAN.md`](OBSIDIAN.md) — conventions du vault (frontmatter, tags `tier/…`/`domain/…`, gabarit de nouvelle fiche) pour ouvrir ce dépôt comme coffre Obsidian.
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) — comment ajouter/modifier une fiche et lancer les vérifications automatiques.
+- [`LICENSE`](LICENSE) — CC BY 4.0 pour le contenu, MIT pour les scripts de `tools/`.
 
 ---
 

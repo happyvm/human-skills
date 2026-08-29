@@ -95,11 +95,11 @@ Reste :
 
 # Architecture / transformation
 
-## SABSA Practitioner / Master
+## SABSA Master
 
-Foundation documenté.
+Foundation et Practitioner (1 module Advanced, exemples AEP) documentés dans `management-transformation-over-500.md`.
 
-Reste Advanced modules, Practitioner, Master, certification fees, membership et TCO Europe.
+Reste : Master (SCM, 5 modules Advanced complets), TCO cumulé exact, et un exemple de partenaire AEP en zone Europe/EUR pour le niveau Practitioner (les exemples actuels sont ZAR/AUD).
 
 ## FinOps Professional — from-zero exact
 

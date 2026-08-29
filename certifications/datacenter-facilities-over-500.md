@@ -17,6 +17,8 @@ verified: 2026-08-28
 # Datacenter, facilities & critical infrastructure — credentials premium
 
 > Parcours professionnels autour de la conception, l'exploitation et la résilience physique des datacenters. Vérifié fin août 2026.
+>
+> Cette fiche couvre les organismes vendor/internationaux (Uptime, BICSI, CNet, EPI/EXIN, Schneider). Pour l'alternative **titre professionnel d'État français, financé** (technicien maintenance datacenter, AFPA × Equinix), voir [`datacenter-france-titre-professionnel-2026.md`](datacenter-france-titre-professionnel-2026.md).
 
 ---
 
@@ -157,6 +159,12 @@ Le DCDC est orienté :
 
 La préparation et les éventuels cours BICSI sont séparés du fee d'examen : le TCO peut donc être supérieur si le candidat achète les supports / formations.
 
+### Maintien — DCDC
+
+Recertification tous les 3 ans : **36 CECs** requis.
+
+**Statut : frais de recertification exacts non confirmés lors de cette revue** (recherché 2026-08-29 — page shop.bicsi.org trouvée mais fee non extrait ; à vérifier directement).
+
 ## RCDD — Registered Communications Distribution Designer
 
 Exam fee également affiché à :
@@ -164,6 +172,20 @@ Exam fee également affiché à :
 **725 $**.
 
 RCDD est plus transversal ICT / structured cabling / telecommunications design que DCDC mais possède une forte reconnaissance dans les infrastructures physiques.
+
+### Maintien — RCDD
+
+Recertification tous les 3 ans :
+
+- **45 CECs** requis (via formation BICSI) ;
+- participation à **au moins une conférence BICSI** sur la période ;
+- **frais de recertification : 385 $** (tarif réduit pour les membres BICSI actifs).
+
+Source :
+
+- https://shop.bicsi.org/rcdd-recertification-fee
+
+Le TCO long terme RCDD est donc **725 $ initial + 385 $ tous les 3 ans**, hors coût des CECs eux-mêmes si le candidat doit payer des formations pour les obtenir.
 
 ## Autres examens BICSI
 
@@ -204,7 +226,7 @@ Source :
 
 - https://www.se.com/ww/en/work/support/resources-and-tools/training/energy-university/
 
-**Statut : à chiffrer au portail d'examen.**
+**Statut : à chiffrer au portail d'examen** (recherché 2026-08-29, sans résultat fiable : sources tierces contradictoires — 250 $ vs 150 $ selon la source — et le post communautaire Schneider cité comme référence 2026 est bloqué en accès direct).
 
 ---
 
@@ -244,13 +266,75 @@ CNet Training (organisme britannique) propose trois programmes de 5 jours combin
 - **CDCMP** — Certified Data Center Management Professional ;
 - **CDCEP** — Certified Data Center Energy Professional.
 
-Prix officiel **non publié** sur le site CNet (contact direct requis). Sources tierces cohérentes indiquent une fourchette **4 000–6 000 $** pour le programme CDCDP de 5 jours — à traiter comme indicatif, pas comme prix officiel.
+Prix officiel **non publié** sur le site CNet — confirmé lors de cette revue, la page US officielle renvoie explicitement vers un contact commercial plutôt qu'un prix affiché. Sources tierces cohérentes (dont un avis 2026 détaillé) indiquent désormais plutôt **~5 000 $** pour le programme CDCDP de 5 jours — à traiter comme indicatif, pas comme prix officiel.
+
+**Nouveau — confirmé officiellement :** la certification CDCDP nécessite un **renouvellement tous les 3 ans** via un système de formation en ligne dédié (pas un simple renewal fee ponctuel).
 
 Source :
 
 - https://cnet-training.com/us/programs/certified-data-center-design-professional-cdcdp/
 
 **Verdict :** même TCO élevé que les seminars Uptime déjà documentés — formation et certification indissociables, à réserver à un budget financé par l'employeur.
+
+---
+
+# EPI / EXIN — Data Centre certification framework
+
+**EPI** (organisme néerlandais) maintient un framework complet de certifications data center, dont l'examen est désormais **accrédité et délivré par EXIN**. Il est nettement plus large que les seuls CDCP/CDCS/CDCE déjà réputés :
+
+```text
+Foundation
+  CDCP    Certified Data Centre Professional
+  CDCS    Certified Data Centre Specialist
+  CDCE    Certified Data Centre Expert
+  CNCDP   Certified Network Cabling Design Professional
+
+Maintenance / Opérations
+  CDFOS   Certified Data Centre Facilities Operations Specialist
+  CDFOM   Certified Data Centre Facilities Operations Manager
+  CDESS   Certified Data Centre Environmental Sustainability Specialist
+
+Risque
+  CDRP    Certified Data Centre Risk Professional
+  CDMS    Certified Data Centre Migration Specialist
+
+Standards / conformité (TIA-942, DCOS)
+  CDLI    Certified DCOS Lead Implementer
+  CDLA    Certified DCOS Lead Auditor
+  CTDC    Certified TIA-942 Design Consultant
+  CTIA    Certified TIA-942 Internal Auditor
+  CTLA    Certified TIA-942 Lead Auditor
+```
+
+## Ce qui est confirmé officiellement (pages examen EXIN)
+
+```text
+CDCP (Foundation, 2 ECTS)
+  format          40 questions QCM, 1 heure
+  passing score   68 %
+  livre ouvert    non
+  formation       obligatoire
+
+CDFOM (Advanced)
+  format          60 questions QCM, 90 minutes
+  passing score   70 %
+  livre ouvert    non
+  formation       obligatoire (prérequis)
+  validité        3 ans
+```
+
+## Ce qui n'est pas confirmé
+
+Le prix de la formation (2-3 jours selon credential, EPI) et de l'examen (EXIN) ne sont publiés sur aucune des pages officielles consultées (epi-usainc.com, exin.com) pour aucun des credentials ci-dessus — contact commercial requis systématiquement. Une source tierce indique **~2 500 $** pour le bundle formation CDCP, à traiter comme indicatif.
+
+Sources :
+
+- https://www.exin.com/technologies-software/exin-epi-data-centre-management/certified-data-centre-professional/
+- https://www.exin.com/technologies-software/exin-epi-data-centre-management/certified-data-centre-facilities-operations-manager/
+- https://www.epi-usainc.com/training/certified-data-center-professional-cdcp/
+- https://www.epi-ap.com/services/1/3/2/EPI_Data_Center_Training_Framework
+
+**Verdict :** structure d'examen comparable à un Foundation/Advanced vendor-neutral classique (proche PECB/EXIN sur d'autres domaines), mais TCO complet non chiffrable sans devis direct pour aucun des credentials — même limite que CNet ci-dessus. Le framework complet (au-delà de CDCP/CDFOM) reste à explorer credential par credential.
 
 ---
 
@@ -273,16 +357,14 @@ Source :
 
 Le domaine datacenter contient encore un important catalogue à cartographier :
 
-- CNet CDCDP / CDCMP / CDCEP — prix officiel exact (actuellement estimation tierce 4 000–6 000 $, voir ci-dessus) ;
-- EPI CDCP / CDCS / CDCE ;
-- BICSI DCDC long-term TCO / renewal ;
-- BICSI RCDD long-term TCO ;
-- Schneider DCCA prix exact ;
-- Data Center Dynamics credentials ;
+- CNet CDCDP / CDCMP / CDCEP — prix officiel exact (recherché 2026-08-29, sans résultat : page US officielle confirmée sans prix affiché, contact commercial requis ; ~5 000 $ tiers, cycle de renouvellement 3 ans désormais documenté ci-dessus) ;
+- EPI/EXIN — prix formation + examen exact pour l'ensemble du framework (CDCP et CDFOM désormais documentés avec format d'examen ci-dessus ; CDCS/CDCE/CNCDP/CDFOS/CDESS/CDRP/CDMS/CDLI/CDLA/CTDC/CTIA/CTLA restent à creuser un par un, recherché 2026-08-29 pour le prix, sans résultat direct) ;
+- BICSI DCDC — frais de recertification exacts (36 CECs confirmés, fee non trouvé — RCDD entièrement documenté ci-dessus) ;
+- Data Center Dynamics / DCD Academy — DCS (Data Center Specialist Design), DCS Ops, DCIE (recherché 2026-08-29, sans résultat : programmes identifiés officiellement mais page prix bloquée en accès direct) ;
 - power/cooling vendor certifications ;
 - Vertiv Academy — vérifié : webinars et une partie du catalogue **gratuits** pour CEU, mais aucune certification proctorée distincte identifiée (formation produit plutôt que credential de carrière) ;
-- Eaton ;
-- Legrand ;
+- Eaton (recherché 2026-08-29, sans résultat : training produit vendor plutôt qu'une certification individuelle avec prix public — souvent gratuit si sponsorisé employeur/UPS installé) ;
+- Legrand (recherché 2026-08-29, sans résultat : la certification Data Communications de Legrand est délivrée au niveau **entreprise/contractant**, pas à titre individuel — probablement hors périmètre plutôt qu'à re-rechercher) ;
 - critical facilities / UPS / cooling ;
 - energy efficiency / PUE ;
 - datacenter sustainability.

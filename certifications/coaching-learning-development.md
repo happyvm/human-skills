@@ -26,6 +26,7 @@ verified: 2026-08-28
 
 | Credential | Prix officiel | Remarque TCO |
 |---|---:|---|
+| EMCC EIA Foundation | **120 €** | 1 an d'expérience, adhésion EMCC requise |
 | ICF ACC — Level 1/2 path | **175 $ membre / 325 $ non-membre** | formation + mentor coaching préalables |
 | ICF ACC — Portfolio | **475 $ / 625 $** | évaluation + formation documentée |
 | ICF ACTC | **200–250 $ membre / 300–350 $ non-membre** | credential ICF préalable + team coaching education |
@@ -33,6 +34,7 @@ verified: 2026-08-28
 | ATD APTD | **525 $ membre / 800 $ non-membre** | prep facultative |
 | ICF MCC | **675 $ membre / 825 $ non-membre** | niveau senior, parcours préalable important |
 | ATD CPTD | **1 099 $ membre / 1 500 $ non-membre** | prep facultative |
+| Kirkpatrick Four Levels — Bronze | **2 524,50 $** | early-bird -300 $ si inscription 45+ jours avant |
 
 ---
 
@@ -49,6 +51,19 @@ C'est donc un exemple classique où le voucher paraît peu cher alors que le fir
 - coaching experience ;
 - performance evaluation ;
 - éventuel programme Level 1 / 2 / 3.
+
+## Membership ICF — le coût récurrent souvent oublié
+
+Tous les tarifs « membre » ci-dessous supposent une **adhésion ICF active**, distincte des frais de credentialing eux-mêmes.
+
+- **Individual Membership : 270 $/an**, renouvelable automatiquement ;
+- éligibilité : détenir un credential ICF (ACC/PCC/MCC), **ou** 60 h de coaching education conforme aux standards ICF déjà complétées, **ou** en cours.
+
+Source :
+
+- https://coachingfederation.org/about/icf-membership/individual-membership/
+
+Le TCO réel d'un cycle de 3 ans membre doit donc inclure **3 × 270 $ = 810 $** de membership en plus du prix de credentialing/renewal indiqué « membre » ci-dessous — sans quoi comparer les tarifs « membre » ICF à un non-membre sous-estime largement l'écart réel.
 
 ---
 
@@ -221,6 +236,65 @@ Source :
 
 ---
 
+# 6bis. Kirkpatrick Four Levels — évaluation de la formation
+
+**CERT — 🌍 INT · US-origin**
+
+Programme de certification centré sur le **Kirkpatrick Blended Evaluation Plan®**, distinct du coaching (ICF) et du talent development (ATD) : sa niche est la **mesure de l'efficacité des formations** (les 4 niveaux Kirkpatrick).
+
+```text
+Bronze (Architect)     2 524,50 $   2 jours présentiel / 4 sessions live online
+Silver (Analyst)       prix non confirmé lors de cette revue
+Gold (Champion)        prix non confirmé lors de cette revue
+```
+
+- réduction early-bird de **300 $** si inscription 45+ jours à l'avance ;
+- remises groupe / gouvernement / militaire / associatif disponibles ;
+- classe plafonnée à 30 participants ;
+- livrable final obligatoire : un Kirkpatrick Blended Evaluation Plan® ;
+- un an d'accès à une communauté de praticiens certifiés inclus après la certification.
+
+Source :
+
+- https://www.kirkpatrickpartners.com/certifications/bronze/
+
+**Pertinence :** utile pour un responsable formation/L&D qui doit démontrer le ROI d'un programme de formation à sa direction, plutôt qu'un complément généraliste pour tout profil RH.
+
+---
+
+# 6ter. EMCC Global Individual Accreditation (EIA)
+
+**QUAL — 🌍 INT · UK/EU-origin**
+
+Alternative européenne à l'accréditation ICF : l'**EMCC** (European Mentoring and Coaching Council) délivre une accréditation individuelle à quatre niveaux, avec des frais nettement plus bas que l'ICF mais des exigences d'expérience proches.
+
+## Prix (boutique officielle EMCC Global)
+
+```text
+Foundation           120 €   1 an d'expérience, 50 h client, 5 clients
+Practitioner          205 €   3 ans, 100 h client, 10 clients
+Senior Practitioner   245 €   5 ans, 250 h client, 20 clients
+Master Practitioner   450 €   7 ans, 500 h client, 40 clients + contribution professionnelle
+```
+
+TVA en sus selon pays.
+
+## Conditions communes à tous les niveaux
+
+- adhésion EMCC obligatoire ;
+- preuve de CPD, reflective learning et supervision individuelle continue ;
+- alignement avec le Global Code of Ethics ;
+- **validité : 5 ans**, rappel de renouvellement envoyé 2 mois avant expiration.
+
+Source :
+
+- https://www.emccglobal.org/accreditation/eia/
+- https://accreditation.emccshop.org/product-category/eia
+
+**Pertinence :** particulièrement intéressant pour un coach européen qui veut une accréditation reconnue à un coût d'entrée bien inférieur à l'ICF ACC (120 € vs 175–325 $), au prix d'une reconnaissance internationale un peu moins établie hors Europe.
+
+---
+
 # 7. Comparaison
 
 | Besoin | Credential naturel |
@@ -237,13 +311,12 @@ Source :
 # À poursuivre
 
 - coût France / Europe de programmes ICF Level 1 / 2 / 3 ;
-- ICF membership TCO ;
-- EMCC EIA / ESIA ;
+- EMCC ESIA (supervision, distinct de l'EIA documentée ci-dessus) ;
 - Association for Coaching ;
-- ILM coaching qualifications ;
-- CIPD Learning & Development ;
-- Kirkpatrick certifications ;
-- Everything DiSC / Insights / assessment certifications ;
+- ILM coaching qualifications (recherché 2026-08-29, sans résultat : qualification multi-centres, observé £779–4 095+ selon centre, pas de tarif catalogue unique) ;
+- CIPD Learning & Development (recherché 2026-08-29, sans résultat : même problème multi-centres, observé £1 600–3 950 selon provider) ;
+- Kirkpatrick Silver/Gold — prix exacts (Bronze documenté ci-dessus) ;
+- Everything DiSC / Insights / assessment certifications (recherché 2026-08-29 pour DiSC, sans résultat définitif : partenaires autorisés à 2 995–3 195 $ selon partenaire, pas de tarif Wiley officiel unique) ;
 - Korn Ferry / Hogan assessor credentials ;
 - facilitation certifications ;
 - instructional design credentials.

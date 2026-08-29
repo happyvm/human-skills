@@ -1,0 +1,38 @@
+Copyright (c) 2026 human-skills contributors
+
+This repository is a curated catalogue of publicly available information
+about certifications, examens, credentials and qualifications (names,
+prices, prerequisites, sources). The compiled content (Markdown files under
+`certifications/`, `metadata/`, `research/`, `sources/`, and the root-level
+index/guide files) is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/
+
+The tooling under `tools/` (Python scripts) is licensed under the MIT
+License:
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+None of the above licenses grant rights to any third-party trademarks,
+logos, or the official names of the certification bodies and vendors
+referenced in this catalogue. Prices, exam content and program details
+belong to their respective organizations; always verify against the
+official source linked in each entry before relying on this repository.

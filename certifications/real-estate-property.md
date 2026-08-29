@@ -35,6 +35,8 @@ verified: 2026-08-28
 | CCIM Candidate membership — International | **195 $/an** | candidacy requise pour portfolio/exam | 🇺🇸 US |
 | CCIM Comprehensive Exam + Core Review | **1 220 $** | + cursus / portfolio / membership | 🇺🇸 US |
 | CCIM Designation — published US member reference | **8 286 $** | reference US, pas France exact | 🇺🇸 US |
+| SIOR — application + initiation + 1ère année dues | **~2 245 $** + chapter dues | 5 ans d'expérience requis | 🇺🇸 US |
+| Appraisal Institute MAI — application + 1 module + demo | **~700–2 400 $** selon parcours | + cotisations annuelles + coût formation, nb. modules non normalisé | 🇺🇸 US |
 
 ---
 
@@ -83,6 +85,14 @@ Candidate subscription 212 €
 
 avant éventuels frais de formation, préparation, retake ou expérience professionnelle.
 
+## Retake
+
+En cas de referral, RICS facture un **resit fee de 414 € par tentative supplémentaire** (route APC/Senior Professional/Specialist, zone Europe).
+
+Source :
+
+- https://www.rics.org/renew-my-membership/professional-fees
+
 ## Après qualification
 
 - Chartered Election Fee Europe : **193 €** ;
@@ -115,6 +125,14 @@ avant autres coûts.
 - Associate annual subscription France : **319 €/an**.
 
 Le ticket d'entrée est donc nettement plus faible que MRICS, mais il s'agit d'un grade différent.
+
+## Retake
+
+Resit fee Associate, zone Europe : **100 € par tentative supplémentaire**.
+
+Source :
+
+- https://www.rics.org/renew-my-membership/professional-fees
 
 ---
 
@@ -247,6 +265,77 @@ Source :
 
 ---
 
+# 8ter. SIOR — Society of Industrial and Office Realtors
+
+**QUAL — 🇺🇸 US**
+
+Désignation senior de courtage commercial (industrial/office), très différente de CCIM en termes de profil visé : SIOR exige déjà **5 ans d'expérience active** et un volume d'affaires minimum (Gross Fee Income), pas seulement un cursus.
+
+## Frais officiels (grille SIOR)
+
+```text
+Application fee                    175 $
+Initiation fee                     725 $   (inclut 1 inscription World Conference)
+Annual dues                      1 345 $   (proratisées la 1ère année)
+Chapter dues                     variable — contacter le chapitre local
+Core Components of Commercial
+  Brokerage course (optionnel)   990–1 650 $
+Comprehensive Entrance Exam
+  (optionnel)                    2 000 $
+```
+
+## Prérequis
+
+- **5 ans minimum** de courtage industrial/office actif ;
+- Gross Fee Income minimum sur 3 des 4 dernières années (seuils par marché) ;
+- 2 endorsements de SIOR designees existants ;
+- adhésion au Code of Ethical Principles ;
+- volet éducation (dispensé si 10+ ans d'expérience et double du seuil GFI).
+
+Source :
+
+- https://www.sior.com/docs/default-source/membership-docs/2-designation-requirements-flyer.pdf
+
+**TCO initial minimal (sans le cursus/exam optionnels) : environ 2 245 $** (175 + 725 + 1 345), puis ~1 345 $/an + chapter dues de maintien.
+
+**Pertinence :** profil courtage commercial déjà établi cherchant une reconnaissance senior US ; pas un point d'entrée comme CCIM Candidate.
+
+---
+
+# 8quater. Appraisal Institute — MAI Designation
+
+**QUAL — 🇺🇸 US**
+
+Désignation senior en évaluation commerciale, distincte des credentials de courtage (CCIM, SIOR) ci-dessus : orientée **appraisal**, pas transaction.
+
+## Frais directs Appraisal Institute (hors formation)
+
+```text
+Experience Requirement Application       300 $
+Designation Application Fee              100 $
+Comprehensive Examination — par module   150 $
+Demonstration of Knowledge (au choix) :
+  Research project                       350 $
+  Publication évaluée par pairs          150 $
+  Master's thesis / doctoral dissert.    150 $
+  Demonstration appraisal report         350 $
+  Capstone program                     1 850 $
+```
+
+Le nombre de modules d'examen requis n'est pas normalisé dans cette revue — se référer à la page officielle pour le parcours exact (general vs residential).
+
+Des **cotisations annuelles** s'ajoutent pendant tout le parcours candidat (proratisées si adhésion entre février et octobre, dues complètes après le 1er novembre).
+
+Source :
+
+- https://www.appraisalinstitute.org/why-join/pursue-a-designation/fees-for-candidates
+
+**Statut : coût de la formation (candidate courses) non inclus ci-dessus — seuls les frais directs Appraisal Institute sont confirmés.**
+
+**Pertinence :** profil évaluation commerciale US qui veut la désignation la plus reconnue du secteur ; à ne pas confondre avec TEGoVA REV (équivalent européen, modèle décentralisé documenté ci-dessus).
+
+---
+
 # 9. TCO
 
 Les deux programmes illustrent parfaitement deux formes de credential :
@@ -275,14 +364,12 @@ multi-course curriculum
 
 - exact CCIM France/Europe course delivery pricing (TCO US officiel 8 286 \$ membre / 11 810 \$ non-membre déjà confirmé) ;
 - RICS APC preparation providers France ;
-- RICS Assessment retakes ;
 - RICS Valuer Registration ;
 - RICS Registered Valuer ;
 - TEGoVA TRV (autre variante que REV) ;
-- IREM CPM ;
+- IREM CPM (recherché 2026-08-29, sans résultat fiable : pages officielles irem.org bloquées, chiffres tiers contradictoires selon la source/l'année — 425 $ vs 725 $ d'enrollment fee trouvés) ;
 - IFMA / property asset management crossover ;
 - ARGUS Enterprise certification ;
-- ULI / real estate finance credentials ;
-- SIOR ;
-- Appraisal Institute MAI / SRA ;
+- ULI / real estate finance credentials (recherché 2026-08-29, sans résultat fiable : seul chiffre trouvé date de 2022, page officielle learning.uli.org non exploitable en accès direct) ;
+- Appraisal Institute SRA (résidentiel, MAI désormais documenté ci-dessus) — nombre de modules d'examen requis par parcours ;
 - French real-estate regulatory qualifications.

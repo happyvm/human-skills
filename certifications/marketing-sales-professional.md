@@ -28,6 +28,7 @@ verified: 2026-08-28
 |---|---:|---|
 | HubSpot Academy certifications | **0 €** | vendor certification |
 | Google Ads certifications | **0 €** | platform certification |
+| Klaviyo Academy certifications (Practitioner / Deliverability / Digital Marketing) | **0 €** | vendor certification |
 | Salesforce Accredited Professional examples | **150 $** | proctored vendor credential |
 | Salesforce Marketing / Consultant exams | **200 $** | certification vendor |
 | AMA PCM Marketing Management — exam only | **249 $ membre / 349 $ non-membre** | professional certification |
@@ -195,6 +196,28 @@ Trailhead learning est généralement gratuit, ce qui permet de maintenir de nom
 
 # 7. Gratuit
 
+## Klaviyo Academy
+
+**CERT — 🌍 INT — 0 €**
+
+Klaviyo (email/SMS marketing, très utilisé en e-commerce) propose **trois certificats officiels et gratuits** via Klaviyo Academy :
+
+```text
+Klaviyo Practitioner Certificate     0 €   5 h 26 environ
+Klaviyo Deliverability Certificate   0 €   1 h 45 environ
+Digital Marketing Certificate        0 €   2 h 40 environ
+```
+
+- examen final QCM, score de passage **80 %** ;
+- badge numérique après réussite ;
+- **validité : 24 mois**, renouvellement par nouvelle passation.
+
+Source :
+
+- https://academy.klaviyo.com/en-us/credentials
+
+Pertinent pour toute personne qui gère réellement des flux Klaviyo (welcome series, abandoned cart, deliverability) plutôt qu'un généraliste marketing.
+
 Le dépôt contient déjà dans `free-non-it.md` :
 
 - HubSpot Digital Marketing ;
@@ -247,12 +270,12 @@ AIPMM CPMM
 - CIM Level 4 / Level 7 ;
 - Chartered Marketer status ;
 - AMA PCM renewal details ;
-- Meta certifications ;
-- TikTok Academy ;
-- Amazon Ads ;
+- Meta certifications — voir `entrepreneur-growth-finance-ecommerce-ip-2026.md` ;
+- TikTok Academy — voir `entrepreneur-international-functional-credentials-2026.md` ;
+- Amazon Ads — voir `entrepreneur-growth-finance-ecommerce-ip-2026.md` ;
 - Salesforce Marketing Cloud full path TCO ;
 - Adobe Experience Cloud credentials ;
-- Braze / Iterable / Klaviyo ;
+- Braze / Iterable ;
 - customer experience CCXP ;
 - sales professional certifications ;
 - revenue operations / RevOps credentials.

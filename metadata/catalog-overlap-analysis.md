@@ -2,10 +2,10 @@
 
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
-- catalogues scanned: **97**
-- credential-like table rows scanned: **1397**
+- catalogues scanned: **99**
+- credential-like table rows scanned: **1448**
 - exact normalized names present in 2+ files: **82**
-- specialist↔specialist file pairs with exact overlap: **13**
+- specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
 
 ## Interpretation
@@ -18,7 +18,6 @@
 
 | Shared exact names | Catalogue A | Catalogue B | Examples |
 |---:|---|---|---|
-| 3 | `data-database-platforms-under-500.md` | `observability-sre-devops-under-500.md` | Elastic Certified Analyst, Elastic Engineer / Observability Engineer, Elastic SIEM Analyst |
 | 3 | `arista-academy-certification-2026.md` | `network-datacenter-advanced-under-500.md` | Expert practical exam, Professional practical exam, Specialist practical exam |
 | 3 | `ibm-enterprise-security-ai-under-500.md` | `mainframe-enterprise-software.md` | IBM Db2 13 for z/OS DBA Professional, IBM MQ 9.4 Administrator Professional, IBM z/OS v3.x Administrator Professional |
 | 3 | `hpe-morpheus-private-cloud-2026.md` | `virtualization-private-cloud-under-500.md` | Nutanix NCM-MCI, Nutanix NCP-MCI, VMware VCP-VCF Architect |
@@ -36,7 +35,6 @@
 
 | Exact overlaps | Domain A | Domain B |
 |---:|---|---|
-| 3 | `data-database` | `observability` |
 | 3 | `network` | `network` |
 | 3 | `mainframe` | `security` |
 | 3 | `virtualization` | `virtualization` |
@@ -52,25 +50,10 @@
 
 ## Exact duplicate-name groups — specialist files
 
-### Elastic Certified Analyst
-
-- `data-database-platforms-under-500.md:35` — `| Elastic Certified Analyst | **400 $** | performance-based |`
-- `observability-sre-devops-under-500.md:173` — `| Elastic Certified Analyst | **400 $** |`
-
-### Elastic Engineer / Observability Engineer
-
-- `data-database-platforms-under-500.md:37` — `| Elastic Engineer / Observability Engineer | **500 $** | performance-based |`
-- `observability-sre-devops-under-500.md:39` — `| Elastic Engineer / Observability Engineer | **500 $** | performance-based |`
-
-### Elastic SIEM Analyst
-
-- `data-database-platforms-under-500.md:36` — `| Elastic SIEM Analyst | **400 $** | performance-based |`
-- `observability-sre-devops-under-500.md:174` — `| Elastic Certified SIEM Analyst | **400 $** |`
-
 ### IAPP AIGP
 
 - `ai-governance-risk-safety.md:32` — `| IAPP AIGP | **649 $ membre / 799 $ non-membre** | maintenance 2 ans |`
-- `privacy-dpo-france.md:35` — `| IAPP AIGP | **799 $ non-member exam + maintien** | cycle 2 ans | AI governance |`
+- `privacy-dpo-france.md:37` — `| IAPP AIGP | **799 $ non-member exam + maintien** | cycle 2 ans | AI governance |`
 
 ### CPSA, CPTIA, CPIA
 
@@ -90,7 +73,7 @@
 ### GPHR
 
 - `compensation-total-rewards.md:137` — `| GPHR | 100 $ | 495 $ | **595 $** | 🌍 INT |`
-- `management-transformation-over-500.md:248` — `| GPHR | 100 $ | 495 $ | **595 $** |`
+- `management-transformation-over-500.md:307` — `| GPHR | 100 $ | 495 $ | **595 $** |`
 
 ### HRCI SPHR / SPHRi / GPHR
 
@@ -115,7 +98,7 @@
 ### LOMA FLMI — non-member pricing
 
 - `actuarial-accounting-insurance.md:405` — `| LOMA FLMI — non-member pricing | **8 500 $** | 🌍 INT |`
-- `insurance-risk-designations.md:309` — `| LOMA FLMI non-member pricing | **8 500 $** | 🌍 INT |`
+- `insurance-risk-designations.md:367` — `| LOMA FLMI non-member pricing | **8 500 $** | 🌍 INT |`
 
 ### Nutanix NCM-MCI
 
@@ -140,7 +123,7 @@
 
 ### OpenTelemetry Certified Associate
 
-- `cloud-native-platform-engineering-under-500.md:39` — `| OpenTelemetry Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
+- `cloud-native-platform-engineering-under-500.md:40` — `| OpenTelemetry Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
 - `observability-sre-devops-under-500.md:36` — `| OpenTelemetry Certified Associate | **250 $** | CNCF |`
 
 ### PMI Construction Professional — PMI-CP
@@ -155,7 +138,7 @@
 
 ### Prometheus Certified Associate
 
-- `cloud-native-platform-engineering-under-500.md:36` — `| Prometheus Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
+- `cloud-native-platform-engineering-under-500.md:37` — `| Prometheus Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
 - `observability-sre-devops-under-500.md:35` — `| Prometheus Certified Associate | **250 $** | CNCF |`
 
 ### Red Hat exam standard
@@ -195,69 +178,69 @@
 | 48 | `practical-cyber-under-500.md` |
 | 40 | `tools-platforms-under-500.md` |
 | 39 | `networking-wireless-ai-infra.md` |
+| 37 | `entrepreneur-international-functional-credentials-2026.md` |
 | 34 | `audit-finance-project-over-500.md` |
-| 34 | `entrepreneur-international-functional-credentials-2026.md` |
 | 30 | `actuarial-accounting-insurance.md` |
 | 29 | `entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md` |
-| 28 | `hr-people-hrtech.md` |
+| 29 | `hr-people-hrtech.md` |
 | 27 | `entrepreneur-treasury-cash-pooling-epm-carveout-2026.md` |
 | 26 | `network-security-adc-sase-under-500.md` |
 | 25 | `business-finance-under-500.md` |
+| 23 | `real-estate-property.md` |
+| 21 | `entrepreneur-growth-finance-ecommerce-ip-2026.md` |
 | 21 | `public-cloud-multicloud-under-500.md` |
-| 21 | `real-estate-property.md` |
-| 20 | `entrepreneur-growth-finance-ecommerce-ip-2026.md` |
+| 19 | `cloud-native-platform-engineering-under-500.md` |
 | 19 | `entrepreneur-eta-family-ess-export-regulated-2026.md` |
+| 19 | `insurance-risk-designations.md` |
 | 19 | `language-certifications.md` |
-| 18 | `cloud-native-platform-engineering-under-500.md` |
+| 19 | `lean-it-lean-management-2026.md` |
 | 18 | `entrepreneur-france-practical-resources-2026.md` |
+| 17 | `bcs-chartered-institute-it-2026.md` |
 | 17 | `ibm-enterprise-security-ai-under-500.md` |
-| 17 | `lean-it-lean-management-2026.md` |
 | 17 | `network-datacenter-advanced-under-500.md` |
 | 17 | `observability-sre-devops-under-500.md` |
 | 16 | `compliance-aml-fpa-over-500.md` |
-| 16 | `insurance-risk-designations.md` |
 | 15 | `ai-engineering-mlops-agents-under-500.md` |
 | 15 | `storage-data-protection-under-500.md` |
-| 14 | `finance-risk-fraud-over-500.md` |
 
 ## Domain row volume
 
 | Rows | Domain |
 |---:|---|
-| 260 | `entrepreneurship` |
-| 251 | `finance-risk` |
-| 175 | `general-it` |
-| 159 | `business-management` |
-| 84 | `governance-grc` |
+| 264 | `entrepreneurship` |
+| 256 | `finance-risk` |
+| 194 | `general-it` |
+| 162 | `business-management` |
+| 108 | `governance-grc` |
 | 81 | `governance` |
 | 78 | `security` |
-| 72 | `supply-chain` |
+| 73 | `supply-chain` |
 | 69 | `ai-infrastructure` |
 | 60 | `network` |
-| 54 | `business-soft-skills` |
-| 45 | `itsm-middleware` |
-| 44 | `hr-people` |
+| 59 | `business-soft-skills` |
+| 47 | `itsm-middleware` |
+| 47 | `hr-people` |
 | 40 | `devops-automation` |
 | 32 | `storage-backup` |
+| 28 | `datacenter-facilities` |
 | 27 | `enterprise-software` |
 | 27 | `virtualization` |
 | 27 | `observability` |
-| 26 | `datacenter-facilities` |
 | 25 | `linux` |
 | 25 | `pharma-regulatory` |
+| 23 | `esg-sustainability` |
+| 23 | `real-estate` |
+| 22 | `legal` |
 | 21 | `cloud` |
-| 21 | `real-estate` |
-| 20 | `esg-sustainability` |
-| 20 | `legal` |
+| 19 | `kubernetes-platform` |
 | 19 | `language` |
-| 18 | `kubernetes-platform` |
 | 16 | `industrial-ot` |
-| 15 | `data-database` |
 | 13 | `sustainability` |
+| 12 | `data-database` |
+| 11 | `project-management` |
 | 10 | `safety-occupational` |
-| 9 | `project-management` |
 | 8 | `identity-iam` |
 | 8 | `mainframe` |
+| 6 | `accessibility` |
 | 5 | `construction-btp` |
-| 4 | `accessibility` |
 | 4 | `euc-endpoint` |

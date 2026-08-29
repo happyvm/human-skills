@@ -32,6 +32,7 @@ verified: 2026-08-28
 | CVA Self-Study Package | **2 999 $** | training + exam + 1st-year membership + resources | 🌍 INT · US-centric |
 | CVA Live/Virtual Package | **4 195 $** | 5-day training + exam + resources + membership | 🌍 INT · US-centric |
 | CVA Student Package | **1 299 $** | full-time eligible students | 🌍 INT · US-centric |
+| AICPA ABV exam (les 2 parties) | **175–275 $ chacune non-membre** | remise membre AICPA/CIMA à la connexion | 🌍 INT · US-centric |
 
 ---
 
@@ -267,6 +268,41 @@ Cela illustre l'intérêt de calculer le TCO **selon les credentials déjà dét
 
 ---
 
+# 9bis. AICPA ABV — Accredited in Business Valuation
+
+**QUAL — 🌍 INT · US-centric**
+
+L'ABV est un credential AICPA réservé aux **CPA déjà licenciés** : ce n'est pas une porte d'entrée generaliste comme NACVA CVA.
+
+## Éligibilité
+
+- CPA license valide et non révoquée, obligatoire ;
+- **1 500 heures d'expérience en valuation** sur les 5 années précédant la demande ;
+- **75 heures de CPD** valuation-related sur la même période ;
+- l'examen ABV est **waived** pour les titulaires d'ASA, CFA Level III ou CBV déjà validés. — 🌍 INT
+
+## Prix
+
+```text
+ABV Exam Part 1 (Foundation of Valuation Theory)      175–275 $ non-membre
+ABV Exam Part 2 (Implementation of Valuation Methods) 175–275 $ non-membre
+```
+
+- les deux parties doivent être complétées dans les **12 mois** ;
+- un retake est inclus par achat d'examen ;
+- proctoring en centre Kryterion ou à distance.
+
+Source :
+
+- https://www.aicpa-cima.com/cpe-learning/exam/abv-exam-registration
+- https://www.aicpa-cima.com/cpe-learning/credential/abv-credential
+
+**Statut prix : 🟡 partiellement confirmé.** Le prix de l'examen lui-même est officiel et clair, mais AICPA mentionne un **« appropriate credential fee »** distinct de l'examen (frais de délivrance de la désignation) sans montant public trouvé lors de cette revue. Des estimations tierces situent le **TCO total autour de 1 500–3 000 $** en incluant matériel de préparation et frais de délivrance — **non officiel, à vérifier auprès d'AICPA avant de budgéter**.
+
+**Pertinence :** uniquement pour un CPA déjà en exercice qui veut se spécialiser en valuation ; sans le permis CPA, NACVA CVA reste la voie généraliste documentée ci-dessus.
+
+---
+
 # 10. Positionnement
 
 | Besoin | Credential / organisme | Portée |
@@ -284,7 +320,7 @@ Cela illustre l'intérêt de calculer le TCO **selon les credentials déjà dét
 - American Society of Appraisers ASA Business Valuation full TCO ;
 - ASA AM / ASA / FASA progression ;
 - NACVA MAFF ;
-- AICPA ABV ;
+- AICPA ABV — montant exact du « credential fee » au-delà de l'examen ;
 - CFA private markets / valuation content ;
 - CBV Institute Canada ;
 - RICS Registered Valuer ;

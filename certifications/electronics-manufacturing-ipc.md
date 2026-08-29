@@ -168,7 +168,7 @@ Les prix peuvent varier significativement selon :
 - IPC-A-600 ;
 - IPC-7711/7721 repair / rework ;
 - IPC-6012 / 6013 ;
-- IPC CID / CID+ design credentials ;
+- IPC CID / CID+ design credentials (recherché 2026-08-29, sans résultat : pages des centres de formation (EPTAC) ne publient pas de prix direct, uniquement sur devis) ;
 - J-STD-001 Space full TCO ;
 - IPC/WHMA-A-620 Space ;
 - ESA soldering / ECSS qualifications ;
