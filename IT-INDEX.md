@@ -442,9 +442,10 @@ SUSE Edge Deployment Specialist : **149 $**, cours non obligatoire.
 # 24. Datacenter / facilities
 
 - [`certifications/datacenter-facilities-over-500.md`](certifications/datacenter-facilities-over-500.md)
+- [`certifications/datacenter-france-titre-professionnel-2026.md`](certifications/datacenter-france-titre-professionnel-2026.md)
 - [`certifications/facilities-energy-qhse.md`](certifications/facilities-energy-qhse.md)
 
-Uptime Institute, BICSI, Schneider Electric, energy/facilities/QHSE.
+Uptime Institute, BICSI, Schneider Electric, EPI/EXIN, titre professionnel France (AFPA × Equinix), energy/facilities/QHSE.
 
 ---
 

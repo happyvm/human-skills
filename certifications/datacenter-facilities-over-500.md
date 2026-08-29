@@ -17,6 +17,8 @@ verified: 2026-08-28
 # Datacenter, facilities & critical infrastructure — credentials premium
 
 > Parcours professionnels autour de la conception, l'exploitation et la résilience physique des datacenters. Vérifié fin août 2026.
+>
+> Cette fiche couvre les organismes vendor/internationaux (Uptime, BICSI, CNet, EPI/EXIN, Schneider). Pour l'alternative **titre professionnel d'État français, financé** (technicien maintenance datacenter, AFPA × Equinix), voir [`datacenter-france-titre-professionnel-2026.md`](datacenter-france-titre-professionnel-2026.md).
 
 ---
 

@@ -50,7 +50,8 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 - [`certifications/storage-data-protection-under-500.md`](certifications/storage-data-protection-under-500.md) — NetApp, Dell, Pure Storage, Hitachi Vantara, Nutanix, VAST, Cohesity, NetBackup/Veritas, Huawei.
 - [`certifications/networking-wireless-ai-infra.md`](certifications/networking-wireless-ai-infra.md) — Juniper, CWNP, Nokia, MEF, NVIDIA AI Infrastructure / Networking.
 - [`certifications/finops-veeam-over-500.md`](certifications/finops-veeam-over-500.md) — FinOps Professional et nouveau parcours Veeam VMCE+/VMCSE 2026.
-- [`certifications/datacenter-facilities-over-500.md`](certifications/datacenter-facilities-over-500.md) — Uptime ATD/ATS/AOS/ATP, BICSI DCDC/RCDD, Schneider DCCA à chiffrer.
+- [`certifications/datacenter-facilities-over-500.md`](certifications/datacenter-facilities-over-500.md) — Uptime ATD/ATS/AOS/ATP, BICSI DCDC/RCDD, EPI/EXIN, Schneider DCCA à chiffrer.
+- [`certifications/datacenter-france-titre-professionnel-2026.md`](certifications/datacenter-france-titre-professionnel-2026.md) — titre professionnel RNCP financé (AFPA × Equinix), alternative française gratuite aux certifications vendor.
 - [`certifications/facilities-energy-qhse.md`](certifications/facilities-energy-qhse.md) — IFMA, AEE CEM/CEA/CMVP, IOSH, ISO 45001.
 
 ## Cybersécurité
