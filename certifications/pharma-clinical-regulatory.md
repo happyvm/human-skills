@@ -11,7 +11,7 @@ tags:
   - domain/pharma-regulatory
   - scope/mixed
 status: active
-verified: 2026-08-28
+verified: 2026-08-29
 ---
 
 # Pharma, GxP, clinical research & regulatory affairs
@@ -82,13 +82,25 @@ Même grille générale pour plusieurs certifications senior :
 | Certified Reliability Engineer — CRE | **550 $** | **450 $** | 🌍 INT |
 | Certified Software Quality Engineer — CSQE | **550 $** | **450 $** | 🌍 INT |
 | Certified Supplier Quality Professional — CSQP | **550 $** | **450 $** | 🌍 INT |
+| Certified Medical Device Auditor — CMDA | **550 $** | **450 $** | 🌍 INT |
+| Certified Manager of Quality/Organizational Excellence — CMQ/OE | **585 $** | **485 $** | 🌍 INT |
 | Six Sigma Black Belt — CSSBB | **585 $** | **485 $** | 🌍 INT |
+| Certified Quality Improvement Associate — CQIA | **434 $** | **334 $** | 🌍 INT |
+| Certified Quality Process Analyst — CQPA | **434 $** | **334 $** | 🌍 INT |
+| Certified Quality Inspector — CQI | **460 $** | **360 $** | 🌍 INT |
+| Certified Quality Technician — CQT | **460 $** | **360 $** | 🌍 INT |
+| Certified Calibration Technician — CCT | **460 $** | **360 $** | 🌍 INT |
 
-Plusieurs de ces examens sont donc **sous 500 € au tarif membre**, même si le membership doit être intégré au TCO si acheté uniquement pour la remise.
+Plusieurs de ces examens sont donc **sous 500 € au tarif membre** (et CQIA/CQPA/CQI/CQT/CCT le sont même au tarif liste), même si le membership doit être intégré au TCO si acheté uniquement pour la remise (ASQ affiche une remise membre standard de 100 $ sur le tarif initial).
+
+## Cas spécifique : food safety / HACCP
+
+**Certified Food Safety and Quality Auditor — CFSQA** (**550 $ liste / 450 $ membre**, 🌍 INT) est le successeur direct du *Certified HACCP Auditor (CHA)*, renommé par ASQ le 1er janvier 2020 — même schéma d'accréditation ANAB, même Body of Knowledge étendu à la food safety au-delà du seul HACCP. C'est la certification individuelle food-safety-audit la plus rigoureusement sourcée trouvée lors de cette revue : les tarifs des organismes de formation « HACCP certification » grand public (ServSafe, cours HACCP Alliance à 99–849 $ selon prestataire) sont des formations/attestations de participation, pas des certifications de personne avec examen accrédité comme le CFSQA — à ne pas les confondre dans le TCO.
 
 Source :
 
 - https://www.asq.org/cert/catalog
+- https://www.asq.org/cert/haccp-auditor
 
 ---
 

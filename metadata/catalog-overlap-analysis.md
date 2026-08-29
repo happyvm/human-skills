@@ -3,7 +3,7 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **99**
-- credential-like table rows scanned: **1448**
+- credential-like table rows scanned: **1455**
 - exact normalized names present in 2+ files: **82**
 - specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
@@ -188,6 +188,7 @@
 | 25 | `business-finance-under-500.md` |
 | 23 | `real-estate-property.md` |
 | 21 | `entrepreneur-growth-finance-ecommerce-ip-2026.md` |
+| 21 | `pharma-clinical-regulatory.md` |
 | 21 | `public-cloud-multicloud-under-500.md` |
 | 19 | `cloud-native-platform-engineering-under-500.md` |
 | 19 | `entrepreneur-eta-family-ess-export-regulated-2026.md` |
@@ -201,7 +202,6 @@
 | 17 | `observability-sre-devops-under-500.md` |
 | 16 | `compliance-aml-fpa-over-500.md` |
 | 15 | `ai-engineering-mlops-agents-under-500.md` |
-| 15 | `storage-data-protection-under-500.md` |
 
 ## Domain row volume
 
@@ -222,12 +222,12 @@
 | 47 | `hr-people` |
 | 40 | `devops-automation` |
 | 32 | `storage-backup` |
+| 32 | `pharma-regulatory` |
 | 28 | `datacenter-facilities` |
 | 27 | `enterprise-software` |
 | 27 | `virtualization` |
 | 27 | `observability` |
 | 25 | `linux` |
-| 25 | `pharma-regulatory` |
 | 23 | `esg-sustainability` |
 | 23 | `real-estate` |
 | 22 | `legal` |
