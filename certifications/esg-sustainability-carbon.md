@@ -260,6 +260,31 @@ Voir : [`paid-over-500.md`](paid-over-500.md).
 
 ---
 
+# 8. GRI Professional Certification Program
+
+**CERT — 🌍 INT — 1 250 €**
+
+Programme de certification du **Global Reporting Initiative**, centré sur la maîtrise des GRI Standards (reporting de durabilité), distinct des credentials climat/carbone GHGMI ci-dessus.
+
+Le prix inclut formation **et** examen dans un seul forfait :
+
+- 4 cours (fondamentaux GRI Standards, human rights reporting, sector standards, paysage du reporting durabilité) ;
+- environ **13 heures** de contenu ;
+- examen final : 40 questions, **60 minutes**, score de passage **75 %** ;
+- accès aux cours : **1 an** à partir de l'achat ;
+- deux formats : self-paced en ligne (Route A) ou instructor-led via un Certified Training Partner (Route B, -25 % sur l'examen) ;
+- retake après échec : 7 jours d'attente, **-50 %** sur l'examen.
+
+- **validité initiale : 1 an**, puis maintien par CEU annuels (Continuing Education Units).
+
+Source :
+
+- https://www.globalreporting.org/academy/certification/
+
+**Pertinence :** pertinent pour un profil reporting/durabilité qui doit produire ou auditer un rapport aux GRI Standards, complémentaire à CFA Sustainable Investing (finance) et GHGMI (carbone technique) plutôt que substituable.
+
+---
+
 # Vue rapide
 
 | Credential | Coût indicatif |
@@ -269,6 +294,7 @@ Voir : [`paid-over-500.md`](paid-over-500.md).
 | GHGMI GHG Verification certificate | **750 $** |
 | GARP SCR | **625–750 $** |
 | CFA Sustainable Investing | **890 $** |
+| GRI Professional Certification Program | **1 250 €** |
 | IFRS FSA Level I+II | **1 100 $ non-membre** |
 | GHGMI Diploma GHG Accounting | **2 250 $** |
 | GHGMI Diploma Carbon Management | **2 750 $** |
@@ -298,6 +324,10 @@ Voir : [`paid-over-500.md`](paid-over-500.md).
 
 **IEMA**.
 
+## Reporting durabilité / GRI Standards
+
+**GRI Professional Certification Program**.
+
 ---
 
 # À poursuivre
@@ -314,7 +344,6 @@ Voir : [`paid-over-500.md`](paid-over-500.md).
 - WELL ;
 - carbon accounting software credentials ;
 - SBTi ;
-- GRI ;
 - CSRD / ESRS ;
 - EFRAG ;
 - sustainability assurance ;

@@ -30,6 +30,7 @@ verified: 2026-08-28
 | IRIS Certification Internal Auditor Training | **2 500 € HT** | Railway quality | officiel UNIFE 2026 |
 | Functional Safety Engineer ISO 26262 | **provider-dependent** | Automotive safety | formation + exam selon TÜV / partner |
 | IATF 16949 auditor | **provider-dependent** | Automotive QMS | formation / qualification dépendante du schéma |
+| intacs ASPICE Process Expert + Provisional Assessor — exemple EU | **4 335 €** (3 185 € formation + 700 € license + 450 € exam) | Automotive SPICE | exemple training provider, non catalogue intacs |
 
 ---
 
@@ -115,6 +116,50 @@ Les termes « IATF certified auditor » peuvent désigner des niveaux et schéma
 
 ---
 
+# 3bis. intacs — Automotive SPICE (ASPICE) Assessor
+
+**QUAL — 🌍 INT**
+
+**intacs** (International Assessor Certification Scheme) délivre les certifications d'assesseur Automotive SPICE, référentiel d'évaluation de maturité process largement exigé par les OEM automobiles pour leurs fournisseurs logiciel/embarqué.
+
+Comme VDA 6.3 et ISO 26262 ci-dessus, il n'existe pas de voie exam-only isolée : formation et certification sont vendues ensemble par des **intacs Training Providers** accrédités, l'examen lui-même étant administré/facturé séparément par le **VDA/ECQA**.
+
+## Parcours
+
+```text
+intacs certified Provisional Assessor
+   (co-assessor sous supervision d'un Assessor confirmé)
+             ↓
+intacs certified Competent Assessor
+   (expérience d'assessments supplémentaire requise)
+```
+
+Un niveau **Process Expert** existe en parallèle/complément, souvent packagé avec le Provisional Assessor dans une formation combinée.
+
+## Exemple de prix — partenaire européen (Knüvener Mackert)
+
+```text
+Formation Process Expert + Provisional Assessor (Combined Lane)   3 185 €
+VDA/ECQA license fee                                                700 €
+VDA/ECQA exam fee                                                   450 €
+                                                          TOTAL   4 335 €
+```
+
+- 7 jours de formation, anglais, format online public ;
+- remises possibles (-10 % à partir de 2 personnes, -15 % à partir de 4, -10 % freelance) et promotions ponctuelles ;
+- license fee et exam fee sont facturés par VDA/ECQA, distincts du prix formation du training provider.
+
+Source :
+
+- https://www.knuevenermackert.com/en/training/training-intacs-certified-process-expert-and-provisional-assessor-automotive-spice
+- https://intacs.info/
+
+**Statut prix : 🟡 exemple d'un training provider, pas un tarif catalogue intacs unique.** Comme pour VDA 6.3 et SABSA, le prix dépend du partenaire, de la région et de la devise — à revérifier avant inscription.
+
+**Pertinence :** profil ingénierie logicielle automobile / embarqué qui doit auditer ou faire auditer la maturité process fournisseur, complémentaire à IATF 16949 (QMS) et ISO 26262 (functional safety) plutôt que substituable.
+
+---
+
 # 4. IRIS Certification — Railway
 
 Le secteur ferroviaire dispose du schéma **IRIS Certification**, piloté par UNIFE.
@@ -166,7 +211,7 @@ Ces qualifications répondent à des besoins très différents :
 - Automotive Core Tools ;
 - VDA 6.5 Product Auditor ;
 - VDA 19.x cleanliness ;
-- ASPICE assessor paths ;
+- ASPICE Competent Assessor — TCO au-delà du Provisional (documenté ci-dessus) ;
 - ISO/SAE 21434 Cybersecurity Engineer ;
 - ISO 26262 Functional Safety Professional / Engineer / Expert ;
 - SOTIF ISO 21448 ;
