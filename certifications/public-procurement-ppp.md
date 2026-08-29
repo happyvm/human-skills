@@ -171,8 +171,8 @@ WorldCC CCM
 - CIPS public procurement tracks ;
 - World Bank procurement credentials ;
 - UN / UNOPS procurement qualifications ;
-- FIDIC Certified Contract Manager ;
+- FIDIC Certified Contract Manager (recherché 2026-08-29, sans résultat direct : prix trouvés uniquement via des pages de partenaires formation — £2 699 LSBU, 1 500 € FIDIC Academy — pas une page officielle FIDIC unique) ;
 - FIDIC Certified Consulting Engineer ;
-- NEC contract accreditation ;
+- NEC contract accreditation (recherché 2026-08-29, sans résultat : page officielle neccontract.com ne publie pas de prix direct) ;
 - marchés publics France / commande publique ;
 - concession / infrastructure finance credentials.

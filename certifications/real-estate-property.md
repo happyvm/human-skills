@@ -35,6 +35,7 @@ verified: 2026-08-28
 | CCIM Candidate membership — International | **195 $/an** | candidacy requise pour portfolio/exam | 🇺🇸 US |
 | CCIM Comprehensive Exam + Core Review | **1 220 $** | + cursus / portfolio / membership | 🇺🇸 US |
 | CCIM Designation — published US member reference | **8 286 $** | reference US, pas France exact | 🇺🇸 US |
+| SIOR — application + initiation + 1ère année dues | **~2 245 $** + chapter dues | 5 ans d'expérience requis | 🇺🇸 US |
 
 ---
 
@@ -247,6 +248,43 @@ Source :
 
 ---
 
+# 8ter. SIOR — Society of Industrial and Office Realtors
+
+**QUAL — 🇺🇸 US**
+
+Désignation senior de courtage commercial (industrial/office), très différente de CCIM en termes de profil visé : SIOR exige déjà **5 ans d'expérience active** et un volume d'affaires minimum (Gross Fee Income), pas seulement un cursus.
+
+## Frais officiels (grille SIOR)
+
+```text
+Application fee                    175 $
+Initiation fee                     725 $   (inclut 1 inscription World Conference)
+Annual dues                      1 345 $   (proratisées la 1ère année)
+Chapter dues                     variable — contacter le chapitre local
+Core Components of Commercial
+  Brokerage course (optionnel)   990–1 650 $
+Comprehensive Entrance Exam
+  (optionnel)                    2 000 $
+```
+
+## Prérequis
+
+- **5 ans minimum** de courtage industrial/office actif ;
+- Gross Fee Income minimum sur 3 des 4 dernières années (seuils par marché) ;
+- 2 endorsements de SIOR designees existants ;
+- adhésion au Code of Ethical Principles ;
+- volet éducation (dispensé si 10+ ans d'expérience et double du seuil GFI).
+
+Source :
+
+- https://www.sior.com/docs/default-source/membership-docs/2-designation-requirements-flyer.pdf
+
+**TCO initial minimal (sans le cursus/exam optionnels) : environ 2 245 $** (175 + 725 + 1 345), puis ~1 345 $/an + chapter dues de maintien.
+
+**Pertinence :** profil courtage commercial déjà établi cherchant une reconnaissance senior US ; pas un point d'entrée comme CCIM Candidate.
+
+---
+
 # 9. TCO
 
 Les deux programmes illustrent parfaitement deux formes de credential :
@@ -283,6 +321,5 @@ multi-course curriculum
 - IFMA / property asset management crossover ;
 - ARGUS Enterprise certification ;
 - ULI / real estate finance credentials ;
-- SIOR ;
 - Appraisal Institute MAI / SRA ;
 - French real-estate regulatory qualifications.

@@ -274,7 +274,7 @@ Source :
 Le domaine datacenter contient encore un important catalogue à cartographier :
 
 - CNet CDCDP / CDCMP / CDCEP — prix officiel exact (actuellement estimation tierce 4 000–6 000 $, voir ci-dessus) ;
-- EPI CDCP / CDCS / CDCE ;
+- EPI CDCP / CDCS / CDCE (recherché 2026-08-29, sans résultat : pages officielles EPI-USA/EPI-AP ne publient pas de prix direct, uniquement sur devis) ;
 - BICSI DCDC long-term TCO / renewal ;
 - BICSI RCDD long-term TCO ;
 - Schneider DCCA prix exact ;
