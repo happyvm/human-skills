@@ -7,7 +7,7 @@
 | `certifications/actuarial-accounting-insurance.md` | 0 | 0 | 0 | 0 |
 | `certifications/audit-finance-project-over-500.md` | 0 | 0 | 0 | 0 |
 | `certifications/business-finance-under-500.md` | 0 | 0 | 0 | 0 |
-| `certifications/business-valuation.md` | 0 | 0 | 1 | 0 |
+| `certifications/business-valuation.md` | 0 | 0 | 0 | 0 |
 | `certifications/compensation-total-rewards.md` | 0 | 0 | 0 | 0 |
 | `certifications/compliance-aml-fpa-over-500.md` | 0 | 0 | 0 | 0 |
 | `certifications/construction-btp-global-2026.md` | 0 | 0 | 0 | 0 |
@@ -25,7 +25,7 @@
 | `certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneur-treasury-cash-pooling-epm-carveout-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneurship-startup-business-creation-2026.md` | 0 | 0 | 0 | 0 |
-| `certifications/facilities-energy-qhse.md` | 0 | 0 | 0 | 0 |
+| `certifications/facilities-energy-qhse.md` | 0 | 0 | 1 | 0 |
 | `certifications/food-safety-trade-logistics.md` | 0 | 0 | 0 | 0 |
 | `certifications/free-non-it.md` | 0 | 0 | 0 | 0 |
 | `certifications/governance-board-over-500.md` | 0 | 0 | 0 | 0 |

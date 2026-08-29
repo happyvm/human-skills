@@ -98,6 +98,31 @@ Les prix varient fortement selon :
 
 Le dépôt doit donc collecter un **TCO France/Europe** avant classement budgétaire définitif.
 
+## TÜV Rheinland FS Engineer — ce qui est confirmé officiellement
+
+Le prix de la formation/examen initial reste **provider-dependent** de l'aveu même de TÜV Rheinland, mais la grille de **maintien** est publiée officiellement :
+
+```text
+Formation + examen initial   ~3 400 $ (exemple training provider, hors grille officielle unique)
+1st Extension (5 ans)        400 € (net)
+2nd Extension — exam         500 € (net)
+2nd Extension — certificate  600 € (net)
+```
+
+Prérequis :
+
+- **3 ans d'expérience pratique** en functional safety (le candidat peut passer l'examen avant, la certification n'est délivrée qu'une fois le seuil atteint) ;
+- diplôme ingénieur ou responsabilités équivalentes validées par l'employeur ;
+- assiduité à la formation + réussite de l'examen.
+
+Validité : **5 ans**, 1st Extension +5 ans (lettre employeur + dossier projet), 2nd Extension +10 ans (nouvel examen + preuve d'activité continue).
+
+Source :
+
+- https://www.tuv.com/landingpage/en/training-functional-safety-cyber-security/detail-pages/zertifikate/fs-engineer.html
+
+**Statut prix initial : 🟡 exemple training provider (sis-tech.com), pas un tarif catalogue TÜV unique** — les frais d'extension ci-dessus, eux, sont directement confirmés sur la page officielle TÜV.
+
 ---
 
 # 3. IATF 16949
@@ -213,7 +238,7 @@ Ces qualifications répondent à des besoins très différents :
 - VDA 19.x cleanliness ;
 - ASPICE Competent Assessor — TCO au-delà du Provisional (documenté ci-dessus) ;
 - ISO/SAE 21434 Cybersecurity Engineer ;
-- ISO 26262 Functional Safety Professional / Engineer / Expert ;
+- ISO 26262 Functional Safety Professional / Expert (Engineer désormais documenté ci-dessus) ;
 - SOTIF ISO 21448 ;
 - TISAX assessor ecosystem.
 

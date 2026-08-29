@@ -87,6 +87,38 @@ Source :
 
 ---
 
+# 2bis. IFMA — Sustainability Facility Professional (SFP)
+
+Contrairement au CFM (expérience) et au FMP (généraliste FM), le **SFP** est une désignation spécialisée sustainability, **sans aucun prérequis** d'expérience ni de credential préalable.
+
+## Structure
+
+- 3 modules obligatoires (Strategy and Alignment ; Managing Sustainable Facility ; Operating Sustainable Facility), chacun avec assessment final ;
+- 3 tentatives par assessment, puis blocage de **30 jours** avant retry ;
+- **pas de renouvellement** une fois obtenu (« SFP for life ») ; — 🌍 INT
+- badge numérique + certificat après validation.
+
+## Prix (grille officielle IFMA)
+
+```text
+SFP Learning System (3 modules + assessments)
+  Default price          1 550 $
+  IFMA Full Member       1 150 $
+```
+
+Un **frais d'application régional additionnel** existait avant le 28/06/2022 (140–250 $ selon tier/région) mais est décrit comme intégré au prix pour les programmes achetés après cette date — à confirmer au checkout actuel.
+
+Source :
+
+- https://www.ifma.org/media/pkmddojk/sfp-candidate-handbook-20220627.pdf
+- https://www.ifma.org/credentials/facility-management-professional-SFP/
+
+**Statut : source officielle mais handbook daté du 27/06/2022 — prix à reconfirmer pour l'édition 2026 avant achat.**
+
+**Pertinence :** profil FM qui veut se spécialiser en sustainability sans repartir sur un cursus généraliste complet (FMP) ni justifier d'expérience (CFM).
+
+---
+
 # 3. Association of Energy Engineers — attention au TCO
 
 Les frais AEE d'application + examen semblent modérés, mais **la plupart des certifications exigent la participation à un approved training program**.
@@ -303,6 +335,8 @@ Une ancienne grille PDF BSI France affichait environ 3 020 €, ce qui illustre 
 | IFMA CFM standard | **910 $** | 🌍 INT |
 | IFMA FMP member bundle | **1 850 $** | 🌍 INT |
 | IFMA FMP standard bundle | **2 150 $** | 🌍 INT |
+| IFMA SFP membre | **1 150 $** 🟡 (source 2022) | 🌍 INT |
+| IFMA SFP standard | **1 550 $** 🟡 (source 2022) | 🌍 INT |
 | BSI ISO 45001 Lead Auditor | **2 495 € + TVA** | 🌍 INT |
 | AEE CEM from-zero | **~1,8–2,95 k$** selon training | 🌍 INT · US std |
 | AEE CMVP from-zero | **~2,3–2,5 k$** | 🌍 INT · US std |
@@ -313,8 +347,8 @@ Une ancienne grille PDF BSI France affichait environ 3 020 €, ce qui illustre 
 
 - NEBOSH General Certificate / Diploma par provider France ;
 - IOSH Chartered membership route ;
-- IFMA SFP ;
-- IWFM ;
+- IFMA SFP — reconfirmer tarif 2026 (handbook officiel trouvé daté 2022, documenté ci-dessus) ;
+- IWFM (recherché 2026-08-29, sans résultat : qualification multi-centres type ILM, un seul provider trouvé à partir de £500, pas de tarif catalogue IWFM unique) ;
 - RICS FM / built environment ;
 - AEE France / Approved Training Partner exact ;
 - PECB ISO 50001 Lead Implementer/Auditor (recherché 2026-08-29, sans résultat : structure des niveaux confirmée sur pecb.com mais aucun prix affiché sans checkout interactif ; le terme « Lead Energy Manager » ne correspond à aucune dénomination PECB réelle) ;
