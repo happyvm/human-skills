@@ -276,35 +276,63 @@ Source :
 
 ---
 
-# EPI / EXIN — CDCP, CDCS, CDCE
+# EPI / EXIN — Data Centre certification framework
 
-**EPI** (organisme néerlandais) propose une gamme de certifications data center dont l'examen est désormais **accrédité et délivré par EXIN** :
-
-- **CDCP** — Certified Data Center Professional, niveau Foundation ;
-- **CDCS** — Certified Data Center Specialist ;
-- **CDCE** — Certified Data Center Expert.
-
-## Ce qui est confirmé officiellement (page examen EXIN)
+**EPI** (organisme néerlandais) maintient un framework complet de certifications data center, dont l'examen est désormais **accrédité et délivré par EXIN**. Il est nettement plus large que les seuls CDCP/CDCS/CDCE déjà réputés :
 
 ```text
-CDCP
+Foundation
+  CDCP    Certified Data Centre Professional
+  CDCS    Certified Data Centre Specialist
+  CDCE    Certified Data Centre Expert
+  CNCDP   Certified Network Cabling Design Professional
+
+Maintenance / Opérations
+  CDFOS   Certified Data Centre Facilities Operations Specialist
+  CDFOM   Certified Data Centre Facilities Operations Manager
+  CDESS   Certified Data Centre Environmental Sustainability Specialist
+
+Risque
+  CDRP    Certified Data Centre Risk Professional
+  CDMS    Certified Data Centre Migration Specialist
+
+Standards / conformité (TIA-942, DCOS)
+  CDLI    Certified DCOS Lead Implementer
+  CDLA    Certified DCOS Lead Auditor
+  CTDC    Certified TIA-942 Design Consultant
+  CTIA    Certified TIA-942 Internal Auditor
+  CTLA    Certified TIA-942 Lead Auditor
+```
+
+## Ce qui est confirmé officiellement (pages examen EXIN)
+
+```text
+CDCP (Foundation, 2 ECTS)
   format          40 questions QCM, 1 heure
   passing score   68 %
   livre ouvert    non
   formation       obligatoire
-  niveau          Foundation (2 ECTS)
+
+CDFOM (Advanced)
+  format          60 questions QCM, 90 minutes
+  passing score   70 %
+  livre ouvert    non
+  formation       obligatoire (prérequis)
+  validité        3 ans
 ```
 
 ## Ce qui n'est pas confirmé
 
-Le prix de la formation (2 jours, EPI) et de l'examen (EXIN) ne sont publiés sur aucune des pages officielles consultées (epi-usainc.com, exin.com) — contact commercial requis. Une source tierce indique **~2 500 $** pour le bundle formation CDCP, à traiter comme indicatif.
+Le prix de la formation (2-3 jours selon credential, EPI) et de l'examen (EXIN) ne sont publiés sur aucune des pages officielles consultées (epi-usainc.com, exin.com) pour aucun des credentials ci-dessus — contact commercial requis systématiquement. Une source tierce indique **~2 500 $** pour le bundle formation CDCP, à traiter comme indicatif.
 
 Sources :
 
 - https://www.exin.com/technologies-software/exin-epi-data-centre-management/certified-data-centre-professional/
+- https://www.exin.com/technologies-software/exin-epi-data-centre-management/certified-data-centre-facilities-operations-manager/
 - https://www.epi-usainc.com/training/certified-data-center-professional-cdcp/
+- https://www.epi-ap.com/services/1/3/2/EPI_Data_Center_Training_Framework
 
-**Verdict :** structure d'examen comparable à un Foundation vendor-neutral classique (proche PECB/EXIN sur d'autres domaines), mais TCO complet non chiffrable sans devis direct — même limite que CNet ci-dessus.
+**Verdict :** structure d'examen comparable à un Foundation/Advanced vendor-neutral classique (proche PECB/EXIN sur d'autres domaines), mais TCO complet non chiffrable sans devis direct pour aucun des credentials — même limite que CNet ci-dessus. Le framework complet (au-delà de CDCP/CDFOM) reste à explorer credential par credential.
 
 ---
 
@@ -328,7 +356,7 @@ Sources :
 Le domaine datacenter contient encore un important catalogue à cartographier :
 
 - CNet CDCDP / CDCMP / CDCEP — prix officiel exact (recherché 2026-08-29, sans résultat : page US officielle confirmée sans prix affiché, contact commercial requis ; ~5 000 $ tiers, cycle de renouvellement 3 ans désormais documenté ci-dessus) ;
-- EPI/EXIN CDCP/CDCS/CDCE — prix formation + examen exact (format d'examen CDCP désormais documenté ci-dessus, recherché 2026-08-29 pour le prix, sans résultat direct) ;
+- EPI/EXIN — prix formation + examen exact pour l'ensemble du framework (CDCP et CDFOM désormais documentés avec format d'examen ci-dessus ; CDCS/CDCE/CNCDP/CDFOS/CDESS/CDRP/CDMS/CDLI/CDLA/CTDC/CTIA/CTLA restent à creuser un par un, recherché 2026-08-29 pour le prix, sans résultat direct) ;
 - BICSI DCDC — frais de recertification exacts (36 CECs confirmés, fee non trouvé — RCDD entièrement documenté ci-dessus) ;
 - Data Center Dynamics / DCD Academy — DCS (Data Center Specialist Design), DCS Ops, DCIE (recherché 2026-08-29, sans résultat : programmes identifiés officiellement mais page prix bloquée en accès direct) ;
 - power/cooling vendor certifications ;
