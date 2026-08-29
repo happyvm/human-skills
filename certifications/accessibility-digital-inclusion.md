@@ -32,6 +32,7 @@ verified: 2026-08-28
 | IAAP WAS | **555 $** | **455 $** | web accessibility technique |
 | IAAP CPACC — Emerging/Developing Economy | **170 $** | — | tarification régionale |
 | IAAP WAS — Emerging/Developing Economy | **225 $** | — | tarification régionale |
+| IAAP ADS | **545 $** 🟡 | **465 $** 🟡 | accessibilité documentaire (Word/PDF/PPT) |
 | DHS Trusted Tester | **self-enrollment ; aucun tarif public affiché** | — | Section 508, vérifier portail avant inscription |
 
 ---
@@ -155,7 +156,31 @@ Sources officielles :
 
 ---
 
-# 5. Stratégie de parcours
+# 5. IAAP — ADS
+
+## Accessible Document Specialist
+
+Credential IAAP spécialisé **documents** (Word, PDF, PowerPoint, Excel, desktop publishing), distinct de CPACC (généraliste) et WAS (web).
+
+Exige **1 à 2 ans d'expérience pratique** en création, remédiation, audit et test de documents accessibles ; la seule connaissance d'outils de vérification automatique ne suffit pas.
+
+Prix examen :
+
+- membre IAAP : **465 $** ;
+- non-membre : **545 $** ;
+- membre + adhésion incluse (145 $/an) : **≈ 610 $** la première année.
+
+Source officielle :
+
+- https://www.accessibilityassociation.org/ads-exam
+
+**Statut prix : 🟡 partiellement confirmé.** La page officielle IAAP est rendue en JavaScript et n'a pas pu être vérifiée directement par ce dépôt ; les montants ci-dessus sont corroborés par la grille de tarifs IAAP publiée pour CPACC/WAS et par plusieurs sources tierces convergentes — **à revérifier avant achat**.
+
+**Valeur : ⭐⭐⭐⭐** pour un profil déjà orienté production documentaire (publishing, communication interne, secteur public, édition).
+
+---
+
+# 6. Stratégie de parcours
 
 ## Gouvernance / management accessibility
 
@@ -193,7 +218,7 @@ L'accessibilité peut être combinée avec :
 
 # À poursuivre
 
-- IAAP ADS — Accessible Document Specialist ;
+- IAAP ADS — prix exact à reconfirmer directement sur le portail (page officielle rendue en JS, non vérifiable automatiquement) ;
 - IAAP CPABE / built environment credentials si disponibles ;
 - Deque University credentials ;
 - Trusted Tester exact portal fee / access conditions ;
