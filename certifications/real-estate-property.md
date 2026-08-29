@@ -85,6 +85,14 @@ Candidate subscription 212 €
 
 avant éventuels frais de formation, préparation, retake ou expérience professionnelle.
 
+## Retake
+
+En cas de referral, RICS facture un **resit fee de 414 € par tentative supplémentaire** (route APC/Senior Professional/Specialist, zone Europe).
+
+Source :
+
+- https://www.rics.org/renew-my-membership/professional-fees
+
 ## Après qualification
 
 - Chartered Election Fee Europe : **193 €** ;
@@ -117,6 +125,14 @@ avant autres coûts.
 - Associate annual subscription France : **319 €/an**.
 
 Le ticket d'entrée est donc nettement plus faible que MRICS, mais il s'agit d'un grade différent.
+
+## Retake
+
+Resit fee Associate, zone Europe : **100 € par tentative supplémentaire**.
+
+Source :
+
+- https://www.rics.org/renew-my-membership/professional-fees
 
 ---
 
@@ -348,13 +364,12 @@ multi-course curriculum
 
 - exact CCIM France/Europe course delivery pricing (TCO US officiel 8 286 \$ membre / 11 810 \$ non-membre déjà confirmé) ;
 - RICS APC preparation providers France ;
-- RICS Assessment retakes ;
 - RICS Valuer Registration ;
 - RICS Registered Valuer ;
 - TEGoVA TRV (autre variante que REV) ;
 - IREM CPM (recherché 2026-08-29, sans résultat fiable : pages officielles irem.org bloquées, chiffres tiers contradictoires selon la source/l'année — 425 $ vs 725 $ d'enrollment fee trouvés) ;
 - IFMA / property asset management crossover ;
 - ARGUS Enterprise certification ;
-- ULI / real estate finance credentials ;
+- ULI / real estate finance credentials (recherché 2026-08-29, sans résultat fiable : seul chiffre trouvé date de 2022, page officielle learning.uli.org non exploitable en accès direct) ;
 - Appraisal Institute SRA (résidentiel, MAI désormais documenté ci-dessus) — nombre de modules d'examen requis par parcours ;
 - French real-estate regulatory qualifications.

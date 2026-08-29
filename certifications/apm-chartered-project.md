@@ -33,6 +33,8 @@ verified: 2026-08-28
 | Pathway 3 | **£900** | **£1 080** | recognised professional practice |
 | Pathway 4 | **£300** | **£360** | technical + professional practice already recognised |
 | Annual ChPP registration | **£99/an + VAT** | **£118.80** | après award |
+| PFQ exam-only | **£260,40 membre / £278,40 non-membre** | — | qualification indépendante |
+| PMQ exam-only | **£528 membre / £648 non-membre** | — | qualification indépendante |
 
 ---
 
@@ -114,7 +116,7 @@ Même grille :
 - stage 2 : **£425 HT / £510 TTC** ;
 - total : **£900 HT / £1 080 TTC**.
 
-APM cite notamment le **APM Project Management Qualification — PMQ** dans les mécanismes de validation / recognised assessment selon critères.
+APM cite notamment le **APM Project Management Qualification — PMQ** dans les mécanismes de validation / recognised assessment selon critères — voir §4bis pour son prix exam-only.
 
 Source :
 
@@ -134,6 +136,36 @@ C'est un excellent exemple de credential dont le TCO dépend énormément des qu
 Source :
 
 - https://www.apm.org.uk/chartered-standard/pathway-4/
+
+---
+
+# 4bis. PFQ et PMQ — les qualifications d'entrée exam-only
+
+Contrairement au ChPP (chartered status, ci-dessus), **PFQ** et **PMQ** sont des qualifications indépendantes, accessibles en **exam-only** sans formation obligatoire, et servent aussi de recognised assessment pour les Pathways 2/3 du ChPP.
+
+## Prix officiels (grille APM, open online exams)
+
+```text
+PFQ — Project Fundamentals Qualification
+  membre         260,40 £
+  non-membre     278,40 £
+  resit          207,60 £
+  format         60 minutes
+
+PMQ — Project Management Qualification
+  membre         528,00 £
+  non-membre     648,00 £
+  resit          471,60 £
+  format         2 h 30, pause optionnelle de 30 min
+```
+
+PMQ vise un profil avec **2-3 ans d'expérience** en gestion de projet ; PFQ est un niveau de sensibilisation.
+
+Source :
+
+- https://www.apm.org.uk/qualifications-and-training/qualifications-find-out-more/open-exams/
+
+**Positionnement :** PFQ/PMQ sont des credentials à part entière (utiles seuls sur un CV early-career), et PMQ en particulier peut ensuite servir de recognised assessment pour accélérer un Pathway 2/3 du ChPP plutôt que de repartir sur le Pathway 1 complet.
 
 ---
 
@@ -225,8 +257,6 @@ hors CPD, membership APM facultative/complémentaire, préparation, retake et fi
 
 # À poursuivre
 
-- APM PMQ price exam-only / provider France ;
-- APM PFQ ;
 - APM Project Professional Qualification ;
 - APM Risk Certificates ;
 - APM membership fees France / international ;
