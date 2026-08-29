@@ -234,6 +234,37 @@ Source :
 
 ---
 
+# 5. GIAC GICSP — Global Industrial Cyber Security Professional
+
+**CERT — 🌍 INT**
+
+Contrairement aux certifications ISA/IEC 62443 ci-dessus (cybersécurité process/lifecycle), le GICSP de GIAC/SANS valide des compétences **techniques hands-on** à l'intersection IT/OT/ICS, avec un format d'examen **CyberLive** (labs pratiques plutôt que QCM pur).
+
+## Prix (grille officielle GIAC)
+
+```text
+Tentative initiale         999 $
+Retake                     899 $
+Extension de tentative     479 $
+Renouvellement             499 $
+Practice exam               399 $
+```
+
+- 82 questions, **3 heures**, score de passage **71 %** ;
+- validité de la fenêtre d'examen : **120 jours** depuis l'activation ;
+- maintien via crédits CPE.
+
+Source :
+
+- https://www.giac.org/certification/global-industrial-cyber-security-professional-gicsp
+- https://www.giac.org/pricing
+
+Le prix standalone (999 $) ne suit pas nécessairement le training SANS ICS410 associé, dont le bundle formation + examen est nettement plus élevé (~8 780 $ selon sources tierces, à vérifier au catalogue SANS avant de le figer).
+
+**Valeur : ⭐⭐⭐⭐⭐** pour un profil réellement à cheval IT/OT, contrairement à ISA CAP (plus généraliste automation) ou ISA/IEC 62443 (plus process/gouvernance).
+
+---
+
 # Lecture valeur / coût
 
 ## Automatisme général
@@ -272,7 +303,6 @@ Les certificates ISA SIS visent des profils industriels beaucoup plus spécialis
 
 - TÜV Functional Safety Engineer ;
 - exida CFSE / CFSP ;
-- GIAC GICSP ;
 - Dragos certifications ;
 - SANS ICS tracks ;
 - Siemens SITRAIN certifications ;
