@@ -34,6 +34,7 @@ verified: 2026-08-28
 | Prosci Change Management Certification — online Europe | **3 386 € HT / hors taxes applicables** | Change Management |
 | Prosci Change Management Certification — présentiel Europe | **3 810 € HT / hors taxes applicables** | Change Management |
 | SABSA Foundation — exemple AEP Europe | **3 200 € HT** | Enterprise Security Architecture |
+| SABSA Practitioner (module Advanced A1) — exemple AEP APAC | **4 850 AU$ virtuel / 5 450 AU$ présentiel + GST** | Enterprise Security Architecture |
 | Prosci PCACP | **545 € exam Europe**, mais prérequis très coûteux | Advanced Change Management |
 
 ---
@@ -141,6 +142,40 @@ Une adhésion SABSA Institute est proposée à **£50/an**, mais elle doit être
 Source :
 
 - https://sabsa.org/membership-benefits/
+
+## SABSA Practitioner (SCP) — modules Advanced
+
+Comme pour Foundation, il n'existe pas de voie self-study + exam isolé : le Practitioner (**SABSA Chartered Architect — Practitioner, SCPR**) s'obtient en réussissant **un seul module Advanced au choix parmi A1 à A5** (Risk Assurance & Governance, Architectural Design, etc.), chacun vendu comme un bloc formation + examen par un AEP.
+
+```text
+SABSA Foundation (prérequis obligatoire)
+             ↓
+1 module Advanced (A1–A5)
+             ↓
+SABSA Chartered Architect — Practitioner (SCPR)
+```
+
+Exemples de prix observés (2026) :
+
+```text
+David Lynas Consulting — A1, 5 jours    prix variable selon devise/région du site
+ALC Training — A1 virtuel               4 850 AU$ + GST
+ALC Training — A1 présentiel            5 450 AU$ + GST
+```
+
+Les deux formats incluent l'examen (QCM/ouvert selon partenaire) et le badge Credly ; ALC précise un examen **open-book, project-based**, avec choix de 2 questions sur 5 et un délai de rendu de 4 semaines.
+
+Sources :
+
+- https://davidlynas.com/sabsa-training/sabsa-a1-risk-assurance-governance/
+- https://alctraining.com.au/course/sabsa-advanced-risk-assurance-governance/
+- https://sabsa.org/certification/
+
+**Statut prix : 🟡 exemples de partenaires AEP, pas de tarif catalogue unique publié par le SABSA Institute.** Comme pour Foundation, le prix dépend du partenaire, de la devise et de la région — à revérifier au moment de l'inscription.
+
+**TCO combiné Foundation + Practitioner (un seul module Advanced), ordre de grandeur** : env. **3 200 € + 3 000–3 500 €** selon partenaire/devise, soit environ **6 000–7 000 €** avant taxes — donc un palier nettement au-dessus de TOGAF ou CISSP pour un profil équivalent.
+
+Master (SCM) nécessite les cinq modules Advanced A1–A5 et reste hors du périmètre TCO documenté ici : voir `research/over-500-watchlist.md`.
 
 **Valeur CV : ⭐⭐⭐⭐⭐** pour Enterprise Security Architect / Security Architecture.
 
@@ -443,7 +478,7 @@ Source de consolidation 2026 :
 - CIPS procurement qualifications ;
 - HRCI et SHRM renouvellement complet ;
 - Prosci PCACP full-path chiffré module par module ;
-- SABSA Practitioner / Master ;
+- SABSA Master (SCM, 5 modules Advanced) — TCO complet ;
 - BCS Business Analysis ;
 - DAMA maintenance / renouvellement ;
 - Board / governance credentials (IoD, NACD et équivalents européens).

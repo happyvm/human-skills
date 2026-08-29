@@ -386,6 +386,23 @@ La grille Professional AWS France est généralement **256 €**, à confirmer a
 
 ---
 
+# Hugging Face — certificats gratuits (pas des certifications proctorées)
+
+Hugging Face propose via **Hugging Face Learn** plusieurs parcours gratuits avec certificat de complétion à la clé (Deep RL Course, LLM Course, Agents Course, selon catalogue actif) :
+
+- **0 €**, aucune inscription payante ;
+- évaluation par exercices/quiz notés dans le parcours, pas d'examen surveillé unique ;
+- deux niveaux fréquents : certificat de complétion (~80 % des exercices) et certificat d'excellence (100 %) ;
+- pas de date d'expiration publiée, contrairement aux certifications vendor ci-dessus.
+
+Source :
+
+- https://huggingface.co/learn
+
+**Niveau de preuve : attestation / certificat de formation**, pas une certification professionnelle proctorée — à ne pas positionner au même niveau que NVIDIA/AWS/Google/Microsoft dans ce fichier. Utile en complément gratuit avant d'investir dans un examen payant, pas comme substitut.
+
+---
+
 # Roadmap AI engineer rentable
 
 ## Cloud + agents
@@ -436,7 +453,6 @@ NVIDIA AI Networking Pro            400 $
 - Google Gemini Enterprise / Agent Platform future credentials ;
 - IBM watsonx already documented separately ;
 - Oracle AI / Agentic Professional paid tracks 2026 ;
-- Hugging Face certifications éventuelles ;
 - MLOps vendor-neutral credentials ;
 - MLflow ;
 - Kubeflow ;

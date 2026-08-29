@@ -3,7 +3,7 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **97**
-- credential-like table rows scanned: **1401**
+- credential-like table rows scanned: **1402**
 - exact normalized names present in 2+ files: **82**
 - specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
@@ -73,7 +73,7 @@
 ### GPHR
 
 - `compensation-total-rewards.md:137` — `| GPHR | 100 $ | 495 $ | **595 $** | 🌍 INT |`
-- `management-transformation-over-500.md:248` — `| GPHR | 100 $ | 495 $ | **595 $** |`
+- `management-transformation-over-500.md:283` — `| GPHR | 100 $ | 495 $ | **595 $** |`
 
 ### HRCI SPHR / SPHRi / GPHR
 
@@ -211,7 +211,7 @@
 | 252 | `finance-risk` |
 | 175 | `general-it` |
 | 162 | `business-management` |
-| 84 | `governance-grc` |
+| 85 | `governance-grc` |
 | 81 | `governance` |
 | 78 | `security` |
 | 72 | `supply-chain` |
