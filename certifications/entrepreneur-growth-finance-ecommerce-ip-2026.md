@@ -39,7 +39,8 @@ verified: 2026-08-28
 | Venture finance | VC University ONLINE | COURSE + certificat | **1 500 $ early-bird / 1 850 $ standard** | TRÈS HAUTE startup | 🌍 INT · US-origin |
 | Négociation | Harvard PON Negotiation Essentials Online | COURSE + certificat | **2 497 $** | HAUTE / premium | 🌍 INT · US-origin |
 | Credit management | CICM Level 3 Diploma in Credit & Collections | QUAL | **3 415 £** package virtual-class indicatif | HAUTE B2B / recouvrement | 🌍 INT · UK-origin |
-| E-commerce Shopify | Shopify Academy Verified Skills | BADGE | assessment payant selon skill | MOYENNE/HAUTE si Shopify | 🌍 INT |
+| E-commerce Shopify | Shopify Academy Verified Skills | BADGE | **149 $ standard / 249 $ advanced** par assessment | MOYENNE/HAUTE si Shopify | 🌍 INT |
+| Social ads Meta | Meta Certified (ex-Blueprint) — Digital Marketing Associate | CERT | **150 $** par examen | HAUTE si Meta Ads / social commerce | 🌍 INT |
 
 ---
 
@@ -284,15 +285,42 @@ Sources :
 
 Shopify Academy combine contenu gratuit et **verified skills assessments payants**.
 
+- assessments standard (Shopify Development Fundamentals, Marketing Fundamentals, POS Launch and Operations, etc.) : **149 $** ;
+- assessments advanced (Developing Apps for Shopify, Liquid Storefronts for Theme Developers) : **249 $** ;
 - badge Credly après réussite ;
-- prix selon l'assessment ;
 - retake payant selon skill ;
 - badge valable **2 ans** ;
 - particulièrement utile pour une agence, un intégrateur ou une entreprise qui exploite réellement Shopify.
 
-Source : https://help.shopify.com/en/partners/grow-your-business/shopify-academy
+Sources :
+
+- https://help.shopify.com/en/partners/grow-your-business/shopify-academy
+- https://www.shopifyacademy.com/page/verified-skills
 
 > Ne pas traiter un Shopify Verified Skill comme une qualification générale e-commerce : c'est avant tout une preuve de maîtrise de l'écosystème Shopify.
+
+---
+
+## Meta Certified (ex-Facebook/Meta Blueprint) — social ads
+
+**CERT — 🌍 INT**
+
+Meta a fusionné son ancien programme Blueprint dans **Meta Certified**. La formation reste gratuite, seul l'examen est payant.
+
+- **150 $** par examen (ex. Digital Marketing Associate 100-101) ;
+- 60 questions, **90 minutes**, format QCM/scénarios, banque de questions rotative ;
+- délivré via Pearson VUE, en ligne surveillé ;
+- retake : 5 jours d'attente après un premier échec, 30 jours après un second, plein tarif à chaque tentative ;
+- **validité : 1 an**, rappel de renouvellement envoyé 6 mois avant expiration.
+
+Sources :
+
+- https://www.facebook.com/business/learn/certification
+- https://en-gb.facebook.com/business/learn/certification/exams/100-101-exam
+
+**Statut prix : 🟡 partiellement confirmé.** Les pages officielles Meta for Business nécessitent une connexion pour afficher le détail complet de l'examen ; le prix et le format ci-dessus sont corroborés par plusieurs sources indépendantes convergentes (guides 2026, pages FAQ Meta accessibles hors connexion) — **à revérifier au checkout**, le tarif pouvant varier par pays.
+
+> Pertinent pour toute entreprise qui fait du social commerce ou de la publicité Meta/Instagram en interne plutôt que via une agence.
 
 ---
 
@@ -382,6 +410,7 @@ WorldCC / négociation selon complexité commerciale
 Google Ads + Analytics
 + Amazon Ads Academy si Amazon
 + Shopify Verified Skills si Shopify
++ Meta Certified si social ads / social commerce
 + WIPO DL-101 pour marque/design/IP
 ```
 
@@ -420,4 +449,5 @@ droit fiscal / insolvabilité / procédure / licence réglementée
 - Harvard PON : https://www.pon.harvard.edu/executive-education/
 - Amazon Ads Academy : https://advertising.amazon.com/academy/certifications?activeLocale=fr-fr
 - Shopify Academy : https://help.shopify.com/en/partners/grow-your-business/shopify-academy
+- Meta Certified : https://www.facebook.com/business/learn/certification
 - WIPO Academy : https://welc.wipo.int/acc/index.jsf?lang=fr&page=courseCatalog.xhtml

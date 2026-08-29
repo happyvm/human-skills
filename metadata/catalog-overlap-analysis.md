@@ -3,7 +3,7 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **97**
-- credential-like table rows scanned: **1394**
+- credential-like table rows scanned: **1399**
 - exact normalized names present in 2+ files: **82**
 - specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
@@ -123,7 +123,7 @@
 
 ### OpenTelemetry Certified Associate
 
-- `cloud-native-platform-engineering-under-500.md:39` — `| OpenTelemetry Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
+- `cloud-native-platform-engineering-under-500.md:40` — `| OpenTelemetry Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
 - `observability-sre-devops-under-500.md:36` — `| OpenTelemetry Certified Associate | **250 $** | CNCF |`
 
 ### PMI Construction Professional — PMI-CP
@@ -138,7 +138,7 @@
 
 ### Prometheus Certified Associate
 
-- `cloud-native-platform-engineering-under-500.md:36` — `| Prometheus Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
+- `cloud-native-platform-engineering-under-500.md:37` — `| Prometheus Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
 - `observability-sre-devops-under-500.md:35` — `| Prometheus Certified Associate | **250 $** | CNCF |`
 
 ### Red Hat exam standard
@@ -178,20 +178,20 @@
 | 48 | `practical-cyber-under-500.md` |
 | 40 | `tools-platforms-under-500.md` |
 | 39 | `networking-wireless-ai-infra.md` |
+| 37 | `entrepreneur-international-functional-credentials-2026.md` |
 | 34 | `audit-finance-project-over-500.md` |
-| 34 | `entrepreneur-international-functional-credentials-2026.md` |
 | 30 | `actuarial-accounting-insurance.md` |
 | 29 | `entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md` |
 | 28 | `hr-people-hrtech.md` |
 | 27 | `entrepreneur-treasury-cash-pooling-epm-carveout-2026.md` |
 | 26 | `network-security-adc-sase-under-500.md` |
 | 25 | `business-finance-under-500.md` |
+| 21 | `entrepreneur-growth-finance-ecommerce-ip-2026.md` |
 | 21 | `public-cloud-multicloud-under-500.md` |
 | 21 | `real-estate-property.md` |
-| 20 | `entrepreneur-growth-finance-ecommerce-ip-2026.md` |
+| 19 | `cloud-native-platform-engineering-under-500.md` |
 | 19 | `entrepreneur-eta-family-ess-export-regulated-2026.md` |
 | 19 | `language-certifications.md` |
-| 18 | `cloud-native-platform-engineering-under-500.md` |
 | 18 | `entrepreneur-france-practical-resources-2026.md` |
 | 17 | `ibm-enterprise-security-ai-under-500.md` |
 | 17 | `lean-it-lean-management-2026.md` |
@@ -207,17 +207,17 @@
 
 | Rows | Domain |
 |---:|---|
-| 260 | `entrepreneurship` |
-| 251 | `finance-risk` |
+| 264 | `entrepreneurship` |
+| 252 | `finance-risk` |
 | 175 | `general-it` |
-| 159 | `business-management` |
+| 162 | `business-management` |
 | 84 | `governance-grc` |
 | 81 | `governance` |
 | 78 | `security` |
 | 72 | `supply-chain` |
 | 69 | `ai-infrastructure` |
 | 60 | `network` |
-| 54 | `business-soft-skills` |
+| 55 | `business-soft-skills` |
 | 45 | `itsm-middleware` |
 | 44 | `hr-people` |
 | 40 | `devops-automation` |
@@ -232,8 +232,8 @@
 | 21 | `real-estate` |
 | 20 | `esg-sustainability` |
 | 20 | `legal` |
+| 19 | `kubernetes-platform` |
 | 19 | `language` |
-| 18 | `kubernetes-platform` |
 | 16 | `industrial-ot` |
 | 13 | `sustainability` |
 | 12 | `data-database` |

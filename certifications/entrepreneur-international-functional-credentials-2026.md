@@ -57,9 +57,12 @@ pour un entrepreneur opérant depuis la France ?
 | Management commercial | HubSpot Sales Management | **0 €** | HAUTE | 🌍 INT |
 | Marketing | HubSpot Digital Marketing | **0 €** | TRÈS HAUTE | 🌍 INT |
 | Marketing | Google Ads certifications | **0 €** | TRÈS HAUTE | 🌍 INT |
+| Marketing / contenu | Canva Design School certifications | **0 €** | MOYENNE | 🌍 INT |
 | Marketing | AMA PCM Marketing Management — exam only | **249 $ membre / 349 $ non-membre** | HAUTE | 🌍 INT · US-origin |
 | CRM | Salesforce Platform Foundations | **75 $ + taxes** | MOYENNE | 🌍 INT |
 | Projet / exécution | Scrum.org PSM I | **200 $** | HAUTE | 🌍 INT |
+| Outil / productivité | Notion Certified Administrator | **100 $** 🟡 | MOYENNE/HAUTE si Notion | 🌍 INT |
+| Outil / productivité | Notion Certified Technical Specialist | **150 $** 🟡 | MOYENNE/HAUTE si Notion | 🌍 INT |
 | Process / qualité | ASQ Six Sigma Yellow Belt | **334 $ membre / 434 $ list** | HAUTE si process-heavy | 🌍 INT · US-origin |
 | Process / qualité | ASQ Six Sigma Green Belt | **383 $ membre / 483 $ list** | HAUTE si scale/ops | 🌍 INT · US-origin |
 | Contrats B2B | WorldCC CCM Associate | **780 $ + membership pour activer le credential** | TRÈS HAUTE B2B | 🌍 INT |
@@ -208,6 +211,25 @@ Source :
 
 ---
 
+## Canva Design School — certifications gratuites
+
+**CERT — 🌍 INT — 0 €**
+
+Canva a élargi en 2026 son catalogue de certifications gratuites et auto-rythmées via **Design School**, avec des parcours par métier (marketing, éducation, création de contenu) plutôt que par outil.
+
+- cours + évaluation gratuits ;
+- certificat partageable sur LinkedIn / CV à la réussite ;
+- pas d'examen surveillé au sens classique (évaluation de type pratique/quiz intégrée au parcours).
+
+Source :
+
+- https://www.canva.com/design-school/
+- https://www.canva.com/newsroom/news/new-canva-courses/
+
+**Pertinence FR : MOYENNE**, utile surtout pour un solopreneur ou une petite structure qui produit son propre contenu visuel (réseaux sociaux, pitch decks, supports commerciaux) sans designer dédié.
+
+---
+
 ## AMA PCM — Marketing Management
 
 **CERT — 🌍 INT · US-origin**
@@ -313,6 +335,32 @@ Source :
 **Pertinence FR : HAUTE.**
 
 Il ne faut pas forcément « faire du Scrum » dans toute la société : l'intérêt pour un entrepreneur est surtout d'acquérir une discipline d'exécution.
+
+---
+
+## Notion Certified — Administrator / Technical Specialist
+
+**CERT — 🌍 INT**
+
+Notion propose depuis 2025 un programme de certification à deux niveaux, utile pour toute petite structure qui construit son système d'exploitation interne (docs, wiki, gestion de projet, base de connaissances) sur Notion plutôt que sur des outils séparés.
+
+```text
+Notion Certified Administrator            100 $
+Notion Certified Technical Specialist     150 $
+```
+
+- examen en ligne, ~90 minutes, score de passage 75 % ;
+- badges (gratuits) et certifications distincts : les badges valident des compétences ponctuelles, les certifications valident un rôle complet ;
+- **validité : 2 ans**, recertification requise ensuite.
+
+Source :
+
+- https://academy.notion.com/notion-certified-administrator-exam
+- https://www.notion.com/help/badges-and-certifications
+
+**Statut prix : 🟡 partiellement confirmé.** Les pages officielles Notion Academy n'ont pas pu être vérifiées directement (accès restreint) ; les montants ci-dessus sont corroborés par plusieurs sources convergentes — **à revérifier sur `academy.notion.com` avant achat**.
+
+**Pertinence FR : MOYENNE**, HAUTE si l'entreprise a déjà fait de Notion son outil central (documentation, process, base de connaissances client).
 
 ---
 

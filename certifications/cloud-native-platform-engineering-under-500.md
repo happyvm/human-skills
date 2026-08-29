@@ -31,6 +31,7 @@ verified: 2026-08-28
 | SUSE SCA Rancher Prime | **149 $** | QCM | ⭐⭐⭐⭐ |
 | SUSE SCA RKE2 | **149 $** | QCM | ⭐⭐⭐⭐ |
 | SUSE Deployment Specialist RKE2 | **149 $** | QCM | ⭐⭐⭐⭐ |
+| Docker Certified Associate (DCA) | **199 $ / 200 €** | remote proctored QCM | ⭐⭐⭐⭐ |
 | KCNA | **250 $** | proctored QCM | ⭐⭐⭐ |
 | KCSA | **250 $** | proctored QCM | ⭐⭐⭐⭐ |
 | Prometheus Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |
@@ -345,6 +346,26 @@ Le programme mérite une surveillance élevée : il peut devenir un concurrent d
 
 ---
 
+# Docker Certified Associate (DCA)
+
+**199 $ / 200 €** par tentative (Mirantis, ex-Docker Inc.), packs multi-examens (10/25/50/100) disponibles avec remise.
+
+- 55 questions (13 QCM + 42 discrete option multiple choice) en **90 minutes** ;
+- surveillance à distance via Zoom, disponible mondialement en anglais ;
+- **6 à 12 mois d'expérience Docker recommandés**, pas de prérequis de formation obligatoire ;
+- résultat immédiat, certificat sous 48 h ouvrées ;
+- retake : 14 jours d'attente, plein tarif ;
+- **validité : 2 ans**, renouvellement par nouvel examen.
+
+Sources :
+
+- https://training.mirantis.com/certification/dca-certification-exam/
+- https://store.mirantis.com/product/docker-certified-associate-dca/
+
+**Valeur / prix : ⭐⭐⭐⭐** — reste le seul examen éditeur dédié containers/Docker Engine/Swarm, complémentaire aux certifications Kubernetes CNCF ci-dessus qui ne couvrent pas Docker lui-même.
+
+---
+
 # HashiCorp — évolution 2026
 
 Terraform Associate reste documenté dans le catalogue général.
@@ -396,7 +417,6 @@ Pour un profil très senior, **CKA + CNPE + PCA/OTCA + CCA** donne probablement 
 - Flux ;
 - Tekton ;
 - OpenTofu ;
-- HashiCorp Vault ;
 - Nomad ;
 - Platform Engineering certifications hors LF/CNCF ;
 - SRE credentials ;

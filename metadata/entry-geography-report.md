@@ -15,15 +15,15 @@
 | `certifications/construction-btp-specialties-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneur-artisan-agri-uk-microcredentials-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md` | 0 | 0 | 0 | 0 |
-| `certifications/entrepreneur-essential-operations-2026.md` | 0 | 0 | 1 | 0 |
+| `certifications/entrepreneur-essential-operations-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneur-eta-family-ess-export-regulated-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneur-france-practical-resources-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneur-group-finance-private-credit-pmi-corpdev-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneur-growth-finance-ecommerce-ip-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneur-holding-lbo-impact-cooperative-governance-2026.md` | 0 | 0 | 0 | 0 |
-| `certifications/entrepreneur-international-functional-credentials-2026.md` | 0 | 0 | 1 | 0 |
+| `certifications/entrepreneur-international-functional-credentials-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneur-transfer-franchise-risk-financing-france-2026.md` | 0 | 0 | 0 | 0 |
-| `certifications/entrepreneur-treasury-cash-pooling-epm-carveout-2026.md` | 0 | 0 | 2 | 0 |
+| `certifications/entrepreneur-treasury-cash-pooling-epm-carveout-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/entrepreneurship-startup-business-creation-2026.md` | 0 | 0 | 0 | 0 |
 | `certifications/facilities-energy-qhse.md` | 0 | 0 | 0 | 0 |
 | `certifications/food-safety-trade-logistics.md` | 0 | 0 | 0 | 0 |
@@ -43,12 +43,11 @@
 - catalogues `mixed` analysés : **33** ;
 - tableaux credential annotés : **0** ;
 - lignes de tableaux annotées : **0** ;
-- bullets credential annotés : **4** ;
+- bullets credential annotés : **0** ;
 - lignes restant `❓ UNV` : **0**.
 
 ### Répartition des labels appliqués
 
-- `international` : **4**
 
 ## Lignes `❓ UNV` à vérifier
 
