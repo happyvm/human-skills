@@ -124,6 +124,8 @@ En Comprehensive :
 
 avant éventuels resits / autres frais.
 
+Confirmé sur la page officielle Exam Information : **inscription anticipée = jusqu'à 80 $ de réduction par examen**, et **un retake dans la même fenêtre d'examen bénéficie de la même réduction de 80 $** plutôt que le plein tarif.
+
 **Ethics 311 est proposé gratuitement** dans plusieurs pathways The Institutes.
 
 Le matriculation reste une exigence distincte de la simple réussite des examens.
@@ -134,18 +136,20 @@ Le matriculation reste une exigence distincte de la simple réussite des examens
 
 Le pathway ARM est intégré à l'écosystème The Institutes et peut ensuite être réutilisé vers CPCU.
 
-Structure mise en avant :
+## Prix officiels 2026 (Order Form for Study Materials, édition 3)
 
-- ARM 400 ;
-- ARM 401 ;
-- ARM 402 ;
-- Ethics 311 / 312 selon pathway.
+```text
+ARM 400 — Risk in an Evolving World          515 $ Comprehensive / 415 $ Recommended
+ARM 401 — Holistically Assessing Risk        515 $ Comprehensive / 415 $ Recommended
+ARM 402 — Successfully Treating Risk         515 $ Comprehensive / 415 $ Recommended
+```
 
-Le prix doit être relevé au package actif de chaque cours ; les catalogues The Institutes 2026 utilisent fréquemment une logique de packages autour de quelques centaines de dollars par unité.
+Soit **1 245 $ en Recommended** pour les 3 unités (Ethics 311/312 généralement gratuit selon pathway, comme pour CPCU).
 
 Source :
 
 - https://web.theinstitutes.org/designations/arm-path-cpcu
+- https://web.theinstitutes.org/sites/default/files/2026-04/2026-pricelist-041526.pdf
 
 ### Intérêt
 
@@ -160,16 +164,47 @@ Très bon credential pour :
 
 # 4. ARe — Associate in Reinsurance
 
-The Institutes maintient des cours reinsurance utilisables comme electives et pour la designation ARe, notamment :
+The Institutes maintient des cours reinsurance utilisables comme electives et pour la designation ARe.
 
-- ARe 321 — Exploring Reinsurance Products and Transactions ;
-- autres unités du pathway actif.
+## Prix officiels 2026 (Order Form for Study Materials, édition 3)
+
+```text
+ARe 320 — Serving the Reinsurance Customer                         415 $
+ARe 321 — Exploring Reinsurance Products and Transactions          415 $
+ARe 322 — Developing and Executing Treaty Reinsurance Contracts    415 $
+```
+
+Contrairement à ARM/CPCU, ces unités ARe ne proposent qu'un seul niveau de package (pas de distinction Comprehensive/Recommended) — soit **1 245 $** pour les 3 unités.
 
 Les cours The Institutes peuvent également fournir des crédits vers d'autres designations, ce qui rend le TCO d'une combinaison ARM + ARe + CPCU potentiellement inférieur à la somme de trois parcours isolés.
 
-Source générale :
+Source :
 
 - https://web.theinstitutes.org/
+- https://web.theinstitutes.org/sites/default/files/2026-04/2026-pricelist-041526.pdf
+
+---
+
+# 4bis. AU, AIC, AINS — autres designations The Institutes
+
+Toujours sur la même grille officielle 2026, trois autres familles de designations fréquemment citées :
+
+```text
+AU — Associate in Commercial Underwriting (AU 60/61/62/67)
+  515 $ Comprehensive / 415 $ Recommended par unité — 4 unités = ~1 660 $ en Recommended
+
+AIC — Associate in Claims (AIC 300/301/302/303/304/305/330)
+  419 $ par unité, package unique — 7 unités = ~2 933 $
+
+AINS — Associate in General Insurance (AINS 101/102/103)
+  359 $ par unité, package unique — 3 unités = ~1 077 $
+```
+
+Source :
+
+- https://web.theinstitutes.org/sites/default/files/2026-04/2026-pricelist-041526.pdf
+
+Comme pour ARM/ARe/CPCU, ces prix couvrent le matériel + l'examen simulé + l'inscription à l'examen (« simulated credentialing exam » inclus dans chaque package) mais pas nécessairement les frais d'application à la désignation elle-même selon le programme.
 
 ---
 
@@ -305,6 +340,8 @@ Rappel 2026 :
 | CII Diploma prep training facultatif | **699 / 849 £ + units** | 🌍 INT · UK-origin |
 | CPCU — 8 Recommended Packages | **~3 352 $** | 🇺🇸 US |
 | CPCU — 8 Comprehensive Packages | **~4 152 $** | 🇺🇸 US |
+| ARM — 3 unités Recommended | **~1 245 $** | 🇺🇸 US |
+| ARe — 3 unités | **~1 245 $** | 🇺🇸 US |
 | LOMA FLMI member-company pricing | **4 250 $** | 🌍 INT |
 | LOMA FLMI non-member pricing | **8 500 $** | 🌍 INT |
 | ACAS / FCAS | **multi-exam TCO à consolider** | 🌍 INT · US-centric |
@@ -343,11 +380,6 @@ Rappel 2026 :
 # À poursuivre
 
 - CPCU exact cost avec exam-only / retake options 2026 ;
-- ARM exact 2026 unit TCO ;
-- ARe exact 2026 unit TCO ;
-- AU underwriting ;
-- AIC claims ;
-- AINS ;
 - CAS Exams 1/2 + VEE + DISC + professionalism complete ACAS TCO ;
 - FCAS total from-zero ;
 - CII unit-by-unit France/Europe pricing ;
