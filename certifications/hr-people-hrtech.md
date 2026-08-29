@@ -28,6 +28,7 @@ verified: 2026-08-28
 | --- | ---: | --- | :---: |
 | SHRM-CP | **350 $ member / 450 $ nonmember early** ; **399 / 499 $ standard** | no degree/experience requirement for CP | 🌍 INT · US-centric |
 | SHRM-SCP | **350 / 450 $ early** ; **399 / 499 $ standard** | 3+ years strategic HR or equivalent route | 🌍 INT · US-centric |
+| SHRM recertification (3 ans) | **165 $ membre / 210 $ non-membre** | 60 PDCs sur le cycle, ou repasser l'examen | 🌍 INT · US-centric |
 | IHRIM HRIP — active member | **400 $** | application fee waived | 🌍 INT · US-centric |
 | IHRIM HRIP — nonmember | **445 $ exam + 75 $ application** | ≈ 520 $ | 🌍 INT · US-centric |
 | HRIP Exam + new membership | **600 $ + 75 $ application** | discounted first-year membership | 🌍 INT · US-centric |
@@ -100,6 +101,38 @@ Source :
 ### Attention aux anciennes grilles 2026
 
 Le handbook publié plus tôt dans le cycle 2026 contient une grille différente. La page live SHRM indique explicitement que les nouveaux early-bird prices prennent effet le **3 juin 2026** ; c'est donc cette grille live qui est utilisée ici.
+
+---
+
+# 2bis. SHRM — recertification
+
+Confirmé sur le SHRM Recertification Handbook officiel.
+
+## Deux voies
+
+```text
+Option 1   60 PDCs (Professional Development Credits) sur le cycle de 3 ans
+Option 2   repasser l'examen dans la dernière année du cycle (plein tarif examen)
+```
+
+## Frais de traitement (Option 1)
+
+```text
+Regular    165 $ membre / 210 $ non-membre
+Late       240 $ membre / 285 $ non-membre   (délai de grâce 60 jours après échéance)
+Retired    200 $                              (statut retraité, dispense de renouvellement futur)
+```
+
+- jusqu'à **20 PDCs** reportables sur le cycle suivant si le seuil de 60 est dépassé ;
+- l'adhésion SHRM elle-même rapporte des PDCs automatiquement (3/an, 9 max) mais reste un coût séparé, non inclus dans les 165/210 $ ci-dessus ;
+- non-respect du délai de grâce → révocation, retour au statut nouveau candidat.
+
+Source :
+
+- https://www.shrm.org/content/dam/en/shrm/credentials/shrm-certification/shrm-recertification-handbook-2025.pdf
+- https://www.shrm.org/credentials/certification/recertification
+
+**TCO cycle de 3 ans réaliste (Option 1, sans late fee) : 165 $ (membre) à 210 $ (non-membre)**, très inférieur au coût de l'examen initial (350–499 $) — le renouvellement SHRM est nettement moins cher que l'obtention initiale, contrairement à des schémas comme DRI où application et renewal sont du même ordre de grandeur.
 
 ---
 
@@ -309,8 +342,7 @@ Source :
 # À poursuivre
 
 - exact CIPD Level 3/5/7 providers France / remote TCO ;
-- SHRM recertification live fee 2026 ;
-- HRCI recertification TCO ;
+- HRCI recertification TCO — déjà chiffré dans `management-transformation-over-500.md` §5 ;
 - HRIP recertification fee / credits ;
 - SAP SuccessFactors / Oracle HCM — modèle d'accès exact (probablement partner-gated comme Workday) ;
 - payroll credentials — voir PayrollOrg CPP/FPC dans `compensation-total-rewards.md` ;

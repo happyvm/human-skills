@@ -310,7 +310,7 @@ Ainsi, PHR reste sous la barre de 500 $ tandis que les certifications senior/glo
 
 Pour GPHR, le credential est valide trois ans et exige 60 crédits de recertification, dont 15 Global.
 
-La documentation HRCI de recertification consultée affiche une **recertification application fee de 169 $**.
+La documentation HRCI de recertification consultée affiche une **recertification application fee de 169 $** pour le premier credential, **50 $** par credential HRCI additionnel recertifié en même temps, et **100 $** de frais supplémentaires en cas de statut suspendu (fenêtre de rattrapage : 12 mois après la fin du cycle).
 
 Sources :
 

@@ -200,7 +200,7 @@ Source :
 - CCP / GRP exact Europe/APAC pricing ;
 - WorldatWork recertification fees / CE requirements ;
 - SHRM specialty credentials ;
-- HRCI recertification TCO ;
+- HRCI recertification TCO — déjà chiffré dans `management-transformation-over-500.md` §5 ;
 - CIPD reward qualifications ;
 - compensation analytics credentials ;
 - executive compensation ;
