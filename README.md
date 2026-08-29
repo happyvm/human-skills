@@ -81,6 +81,7 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 
 - [`certifications/esg-sustainability-carbon.md`](certifications/esg-sustainability-carbon.md) — CFA Sustainable Investing, IFRS FSA, GHGMI, IEMA, GARP SCR.
 - [`certifications/green-building-sustainability.md`](certifications/green-building-sustainability.md) — LEED, WELL, BREEAM, GRI.
+- [`certifications/green-it-numerique-responsable-2026.md`](certifications/green-it-numerique-responsable-2026.md) — Green Software Foundation (LFC131, gratuit), INR numérique responsable (France).
 
 ## Pharma, qualité & réglementaire
 

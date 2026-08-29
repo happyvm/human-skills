@@ -2,8 +2,8 @@
 
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
-- catalogues scanned: **97**
-- credential-like table rows scanned: **1429**
+- catalogues scanned: **98**
+- credential-like table rows scanned: **1431**
 - exact normalized names present in 2+ files: **82**
 - specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
@@ -209,7 +209,7 @@
 |---:|---|
 | 264 | `entrepreneurship` |
 | 256 | `finance-risk` |
-| 175 | `general-it` |
+| 177 | `general-it` |
 | 162 | `business-management` |
 | 91 | `governance-grc` |
 | 81 | `governance` |
@@ -228,9 +228,9 @@
 | 27 | `observability` |
 | 25 | `linux` |
 | 25 | `pharma-regulatory` |
+| 23 | `esg-sustainability` |
 | 23 | `real-estate` |
 | 22 | `legal` |
-| 21 | `esg-sustainability` |
 | 21 | `cloud` |
 | 19 | `kubernetes-platform` |
 | 19 | `language` |

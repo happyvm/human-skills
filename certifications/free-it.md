@@ -24,6 +24,26 @@ verified: 2026-08-28
 
 # A — Certifications réellement gratuites et accessibles en 2026
 
+## LFC131 — Green Software for Practitioners (Linux Foundation × Green Software Foundation)
+
+Cours de référence **green IT / green software** développé par la Linux Foundation en partenariat avec la **Green Software Foundation**, curriculum vendor-neutral.
+
+- **2 heures**, en ligne, self-paced ;
+- examen final intégré au cours ;
+- **badge numérique** délivré à la réussite, attestant des fondamentaux green software (carbon awareness, hardware efficiency, energy efficiency, carbon-aware computing) ;
+- **100 % gratuit**, aucun coût caché identifié.
+
+**Coût : 0 $.**
+
+**Valeur : ⭐⭐⭐⭐⭐** — c'est actuellement le point d'entrée gratuit le plus reconnu du secteur pour le green IT/green software, utile pour tout profil dev/ops/architecture qui veut un premier signal sustainability sans budget.
+
+Sources :
+
+- https://trainingportal.linuxfoundation.org/learn/course/green-software-for-practitioners-lfc131
+- https://training.linuxfoundation.org/blog/new-course-brings-environmental-consciousness-to-software-development/
+
+---
+
 ## Commvault Readiverse
 
 Commvault reste l'une des meilleures opportunités gratuites pour les profils infrastructure / backup : plusieurs curricula standalone comprennent **examen + supports** sans obligation d'acheter l'ILT correspondant.
