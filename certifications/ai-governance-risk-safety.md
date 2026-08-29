@@ -289,7 +289,7 @@ Alors que GARP RAI ou CSA TAISE n'imposent pas une certification senior préalab
 # À poursuivre
 
 - AI audit professional schemes Big Four / institutes ;
-- ISO 42001 Lead Auditor — TÜV/DNV/LRQA prix individuel exact (BSI/AFNOR déjà documentés dans `iso-grc-europe-over-500.md` : attention à ne pas confondre avec le prix de certification d'entreprise, 20 000–50 000 $, sans rapport avec la formation individuelle) ;
+- ISO 42001 Lead Auditor — TÜV/DNV/LRQA/PECB prix individuel exact (recherché 2026-08-29, sans résultat fiable : PECB confirme officiellement que le prix varie par région/format sans l'afficher, et les revendeurs se contredisent — 589 $ à 899 $ selon la source ; BSI/AFNOR déjà documentés dans `iso-grc-europe-over-500.md` — attention à ne pas confondre avec le prix de certification d'entreprise, 20 000–50 000 $, sans rapport avec la formation individuelle) ;
 - NIST AI RMF assessor credentials ;
 - EU AI Act conformity assessment qualifications ;
 - model risk management FRM/quant tracks ;

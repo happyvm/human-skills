@@ -34,6 +34,7 @@ verified: 2026-08-28
 | IAAP WAS — Emerging/Developing Economy | **225 $** | — | tarification régionale |
 | IAAP ADS | **545 $** 🟡 | **465 $** 🟡 | accessibilité documentaire (Word/PDF/PPT) |
 | DHS Trusted Tester | **self-enrollment ; aucun tarif public affiché** | — | Section 508, vérifier portail avant inscription |
+| RGAA France — Access42 (RS6582) | **500 € examen seul / 2 825 € bundle** | éligible CPF | seul credential RGAA reconnu par l'État français |
 
 ---
 
@@ -156,6 +157,44 @@ Sources officielles :
 
 ---
 
+# 4bis. RGAA France — Access42 « Auditer l'accessibilité numérique avec le RGAA »
+
+**CERT — 🇫🇷 FR**
+
+Contrairement aux credentials IAAP/DHS ci-dessus (généralistes/US), c'est la **seule certification dédiée à l'audit RGAA reconnue par l'État français**, enregistrée au **Répertoire Spécifique de France Compétences (RS6582)** depuis le 26 avril 2024, délivrée par Access42.
+
+## Ce que ça valide
+
+- détection d'erreurs d'accessibilité sur des pages web simples et proposition de solutions de correction ;
+- connaissance des impacts utilisateurs et du cadre légal français de l'accessibilité numérique ;
+- niveau **premier niveau de compétence**, pas un niveau expert senior.
+
+## Format
+
+- module préparatoire (~2h) + **35h de formation en groupe** sur 5 jours (distanciel ou présentiel) ;
+- examen de certification : **7 heures**, audit d'une page web fournie + soutenance orale devant un jury.
+
+## Prix
+
+```text
+Formation seule                    2 575 € HT
+Examen de certification seul         500 € HT
+Formation + certification bundle   2 825 € HT  (soit -50 % sur l'examen)
+```
+
+**Éligible CPF** (Compte Personnel de Formation) — financement possible par le compte personnel de formation du candidat plutôt qu'à sa charge directe. Point important : en financement CPF, l'inscription et la présentation à l'examen de certification associé sont **obligatoires**, pas optionnelles.
+
+Prérequis : bonne maîtrise HTML/CSS et des outils de développement navigateur.
+
+Source :
+
+- https://formations.access42.net/formations/formation-audit-accessibilite/
+- https://www.francecompetences.fr/recherche/rs/6582/
+
+**Pertinence : très HAUTE pour un profil accessibilité/RGAA en France** — contrairement à IAAP CPACC/WAS (généralistes, non spécifiques au cadre réglementaire français), ce credential valide directement la méthode DINUM/RGAA et peut être financé sans coût direct pour le candidat via le CPF.
+
+---
+
 # 5. IAAP — ADS
 
 ## Accessible Document Specialist
@@ -224,7 +263,7 @@ L'accessibilité peut être combinée avec :
 - Trusted Tester exact portal fee / access conditions ;
 - PDF/UA credentials ;
 - accessibility testing tools ;
-- RGAA France training / person certifications ;
+- RGAA — autres organismes que Access42 proposant potentiellement un audit certifiant équivalent ;
 - AccessiWeb historique / alternatives actuelles ;
 - European Accessibility Act credentials ;
 - EN 301 549 audit qualifications.
