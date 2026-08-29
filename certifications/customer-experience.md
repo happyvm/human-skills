@@ -28,6 +28,9 @@ verified: 2026-08-28
 |---|---:|---:|---|
 | CXPA CCXP | **495 $ membre / 645 $ non-membre** | **299 $ / 449 $ tous les 3 ans** | expérience CX requise |
 | CCXP retake | **198 $ membre / 348 $ non-membre** | — | pendant fenêtre d'éligibilité |
+| Qualtrics Platform Essentials | **100 $** | — | niveau foundational |
+| Qualtrics XM for Customer Experience Expert | **500 $** | — | niveau expert, inclut Platform Essentials |
+| Qualtrics XM Professional (XMP) | **595 $** | **195 $ retake** | exam only, niveau le plus avancé |
 
 ---
 
@@ -157,6 +160,40 @@ La membership CXPA peut modifier le calcul ; elle n'est pas obligatoire pour gag
 
 ---
 
+# 7bis. Qualtrics XM Certifications
+
+**CERT — 🌍 INT**
+
+Contrairement au CCXP (vendor-neutral, expérience professionnelle requise), les certifications Qualtrics sont **vendor-specific** et centrées sur la plateforme Qualtrics Experience Management.
+
+## Niveaux
+
+```text
+Niveau 1 — Foundational
+  Qualtrics Platform Essentials        100 $   exam + projet final
+  XM Fundamentals Certification        100 $   exam seul
+
+Niveau 2 — Expert (inclut Platform Essentials)
+  XM for Strategy & Research Expert    500 $   exam + projet final
+  XM for Customer Experience Expert    500 $   exam + projet final
+  XM for Employee Experience Expert    500 $   exam + projet final
+  XM Professional (XMP)                595 $   exam seul, retake 195 $
+```
+
+- des bundles réduisent le coût combiné (Platform Essentials + Fundamentals à 100 $ pour les deux ; Platform Essentials inclus dans tout niveau Expert) ;
+- examens en ligne via partenaires de proctoring Qualtrics.
+
+Source :
+
+- https://www.qualtrics.com/training/certification/
+- https://learn.qualtrics.com/page/certification
+
+**Statut : format d'examen détaillé (durée, nombre de questions) et validité/renouvellement non publiés sur la page officielle consultée — à vérifier lors de l'inscription.**
+
+**Pertinence :** utile pour une entreprise qui exploite déjà Qualtrics comme plateforme XM ; ne remplace pas le CCXP comme preuve de compétence CX généraliste.
+
+---
+
 # 8. Positionnement
 
 Le CCXP est particulièrement adapté à :
@@ -187,7 +224,7 @@ Il se combine bien avec :
 - CXPA membership 2026 exact par région ;
 - CCXP prep ecosystem ;
 - Forrester CX certification ;
-- Qualtrics XM credentials ;
+- Qualtrics XM — format d'examen exact (durée/questions) et validité/renouvellement ;
 - Medallia credentials ;
 - CCXP competitors ;
 - service design credentials ;

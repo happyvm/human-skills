@@ -7,7 +7,7 @@
 | `certifications/actuarial-accounting-insurance.md` | 0 | 0 | 0 | 0 |
 | `certifications/audit-finance-project-over-500.md` | 0 | 0 | 0 | 0 |
 | `certifications/business-finance-under-500.md` | 0 | 0 | 0 | 0 |
-| `certifications/business-valuation.md` | 0 | 0 | 0 | 0 |
+| `certifications/business-valuation.md` | 0 | 0 | 1 | 0 |
 | `certifications/compensation-total-rewards.md` | 0 | 0 | 0 | 0 |
 | `certifications/compliance-aml-fpa-over-500.md` | 0 | 0 | 0 | 0 |
 | `certifications/construction-btp-global-2026.md` | 0 | 0 | 0 | 0 |
@@ -43,11 +43,12 @@
 - catalogues `mixed` analysés : **33** ;
 - tableaux credential annotés : **0** ;
 - lignes de tableaux annotées : **0** ;
-- bullets credential annotés : **0** ;
+- bullets credential annotés : **1** ;
 - lignes restant `❓ UNV` : **0**.
 
 ### Répartition des labels appliqués
 
+- `international` : **1**
 
 ## Lignes `❓ UNV` à vérifier
 

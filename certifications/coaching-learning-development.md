@@ -33,6 +33,7 @@ verified: 2026-08-28
 | ATD APTD | **525 $ membre / 800 $ non-membre** | prep facultative |
 | ICF MCC | **675 $ membre / 825 $ non-membre** | niveau senior, parcours préalable important |
 | ATD CPTD | **1 099 $ membre / 1 500 $ non-membre** | prep facultative |
+| Kirkpatrick Four Levels — Bronze | **2 524,50 $** | early-bird -300 $ si inscription 45+ jours avant |
 
 ---
 
@@ -221,6 +222,32 @@ Source :
 
 ---
 
+# 6bis. Kirkpatrick Four Levels — évaluation de la formation
+
+**CERT — 🌍 INT · US-origin**
+
+Programme de certification centré sur le **Kirkpatrick Blended Evaluation Plan®**, distinct du coaching (ICF) et du talent development (ATD) : sa niche est la **mesure de l'efficacité des formations** (les 4 niveaux Kirkpatrick).
+
+```text
+Bronze (Architect)     2 524,50 $   2 jours présentiel / 4 sessions live online
+Silver (Analyst)       prix non confirmé lors de cette revue
+Gold (Champion)        prix non confirmé lors de cette revue
+```
+
+- réduction early-bird de **300 $** si inscription 45+ jours à l'avance ;
+- remises groupe / gouvernement / militaire / associatif disponibles ;
+- classe plafonnée à 30 participants ;
+- livrable final obligatoire : un Kirkpatrick Blended Evaluation Plan® ;
+- un an d'accès à une communauté de praticiens certifiés inclus après la certification.
+
+Source :
+
+- https://www.kirkpatrickpartners.com/certifications/bronze/
+
+**Pertinence :** utile pour un responsable formation/L&D qui doit démontrer le ROI d'un programme de formation à sa direction, plutôt qu'un complément généraliste pour tout profil RH.
+
+---
+
 # 7. Comparaison
 
 | Besoin | Credential naturel |
@@ -242,7 +269,7 @@ Source :
 - Association for Coaching ;
 - ILM coaching qualifications ;
 - CIPD Learning & Development ;
-- Kirkpatrick certifications ;
+- Kirkpatrick Silver/Gold — prix exacts (Bronze documenté ci-dessus) ;
 - Everything DiSC / Insights / assessment certifications ;
 - Korn Ferry / Hogan assessor credentials ;
 - facilitation certifications ;
