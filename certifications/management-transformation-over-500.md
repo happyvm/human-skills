@@ -503,6 +503,5 @@ Source de consolidation 2026 :
 - HRCI et SHRM renouvellement complet ;
 - Prosci PCACP full-path chiffré module par module ;
 - SABSA Master (SCM, 5 modules Advanced) — TCO complet ;
-- BCS Business Analysis ;
 - DAMA maintenance / renouvellement ;
 - Board / governance credentials (IoD, NACD et équivalents européens).
