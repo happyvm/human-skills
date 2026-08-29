@@ -258,6 +258,26 @@ Source :
 
 - https://www.cii.co.uk/learning/training/diploma-in-insurance-training-programme/
 
+## Frais d'adhésion CII (annuels, confirmés officiellement)
+
+Distincts des unit enrolments ci-dessus — l'adhésion CII est un coût récurrent séparé, à ajouter au TCO complet.
+
+```text
+Niveau           Cotisation annuelle   Frais d'admission (unique)
+Ordinary               93 £                    37 £
+Certificate           155 £                    37 £
+Diploma               210 £                    37 £
+Associate             221 £                    37 £
+Fellow                237 £                    37 £
+Chartered             271 £                    37 £
+```
+
+Source :
+
+- https://www.cii.co.uk/membership/membership-levels
+
+**Statut unit-by-unit :** les prix par unité (au-delà de l'exemple M05 à 518 £ ci-dessus) sont chargés dynamiquement en JavaScript sur chaque page d'unité CII et n'ont pas pu être extraits en masse lors de cette revue — se référer à `cii.co.uk/learning/qualifications` unité par unité.
+
 ---
 
 # 6. CII Advanced Diploma — ACII
@@ -338,6 +358,7 @@ Rappel 2026 :
 | CAS PCPA Exam + Project | **1 000 $** | 🌍 INT · US-centric |
 | CII M05 enrolment member UK example | **518 £** | 🌍 INT · UK-origin |
 | CII Diploma prep training facultatif | **699 / 849 £ + units** | 🌍 INT · UK-origin |
+| CII adhésion Ordinary → Chartered | **93–271 £/an + 37 £ admission** | 🌍 INT · UK-origin |
 | CPCU — 8 Recommended Packages | **~3 352 $** | 🇺🇸 US |
 | CPCU — 8 Comprehensive Packages | **~4 152 $** | 🇺🇸 US |
 | ARM — 3 unités Recommended | **~1 245 $** | 🇺🇸 US |
@@ -379,11 +400,9 @@ Rappel 2026 :
 
 # À poursuivre
 
-- CPCU exact cost avec exam-only / retake options 2026 ;
 - CAS Exams 1/2 + VEE + DISC + professionalism complete ACAS TCO ;
 - FCAS total from-zero ;
-- CII unit-by-unit France/Europe pricing ;
-- CII membership / Chartered fees ;
+- CII unit-by-unit pricing au-delà de M05 (chargement JS empêchant l'extraction en masse ; grille d'adhésion désormais documentée ci-dessus) ;
 - Lloyd's market qualifications ;
 - reinsurance credentials ;
 - catastrophe modelling ;

@@ -3,7 +3,7 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **97**
-- credential-like table rows scanned: **1428**
+- credential-like table rows scanned: **1429**
 - exact normalized names present in 2+ files: **82**
 - specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
@@ -98,7 +98,7 @@
 ### LOMA FLMI — non-member pricing
 
 - `actuarial-accounting-insurance.md:405` — `| LOMA FLMI — non-member pricing | **8 500 $** | 🌍 INT |`
-- `insurance-risk-designations.md:346` — `| LOMA FLMI non-member pricing | **8 500 $** | 🌍 INT |`
+- `insurance-risk-designations.md:367` — `| LOMA FLMI non-member pricing | **8 500 $** | 🌍 INT |`
 
 ### Nutanix NCM-MCI
 
@@ -191,10 +191,10 @@
 | 21 | `public-cloud-multicloud-under-500.md` |
 | 19 | `cloud-native-platform-engineering-under-500.md` |
 | 19 | `entrepreneur-eta-family-ess-export-regulated-2026.md` |
+| 19 | `insurance-risk-designations.md` |
 | 19 | `language-certifications.md` |
 | 19 | `lean-it-lean-management-2026.md` |
 | 18 | `entrepreneur-france-practical-resources-2026.md` |
-| 18 | `insurance-risk-designations.md` |
 | 17 | `ibm-enterprise-security-ai-under-500.md` |
 | 17 | `network-datacenter-advanced-under-500.md` |
 | 17 | `observability-sre-devops-under-500.md` |
@@ -208,7 +208,7 @@
 | Rows | Domain |
 |---:|---|
 | 264 | `entrepreneurship` |
-| 255 | `finance-risk` |
+| 256 | `finance-risk` |
 | 175 | `general-it` |
 | 162 | `business-management` |
 | 91 | `governance-grc` |
