@@ -26,6 +26,7 @@ verified: 2026-08-28
 
 | Credential | Prix officiel | Remarque TCO |
 |---|---:|---|
+| EMCC EIA Foundation | **120 €** | 1 an d'expérience, adhésion EMCC requise |
 | ICF ACC — Level 1/2 path | **175 $ membre / 325 $ non-membre** | formation + mentor coaching préalables |
 | ICF ACC — Portfolio | **475 $ / 625 $** | évaluation + formation documentée |
 | ICF ACTC | **200–250 $ membre / 300–350 $ non-membre** | credential ICF préalable + team coaching education |
@@ -248,6 +249,39 @@ Source :
 
 ---
 
+# 6ter. EMCC Global Individual Accreditation (EIA)
+
+**QUAL — 🌍 INT · UK/EU-origin**
+
+Alternative européenne à l'accréditation ICF : l'**EMCC** (European Mentoring and Coaching Council) délivre une accréditation individuelle à quatre niveaux, avec des frais nettement plus bas que l'ICF mais des exigences d'expérience proches.
+
+## Prix (boutique officielle EMCC Global)
+
+```text
+Foundation           120 €   1 an d'expérience, 50 h client, 5 clients
+Practitioner          205 €   3 ans, 100 h client, 10 clients
+Senior Practitioner   245 €   5 ans, 250 h client, 20 clients
+Master Practitioner   450 €   7 ans, 500 h client, 40 clients + contribution professionnelle
+```
+
+TVA en sus selon pays.
+
+## Conditions communes à tous les niveaux
+
+- adhésion EMCC obligatoire ;
+- preuve de CPD, reflective learning et supervision individuelle continue ;
+- alignement avec le Global Code of Ethics ;
+- **validité : 5 ans**, rappel de renouvellement envoyé 2 mois avant expiration.
+
+Source :
+
+- https://www.emccglobal.org/accreditation/eia/
+- https://accreditation.emccshop.org/product-category/eia
+
+**Pertinence :** particulièrement intéressant pour un coach européen qui veut une accréditation reconnue à un coût d'entrée bien inférieur à l'ICF ACC (120 € vs 175–325 $), au prix d'une reconnaissance internationale un peu moins établie hors Europe.
+
+---
+
 # 7. Comparaison
 
 | Besoin | Credential naturel |
@@ -265,7 +299,7 @@ Source :
 
 - coût France / Europe de programmes ICF Level 1 / 2 / 3 ;
 - ICF membership TCO ;
-- EMCC EIA / ESIA ;
+- EMCC ESIA (supervision, distinct de l'EIA documentée ci-dessus) ;
 - Association for Coaching ;
 - ILM coaching qualifications ;
 - CIPD Learning & Development ;
