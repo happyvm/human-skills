@@ -3,7 +3,7 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **97**
-- credential-like table rows scanned: **1424**
+- credential-like table rows scanned: **1426**
 - exact normalized names present in 2+ files: **82**
 - specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
@@ -53,7 +53,7 @@
 ### IAPP AIGP
 
 - `ai-governance-risk-safety.md:32` — `| IAPP AIGP | **649 $ membre / 799 $ non-membre** | maintenance 2 ans |`
-- `privacy-dpo-france.md:35` — `| IAPP AIGP | **799 $ non-member exam + maintien** | cycle 2 ans | AI governance |`
+- `privacy-dpo-france.md:37` — `| IAPP AIGP | **799 $ non-member exam + maintien** | cycle 2 ans | AI governance |`
 
 ### CPSA, CPTIA, CPIA
 
@@ -229,9 +229,9 @@
 | 25 | `linux` |
 | 25 | `pharma-regulatory` |
 | 23 | `real-estate` |
+| 22 | `legal` |
 | 21 | `esg-sustainability` |
 | 21 | `cloud` |
-| 20 | `legal` |
 | 19 | `kubernetes-platform` |
 | 19 | `language` |
 | 16 | `industrial-ot` |

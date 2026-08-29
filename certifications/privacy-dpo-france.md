@@ -31,6 +31,8 @@ verified: 2026-08-28
 | IAPP CIPM | **550 $ exam + maintien** | cycle 2 ans | privacy management |
 | IAPP CIPT | **550 $ exam + maintien** | cycle 2 ans | privacy technology |
 | AFNOR Certification compétences DPO | **717 € HT** | **3 ans** | organisme agréé CNIL |
+| Bureau Veritas Certification compétences DPO | **600 € HT / 720 € TTC** | **3 ans** | organisme agréé CNIL, référentiel identique |
+| Apave Certification DPO | **600 € HT initiale / 410 € HT renewal** | **3 ans** | 120 questions QCM, 3h, 75 % pass |
 | AFNOR DPO renewal | **504 € HT** | nouveau cycle | QCM / dossier selon modalités |
 | IAPP AIGP | **799 $ non-member exam + maintien** | cycle 2 ans | AI governance |
 
@@ -190,6 +192,69 @@ peut constituer un parcours privacy / governance particulièrement complet.
 
 ---
 
+# 5bis. Bureau Veritas — Certification des compétences du DPO
+
+**CERT — 🇫🇷 FR**
+
+Alternative à AFNOR, également agréée par la CNIL pour la certification des compétences du DPO — le référentiel évalué (critères CNIL) est le même quel que soit l'organisme certificateur, seuls le prix et le format d'examen diffèrent.
+
+## Prix
+
+```text
+600 € HT / 720 € TTC
+```
+
+soit nettement moins cher que l'AFNOR (**717 € HT**) pour un référentiel équivalent.
+
+## Format
+
+- examen écrit type **QCM** ;
+- sessions à distance, régulières tout au long de l'année ;
+- **validité : 3 ans** (identique à AFNOR).
+
+Source :
+
+- https://www.bureauveritas.fr/besoin/certification-des-competences-du-delegue-la-protection-des-donnees
+- https://www.cnil.fr/fr/la-certification-des-competences-du-delegue-la-protection-des-donnees
+
+**Verdict :** puisque le référentiel CNIL est commun à tous les organismes agréés, comparer le prix entre AFNOR/Bureau Veritas/Apave/LSTI/DNV avant de choisir a du sens — Bureau Veritas et Apave sont actuellement les options les moins chères identifiées dans ce dépôt.
+
+---
+
+# 5ter. Apave Certification — Certification DPO
+
+**CERT — 🇫🇷 FR**
+
+Troisième organisme agréé CNIL documenté ici, avec le détail d'examen le plus complet trouvé.
+
+## Prix
+
+```text
+Certification initiale (présentiel ou distanciel)   600 € HT
+Repassage examen (en cas d'échec)                    300 € HT
+Renouvellement                                       410 € HT
+Repassage renouvellement                             300 € HT
+```
+
+## Format d'examen
+
+- **120 questions QCM, 3 heures** ;
+- ~30 % de cas pratiques ;
+- score de passage : **75 % global, minimum 50 % dans chacun des 3 domaines** (réglementation, responsabilité, sécurité).
+
+## Prérequis
+
+- **2 ans d'expérience** professionnelle sur des missions DPO, **ou**
+- 2 ans d'expérience + **35 heures de formation** protection des données accréditée.
+
+Renouvellement : au moins 1 an d'expérience pertinente sur les 3 dernières années, attestée par employeur/client.
+
+Source :
+
+- https://www.apave-certification.com/fr-FR/prestation/certification-dpo-competences-du-delegue-la-protection-des-donnees
+
+---
+
 # Autres certifications de personne AFNOR liées
 
 La grille AFNOR contient également des certifications de compétences dans des domaines adjacents qui peuvent intéresser un profil governance / risk :
@@ -212,9 +277,8 @@ Source :
 # À poursuivre
 
 - liste CNIL 2026 de tous les organismes DPO agréés ;
-- prix Bureau Veritas ;
-- prix LSTI ;
-- prix DNV ;
+- prix LSTI (recherché 2026-08-29, sans résultat : PDF tarifaire officiel bloqué en accès direct — Bureau Veritas et Apave désormais documentés ci-dessus) ;
+- prix DNV (recherché 2026-08-29, sans résultat) ;
 - AFCDP / autres schémas ;
 - Europrivacy (recherché 2026-08-29 : c'est une certification d'organisation/audit, 5 000–25 000+ $, pas un credential individuel — probablement hors périmètre de ce catalogue plutôt qu'à re-rechercher) ;
 - PECB GDPR / DPO ;
