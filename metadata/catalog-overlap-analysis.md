@@ -3,7 +3,7 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **97**
-- credential-like table rows scanned: **1421**
+- credential-like table rows scanned: **1423**
 - exact normalized names present in 2+ files: **82**
 - specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
@@ -192,9 +192,9 @@
 | 19 | `cloud-native-platform-engineering-under-500.md` |
 | 19 | `entrepreneur-eta-family-ess-export-regulated-2026.md` |
 | 19 | `language-certifications.md` |
+| 19 | `lean-it-lean-management-2026.md` |
 | 18 | `entrepreneur-france-practical-resources-2026.md` |
 | 17 | `ibm-enterprise-security-ai-under-500.md` |
-| 17 | `lean-it-lean-management-2026.md` |
 | 17 | `network-datacenter-advanced-under-500.md` |
 | 17 | `observability-sre-devops-under-500.md` |
 | 16 | `compliance-aml-fpa-over-500.md` |
@@ -211,15 +211,15 @@
 | 253 | `finance-risk` |
 | 175 | `general-it` |
 | 162 | `business-management` |
-| 89 | `governance-grc` |
+| 91 | `governance-grc` |
 | 81 | `governance` |
 | 78 | `security` |
 | 73 | `supply-chain` |
 | 69 | `ai-infrastructure` |
 | 60 | `network` |
 | 59 | `business-soft-skills` |
+| 47 | `itsm-middleware` |
 | 47 | `hr-people` |
-| 45 | `itsm-middleware` |
 | 40 | `devops-automation` |
 | 32 | `storage-backup` |
 | 28 | `datacenter-facilities` |

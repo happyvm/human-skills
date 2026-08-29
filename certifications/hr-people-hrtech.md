@@ -226,6 +226,23 @@ Sources :
 - https://www.ihrim.org/education/hrip-certification/
 - https://www.ihrim.org/education/hrip-certification/exam-preparation/
 
+## Recertification
+
+Confirmé sur la page officielle IHRIM :
+
+```text
+Frais de renouvellement    150 $ membre IHRIM / 200 $ non-membre
+Crédits requis (RCH)       120 sur 3 ans (règle depuis juillet 2025)
+                            recommandé : ~40 RCH/an, minimum 20/an
+Alternative                repasser l'examen de recertification (frais standard)
+```
+
+Demande à soumettre au moins **30 jours avant expiration**.
+
+Source :
+
+- https://www.ihrim.org/education/hrip-certification/recertification/
+
 ---
 
 # 6. CIPD — statut professionnel
@@ -343,7 +360,6 @@ Source :
 
 - exact CIPD Level 3/5/7 providers France / remote TCO ;
 - HRCI recertification TCO — déjà chiffré dans `management-transformation-over-500.md` §5 ;
-- HRIP recertification fee / credits ;
 - SAP SuccessFactors / Oracle HCM — modèle d'accès exact (probablement partner-gated comme Workday) ;
 - payroll credentials — voir PayrollOrg CPP/FPC dans `compensation-total-rewards.md` ;
 - talent acquisition credentials ;

@@ -42,7 +42,8 @@ verified: 2026-08-28
 | EXIN Lean IT Leadership | EXIN | **CHECKOUT-REQUIRED** | ⚠️ retrait prévu 31/12/2026 |
 | ASQ Master Black Belt | ASQ | **2 399 $** (application + exam) | ✅ voir `paid-over-500.md` |
 | IISE Lean Enterprise Certificate | IISE | **2 089–3 835 $** selon membership/prépaiement | ✅ programme de cours, pas un examen seul |
-| SME/AME/Shingo Lean Silver / Gold | SME | **CHECKOUT-REQUIRED**, portfolio + expérience | ✅ actif, niveau senior |
+| SME/AME/Shingo Lean Silver | SME | **540 $ membre / 700 $ non-membre**, portfolio + expérience | ✅ actif, niveau senior |
+| SME/AME/Shingo Lean Gold | SME | **640 $ membre / 800 $ non-membre**, portfolio + entretien | ✅ actif, niveau stratégique |
 | Kaizen Institute — certification sectorielle | Kaizen Institute | **CHECKOUT-REQUIRED** (devis B2B) | ✅ actif |
 | IISE Lean Six Sigma Certificate Program (Green Belt complet) | IISE | **6 995–10 790 $** | ✅ programme de cours complet |
 | SSGI Yellow Belt | Six Sigma Global Institute | **695 $** (formation + exam bundlés) | ✅ actif, alternative payante |
@@ -160,19 +161,23 @@ Programme conjoint entre la **Society of Manufacturing Engineers (SME)**, l'**As
 ### Lean Silver Certification
 
 - niveau value stream (bout en bout, plusieurs process) ;
-- typiquement destiné aux superviseurs/managers ;
-- nécessite Bronze au préalable + soumission d'un portfolio de projets ;
-- prix : **CHECKOUT-REQUIRED**.
+- typiquement destiné aux superviseurs/managers/team leaders avec expérience de mentoring et de value stream transformation ;
+- nécessite un portfolio (Silver Accomplishment Record), pas formellement Bronze au préalable selon le process guide officiel ;
+- prix : **700 $ non-membre / 540 $ membre SME ou partenaire AME/Shingo** (examen + accomplishment record inclus) ;
+- validité : **3 ans**.
 
 ### Lean Gold Certification
 
-- niveau stratégique, dirigeants ayant autorité sur la structure organisationnelle ;
-- exige Silver au préalable + portfolio étendu ;
-- prix : **CHECKOUT-REQUIRED**.
+- niveau stratégique, profils ayant mené une transformation à l'échelle de tout ou partie de l'organisation ;
+- process : review du guide, achat des références, examen, accomplishment record **+ entretien** ;
+- prix : **800 $ non-membre / 640 $ membre SME ou partenaire AME/Shingo** (examen + accomplishment record inclus) ;
+- validité : **3 ans**, recertification requise ensuite.
 
-Source :
+Sources :
 
 - https://www.sme.org/training/lean-certification/
+- https://www.sme.org/silver
+- https://www.sme.org/gold/
 
 **Auto-formation officielle :** *The Lean Handbook* (SME Press) sert de référence Bronze ; SME propose également des practice questions gratuites via des partenaires (OpenExamPrep).
 
@@ -285,10 +290,14 @@ Des sites comme `sixsigma-institute.org` annoncent des « certifications Six Sig
 295 $    IASSC Green Belt / CSSC Black Belt
 395 $    IASSC Black Belt
 440 $    SME/AME/Shingo Lean Bronze — membre
+540 $    SME/AME/Shingo Lean Silver — membre
 585 $    ASQ Six Sigma Black Belt
 600 $    SME/AME/Shingo Lean Bronze — non-membre
+640 $    SME/AME/Shingo Lean Gold — membre
 695 $    SSGI Yellow Belt (formation + exam bundlés)
+700 $    SME/AME/Shingo Lean Silver — non-membre
 749 $    LEI Lean Fundamentals Bundle (formation, pas une certification)
+800 $    SME/AME/Shingo Lean Gold — non-membre
 2 089 $  IISE Lean Enterprise Certificate — membre/prépaiement
 2 399 $  ASQ Master Black Belt
 3 100 $  SSGI Black Belt (formation + exam bundlés)
@@ -334,9 +343,8 @@ Kaizen Institute (devis) ou SME/AME/Shingo Lean Silver/Gold
 # À poursuivre
 
 - successeur éventuel de Lean IT après le retrait conjoint PeopleCert (fait) / EXIN (prévu fin 2026) ;
-- prix exact EXIN Lean IT Kaizen / Leadership à confirmer sur le store officiel exin.com (revendeurs uniquement identifiés à ce stade) ;
+- prix exact EXIN Lean IT Kaizen / Leadership (recherché 2026-08-29, sans résultat fiable : page officielle exin.com sans prix affiché, confirmé lors de cette revue ; un revendeur affiche ~1 030 $ pour Kaizen mais le chiffre semble incohérent avec un exam-only et n'est pas retenu) ;
 - fourchette Green Belt SSGI à préciser (revendeurs peu cohérents entre eux) ;
 - déclinaisons nationales/régionales du Kaizen Institute avec grille tarifaire publique ;
-- SME Lean Silver / Gold — prix exact, actuellement CHECKOUT-REQUIRED.
 
 ---
