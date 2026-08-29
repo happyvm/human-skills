@@ -36,6 +36,7 @@ verified: 2026-08-28
 | SABSA Foundation — exemple AEP Europe | **3 200 € HT** | Enterprise Security Architecture |
 | SABSA Practitioner (module Advanced A1) — exemple AEP APAC | **4 850 AU$ virtuel / 5 450 AU$ présentiel + GST** | Enterprise Security Architecture |
 | Prosci PCACP | **545 € exam Europe**, mais prérequis très coûteux | Advanced Change Management |
+| APMG Change Management Practitioner | **448 £ TTC** 🟡 | Change Management |
 
 ---
 
@@ -97,6 +98,29 @@ Sources :
 - https://eu-store.prosci.com/p-vir-mm24e-eu.html
 
 **Valeur CV : ⭐⭐⭐⭐⭐** dans une carrière réellement centrée change/transformation ; faible ROI si le changement organisationnel n'est qu'une compétence secondaire.
+
+---
+
+## APMG Change Management (PCM) — alternative à Prosci
+
+**QUAL — 🌍 INT · UK-origin**
+
+Contrairement à Prosci (produit intégré formation+outillage), l'accréditation **APMG Change Management** suit le modèle classique Foundation → Practitioner avec des examens achetables séparément via l'**APMG Store**, un peu comme PRINCE2/MSP.
+
+```text
+Practitioner exam    448 £ TTC (voucher -25 % → 336 £)
+Foundation exam       prix non confirmé lors de cette revue
+```
+
+Un exam bundle inclut généralement l'ouvrage *Effective Change Manager's Handbook*.
+
+Source :
+
+- https://store.apmg-international.com/certification/change-management
+
+**Statut prix : 🟡 partiellement confirmé.** Page boutique officielle bloquée lors de cette revue (403) ; le prix Practitioner est corroboré par plusieurs pages APMG (bundle produit, code promo) mais pas vérifié en accès direct — **à revérifier au checkout**.
+
+**Pertinence :** alternative plus légère que Prosci pour un profil qui veut une accréditation change management reconnue sans s'engager dans le parcours complet Prosci (Practitioner + 4 Model Mastery Programs + PCACP).
 
 ---
 
@@ -467,14 +491,14 @@ Source de consolidation 2026 :
 
 # À fouiller ensuite
 
-- IPMA Level C / B / A en France et Europe ;
-- APMG Change Management ;
+- IPMA Level C / B / A en France — déjà chiffré dans `audit-finance-project-over-500.md` (SMaP) ;
+- APMG Change Management Foundation — prix exact (Practitioner documenté ci-dessus) ;
 - ACMP CCMP ;
 - MSP / MoP / P3O avancés ;
 - SAFe Practice Consultant et Lean Portfolio Management avec coût de formation ;
 - FinOps Certified Professional TCO exact ;
-- ISM CPSM checkout France ;
-- CSCMP SCPro ;
+- ISM CPSM — déjà chiffré dans `entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md` ;
+- CSCMP SCPro — déjà chiffré dans `supply-chain-procurement-over-500.md` ;
 - CIPS procurement qualifications ;
 - HRCI et SHRM renouvellement complet ;
 - Prosci PCACP full-path chiffré module par module ;
