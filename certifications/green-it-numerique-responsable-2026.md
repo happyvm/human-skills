@@ -42,6 +42,7 @@ Cours de référence internationale pour une première compétence green softwar
 - **2 heures**, en ligne, self-paced ;
 - curriculum vendor-neutral : carbon awareness, hardware efficiency, energy efficiency, carbon-aware computing ;
 - examen final intégré, **badge numérique** délivré à la réussite ;
+- examen **open-book, non surveillé** (score de passage ~85 %) — à ne pas positionner comme une certification proctorée équivalente aux vendor certs payantes du reste du dépôt ;
 - **entièrement gratuit**, aucun coût caché identifié lors de cette revue.
 
 Source :
@@ -104,6 +105,7 @@ Source :
 # À poursuivre
 
 - EXIN Green IT Citizen (recherché 2026-08-29, sans résultat : page officielle 404, programme confirmé actif via matériel tiers uniquement) ;
-- Green Software Foundation — certifications avancées au-delà de LFC131 ;
+- Green Software Foundation — un « Certified Green Cloud Engineer Exam » est évoqué en discussion communautaire mais ne semble pas encore lancé officiellement lors de cette revue (recherché 2026-08-29, statut à reconfirmer) ;
 - SFR / Institut du Numérique Responsable — offres entreprise/collectivités (hors périmètre individuel) ;
-- Digital Sustainability certifications d'autres pays européens.
+- Digital Sustainability certifications d'autres pays européens ;
+- **BCS confirmé ne PAS avoir de certification Sustainability/Green IT** (grille tarifaire officielle complète consultée le 29/08/2026, aucune catégorie sustainability/green — ne pas re-chercher sauf annonce d'un nouveau produit).

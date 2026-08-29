@@ -29,7 +29,7 @@ verified: 2026-08-28
 Cours de référence **green IT / green software** développé par la Linux Foundation en partenariat avec la **Green Software Foundation**, curriculum vendor-neutral.
 
 - **2 heures**, en ligne, self-paced ;
-- examen final intégré au cours ;
+- examen final intégré au cours, **open-book, non surveillé** (~85 % de passage) ;
 - **badge numérique** délivré à la réussite, attestant des fondamentaux green software (carbon awareness, hardware efficiency, energy efficiency, carbon-aware computing) ;
 - **100 % gratuit**, aucun coût caché identifié.
 
