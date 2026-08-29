@@ -317,7 +317,7 @@ Une ancienne grille PDF BSI France affichait environ 3 020 €, ce qui illustre 
 - IWFM ;
 - RICS FM / built environment ;
 - AEE France / Approved Training Partner exact ;
-- ISO 50001 Lead Energy Manager ;
+- PECB ISO 50001 Lead Implementer/Auditor (recherché 2026-08-29, sans résultat : structure des niveaux confirmée sur pecb.com mais aucun prix affiché sans checkout interactif ; le terme « Lead Energy Manager » ne correspond à aucune dénomination PECB réelle) ;
 - CMVP Europe ;
 - building commissioning ;
 - HVAC / ASHRAE certifications ;

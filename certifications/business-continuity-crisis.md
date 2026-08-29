@@ -303,7 +303,7 @@ Bonne porte d'entrée lorsque l'expérience CBCP n'est pas encore disponible.
 
 - BCI membership post-CBCI et long-term TCO ;
 - MBCI / FBCI progression ;
-- DRI MBCP — coût de la Masters Case Study ; DRI CRMP — prix exact de l'examen risk management (CBCV désormais documenté ci-dessus) ;
+- DRI MBCP — coût de la Masters Case Study (recherché 2026-08-29, sans résultat : non publié dans la grille officielle) ; DRI CRMP — prix exact de l'examen risk management (recherché 2026-08-29, sans résultat) — CBCV désormais documenté ci-dessus ;
 - ISO 22301 Lead Implementer / Auditor — déjà partiellement couvert dans ISO/GRC ;
 - Disaster Recovery Institute audit credentials ;
 - crisis management ;

@@ -492,14 +492,14 @@ Source de consolidation 2026 :
 # À fouiller ensuite
 
 - IPMA Level C / B / A en France — déjà chiffré dans `audit-finance-project-over-500.md` (SMaP) ;
-- APMG Change Management Foundation — prix exact (Practitioner documenté ci-dessus) ;
-- ACMP CCMP ;
+- APMG Change Management Foundation (recherché 2026-08-29, sans résultat : Practitioner documenté ci-dessus, Foundation non trouvé) ;
+- ACMP CCMP (recherché 2026-08-29, sans résultat : pages officielles acmpglobal.org bloquées/403) ;
 - MSP / MoP / P3O avancés ;
 - SAFe Practice Consultant et Lean Portfolio Management avec coût de formation ;
 - FinOps Certified Professional TCO exact ;
 - ISM CPSM — déjà chiffré dans `entrepreneur-bank-connectivity-sellside-procurement-facilities-fleet-2026.md` ;
 - CSCMP SCPro — déjà chiffré dans `supply-chain-procurement-over-500.md` ;
-- CIPS procurement qualifications ;
+- CIPS procurement qualifications (recherché 2026-08-29, sans résultat : qualification multi-centres type ILM, pas de tarif catalogue unique — observé £1 500–3 500 selon centre) ;
 - HRCI et SHRM renouvellement complet ;
 - Prosci PCACP full-path chiffré module par module ;
 - SABSA Master (SCM, 5 modules Advanced) — TCO complet ;

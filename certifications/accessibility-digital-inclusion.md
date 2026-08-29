@@ -220,7 +220,7 @@ L'accessibilité peut être combinée avec :
 
 - IAAP ADS — prix exact à reconfirmer directement sur le portail (page officielle rendue en JS, non vérifiable automatiquement) ;
 - IAAP CPABE / built environment credentials si disponibles ;
-- Deque University credentials ;
+- Deque University credentials (recherché 2026-08-29 : c'est un prestataire de formation/prépa aux examens IAAP, pas une certification propre — probablement hors périmètre plutôt qu'à re-rechercher) ;
 - Trusted Tester exact portal fee / access conditions ;
 - PDF/UA credentials ;
 - accessibility testing tools ;

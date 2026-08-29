@@ -400,9 +400,9 @@ Source :
 - HPE Aruba / Juniper migration ;
 - Cisco CCNP/CCIE TCO par track ;
 - Nokia 5G Associate/Professional — prix exact au-delà du Foundation (500 €) ;
-- Ericsson certifications ;
+- Ericsson certifications (recherché 2026-08-29, sans résultat : statut de livraison Pearson VUE contradictoire selon la source, aucun prix fiable trouvé) ;
 - 3GPP / telecom vendor-neutral ;
-- Ciena ;
+- Ciena (recherché 2026-08-29, sans résultat) ;
 - MEF autres tracks ;
 - F5 NGINX / distributed cloud ;
 - Infoblox ;

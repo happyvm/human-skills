@@ -242,7 +242,7 @@ Il se combine bien avec :
 
 # À poursuivre
 
-- CXPA membership 2026 exact par région ;
+- CXPA membership 2026 exact par région (recherché 2026-08-29, sans résultat : pages officielles cxpa.org/cxpaglobal.org ne donnent qu'un argument marketing « moins d'1 $/jour », pas de chiffre) ;
 - CCXP prep ecosystem ;
 - Forrester CX certification ;
 - Qualtrics XM — format d'examen exact (durée/questions) et validité/renouvellement ;

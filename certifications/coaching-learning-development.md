@@ -313,10 +313,10 @@ Source :
 - coût France / Europe de programmes ICF Level 1 / 2 / 3 ;
 - EMCC ESIA (supervision, distinct de l'EIA documentée ci-dessus) ;
 - Association for Coaching ;
-- ILM coaching qualifications ;
-- CIPD Learning & Development ;
+- ILM coaching qualifications (recherché 2026-08-29, sans résultat : qualification multi-centres, observé £779–4 095+ selon centre, pas de tarif catalogue unique) ;
+- CIPD Learning & Development (recherché 2026-08-29, sans résultat : même problème multi-centres, observé £1 600–3 950 selon provider) ;
 - Kirkpatrick Silver/Gold — prix exacts (Bronze documenté ci-dessus) ;
-- Everything DiSC / Insights / assessment certifications ;
+- Everything DiSC / Insights / assessment certifications (recherché 2026-08-29 pour DiSC, sans résultat définitif : partenaires autorisés à 2 995–3 195 $ selon partenaire, pas de tarif Wiley officiel unique) ;
 - Korn Ferry / Hogan assessor credentials ;
 - facilitation certifications ;
 - instructional design credentials.

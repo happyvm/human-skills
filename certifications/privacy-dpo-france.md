@@ -216,7 +216,7 @@ Source :
 - prix LSTI ;
 - prix DNV ;
 - AFCDP / autres schémas ;
-- Europrivacy ;
+- Europrivacy (recherché 2026-08-29 : c'est une certification d'organisation/audit, 5 000–25 000+ $, pas un credential individuel — probablement hors périmètre de ce catalogue plutôt qu'à re-rechercher) ;
 - PECB GDPR / DPO ;
 - ISO 27701 person certifications ;
 - privacy engineering / PETs ;

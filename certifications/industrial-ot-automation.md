@@ -302,8 +302,8 @@ Les certificates ISA SIS visent des profils industriels beaucoup plus spécialis
 # À poursuivre
 
 - TÜV Functional Safety Engineer ;
-- exida CFSE / CFSP ;
-- Dragos certifications ;
+- exida CFSE / CFSP (recherché 2026-08-29, sans résultat : aucun prix sur exida.com) ;
+- Dragos certifications (recherché 2026-08-29, sans résultat : aucun prix officiel trouvé, contact direct requis) ;
 - SANS ICS tracks ;
 - Siemens SITRAIN certifications ;
 - Rockwell Automation ;

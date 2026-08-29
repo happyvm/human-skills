@@ -48,6 +48,24 @@ python3 tools/audit-entry-geography.py
 
 Le premier ajoute les labels de portée manquants (🇫🇷 FR, 🌍 INT, ❓ UNV, ...), le second vérifie qu'il n'en reste aucun manquant.
 
+## Convention pour les items « À poursuivre » déjà recherchés sans résultat
+
+Un item de backlog n'est pas toujours un simple oubli : parfois il a déjà été recherché et **aucun prix public exploitable n'a été trouvé** (page catalogue bloquée derrière un login, prix géré uniquement au checkout, qualification multi-organismes sans tarif unique, etc.).
+
+Dans ce cas, ne pas laisser l'item tel quel (ce qui pousse à le re-rechercher à chaque revue) ni le supprimer (ce qui perd l'information). Annoter en une ligne :
+
+```text
+- Nom du credential (recherché AAAA-MM-JJ, sans résultat : raison courte) ;
+```
+
+Exemple réel :
+
+```text
+- exida CFSE/CFSP (recherché 2026-08-29, sans résultat : aucun prix sur exida.com) ;
+```
+
+Règle de re-recherche : ne pas re-tester un item annoté de cette façon dans les ~6 mois qui suivent sauf demande explicite. Passé ce délai, il redevient un candidat normal pour une prochaine revue — l'annotation n'est pas un statut permanent, juste un évite-doublon de travail à court terme.
+
 ## Style
 
 - Français pour le contenu du catalogue, cohérent avec l'existant.

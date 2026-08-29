@@ -196,7 +196,7 @@ Source :
 
 # À poursuivre
 
-- WorldatWork CECP ;
+- WorldatWork CECP (recherché 2026-08-29, sans résultat : format d'examen confirmé — 100 questions, 3 h — mais prix derrière login/contact) ;
 - CCP / GRP exact Europe/APAC pricing ;
 - WorldatWork recertification fees / CE requirements ;
 - SHRM specialty credentials ;
