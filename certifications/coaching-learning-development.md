@@ -52,6 +52,19 @@ C'est donc un exemple classique où le voucher paraît peu cher alors que le fir
 - performance evaluation ;
 - éventuel programme Level 1 / 2 / 3.
 
+## Membership ICF — le coût récurrent souvent oublié
+
+Tous les tarifs « membre » ci-dessous supposent une **adhésion ICF active**, distincte des frais de credentialing eux-mêmes.
+
+- **Individual Membership : 270 $/an**, renouvelable automatiquement ;
+- éligibilité : détenir un credential ICF (ACC/PCC/MCC), **ou** 60 h de coaching education conforme aux standards ICF déjà complétées, **ou** en cours.
+
+Source :
+
+- https://coachingfederation.org/about/icf-membership/individual-membership/
+
+Le TCO réel d'un cycle de 3 ans membre doit donc inclure **3 × 270 $ = 810 $** de membership en plus du prix de credentialing/renewal indiqué « membre » ci-dessous — sans quoi comparer les tarifs « membre » ICF à un non-membre sous-estime largement l'écart réel.
+
 ---
 
 ## ACC — Associate Certified Coach
@@ -298,7 +311,6 @@ Source :
 # À poursuivre
 
 - coût France / Europe de programmes ICF Level 1 / 2 / 3 ;
-- ICF membership TCO ;
 - EMCC ESIA (supervision, distinct de l'EIA documentée ci-dessus) ;
 - Association for Coaching ;
 - ILM coaching qualifications ;

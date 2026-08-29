@@ -194,6 +194,27 @@ Source :
 
 ---
 
+# 7ter. Gainsight — Certified Customer Success Manager
+
+**CERT — 🌍 INT**
+
+Gainsight (plateforme Customer Success Management) propose via sa **Customer Success University** une désignation Certified Customer Success Manager construite sur trois modules (CSM101, CSM201, CSM301).
+
+```text
+Prix par module    299 $ (tarif introductif annoncé par Gainsight)
+```
+
+Source :
+
+- https://www.gainsight.com/press/gainsight-launches-customer-success-university-and-career-hub-to-invest-in-future-leaders-gainsight-launches-customer-success-university-and-career-hub-to-invest-in-future-leaders/
+- https://customersuccessuniversity.gainsight.com/catalog
+
+**Statut prix : 🟡 non confirmé directement sur les pages officielles Gainsight (accès bloqué lors de cette revue) — confirmé uniquement via le communiqué de presse Gainsight et un article dérivé.** Le prix est explicitement qualifié d'« introductif » (promotionnel) par Gainsight lui-même : **ne pas le traiter comme un tarif catalogue stable**, à revérifier avant achat. Le prix pour les 3 modules complets (299 $ × 3 si le tarif par module se confirme, soit potentiellement ~900 $) reste à vérifier.
+
+**Pertinence :** credential vendor-specific pour un profil Customer Success déjà orienté Gainsight ou qui recrute sur cette plateforme ; ne remplace pas le CCXP.
+
+---
+
 # 8. Positionnement
 
 Le CCXP est particulièrement adapté à :
@@ -229,6 +250,6 @@ Il se combine bien avec :
 - CCXP competitors ;
 - service design credentials ;
 - Design Thinking certifications ;
-- customer success certifications ;
+- Gainsight — prix officiel confirmé directement (page catalogue bloquée lors de cette revue) et tarif hors promotion introductive ;
 - contact center credentials ;
 - NPS / XM professional schemes.
