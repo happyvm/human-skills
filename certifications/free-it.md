@@ -677,6 +677,28 @@ Source :
 
 ---
 
+## Airtable Certification — gratuit, ouvert à tout compte (même plan gratuit)
+
+**Absent du dépôt jusqu'à cette revue.** Airtable (no-code database/workflow, très utilisé en ops) propose deux certifications **entièrement gratuites**, confirmées via la communauté officielle Airtable : *« Airtable Academy is now open to all customers, whether you're using the Free, Team, Business or Enterprise Scale plan »*.
+
+```text
+Airtable Builder Certification    gratuit — 65 questions, seuil 75 %
+Airtable Admin Certification      gratuit — 65 questions, seuil 75 %
+```
+
+- validité : **2 ans** ;
+- accessible même avec un compte Airtable **gratuit** — pas de restriction organisationnelle contraignante, contrairement à Stripe ci-dessus.
+
+Source :
+
+- https://community.airtable.com/announcements-6/airtable-academy-now-open-for-all-customers-no-matter-your-plan-1564
+- https://academy.airtable.com/page/airtable-certification
+- https://academy.airtable.com/certification-airtable-admin
+
+**Valeur : ⭐⭐⭐⭐⭐** — accès pleinement confirmé (contrairement à Stripe), bon signal pour un profil ops/no-code.
+
+---
+
 ## IBM SkillsBuild — digital credentials gratuits
 
 IBM SkillsBuild propose gratuitement apprentissage et plusieurs digital credentials validés.

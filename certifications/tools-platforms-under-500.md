@@ -31,6 +31,7 @@ verified: 2026-08-30
 | Datadog Certification | Observabilité | **100 $** | ⭐⭐⭐⭐ |
 | Microsoft Office Specialist | Productivité / Office | **100 $ env.** | ⭐⭐⭐⭐ |
 | Talend Data Integration v7 Certified Developer | Data integration | **120 $** | ⭐⭐⭐⭐ |
+| Notion Administrator Certification | No-code workspace | **100-150 $** | ⭐⭐⭐⭐ |
 | Adobe Certified Professional | Création numérique | **150 $ US online** | ⭐⭐⭐ |
 | UiPath Associate | RPA / Agentic Automation | **150 $** | ⭐⭐⭐⭐ |
 | Confluent Certified | Kafka / Streaming | **150 $** | ⭐⭐⭐⭐⭐ |
@@ -466,3 +467,28 @@ Source :
 - https://www.esri.com/training/certification-find-exam/search/
 
 **Valeur : ⭐⭐⭐⭐** pour un profil géospatial/GIS — Esri est de facto le standard de l'industrie GIS, avec une base installée massive dans le secteur public (collectivités, agences environnementales, cadastre) et les utilities, peu couvert par ailleurs dans les dépôts de certifications IT généralistes.
+
+---
+
+# 17. Notion — absent du dépôt jusqu'à cette revue
+
+**Notion** (no-code workspace/wiki, très adopté en startups/scale-ups) n'avait aucune mention. Grille confirmée directement sur la page officielle d'aide Notion :
+
+```text
+Administrator Certification         100-150 $ selon track
+```
+
+## Format et prérequis
+
+- prérequis : réussir **3 badges** (Essentials, Workflows, Advanced) à **75 %** minimum chacun avant de pouvoir passer la certification ;
+- examen final : **80 %** minimum requis ;
+- **1 achat = 2 tentatives** ;
+- examen **proctoré** (webcam + partage d'écran).
+
+Il existe également des **certifications Partner** (Service Specialist, Sales Specialist, Technical Specialist) — statut d'accès (partenaire uniquement ou ouvert) non confirmé avec certitude lors de cette revue.
+
+Source :
+
+- https://www.notion.com/help/badges-and-certifications
+
+**Valeur : ⭐⭐⭐⭐** pour un profil ops/no-code déjà utilisateur avancé de Notion — parcours structuré avec prérequis progressifs plutôt qu'un simple examen isolé.
