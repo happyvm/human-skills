@@ -287,6 +287,33 @@ Source :
 
 ---
 
+# 5. Intercom (Fin Academy) — gratuit, absent du dépôt jusqu'à cette revue
+
+**Intercom** (customer support/messaging, plateforme rebrandée autour de son IA **Fin** — portail désormais `academy.fin.ai`) propose deux certifications **entièrement gratuites**, confirmées directement sur la FAQ officielle : *« Taking courses on Fin Academy is free! »*.
+
+```text
+Support Agent Certification       gratuit
+Support Manager Certification     gratuit
+```
+
+## Support Agent — détail confirmé
+
+- **55 questions**, QCM, **90 minutes** ;
+- score de passage : **75 % (42/55)** ;
+- **open-book** — ressources autorisées pendant l'examen ;
+- couvre Inbox, conversations/tickets, configuration Messenger, Outbound/Series, Fin AI Agent, Workflows, Help Center, permissions et data model ;
+- credential délivré via **Accredible**.
+
+Source :
+
+- https://academy.fin.ai/page/faqs
+- https://academy.fin.ai/support-agent-certification
+- https://academy.fin.ai/support-manager-certification
+
+**Valeur : ⭐⭐⭐⭐⭐** — alternative gratuite crédible à Zendesk (payant) ci-dessus, bon signal pour un profil support client sur un outil largement adopté par les startups/scale-ups.
+
+---
+
 # Shortlist ITSM / enterprise tooling
 
 ```text
