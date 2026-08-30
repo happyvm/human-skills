@@ -11,12 +11,12 @@ tags:
   - domain/identity-iam
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-29
 ---
 
 # IAM, PAM, DevSecOps & automation — certifications sous 500 $
 
-> Okta, HashiCorp Vault, GitHub, Red Hat Ansible et automation/security tooling. Vérification : 28 août 2026.
+> Okta, HashiCorp Vault, GitHub, Red Hat Ansible, Puppet et automation/security tooling. Vérification : 29 août 2026.
 
 ---
 
@@ -26,6 +26,7 @@ verified: 2026-08-28
 |---|---:|---|
 | HashiCorp Vault Associate | **70,50 $** | 1 h, online proctored |
 | GitHub certifications | **99 $** | régionalisation possible |
+| Puppet Certified Professional | **200 $** | 60 QCM, 90 min, n'expire pas |
 | Okta Professional / Admin / Consultant / Developer | **250 $** | nouveau pricing unifié actuel |
 | Vault Operations Professional | **295 $** | lab + QCM, retake inclus |
 | Red Hat exam standard | **500 $ list price** | performance-based |
@@ -286,6 +287,33 @@ avant formation ou retakes.
 Source parcours :
 
 - https://www.redhat.com/fr/services/certifications
+
+---
+
+# Puppet — absent du dépôt jusqu'à cette revue
+
+Puppet (config management, concurrent d'Ansible/Chef) n'avait aucune mention dans le dépôt.
+
+**Puppet Certified Professional — 200 $**, confirmé directement sur la page officielle :
+
+```text
+Prix                200 $
+Format              60 QCM, 90 minutes
+Livraison           en ligne, proctoré (QuestionMark)
+Résultat            immédiat
+Validité            n'expire pas, mais devient "outdated" — l'examen est
+                    mis à jour ~tous les 24 mois pour suivre les versions
+                    Puppet Enterprise/Open Source
+Retake              payant à chaque tentative (14 j après le 1er échec,
+                    90 j après le 2e, contact support après le 3e)
+```
+
+Source :
+
+- https://www.puppet.com/learning-training/certification/exam-details
+- https://www.puppet.com/learning-training/certification/faq
+
+**Valeur : ⭐⭐⭐⭐** pour un profil infra/config management déjà sur Puppet — moins dominant qu'Ansible sur le marché actuel, mais présence encore significative en environnement legacy enterprise ; prix très raisonnable et pas de renouvellement payant obligatoire (contrairement à beaucoup de certifications cloud/vendor de ce dépôt).
 
 ---
 
