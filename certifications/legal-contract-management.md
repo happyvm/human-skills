@@ -11,14 +11,14 @@ tags:
   - domain/legal
   - scope/mixed
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Legal operations, commercial & contract management
 
-> Certifications et qualifications autour de la gestion des contrats, commercial management, procurement juridique et legal operations.
+> Certifications et qualifications autour de la gestion des contrats, commercial management, procurement juridique, legal operations et eDiscovery.
 >
-> **Vérification : 28 août 2026**
+> **Vérification : 30 août 2026**
 
 ---
 
@@ -34,6 +34,9 @@ verified: 2026-08-28
 | WorldCC CCM Expert | **995 $** | Transformation / leadership contractuel | après Advanced, membres WorldCC | 🌍 INT |
 | WorldCC SRM Practitioner | **1 395 $** | Supplier Relationship Management | programme complet | 🌍 INT |
 | WorldCC SRM Advanced Practitioner | **1 395 $** | SRM avancé | programme complet | 🌍 INT |
+| Relativity Pro exams | **50 $ chacun** | eDiscovery | n'expire jamais | 🌍 INT |
+| Relativity Specialist exams | **250 $ chacun** | eDiscovery | validité 12 mois, RCE | 🌍 INT |
+| Relativity Certified Administrator (RCA) | **300 $** | eDiscovery | validité 12 mois, RCE | 🌍 INT |
 
 ---
 
@@ -165,6 +168,34 @@ Pour un profil legal ops, les credentials réellement certifiants sont souvent u
 - privacy ;
 - Lean / process ;
 - platform/vendor credentials.
+
+---
+
+# 4. eDiscovery — Relativity (absent du dépôt jusqu'à cette revue)
+
+**Relativity** (plateforme eDiscovery/document review dominante en contentieux et enquêtes internes) n'avait aucune mention. Prix confirmés directement sur la FAQ officielle de certification.
+
+```text
+Relativity Certified Administrator (RCA)                    300 $
+Specialist (Review Mgmt, Analytics, Infrastructure,
+  Processing, Project Management, Data Management)          250 $ chacun
+Pro exams (niveau plus basique)                               50 $ chacun
+```
+
+## Format et validité
+
+- paiement à **chaque tentative**, y compris retakes ; remboursement ≈ 7 jours ouvrés si applicable ;
+- **2 semaines d'attente** minimum avant repassage, **max 4 tentatives/an** par examen ;
+- **RCA et Specialist : validité 12 mois**, renouvellement via crédits **RCE** (Relativity Continuing Education) — 12 crédits pour RCA, 6 pour Specialist ;
+- **Pro : n'expire jamais**, aucun crédit de renouvellement requis ;
+- extensions d'environnement de préparation disponibles (29,99 $/2 sem., 49,99 $/4 sem.) ; extension de grâce RCE à 100 $ si les crédits ne sont pas complétés dans les 60 jours suivant l'expiration.
+
+Source :
+
+- https://www.relativity.com/resources/certification/faqs/
+- https://www.relativity.com/resources/certification/admin/relativity-certified-administrator/
+
+**Valeur : ⭐⭐⭐⭐⭐** pour un profil legal ops / eDiscovery / litigation support — Relativity est la plateforme de référence du secteur en contentieux complexe et enquêtes internes, avec un ticket d'entrée (RCA 300 $, ou Pro dès 50 $) nettement inférieur aux certifications CLOC/WorldCC de ce même fichier.
 
 ---
 
