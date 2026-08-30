@@ -11,7 +11,7 @@ tags:
   - domain/euc-endpoint
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # EUC / VDI / endpoint certifications under 500 — 2026
@@ -197,3 +197,11 @@ Pour maximiser le signal à faible coût :
 2. Omnissa Horizon / Workspace ONE selon rôle ;
 3. Citrix CCA-V ;
 4. Citrix CCP-V si besoin d'un signal VDI plus avancé.
+
+---
+
+# À poursuivre
+
+- **Tanium** (recherché 2026-08-30, dans le cadre d'un balayage Gartner UEM/endpoint : sans résultat fiable) — 5 certifications actives confirmées (TCO, TCA, TCSCD, TCPEM, TCPRS), livrées via Pearson VUE, mais la page officielle indique explicitement "Certification exam vouchers are available for purchase... to receive a quote, please contact your Tanium/Partner Representative" — aucun prix public, modèle devis/partenaire comme SentinelOne/Genesys/Five9 déjà documentés ailleurs dans le dépôt ;
+- ManageEngine — non recherché lors de cette revue ;
+- Kandji / Hexnode — non recherchés, probablement niche par rapport à Jamf.
