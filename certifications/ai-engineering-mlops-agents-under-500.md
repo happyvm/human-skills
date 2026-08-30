@@ -11,12 +11,12 @@ tags:
   - domain/ai-infrastructure
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-29
 ---
 
 # AI Engineering, MLOps & Agentic AI — certifications sous 500 € / $
 
-> Parcours techniques pour construire, déployer et opérer des systèmes IA : agents, GenAI, ML engineering, MLOps et plateformes. Vérification : 28 août 2026.
+> Parcours techniques pour construire, déployer et opérer des systèmes IA : agents, GenAI, ML engineering, MLOps et plateformes. Vérification : 29 août 2026.
 
 ---
 
@@ -24,8 +24,10 @@ verified: 2026-08-28
 
 | Credential | Prix officiel | Niveau / focus |
 |---|---:|---|
+| Claude Certified Associate — Foundations | **99 $** (partner email requis) | Claude fundamentals |
 | Microsoft AI-900 | **76 € France** | AI fundamentals |
 | NVIDIA GenAI Associate | **125 $** | GenAI foundations |
+| Claude Certified Developer / Architect — Foundations | **125 $** (partner email requis) | Claude dev / architecture |
 | NVIDIA Multimodal Associate | **125 $** | multimodal AI |
 | Microsoft Azure AI Apps & Agents Developer Associate | **126 €** | agents / Foundry / Python |
 | Microsoft Azure AI Cloud Developer Associate | **126 €** | cloud AI developer |
@@ -33,6 +35,7 @@ verified: 2026-08-28
 | Microsoft ML Operations Engineer Associate | **126 €** | MLOps / GenAIOps |
 | GitHub Agentic AI Developer | **126 € via Microsoft/Pearson page** | GitHub / agentic AI |
 | AWS ML Engineer Associate | **150 $ / niveau Associate régional** | production ML |
+| Claude Certified Architect — Professional | **175 $** (partner email requis) | Claude production architecture |
 | NVIDIA GenAI LLM Professional | **200 $** | LLM engineering |
 | NVIDIA Agentic AI Professional | **200 $** | multi-agent systems |
 | Databricks GenAI Engineer Associate | **200 $** | RAG / MLflow / model serving |
@@ -192,6 +195,48 @@ Source :
 - https://learn.microsoft.com/fr-fr/credentials/certifications/agentic-ai-developer/
 
 > Le pricing GitHub traditionnel à 99 $ et cette page Microsoft régionale à 126 € doivent être distingués selon le canal/examen concerné.
+
+---
+
+# Anthropic — Claude Certification Program
+
+**Angle mort comblé lors de cette revue** : ni Anthropic ni OpenAI n'avaient la moindre certification propre documentée dans le dépôt (seulement des cours gratuits mentionnés incidemment ailleurs). Anthropic a lancé un vrai programme de certification proctorée en mars 2026, avec 4 examens livrés via **Pearson VUE (OnVUE)** depuis juillet 2026.
+
+| Examen | Prix officiel | Compte pour le Partner Network |
+|---|---:|:---:|
+| Claude Certified Associate — Foundations | **99 $** | Non |
+| Claude Certified Developer — Foundations | **125 $** | Oui |
+| Claude Certified Architect — Foundations | **125 $** (99 $ avant le 30/06/2026) | Oui |
+| Claude Certified Architect — Professional | **175 $** | Oui |
+
+## Éligibilité — condition d'accès non triviale
+
+Contrairement à la plupart des certifications vendor de ce dépôt, l'inscription **exige un e-mail professionnel rattaché à une organisation membre du Claude Partner Network** (pas d'e-mail personnel accepté). Le point d'entrée du Partner Network, le niveau **Registered, est gratuit et immédiat** (portail partenaire + académie + éligibilité aux examens à tarif "membre") — comparable en pratique à d'autres partner networks vendor déjà documentés dans le dépôt (AWS Partner Network etc.), mais à ne pas confondre avec un accès individuel totalement libre.
+
+## Format
+
+- QCM et questions à réponses multiples scénarisées ;
+- **120 minutes** (≈135 min avec check-in) ;
+- score de passage : **720–1000** sur échelle standardisée ;
+- **validité 12 mois**, renouvellement gratuit via une évaluation non surveillée sur l'Anthropic Partner Academy si effectué à temps.
+
+## Remises partenaires
+
+Select/Preferred/Global Premier : **-50 %** ; Global Premier : **-100 % jusqu'au 31 août 2026**.
+
+Source (officielle) :
+
+- https://anthropic-partners.skilljar.com/page/faq-certifications
+
+**Valeur : ⭐⭐⭐⭐** — programme sérieux et bien structuré, mais la barrière Partner Network limite l'accès à un usage pleinement individuel/freelance sans affiliation organisationnelle.
+
+---
+
+# OpenAI — pas encore de certification accessible individuellement
+
+OpenAI a lancé en décembre 2025 un credential **"AI Foundations"**, évalué via des tâches scénarisées dans ChatGPT. **Statut au moment de cette revue (29/08/2026) : accès restreint à des pilotes employeur/université** (Walmart, John Deere, BCG, Accenture cités comme partenaires pilotes) — **aucune inscription individuelle directe, aucun prix public confirmé**. Trois cours de préparation sont gratuits et ouverts depuis juin 2026, mais l'examen proctoré final reste verrouillé aux pilotes.
+
+**Ne pas documenter de prix tant que l'accès grand public n'est pas confirmé** — à réévaluer d'ici ~6 mois (voir backlog).
 
 ---
 
@@ -448,6 +493,8 @@ NVIDIA AI Networking Pro            400 $
 
 # À poursuivre
 
+- OpenAI AI Foundations — accès individuel public et prix (recherché 2026-08-29, sans résultat : accès restreint aux pilotes employeur/université au moment de cette revue) ;
+- Claude Certification — tarif exact hors Partner Network / accès sans e-mail professionnel (recherché 2026-08-29, sans résultat : non prévu par le programme actuel) ;
 - AB-100 Agentic AI Business Solutions Architect ;
 - AWS GenAI Professional France exact checkout (régionalisation du prix 300 $ US) ;
 - Google Gemini Enterprise / Agent Platform future credentials ;
