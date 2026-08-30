@@ -632,6 +632,29 @@ Source :
 
 ---
 
+## Siemens Solid Edge Certified — CAO, gratuit (Associate/Professional/Expert)
+
+**Absent du dépôt jusqu'à cette revue.** Siemens propose une certification CAO/CAD complète sur **Solid Edge**, **entièrement gratuite aux trois niveaux** (Associate, Professional, Expert), confirmé directement sur le portail officiel `cadcertification.sw.siemens.com` — une ancienne FAQ PDF Siemens datée de 2016 mentionnait un tarif payant (99 $), **obsolète** : le programme a été restructuré depuis sous ce nouveau portail, entièrement gratuit.
+
+```text
+Associate       gratuit — 1-2 ans d'expérience visés (étudiants/débutants)
+Professional    gratuit — 2+ ans d'expérience
+Expert          gratuit — 3-5 ans, nécessite Professional réussi
+```
+
+Préparation également gratuite via le Siemens Learning Center.
+
+Source :
+
+- https://cadcertification.sw.siemens.com/solid-edge/
+- https://cadcertification.sw.siemens.com/courses/solid-edge-associate/
+- https://cadcertification.sw.siemens.com/courses/solid-edge-professional/
+- https://cadcertification.sw.siemens.com/courses/solid-edge-expert/
+
+**Valeur : ⭐⭐⭐⭐⭐** — rare cas d'une certification CAO enterprise complète et gratuite à tous les niveaux, alors que l'équivalent Autodesk (`tools-platforms-under-500.md`) est payant (150-250 $ par examen Certiport).
+
+---
+
 ## IBM SkillsBuild — digital credentials gratuits
 
 IBM SkillsBuild propose gratuitement apprentissage et plusieurs digital credentials validés.
