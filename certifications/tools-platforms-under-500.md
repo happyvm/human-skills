@@ -26,6 +26,7 @@ verified: 2026-08-29
 
 | Certification / famille | Domaine | Prix officiel indicatif | Valeur |
 |---|---|---:|:---:|
+| Salesforce Certified Tableau Desktop Foundations | BI / Data analytics | **75 $** | ⭐⭐⭐⭐⭐ |
 | Datadog Certification | Observabilité | **100 $** | ⭐⭐⭐⭐ |
 | Microsoft Office Specialist | Productivité / Office | **100 $ env.** | ⭐⭐⭐⭐ |
 | Adobe Certified Professional | Création numérique | **150 $ US online** | ⭐⭐⭐ |
@@ -36,6 +37,7 @@ verified: 2026-08-29
 | dbt Analytics Engineering | Data engineering | **200 $** | ⭐⭐⭐⭐ |
 | Autodesk Certified Professional | CAO / Design | **200 $** | ⭐⭐⭐⭐ |
 | Qlik (toute certification) | BI / Data analytics | **250 $** | ⭐⭐⭐⭐ |
+| Salesforce Certified Tableau Data Analyst | BI / Data analytics | **250 $** | ⭐⭐⭐⭐ |
 | Autodesk Certified Expert | CAO / Design | **250 $** | ⭐⭐⭐⭐ |
 | HPE HPE0/HPE6 exams | Infrastructure | **260 $** pays développés | ⭐⭐⭐⭐ |
 | UiPath Professional | RPA / Automation | **300 $** | ⭐⭐⭐⭐ |
@@ -342,3 +344,40 @@ Source :
 - https://www.analyticsexam.com/faq/how-much-does-qlik-certification-exam-cost
 
 **Valeur : ⭐⭐⭐⭐** pour un profil BI/data déjà en poste sur Qlik — moins universellement recherché que Power BI (`public-cloud-multicloud-under-500.md`), mais confirmé actif et largement implanté en environnement entreprise (banque, assurance, retail).
+
+---
+
+# 14. Tableau — absent du dépôt jusqu'à cette revue
+
+Tableau (racheté par Salesforce) a migré l'intégralité de son schéma de certification sur la plateforme **Trailhead Academy / Pearson** en juillet 2025 — les anciens noms ("Tableau Desktop Specialist") ont été renommés "Salesforce Certified Tableau …".
+
+| Certification | Niveau | Prix confirmé | Portée |
+|---|---|---:|:---:|
+| Salesforce Certified Tableau Desktop Foundations (ex-Desktop Specialist) | Fondation | **75 $** + taxes | 🌍 INT |
+| Salesforce Certified Tableau Data Analyst | Avancé | **250 $** | 🌍 INT |
+| Salesforce Certified Tableau Server Administrator | Avancé | **200 $** (non confirmé officiellement — voir note) | 🌍 INT |
+| Salesforce Certified Tableau Consultant | Avancé | **200 $** (non confirmé officiellement — voir note) | 🌍 INT |
+| Salesforce Certified Tableau Architect | Avancé | **400 $** (non confirmé officiellement — voir note) | 🌍 INT |
+
+## Desktop Foundations
+
+Confirmé via un article d'aide Salesforce officiel : **75 $ US / 10 000 ¥ JPY + taxes locales**, un retake gratuit inclus en cas d'échec (contre 100 $ et retake payant avant la migration de juillet 2025). Maintenance annuelle requise via de courts modules Trailhead pour rester valide (pas un renouvellement payant).
+
+Source :
+
+- https://help.salesforce.com/s/articleView?id=005298988&language=en_US&type=1
+
+## Data Analyst
+
+**250 $**, examen de 2h. Cohérent avec le tarif "Tableau-specific certifications" cité par un prestataire de prep (250 $ / retake 125 $) pour l'ensemble Data Analyst / Consultant / Server Admin.
+
+## Server Administrator, Consultant, Architect — prix non confirmé, sources contradictoires
+
+**Statut : recherché 2026-08-29, sans résultat fiable.** Deux sources tierces se contredisent : l'une chiffre Server Administrator et Consultant à 200 $ chacun et Architect à 400 $ ; une autre indique un tarif uniforme de 250 $ pour "Data Analyst, Consultant, Server Admin" (sans mentionner Architect séparément). Aucune page officielle Salesforce/Trailhead consultée n'affiche ces montants en clair. Ne pas trancher arbitrairement entre les deux — à revérifier directement au moment de l'inscription, ou dans ~6 mois.
+
+Source (à confirmer) :
+
+- https://www.tableau.com/learn/certification (liste les 5 certifications, sans prix)
+- https://trailhead.salesforce.com/en/help?article=Guide-to-Certification-Exams-at-Tableau-Conference
+
+**Valeur : ⭐⭐⭐⭐⭐** pour Desktop Foundations comme point d'entrée très abordable (75 $) sur un outil BI parmi les plus demandés du marché ; ⭐⭐⭐⭐ pour Data Analyst.

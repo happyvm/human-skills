@@ -3,7 +3,7 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **99**
-- credential-like table rows scanned: **1456**
+- credential-like table rows scanned: **1463**
 - exact normalized names present in 2+ files: **82**
 - specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
@@ -176,7 +176,7 @@
 | 64 | `entrepreneurship-startup-business-creation-2026.md` |
 | 56 | `paid-over-500.md` |
 | 48 | `practical-cyber-under-500.md` |
-| 41 | `tools-platforms-under-500.md` |
+| 48 | `tools-platforms-under-500.md` |
 | 39 | `networking-wireless-ai-infra.md` |
 | 37 | `entrepreneur-international-functional-credentials-2026.md` |
 | 34 | `audit-finance-project-over-500.md` |
@@ -218,9 +218,9 @@
 | 69 | `ai-infrastructure` |
 | 60 | `network` |
 | 59 | `business-soft-skills` |
+| 48 | `devops-automation` |
 | 47 | `itsm-middleware` |
 | 47 | `hr-people` |
-| 41 | `devops-automation` |
 | 32 | `storage-backup` |
 | 32 | `pharma-regulatory` |
 | 28 | `datacenter-facilities` |
