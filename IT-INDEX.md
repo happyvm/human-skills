@@ -395,8 +395,9 @@ ServiceNow impose aussi maintenance/delta/CMP dans le cycle de vie ; ne pas rega
 - [`certifications/practical-cyber-under-500.md`](certifications/practical-cyber-under-500.md)
 - [`certifications/cyber-premium-over-500.md`](certifications/cyber-premium-over-500.md)
 - [`certifications/crowdstrike-certification-2026.md`](certifications/crowdstrike-certification-2026.md)
+- [`certifications/sentinelone-certification-status-2026.md`](certifications/sentinelone-certification-status-2026.md)
 
-Couvre HTB, TCM, TryHackMe, Security Blue Team, Altered Security, Zero-Point, CREST, INE, PortSwigger, OffSec, GIAC/SANS, CrowdStrike (EDR/XDR/SIEM/cloud security, SOC blue-team).
+Couvre HTB, TCM, TryHackMe, Security Blue Team, Altered Security, Zero-Point, CREST, INE, PortSwigger, OffSec, GIAC/SANS, CrowdStrike (EDR/XDR/SIEM/cloud security, SOC blue-team). SentinelOne : pas d'inscription individuelle ouverte trouvée (customer/partner portal uniquement).
 
 ---
 
