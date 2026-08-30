@@ -41,8 +41,10 @@ verified: 2026-08-30
 | Qlik (toute certification) | BI / Data analytics | **250 $** | ⭐⭐⭐⭐ |
 | Salesforce Certified Tableau Data Analyst | BI / Data analytics | **250 $** | ⭐⭐⭐⭐ |
 | Autodesk Certified Expert | CAO / Design | **250 $** | ⭐⭐⭐⭐ |
+| Esri Foundation / Associate | GIS | **275-295 $** | ⭐⭐⭐⭐ |
 | HPE HPE0/HPE6 exams | Infrastructure | **260 $** pays développés | ⭐⭐⭐⭐ |
 | UiPath Professional | RPA / Automation | **300 $** | ⭐⭐⭐⭐ |
+| Esri Professional | GIS | **325 $** | ⭐⭐⭐⭐ |
 | ServiceNow CSA / CAD / CPOA | ITSM / Platform | **300 $ + taxes** | ⭐⭐⭐⭐⭐ |
 | HPE HPE7 exams | Infrastructure | **350 $** pays développés | ⭐⭐⭐⭐ |
 | ServiceNow CIS | ITSM / spécialisation | **450 $ + taxes** | ⭐⭐⭐⭐–⭐⭐⭐⭐⭐ |
@@ -440,3 +442,27 @@ Source :
 - https://esportsadvocate.net/2025/09/gameplan-launches-unreal-engine-3d-fundamentals-certification/
 
 **Valeur : ⭐⭐⭐⭐⭐** — coût d'entrée minime (50 $, retakes inclus) pour une certification officiellement conçue par Epic Games, sur un débouché professionnel large (jeu vidéo, VFX, architecture/XR, simulation) largement sous-représenté dans ce dépôt jusqu'ici.
+
+---
+
+# 16. Esri — GIS, absent du dépôt jusqu'à cette revue
+
+**Esri** (ArcGIS, éditeur GIS dominant — gouvernement, utilities, urbanisme, environnement, logistique) n'avait aucune mention. Prix confirmés directement sur la page officielle de pricing.
+
+```text
+Foundation      275 $  (0-2 ans d'expérience)
+Associate       295 $  (2-4 ans d'expérience)
+Professional    325 $  (4+ ans d'expérience)
+Beta exam       250 $  (tarif réduit)
+```
+
+- voucher valide **1 an** à partir de l'achat ;
+- **3 tentatives max** par version d'examen — 14 jours d'attente avant la 2e tentative, 90 jours avant la 3e ;
+- chaque tentative nécessite un nouveau voucher (pas de retake gratuit).
+
+Source :
+
+- https://www.esri.com/en-us/training/certification/pricing-policies
+- https://www.esri.com/training/certification-find-exam/search/
+
+**Valeur : ⭐⭐⭐⭐** pour un profil géospatial/GIS — Esri est de facto le standard de l'industrie GIS, avec une base installée massive dans le secteur public (collectivités, agences environnementales, cadastre) et les utilities, peu couvert par ailleurs dans les dépôts de certifications IT généralistes.
