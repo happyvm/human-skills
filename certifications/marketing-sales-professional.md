@@ -11,7 +11,7 @@ tags:
   - domain/business-soft-skills
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Marketing, digital marketing & commercial credentials
@@ -31,6 +31,7 @@ verified: 2026-08-28
 | Klaviyo Academy certifications (Practitioner / Deliverability / Digital Marketing) | **0 €** | vendor certification |
 | Salesforce Accredited Professional examples | **150 $** | proctored vendor credential |
 | Salesforce Marketing / Consultant exams | **200 $** | certification vendor |
+| Outreach Certified Administrator | **299 $** | vendor certification |
 | AMA PCM Marketing Management — exam only | **249 $ membre / 349 $ non-membre** | professional certification |
 | AMA PCM prep + exam | **749 $ / 849 $** | bundle |
 | CIM Level 6 Diploma assessments | **£660** | + tuition + membership |
@@ -191,6 +192,29 @@ Source catalogue :
 Salesforce précise que la plupart de ses certifications exigent un **maintenance module annuel** afin de conserver le credential actif.
 
 Trailhead learning est généralement gratuit, ce qui permet de maintenir de nombreux titres sans gros frais monétaires supplémentaires, mais avec une obligation de mise à jour.
+
+---
+
+# 6 bis. Outreach — sales engagement, absent du dépôt jusqu'à cette revue
+
+**Outreach** (plateforme de sales engagement, Gartner Leader du secteur, alternative à Salesloft) n'avait aucune mention.
+
+**Outreach Certified Administrator — 299 $**, confirmé directement sur la FAQ officielle :
+
+```text
+Prix              299 $ + taxes locales
+Format             100 questions, 120 minutes
+Score requis       64 %
+Livraison          proctoré, centre de test ou en ligne
+Langue              anglais uniquement
+Retake              1 gratuit, puis tarif standard
+```
+
+Source :
+
+- https://university.outreach.io/page/certification-faq
+
+**Valeur : ⭐⭐⭐⭐** pour un profil RevOps/sales ops déjà sur Outreach — écosystème sales engagement peu couvert par ailleurs dans ce dépôt (au-delà du CRM Salesforce/HubSpot déjà documenté).
 
 ---
 
