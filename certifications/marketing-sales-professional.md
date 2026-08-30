@@ -29,7 +29,10 @@ verified: 2026-08-30
 | HubSpot Academy certifications | **0 €** | vendor certification |
 | Google Ads certifications | **0 €** | platform certification |
 | Klaviyo Academy certifications (Practitioner / Deliverability / Digital Marketing) | **0 €** | vendor certification |
+| Braze Practitioner Exam | **50 $** | vendor certification |
+| Braze Marketer Exam | **100 $** | vendor certification |
 | Salesforce Accredited Professional examples | **150 $** | proctored vendor credential |
+| Braze Digital Strategist Exam | **150 $** | vendor certification |
 | Salesforce Marketing / Consultant exams | **200 $** | certification vendor |
 | Salesloft Administrator Exam | **200 $** | vendor certification |
 | Outreach Certified Administrator | **299 $** | vendor certification |
@@ -234,6 +237,36 @@ Source :
 
 - https://academy.salesloft.com/salesloft-administrator-exam (accès direct bloqué)
 - https://academy.salesloft.com/2025-recertification-salesloft-administrator
+
+---
+
+# 6 ter. Braze — customer engagement platform, absent du dépôt jusqu'à cette revue
+
+**Braze** (plateforme de customer engagement / marketing automation, Forrester Wave Leader) n'avait aucune mention. Grille complète confirmée directement sur le PDF officiel "Get Braze Certified" :
+
+```text
+Braze Practitioner Exam                  50 $
+Braze Marketer Exam                     100 $
+Braze Digital Strategist Exam           150 $
+Braze Certified Developer
+  (Android / iOS / Web SDK, chacun)     175 $
+```
+
+Prix hors taxes locales.
+
+## Format et validité
+
+- validité **3 ans** ;
+- en cas d'échec : **14 jours** d'attente avant repassage, **max 3 tentatives / 365 jours**, paiement intégral à chaque tentative ;
+- une fois réussi, impossible de repasser le même examen avant 3 ans ;
+- promotions ponctuelles observées (jusqu'à -50 % via bootcamp, ou -100 % lors de campagnes spécifiques).
+
+Source :
+
+- https://d6d4ismr40iw.cloudfront.net/organization/cefefe0c-bbfe-4874-a35f-b08f734d759a/images/43hZpH1ZSrqrFBhFUAEZ_Certifications%20One%20Pager.pdf (PDF officiel)
+- https://learning.braze.com/page/certification
+
+**Valeur : ⭐⭐⭐⭐⭐** — grille très lisible et accessible (dès 50 $), pertinente pour un profil martech/CRM engagement, écosystème peu couvert par ailleurs dans ce dépôt.
 
 ---
 
