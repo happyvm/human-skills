@@ -37,6 +37,8 @@ verified: 2026-08-30
 | Relativity Pro exams | **50 $ chacun** | eDiscovery | n'expire jamais | 🌍 INT |
 | Relativity Specialist exams | **250 $ chacun** | eDiscovery | validité 12 mois, RCE | 🌍 INT |
 | Relativity Certified Administrator (RCA) | **300 $** | eDiscovery | validité 12 mois, RCE | 🌍 INT |
+| iManage update/specialist assessments | **80 $ chacun** | Document management | mise à jour ciblée | 🌍 INT |
+| iManage certification exams (majorité) | **450 $ chacun** | Document management | grille uniforme | 🌍 INT |
 
 ---
 
@@ -196,6 +198,32 @@ Source :
 - https://www.relativity.com/resources/certification/admin/relativity-certified-administrator/
 
 **Valeur : ⭐⭐⭐⭐⭐** pour un profil legal ops / eDiscovery / litigation support — Relativity est la plateforme de référence du secteur en contentieux complexe et enquêtes internes, avec un ticket d'entrée (RCA 300 $, ou Pro dès 50 $) nettement inférieur aux certifications CLOC/WorldCC de ce même fichier.
+
+---
+
+# 5. Document management — iManage (absent du dépôt jusqu'à cette revue)
+
+**iManage** (DMS dominant en cabinets d'avocats et directions juridiques d'entreprise, alternative/complément à NetDocuments) n'avait aucune mention. Grille confirmée directement sur le store officiel `registration.imanage.com`.
+
+```text
+La quasi-totalité des examens (ICSE, Work Helpdesk Analyst,
+  Cloud Onboarding Technical/Business/Security Specialist,
+  Records/Threat/Security Policy Manager Admin/Engineer,
+  Full Stack Developer, Universal API Developer,
+  Work Cloud Fundamentals, Application Trainer...)         450 $ chacun
+
+Assessments de mise à jour / spécialistes ciblés
+  (Cloud Migration Specialist, Cloud Service Transition
+  Specialist, Cloud Onboarding Technical Specialist Update)  80 $ chacun
+```
+
+Plus de 20 examens actifs recensés lors de cette revue — grille remarquablement uniforme (450 $) comparée à d'autres écosystèmes vendor du dépôt à paliers multiples (BCS, Microsoft...). Les organisations abonnées iManage peuvent disposer d'entitlements réduisant le coût réel.
+
+Source :
+
+- https://registration.imanage.com/collections/all/certification-exam
+
+**Valeur : ⭐⭐⭐⭐** pour un profil IT juridique / legal ops technique (administrateur DMS, ingénieur déploiement cloud) — écosystème complémentaire à Relativity (eDiscovery) plutôt que concurrent, les deux couvrant des besoins distincts (gestion documentaire vs. contentieux/enquêtes).
 
 ---
 
