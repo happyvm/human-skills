@@ -277,6 +277,23 @@ Certifications disponibles notamment sur :
 
 Source : https://certifiedprofessional.adobe.com/en/faq
 
+## Adobe Digital Experience Certification (Marketo Engage, etc.) — programme distinct, absent du dépôt jusqu'à cette revue
+
+À ne pas confondre avec Adobe Certified Professional ci-dessus (créatif, via Certiport) : le programme **Adobe Digital Experience Certification** couvre les produits marketing/données (dont **Marketo Engage**, ex-Marketo racheté par Adobe), délivré via **Webassessor**, avec une grille de prix distincte et standardisée mondialement :
+
+```text
+Professional level    125 $ (global) / 95 $ (Inde)
+Expert level           225 $ (global) / 150 $ (Inde)
+Master level            225 $ (global) / 150 $ (Inde)
+```
+
+Remises : partenaires Adobe -33 %, employés Adobe 80 $/examen, étudiants -33 % (validation requise), achat en volume -20 à -33 % selon quantité.
+
+Source :
+
+- https://certification.adobe.com/certifications/learn-more
+
+**Valeur : ⭐⭐⭐⭐** pour un profil marketing automation B2B — Marketo Engage reste une référence enterprise malgré la concurrence HubSpot, avec un coût d'entrée (125 $ Professional) nettement inférieur aux certifications Salesforce Marketing Cloud équivalentes.
 **Valeur : ⭐⭐⭐** généraliste ; plus forte dans les métiers créatifs.
 
 ---
