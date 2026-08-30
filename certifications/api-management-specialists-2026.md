@@ -11,7 +11,7 @@ tags:
   - domain/itsm-middleware
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # API Management specialist certifications — 2026
@@ -237,8 +237,8 @@ Sources :
 275 $    Kong Gateway Certified Associate
 275 $    Kong Konnect Certified Associate
 450 $    WSO2 Developer + Expert P1 + P2
-?        Gravitee Professional / Architect
-?        Axway APIM Developer / Administrator
+?        Gravitee Professional / Architect — sans résultat (30/08/2026), contact requis
+?        Axway APIM Developer / Administrator — sans résultat (30/08/2026), contact requis
 badge    Google Apigee Skill Badges
 ```
 

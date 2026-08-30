@@ -11,14 +11,14 @@ tags:
   - domain/security
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Cybersécurité pratique — certifications sous 500 € / $ / £
 
 > Certifications orientées **hands-on**, labs, investigation, pentest, SOC, AppSec et reporting professionnel.
 >
-> **Vérification : 28 août 2026**
+> **Vérification : 29 août 2026**
 
 Les prix sont conservés dans leur devise officielle. Pour les prix proches du seuil de 500 €, vérifier le montant final TTC / TVA au checkout.
 
@@ -29,7 +29,10 @@ Les prix sont conservés dans leur devise officielle. Pour les prix proches du s
 | Certification | Orientation | Prix officiel | Formation incluse | Retake | Valeur |
 |---|---|---:|:---:|:---:|:---:|
 | HTB CJCA | Cyber généraliste junior | **105 $ / 124,95 $ TTC indicatif** | Non avec voucher seul | Selon conditions HTB | ⭐⭐⭐⭐ |
+| Rapid7 Certified Administrator / Specialist (InsightVM/IDR/Connect/AppSec) | Vulnerability mgmt / SIEM / SOAR / AppSec | **215 $ chacun** | Non requis | Voucher séparé | ⭐⭐⭐⭐ |
+| Tenable Specialist (VM / Security Center / OT) — écrit seul | Vulnerability mgmt / OT | **215 $** (325 $ pratique, 540 $ bundle) | Non requis | — | ⭐⭐⭐⭐ |
 | TCM PHDA | Help Desk / IT support pratique | **199 $** | ✅ | ✅ 1 | ⭐⭐⭐ |
+| Mandiant Incident Response (MIR) | Threat intel / Incident Response | **250 $** | Non requis | Voucher séparé | ⭐⭐⭐⭐⭐ |
 | HTB CPTS / CDSA / CWES / COAE | Pentest / SOC / Web / AI | **210 $ / 249,90 $ TTC indicatif** | Non avec voucher seul | Selon conditions | ⭐⭐⭐⭐⭐ |
 | TCM PJPT / PWPA / PAPA / PMPA / PIPA / PSAA | Plusieurs | **249 $** | ✅ | ✅ 1 | ⭐⭐⭐⭐ |
 | Altered Security CRTP | Active Directory | **249 $ / 30 jours** | ✅ | examen inclus | ⭐⭐⭐⭐⭐ |
@@ -279,6 +282,85 @@ Sources :
 
 - https://portswigger.net/web-security/certification/how-it-works
 - https://portswigger.net/burp/pro
+
+---
+
+# 10. Vulnerability management — Rapid7 & Tenable (angle mort comblé lors de cette revue)
+
+Ni Rapid7 ni Tenable (deux des plus gros noms de la gestion des vulnérabilités / SIEM) n'avaient de prix documenté dans le dépôt — Tenable était mentionné dans `free-under-entitlement-security-vendors-2026.md` uniquement pour signaler que ses certifications sont payantes, sans chiffrer.
+
+## Rapid7 — Certified Administrator / Specialist, 215 $ chacun
+
+```text
+InsightVM (Vulnerability Management) Certified Administrator    215 $
+InsightIDR (SIEM) Certified Specialist                          215 $
+InsightConnect (Automation/SOAR) Certified Specialist            215 $
+InsightAppSec (Application Security) Certified Specialist        215 $
+```
+
+- examen en ligne, **open-book** (Student/Lab Guides, doc Rapid7, pages Help autorisées) ;
+- **2 heures**, 60 questions, QCM, seuil de réussite 80 % (48/60) ;
+- **1 tentative incluse** ; vouchers de repassage vendus séparément.
+
+**Attention niveau de preuve :** prix corroboré par plusieurs sources indépendantes convergentes (dont Credly et le contenu de préparation officiel), mais la page academy.rapid7.com elle-même a renvoyé une erreur d'accès direct (403) lors de cette revue — à re-confirmer au moment de l'achat.
+
+Source :
+
+- https://academy.rapid7.com/page/rapid7-certified-professional
+- https://www.credly.com/org/rapid7/badge/insightvm-certified-administrator
+
+## Tenable — Specialist tracks, écrit + pratique
+
+Confirmé directement sur la page d'achat officielle :
+
+| Track | Écrit | Pratique | Bundle |
+|---|---:|---:|---:|
+| Tenable One Vulnerability Management Specialist | **215 $** | **325 $** | **540 $** |
+| Tenable Security Center Specialist | **215 $** | **325 $** | **540 $** |
+| Tenable One OT Exposure Specialist | **215 $** | **325 $** | **540 $** |
+
+- prix TTC (TVA incluse) ;
+- l'examen écrit doit être réussi **avant** de pouvoir passer l'examen pratique ;
+- le bundle complet (540 $) dépasse le seuil de ce fichier — seul l'examen écrit seul (215 $) reste dans la tranche sous 500.
+
+Source :
+
+- https://www.tenable.com/buy/certification
+
+## Qualys — statut non confirmé, ne pas documenter de prix
+
+Le **Qualys Certified Specialist — VMDR** semble **gratuit pour les clients Qualys existants**, mais aucun tarif public non-client n'a été trouvé lors de cette revue. Statut : recherché 2026-08-29, sans résultat fiable — à ne pas confondre avec un prix catalogue individuel classique.
+
+---
+
+# 11. Mandiant Academy (Google Cloud Security) — angle mort threat intel/IR comblé lors de cette revue
+
+**Mandiant** (racheté par Google Cloud, référence mondiale en threat intelligence et incident response — équipe derrière la plupart des grandes attributions d'attaques médiatisées) n'avait aucune mention dans le dépôt.
+
+## Mandiant Incident Response (MIR) — 250 $
+
+Confirmé directement sur la page d'inscription officielle (`mandiantacademy.swoogo.com/mir-cert`) et le guide d'examen officiel PDF :
+
+```text
+Prix                 250 $ par tentative
+Format                50 questions QCM, 60 minutes
+Score de passage      70 % (pass/fail, pas de score détaillé)
+Livraison             remote online proctored, Kryterion Webassessor
+Standard               conforme ANSI/ISO 17024
+Validité               3 ans, recertification par repassage
+                       (fenêtre ouverte 60 j avant expiration)
+Prérequis recommandé   3-5 ans d'expérience incident response
+```
+
+Étude non fournie avant l'examen — pas open-book, l'examen évalue une expérience terrain réelle plutôt qu'un bachotage.
+
+Source :
+
+- https://mandiantacademy.swoogo.com/mir-cert
+- https://services.google.com/fh/files/misc/incident_response_exam_guide.pdf (guide d'examen officiel complet)
+- https://cloud.google.com/learn/security/mandiant-academy-certifications
+
+**Valeur : ⭐⭐⭐⭐⭐** — signal très fort pour un profil IR/threat hunting sénior, marque reconnue dans l'industrie, prix raisonnable comparé à GIAC/SANS (souvent 1000$+) pour un niveau de crédibilité comparable sur le marché du travail.
 
 ---
 

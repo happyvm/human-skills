@@ -11,7 +11,7 @@ tags:
   - domain/linux
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-29
 ---
 
 # Linux vendor-neutral & SUSE — certifications 2026
@@ -368,6 +368,25 @@ Source partenaire France à titre indicatif :
 - https://www.globalknowledge.com/fr-fr/formation/comptia/systemes_d%E2%80%99exploitation/g016
 
 **Auto-formation officielle :** [CompTIA CertMaster Learn](https://www.comptia.org/en-us/resources/certmaster-training/learn/) — eLearning payant aligné sur les objectifs d'examen (40+ h de contenu, labs et practice tests en options complémentaires).
+
+## Ancienne « passerelle » CompTIA Linux+ ↔ LPIC-1 ↔ SUSE CLA — morte depuis 2019, ne pas la présenter comme active
+
+Recherche menée suite à une question directe sur les certifications "passerelle" qui octroient automatiquement un autre credential vendor (ex. Ubuntu/SUSE) sans examen supplémentaire.
+
+**Ce mécanisme a existé, mais il est terminé** :
+
+- de **2010 à 2019**, l'ancien **CompTIA Linux+ Powered by LPI** (LX0-103/LX0-104) était littéralement composé des deux examens LPIC-1 (101/102) — réussir Linux+ Powered by LPI équivalait donc automatiquement à obtenir le **LPIC-1** ;
+- LPI et SUSE (alors Novell) avaient en parallèle un accord permettant à tout titulaire du LPIC-1 de réclamer gratuitement, sans examen, le **SUSE Certified Linux Administrator (CLA)** — un « 3-en-1 » Linux+ / LPIC-1 / SUSE CLA ;
+- **CompTIA a rompu le partenariat avec LPI le 1er octobre 2019** : Linux+ est devenu un programme propriétaire indépendant, non réciproque avec LPIC-1. La confirmation est explicite : la variante actuelle **XK0-005/XK0-006 n'a jamais été proposée en « Powered by LPI »** ;
+- le nom de certification **SUSE CLA n'existe plus dans le catalogue SUSE actuel** (remplacé par SCA/SCE/SCDS, cf. sections ci-dessus) — la page officielle SUSE 2026 sur les certifications ne mentionne aucune reconnaissance LPIC/CompTIA.
+
+**Conséquence pour ce dépôt :** passer le Linux+ XK0-006 actuel ou un LPIC-1 aujourd'hui **n'octroie plus aucun autre credential automatiquement** — chaque certification Linux de ce dépôt (LPIC, Linux+, SUSE SCA/SCE, Canonical Ubuntu) doit être passée et payée séparément. Ne pas re-proposer cette « passerelle » dans une future recherche sans nouvelle annonce officielle LPI/SUSE/CompTIA.
+
+Sources :
+
+- https://www.comptia.org/en-us/blog/all-about-linux-and-linux-2019-refresh-/
+- https://news.opensuse.org/2013/07/02/the-certification-value-and-the-lpic-1-suse-certified-linux-administrator-connection/ (accord historique, désormais obsolète)
+- https://www.suse.com/c/become-a-suse-certified-administrator-or-engineer/ (catalogue SUSE actuel, aucune mention LPIC/CompTIA)
 
 ---
 

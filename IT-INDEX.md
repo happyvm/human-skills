@@ -375,6 +375,8 @@ AMD ROCm Professional est annoncé plus tard en 2026, Expert début 2027. Prix p
 
 - [`certifications/itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md`](certifications/itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md)
 - [`certifications/lean-it-lean-management-2026.md`](certifications/lean-it-lean-management-2026.md) — Lean IT (EXIN, retrait PeopleCert fin 2026), IASSC, SME/AME/Shingo, IISE, Kaizen Institute.
+- [`certifications/netsuite-certification-2026.md`](certifications/netsuite-certification-2026.md) — Oracle NetSuite (ERP cloud) : SuiteFoundation confirmé 250 $, certifications avancées à prix contradictoire selon les sources.
+- [`certifications/low-code-nocode-pega-appian-2026.md`](certifications/low-code-nocode-pega-appian-2026.md) — Pega System Architect (~175 $), Appian Certified Associate Developer (250 $).
 
 ```text
 Atlassian Certificates                       0 $  unproctored
@@ -394,8 +396,10 @@ ServiceNow impose aussi maintenance/delta/CMP dans le cycle de vie ; ne pas rega
 
 - [`certifications/practical-cyber-under-500.md`](certifications/practical-cyber-under-500.md)
 - [`certifications/cyber-premium-over-500.md`](certifications/cyber-premium-over-500.md)
+- [`certifications/crowdstrike-certification-2026.md`](certifications/crowdstrike-certification-2026.md)
+- [`certifications/sentinelone-certification-status-2026.md`](certifications/sentinelone-certification-status-2026.md)
 
-Couvre HTB, TCM, TryHackMe, Security Blue Team, Altered Security, Zero-Point, CREST, INE, PortSwigger, OffSec, GIAC/SANS.
+Couvre HTB, TCM, TryHackMe, Security Blue Team, Altered Security, Zero-Point, CREST, INE, PortSwigger, OffSec, GIAC/SANS, CrowdStrike (EDR/XDR/SIEM/cloud security, SOC blue-team). SentinelOne : pas d'inscription individuelle ouverte trouvée (customer/partner portal uniquement).
 
 ---
 

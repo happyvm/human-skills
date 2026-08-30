@@ -11,12 +11,12 @@ tags:
   - domain/observability
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Observability, SRE & DevOps — certifications sous 500 $
 
-> Splunk, Datadog, Elastic, Prometheus/OpenTelemetry et cloud DevOps. Vérification : 28 août 2026.
+> Splunk, Datadog, Elastic, Prometheus/OpenTelemetry, SolarWinds et cloud DevOps. Vérification : 30 août 2026.
 
 ---
 
@@ -31,6 +31,7 @@ verified: 2026-08-28
 | Splunk Cloud Certified Admin | **130 $** | Power User requis |
 | Splunk ITSI Certified Admin | **130 $** | pas de prérequis affiché |
 | Splunk O11y Cloud Metrics User | **130 $** | observability |
+| SolarWinds Certified Professional | **200 $** (ou 60k pts THWACK) | monitoring infra/réseau |
 | Google Professional Cloud DevOps Engineer | **200 $ + taxes** | SRE/CI-CD/observability |
 | Prometheus Certified Associate | **250 $** | CNCF |
 | OpenTelemetry Certified Associate | **250 $** | CNCF |
@@ -218,6 +219,23 @@ instrumentation / collector / telemetry pipelines
 
 ---
 
+# SolarWinds Certified Professional — résolu (30 août 2026)
+
+**Absent du dépôt jusqu'à cette revue.** SolarWinds (monitoring infra/réseau/IT très implanté en entreprise, notamment mid-market) propose le **SolarWinds Certified Professional (SCP)** :
+
+```text
+Prix                200 $
+Alternative          60 000 points THWACK (communauté SolarWinds)
+                     échangeables contre un voucher exam, via le
+                     THWACK Store puis PSI testing center
+```
+
+Sourcé sur la documentation officielle du programme (support.solarwinds.com/solarwinds-certified-professional-program), corroboré par le forum officiel THWACK.
+
+**Valeur : ⭐⭐⭐⭐** — bon complément pour un profil monitoring infra qui n'est pas full observability cloud-native (Datadog/Splunk ci-dessus), particulièrement pertinent en environnement mid-market/legacy déjà équipé SolarWinds.
+
+---
+
 # Google Cloud — Professional Cloud DevOps Engineer
 
 - prix : **200 $ + taxes** ;
@@ -310,7 +328,6 @@ Source :
 
 - New Relic nouveau programme éventuel ;
 - Grafana Labs certification professionnelle si programme formel apparaît ;
-- SolarWinds ;
 - PagerDuty University — certification confirmée mais prix public non trouvé (`CHECKOUT-REQUIRED`) ;
 - ServiceNow ITOM ;
 - OpenSearch ;

@@ -11,7 +11,7 @@ tags:
   - domain/data-database
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Databases, streaming & data platforms — certifications sous 500 $
@@ -302,6 +302,29 @@ Source :
 
 - https://www.yugabyte.com/blog/tag/certification/
 
+# Teradata Vantage — résolu lors du balayage Gartner data warehouse (30 août 2026)
+
+Prix confirmés directement sur les pages officielles teradata.com/university :
+
+```text
+VantageCloud Lake Associate           99 $
+Vantage Certified Associate 2.4      149 $  — 75 min, Pearson VUE
+Advanced (Administration,
+  Architecture, Data Engineering,
+  Analytics, Data Science)           125 $ chacun — via voucher bulk
+```
+
+Promo 2025 observée : -25 % avec code `VANTAGE2025` au checkout (à revérifier, code potentiellement daté).
+
+Source :
+
+- https://www.teradata.com/university/certification/vantage-certifications
+- https://www.teradata.com/university/certification/vantage-certifications/vantage-certified-associate-exam-2-4
+
+**Valeur : ⭐⭐⭐⭐** pour un profil data warehouse enterprise legacy/hybride — Teradata reste implanté en grands comptes (banque, télécom, retail) malgré la montée de Snowflake/Databricks déjà documentés ci-dessus.
+
+---
+
 # À poursuivre
 
 - Oracle Database OCP / MySQL prix régional France ;
@@ -312,9 +335,8 @@ Source :
 - ClickHouse ;
 - Grafana databases / observability ;
 - dbt avancé ;
-- Cloudera ;
-- Teradata ;
+- Cloudera (recherché 2026-08-30 en marge de Teradata, pas encore approfondi) ;
 - Informatica ;
-- Collibra ;
-- Alation ;
+- Collibra (recherché 2026-08-30 dans le cadre d'un balayage Gartner data governance/MDM, sans résultat : "Collibra ne publie pas le prix Ranger publiquement", contact requis) ;
+- Alation (recherché 2026-08-30, sans résultat : programme confirmé actif — Professional Implementer, 45 questions non-proctored, 70 % — mais aucun prix public trouvé) ;
 - data governance certifications.

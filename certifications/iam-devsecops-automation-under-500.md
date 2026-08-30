@@ -11,12 +11,12 @@ tags:
   - domain/identity-iam
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # IAM, PAM, DevSecOps & automation — certifications sous 500 $
 
-> Okta, HashiCorp Vault, GitHub, Red Hat Ansible et automation/security tooling. Vérification : 28 août 2026.
+> Okta, HashiCorp Vault, GitHub, Red Hat Ansible, Puppet, SailPoint et automation/security tooling. Vérification : 30 août 2026.
 
 ---
 
@@ -26,8 +26,11 @@ verified: 2026-08-28
 |---|---:|---|
 | HashiCorp Vault Associate | **70,50 $** | 1 h, online proctored |
 | GitHub certifications | **99 $** | régionalisation possible |
+| Puppet Certified Professional | **200 $** | 60 QCM, 90 min, n'expire pas |
 | Okta Professional / Admin / Consultant / Developer | **250 $** | nouveau pricing unifié actuel |
 | Vault Operations Professional | **295 $** | lab + QCM, retake inclus |
+| SailPoint IdentityIQ Professional | **300 $** | corroboré, non confirmé officiellement en direct |
+| SailPoint ISC Professional | **400 $** | corroboré, non confirmé officiellement en direct |
 | Red Hat exam standard | **500 $ list price** | performance-based |
 
 ---
@@ -289,19 +292,63 @@ Source parcours :
 
 ---
 
+# Puppet — absent du dépôt jusqu'à cette revue
+
+Puppet (config management, concurrent d'Ansible/Chef) n'avait aucune mention dans le dépôt.
+
+**Puppet Certified Professional — 200 $**, confirmé directement sur la page officielle :
+
+```text
+Prix                200 $
+Format              60 QCM, 90 minutes
+Livraison           en ligne, proctoré (QuestionMark)
+Résultat            immédiat
+Validité            n'expire pas, mais devient "outdated" — l'examen est
+                    mis à jour ~tous les 24 mois pour suivre les versions
+                    Puppet Enterprise/Open Source
+Retake              payant à chaque tentative (14 j après le 1er échec,
+                    90 j après le 2e, contact support après le 3e)
+```
+
+Source :
+
+- https://www.puppet.com/learning-training/certification/exam-details
+- https://www.puppet.com/learning-training/certification/faq
+
+**Valeur : ⭐⭐⭐⭐** pour un profil infra/config management déjà sur Puppet — moins dominant qu'Ansible sur le marché actuel, mais présence encore significative en environnement legacy enterprise ; prix très raisonnable et pas de renouvellement payant obligatoire (contrairement à beaucoup de certifications cloud/vendor de ce dépôt).
+
+---
+
 # CyberArk / SailPoint / autres IAM
 
 Ces programmes restent hautement pertinents mais leur tarification publique 2026 est moins uniformément exposée.
 
-À consolider :
+## SailPoint — résolu partiellement lors de cette revue (30 août 2026)
 
-- CyberArk Defender / Sentry / Guardian ;
-- SailPoint IdentityIQ / Identity Security Cloud ;
+```text
+SailPoint Certified IdentityIQ Professional        300 $
+SailPoint ISC (Identity Security Cloud,
+  ex-IdentityNow) Professional                     400 $
+Fourchette générale Professional Certification    400–500 $ selon examen
+```
+
+**Attention niveau de preuve :** prix corroborés par plusieurs sources tierces convergentes citant Identity University (SailPoint), mais la page officielle community.sailpoint.com/.../What-is-the-fee-for-a-Professional-Certification-exam a renvoyé un accès direct bloqué (403) lors de cette revue — à reconfirmer sur `university.sailpoint.com` au moment de l'inscription.
+
+Source :
+
+- https://university.sailpoint.com/sailpoint-certified-identityiq-associate
+- https://university.sailpoint.com/sailpoint-certified-identityiq-engineer
+
+## Reste à consolider
+
+- CyberArk Defender / Sentry / Guardian — voir `cyberark-certification-status-2026.md` (checkout requis, pas de prix public) ;
 - Ping Identity ;
 - Microsoft Entra identity credentials ;
 - BeyondTrust ;
 - Delinea ;
-- One Identity.
+- One Identity ;
+- Genesys Cloud CX (recherché 2026-08-30, sans résultat fiable : sources tierces contradictoires 300 $/500 $/580 $, page officielle beyond.genesys.com sans prix affiché) ;
+- Ivanti Product Certification (recherché 2026-08-30, sans résultat : format confirmé — 75 questions, 80 min, 80 % — mais aucun prix trouvé, ni sur le PDF officiel ni via recherche).
 
 Ils restent dans la watchlist jusqu'à obtention de prix publics ou checkout régionaux fiables.
 
@@ -335,7 +382,7 @@ Pour un profil infrastructure / architecture :
 - Entra / Microsoft Identity — déjà couvert via SC-300 dans `public-cloud-multicloud-under-500.md` ;
 - Jenkins / CloudBees current certification ;
 - GitLab current exams and mandatory training TCO ;
-- Sonar / Snyk / Checkmarx ;
+- Sonar / Snyk / Checkmarx (recherché 2026-08-30 dans le cadre d'un balayage Gartner SAST/AppSec, sans résultat : aucune certification individuelle proctorée publique identifiée pour SonarSource/SonarQube ni Checkmarx — semblent ne pas avoir de programme grand public ; Snyk propose uniquement Snyk Learn, déjà documenté comme gratuit/non-proctoré dans `free-it.md` ; Veracode également vérifié, même conclusion — aucun prix public, pricing produit uniquement sur devis) ;
 - DevSecOps Foundation / PeopleCert ;
 - policy-as-code / OPA credentials.
 

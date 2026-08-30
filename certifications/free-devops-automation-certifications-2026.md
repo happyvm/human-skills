@@ -11,7 +11,7 @@ tags:
   - domain/devops-automation
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Free DevOps, automation & RPA certifications — 2026
@@ -188,6 +188,17 @@ Sources :
 ### Partner exception
 
 Automation Anywhere indique que certaines certifications Advanced peuvent être gratuites pour les partenaires via un parcours Partner Exclusive. C'est une gratuité **conditionnelle**, pas publique générale.
+
+### Advanced Automation Developer Certification — prix confirmé pour les non-partenaires
+
+Contrairement à l'Essentials ci-dessus, l'**Advanced Automation Developer Certification** est payante hors statut partenaire : **80 $** (tarif standard confirmé sur le blog officiel Automation Anywhere, après expiration d'une promotion à 5 $ le 15 octobre 2024).
+
+- prérequis : Essentials Automation Developer Certification ou connaissance équivalente ;
+- **60 questions**, QCM.
+
+Source :
+
+- https://community.automationanywhere.com/pathfinder-blog-85009/new-certification-big-savings-greater-impact-88598
 
 ### Valeur
 

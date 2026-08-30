@@ -38,6 +38,7 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 - [`certifications/paid-under-500.md`](certifications/paid-under-500.md) — catalogue général.
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md) — PMI, Scrum.org, ISACA, TOGAF, Lean Six Sigma, CFA Investment Foundations, langues, business.
 - [`certifications/bcs-chartered-institute-it-2026.md`](certifications/bcs-chartered-institute-it-2026.md) — BCS (UK) : IA, business analysis, data protection, DevOps, architecture, sécurité info, SIAM, ISTQB, agile, transformation.
+- [`certifications/netsuite-certification-2026.md`](certifications/netsuite-certification-2026.md) — Oracle NetSuite : SuiteFoundation (250 $ confirmé), Administrator, ERP Consultant, SuiteCloud Developer.
 
 ## Entrepreneuriat, startup & création d'entreprise
 
@@ -48,6 +49,7 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 ## Infrastructure, cloud, réseau & plateformes
 
 - [`certifications/tools-platforms-under-500.md`](certifications/tools-platforms-under-500.md) — Datadog, Confluent, dbt, UiPath, HPE, IBM, ServiceNow, Elastic, MOS, Adobe, Autodesk, etc.
+- [`certifications/low-code-nocode-pega-appian-2026.md`](certifications/low-code-nocode-pega-appian-2026.md) — Pega System Architect (~175 $), Appian Certified Associate Developer (250 $).
 - [`certifications/storage-data-protection-under-500.md`](certifications/storage-data-protection-under-500.md) — NetApp, Dell, Pure Storage, Hitachi Vantara, Nutanix, VAST, Cohesity, NetBackup/Veritas, Huawei.
 - [`certifications/networking-wireless-ai-infra.md`](certifications/networking-wireless-ai-infra.md) — Juniper, CWNP, Nokia, MEF, NVIDIA AI Infrastructure / Networking.
 - [`certifications/finops-veeam-over-500.md`](certifications/finops-veeam-over-500.md) — FinOps Professional et nouveau parcours Veeam VMCE+/VMCSE 2026.
@@ -59,6 +61,7 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 
 - [`certifications/practical-cyber-under-500.md`](certifications/practical-cyber-under-500.md) — HTB, TCM, Altered Security, Zero-Point, CREST Practitioner, TryHackMe, BTL1, INE, BSCP.
 - [`certifications/cyber-premium-over-500.md`](certifications/cyber-premium-over-500.md) — CREST Registered/Certified, OffSec, OSCE3/OSEE, GIAC/SANS, Altered Security bundles, Zero-Point bundles.
+- [`certifications/crowdstrike-certification-2026.md`](certifications/crowdstrike-certification-2026.md) — CrowdStrike Falcon Certification Program (8 certifications, 250 $ chacune) : Practitioner, Administrator, Responder, Hunter, SIEM Analyst/Engineer, Identity Specialist, Cloud Specialist.
 - [`certifications/industrial-ot-automation.md`](certifications/industrial-ot-automation.md) — ISA CAP/CCST, ISA/IEC 62443, SIS / functional safety, OT/ICS.
 
 ## ISO, GRC, continuité & transformation

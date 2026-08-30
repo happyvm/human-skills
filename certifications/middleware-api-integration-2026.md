@@ -11,7 +11,7 @@ tags:
   - domain/itsm-middleware
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Middleware / API / integration certifications — 2026
@@ -34,8 +34,8 @@ verified: 2026-08-28
 | MuleSoft / Salesforce | Platform Architect | **400 $** | ✅ sous 500 |
 | Solace | Event Broker Administrator Associate | **500 $** | ⚠️ exactement à la limite |
 | Solace | Event Driven Integration Associate | **500 $** | ⚠️ exactement à la limite |
-| Kong | Gateway Certified Associate | prix public non exposé | 🔎 checkout TrueAbility |
-| Kong | Konnect Certified Associate | prix public non exposé | 🔎 checkout TrueAbility |
+| Kong | Gateway Certified Associate | **275 $** | ✅ sous 500 |
+| Kong | Konnect Certified Associate | **275 $** | ✅ sous 500 |
 
 ---
 
@@ -294,19 +294,17 @@ Source :
 
 - https://konghq.com/academy/konnect-certification
 
-## Prix
+## Prix — résolu (voir `api-management-specialists-2026.md`)
 
-Les pages publiques 2026 renvoient vers **TrueAbility** pour planifier l'examen et vers une FAQ certification 2026, mais le prix n'est pas exposé clairement sur les pages publiques consultées.
-
-### Verdict
-
-Ne pas classer Kong comme gratuit ou sous 500 tant que le checkout TrueAbility n'a pas été vérifié.
+**Correction 30 août 2026 :** le prix a depuis été confirmé sur le FAQ officiel Kong et documenté en détail dans `api-management-specialists-2026.md` §2 — ne pas laisser cette section comme "non confirmé", c'était une désynchronisation entre les deux fichiers du dépôt couvrant Kong.
 
 ```text
-Gateway Certified Associate   live
-Konnect Certified Associate   live
-Prix public                   non confirmé
+Gateway Certified Associate   275 $
+Konnect Certified Associate   275 $
+Retake après échec            49 $ (coupon)
 ```
+
+Voir `api-management-specialists-2026.md` pour le détail complet (règles d'examen, sources officielles).
 
 ---
 
@@ -402,7 +400,7 @@ MuleSoft Hyperautomation Developer       200 $
 MuleSoft Platform Architect              400 $
 Solace Event Broker Administrator        500 $
 Solace Event Driven Integration Associate 500 $
-Kong Gateway / Konnect Associate           ?
+Kong Gateway / Konnect Associate         275 $
 ```
 
 ---
@@ -416,7 +414,7 @@ Pour un architecte infrastructure/cloud souhaitant ajouter une couche middleware
 2. Solace Agent Mesh Practitioner                   gratuit
 3. Boomi Integration certification                  gratuit
 4. MuleSoft Platform Architect                      400 $
-5. Kong Gateway Associate                           si prix checkout intéressant
+5. Kong Gateway Associate                           275 $
 ```
 
 Cela couvre **EDA + agents IA + iPaaS + API-led connectivity + API gateway** avec très peu de dépenses.

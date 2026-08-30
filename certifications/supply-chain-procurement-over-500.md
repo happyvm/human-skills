@@ -11,7 +11,7 @@ tags:
   - domain/supply-chain
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Supply chain, logistics & procurement — TCO des certifications
@@ -179,6 +179,31 @@ Source :
 - https://www.cips.org/qualifications
 
 **Statut prix France : à consolider via CIPS / centres EMEA.**
+
+---
+
+# Kinaxis (RapidResponse / Maestro) — absent du dépôt jusqu'à cette revue
+
+**Kinaxis** (plateforme de supply chain planning de référence, concurrent de Blue Yonder et o9 Solutions) n'avait aucune mention. Prix confirmés directement sur la FAQ officielle de certification.
+
+```text
+Level 1        100 $ par tentative — délivré via Kryterion Webassessor
+Level 2 & 3    400 $ par tentative — centres de test Pearson VUE dans le monde
+               ou surveillance en ligne à distance
+```
+
++30 minutes de temps supplémentaire pour les candidats non-anglophones natifs.
+
+Source :
+
+- https://www.kinaxis.com/en/continuous-learning-services/certification-faq
+
+**Valeur : ⭐⭐⭐⭐** pour un profil planning/S&OP déjà en poste sur Kinaxis — Level 1 particulièrement accessible (100 $) comparé aux certifications ASCM/CSCMP de ce même fichier.
+
+## Autres plateformes supply chain/procurement — statut non confirmé
+
+- **Coupa** (procurement-to-pay) : programme de certification réel via Coupa University, mais **accès réservé clients/partenaires** (login Coupa Portal requis) — aucun prix public trouvé, similaire au modèle SentinelOne déjà documenté ailleurs dans le dépôt (recherché 2026-08-30, sans résultat) ;
+- **Blue Yonder**, **o9 Solutions**, **Manhattan Associates** : non recherchés en détail lors de cette revue — candidats pour un futur lot.
 
 ---
 

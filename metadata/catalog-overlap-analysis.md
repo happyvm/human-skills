@@ -3,9 +3,9 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **99**
-- credential-like table rows scanned: **1448**
-- exact normalized names present in 2+ files: **82**
-- specialist↔specialist file pairs with exact overlap: **12**
+- credential-like table rows scanned: **1502**
+- exact normalized names present in 2+ files: **85**
+- specialist↔specialist file pairs with exact overlap: **13**
 - conservative near-duplicate candidates: **0**
 
 ## Interpretation
@@ -22,6 +22,7 @@
 | 3 | `ibm-enterprise-security-ai-under-500.md` | `mainframe-enterprise-software.md` | IBM Db2 13 for z/OS DBA Professional, IBM MQ 9.4 Administrator Professional, IBM z/OS v3.x Administrator Professional |
 | 3 | `hpe-morpheus-private-cloud-2026.md` | `virtualization-private-cloud-under-500.md` | Nutanix NCM-MCI, Nutanix NCP-MCI, VMware VCP-VCF Architect |
 | 2 | `cyber-premium-over-500.md` | `practical-cyber-under-500.md` | CPSA, CPTIA, CPIA, CRT, CRTIA, CRIA |
+| 2 | `api-management-specialists-2026.md` | `middleware-api-integration-2026.md` | Gateway Certified Associate, Konnect Certified Associate |
 | 2 | `compensation-total-rewards.md` | `management-transformation-over-500.md` | GPHR, HRCI SPHR / SPHRi / GPHR |
 | 2 | `cloud-native-platform-engineering-under-500.md` | `observability-sre-devops-under-500.md` | OpenTelemetry Certified Associate, Prometheus Certified Associate |
 | 1 | `ai-governance-risk-safety.md` | `privacy-dpo-france.md` | IAPP AIGP |
@@ -39,6 +40,7 @@
 | 3 | `mainframe` | `security` |
 | 3 | `virtualization` | `virtualization` |
 | 2 | `security` | `security` |
+| 2 | `itsm-middleware` | `itsm-middleware` |
 | 2 | `governance-grc` | `hr-people` |
 | 2 | `kubernetes-platform` | `observability` |
 | 1 | `ai-infrastructure` | `legal` |
@@ -58,17 +60,22 @@
 ### CPSA, CPTIA, CPIA
 
 - `cyber-premium-over-500.md:31` — `| Practitioner | CPSA, CPTIA, CPIA | **275 £** |`
-- `practical-cyber-under-500.md:214` — `| Practitioner | CPSA, CPTIA, CPIA | **275 £** |`
+- `practical-cyber-under-500.md:217` — `| Practitioner | CPSA, CPTIA, CPIA | **275 £** |`
 
 ### CRT, CRTIA, CRIA
 
 - `cyber-premium-over-500.md:32` — `| Registered | CRT, CRTIA, CRIA | **600 £** |`
-- `practical-cyber-under-500.md:215` — `| Registered | CRT, CRTIA, CRIA | **600 £** |`
+- `practical-cyber-under-500.md:218` — `| Registered | CRT, CRTIA, CRIA | **600 £** |`
 
 ### Expert practical exam
 
 - `arista-academy-certification-2026.md:30` — `| Expert | Expert practical exam | **1 995 $** |`
 - `network-datacenter-advanced-under-500.md:37` — `| Arista | Expert practical exam | **1 995 $** | ❌ >500 |`
+
+### Gateway Certified Associate
+
+- `api-management-specialists-2026.md:31` — `| Kong | Gateway Certified Associate | **275 $** | ✅ sous 500 |`
+- `middleware-api-integration-2026.md:37` — `| Kong | Gateway Certified Associate | **275 $** | ✅ sous 500 |`
 
 ### GPHR
 
@@ -94,6 +101,11 @@
 
 - `ibm-enterprise-security-ai-under-500.md:30` — `| IBM z/OS v3.x Administrator Professional | **200 $** |`
 - `mainframe-enterprise-software.md:27` — `| IBM z/OS v3.x Administrator Professional | **200 $** | Mainframe / z/OS |`
+
+### Konnect Certified Associate
+
+- `api-management-specialists-2026.md:32` — `| Kong | Konnect Certified Associate | **275 $** | ✅ sous 500 |`
+- `middleware-api-integration-2026.md:38` — `| Kong | Konnect Certified Associate | **275 $** | ✅ sous 500 |`
 
 ### LOMA FLMI — non-member pricing
 
@@ -124,7 +136,7 @@
 ### OpenTelemetry Certified Associate
 
 - `cloud-native-platform-engineering-under-500.md:40` — `| OpenTelemetry Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
-- `observability-sre-devops-under-500.md:36` — `| OpenTelemetry Certified Associate | **250 $** | CNCF |`
+- `observability-sre-devops-under-500.md:37` — `| OpenTelemetry Certified Associate | **250 $** | CNCF |`
 
 ### PMI Construction Professional — PMI-CP
 
@@ -139,11 +151,11 @@
 ### Prometheus Certified Associate
 
 - `cloud-native-platform-engineering-under-500.md:37` — `| Prometheus Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
-- `observability-sre-devops-under-500.md:35` — `| Prometheus Certified Associate | **250 $** | CNCF |`
+- `observability-sre-devops-under-500.md:36` — `| Prometheus Certified Associate | **250 $** | CNCF |`
 
 ### Red Hat exam standard
 
-- `iam-devsecops-automation-under-500.md:31` — `| Red Hat exam standard | **500 $ list price** | performance-based |`
+- `iam-devsecops-automation-under-500.md:34` — `| Red Hat exam standard | **500 $ list price** | performance-based |`
 - `virtualization-private-cloud-under-500.md:36` — `| Red Hat certification exam standard | **500 $ list price** | selon examen | Linux / OpenShift / Ceph |`
 
 ### Specialist practical exam
@@ -175,8 +187,8 @@
 | 116 | `paid-under-500.md` |
 | 64 | `entrepreneurship-startup-business-creation-2026.md` |
 | 56 | `paid-over-500.md` |
-| 48 | `practical-cyber-under-500.md` |
-| 40 | `tools-platforms-under-500.md` |
+| 54 | `practical-cyber-under-500.md` |
+| 53 | `tools-platforms-under-500.md` |
 | 39 | `networking-wireless-ai-infra.md` |
 | 37 | `entrepreneur-international-functional-credentials-2026.md` |
 | 34 | `audit-finance-project-over-500.md` |
@@ -187,7 +199,9 @@
 | 26 | `network-security-adc-sase-under-500.md` |
 | 25 | `business-finance-under-500.md` |
 | 23 | `real-estate-property.md` |
+| 22 | `ai-engineering-mlops-agents-under-500.md` |
 | 21 | `entrepreneur-growth-finance-ecommerce-ip-2026.md` |
+| 21 | `pharma-clinical-regulatory.md` |
 | 21 | `public-cloud-multicloud-under-500.md` |
 | 19 | `cloud-native-platform-engineering-under-500.md` |
 | 19 | `entrepreneur-eta-family-ess-export-regulated-2026.md` |
@@ -195,13 +209,11 @@
 | 19 | `language-certifications.md` |
 | 19 | `lean-it-lean-management-2026.md` |
 | 18 | `entrepreneur-france-practical-resources-2026.md` |
+| 18 | `observability-sre-devops-under-500.md` |
 | 17 | `bcs-chartered-institute-it-2026.md` |
 | 17 | `ibm-enterprise-security-ai-under-500.md` |
 | 17 | `network-datacenter-advanced-under-500.md` |
-| 17 | `observability-sre-devops-under-500.md` |
 | 16 | `compliance-aml-fpa-over-500.md` |
-| 15 | `ai-engineering-mlops-agents-under-500.md` |
-| 15 | `storage-data-protection-under-500.md` |
 
 ## Domain row volume
 
@@ -209,28 +221,28 @@
 |---:|---|
 | 264 | `entrepreneurship` |
 | 256 | `finance-risk` |
-| 194 | `general-it` |
+| 195 | `general-it` |
 | 162 | `business-management` |
 | 108 | `governance-grc` |
+| 84 | `security` |
 | 81 | `governance` |
-| 78 | `security` |
+| 76 | `ai-infrastructure` |
 | 73 | `supply-chain` |
-| 69 | `ai-infrastructure` |
+| 68 | `business-soft-skills` |
 | 60 | `network` |
-| 59 | `business-soft-skills` |
-| 47 | `itsm-middleware` |
+| 53 | `devops-automation` |
+| 49 | `itsm-middleware` |
 | 47 | `hr-people` |
-| 40 | `devops-automation` |
 | 32 | `storage-backup` |
+| 32 | `pharma-regulatory` |
 | 28 | `datacenter-facilities` |
+| 28 | `observability` |
 | 27 | `enterprise-software` |
 | 27 | `virtualization` |
-| 27 | `observability` |
+| 27 | `legal` |
 | 25 | `linux` |
-| 25 | `pharma-regulatory` |
 | 23 | `esg-sustainability` |
 | 23 | `real-estate` |
-| 22 | `legal` |
 | 21 | `cloud` |
 | 19 | `kubernetes-platform` |
 | 19 | `language` |
@@ -238,8 +250,8 @@
 | 13 | `sustainability` |
 | 12 | `data-database` |
 | 11 | `project-management` |
+| 11 | `identity-iam` |
 | 10 | `safety-occupational` |
-| 8 | `identity-iam` |
 | 8 | `mainframe` |
 | 6 | `accessibility` |
 | 5 | `construction-btp` |

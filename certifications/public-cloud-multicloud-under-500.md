@@ -11,12 +11,12 @@ tags:
   - domain/cloud
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Public cloud & multicloud — certifications sous 500 € / $
 
-> AWS, Microsoft Azure, Google Cloud, Oracle OCI et Alibaba Cloud. Vérification : 28 août 2026.
+> AWS, Microsoft Azure (dont Power BI/Fabric/Power Platform/Dynamics 365), Google Cloud, Oracle OCI et Alibaba Cloud. Vérification : 30 août 2026.
 
 ---
 
@@ -208,6 +208,14 @@ Source :
 
 - https://learn.microsoft.com/fr-fr/credentials/certifications/devops-engineer/
 
+### Security Operations Analyst Associate — SC-200
+
+Couvre **Microsoft Sentinel** (SIEM/SOAR), **Defender XDR**, **Entra ID**, **Purview** et **Defender for Cloud** — résout le backlog "Defender XDR / Sentinel à documenter" identifié dans `microsoft-windows-infrastructure-2026.md`. Prix : **126 €** (même palier Associate que le reste de l'écosystème Microsoft Certified ci-dessus), score de passage 700/1000.
+
+Source :
+
+- https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-200
+
 ### Identity and Access Administrator — SC-300
 
 Prix : **126 €**.
@@ -223,6 +231,63 @@ Prix : **126 €** pour l'examen SC-100 ; des prérequis de certification s'appl
 Source :
 
 - https://learn.microsoft.com/fr-fr/credentials/certifications/cybersecurity-architect-expert/
+
+---
+
+## Power BI, Fabric & Power Platform — absents du dépôt jusqu'à cette revue
+
+Même famille de certifications Microsoft (même Pearson VUE, même politique de renouvellement gratuit), mais sur les produits data/low-code plutôt qu'Azure pur — angle mort identifié lors de cette revue (0 mention de Power BI ou Fabric dans tout le dépôt avant ce commit).
+
+### Power BI Data Analyst Associate — PL-300
+
+Prix standard confirmé : **165 $** (le prix France n'est pas affiché directement par le rendu de la page — JS côté client — mais suit la même grille uniforme que les autres examens Associate/Expert Microsoft ci-dessus, soit **126 € observés** pour ce niveau en France).
+
+Source :
+
+- https://learn.microsoft.com/fr-fr/credentials/certifications/data-analyst-associate/
+
+### Fabric Analytics Engineer Associate — DP-600
+
+Même grille de prix que PL-300 (niveau Associate, même politique).
+
+Source :
+
+- https://learn.microsoft.com/fr-fr/credentials/certifications/fabric-analytics-engineer-associate/
+
+### Power Platform — même famille, non vérifiés individuellement
+
+```text
+PL-100   Power Platform App Maker Associate
+PL-200   Power Platform Functional Consultant Associate
+PL-400   Power Platform Developer Associate
+PL-600   Power Platform Solution Architect Expert
+```
+
+Non vérifiés page par page lors de cette revue, mais suivent structurellement le même schéma Microsoft (Fundamentals ≈ 76 €, Associate/Expert ≈ 126 € en France, renouvellement en ligne gratuit).
+
+**Valeur : ⭐⭐⭐⭐** pour un profil data analyst/BI — PL-300 en particulier est une des certifications data les plus demandées sur le marché de l'emploi France/Europe, à un coût très inférieur aux certifications cloud-native équivalentes (Databricks, Snowflake).
+
+---
+
+## Dynamics 365 — absent du dépôt jusqu'à cette revue
+
+Suite ERP/CRM de Microsoft (équivalent fonctionnel de SAP/NetSuite, cf. `netsuite-certification-2026.md`), **totalement absente du dépôt avant ce commit**. Mêmes examens Pearson VUE, même politique de renouvellement gratuit que le reste de l'écosystème Microsoft Certified — prix standard **165 $** confirmé, cohérent avec le palier Associate déjà établi (≈ 126 € en France).
+
+```text
+MB-800   Business Central Functional Consultant Associate
+MB-820   Business Central Developer Associate
+MB-210   Sales Functional Consultant Associate
+MB-230   Customer Service Functional Consultant Associate
+MB-240   Field Service Functional Consultant Associate
+MB-310   Finance Functional Consultant Associate
+MB-330   Supply Chain Management Functional Consultant Associate
+MB-500   Finance and Operations Apps Developer Associate
+MB-700   Finance and Operations Apps Solution Architect Expert
+```
+
+Non vérifiés page par page individuellement, mais confirmés au même tarif standard (165 $) par une source indépendante croisant plusieurs codes d'examen (MB-800, MB-330, MB-230).
+
+**Valeur : ⭐⭐⭐⭐** pour un profil ERP/CRM Microsoft — écosystème vaste avec forte demande côté intégrateurs (Business Central en particulier, très répandu PME/ETI en Europe), prix nettement inférieur aux certifications SAP équivalentes.
 
 ---
 

@@ -11,7 +11,7 @@ tags:
   - domain/general-it
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Certifications et credentials IT gratuits — vérifiés 2026
@@ -608,6 +608,119 @@ Source : https://www.academy.attackiq.com/
 
 ---
 
+## Box Intelligent Content Expert — nouvelle certification gratuite (remplace le Box Certified Professional payant, retiré)
+
+**Absent du dépôt jusqu'à cette revue.** Box a retiré son ancien programme payant **Box Certified Professional (BCP)** et l'a remplacé par le **Box Intelligent Content Expert (ICE)**, **gratuit**, confirmé sur plusieurs pages officielles Box (support, community, training.box.com).
+
+```text
+Ancien programme    Box Certified Professional — payant, retiré
+Nouveau programme    Box Intelligent Content Expert — 0 $
+Format                45 questions
+Contenu               déploiement Box, AI, Relay, Metadata
+Badge                  numérique partageable LinkedIn
+```
+
+Destiné en priorité aux administrateurs Box.
+
+Source :
+
+- https://www.box.com/resources/intelligent-content-expert-certification
+- https://support.box.com/hc/en-us/articles/42153466746771-Intelligent-Content-Expert-Certification-FAQs
+- https://community.box.com/general-15/get-certified-for-free-as-an-intelligent-content-expert-now-live-31714
+
+**Valeur : ⭐⭐⭐⭐** pour un profil administrateur ECM/content management déjà sur Box — coût nul, bon signal pour un métier peu couvert par ailleurs dans ce dépôt.
+
+---
+
+## Siemens Solid Edge Certified — CAO, gratuit (Associate/Professional/Expert)
+
+**Absent du dépôt jusqu'à cette revue.** Siemens propose une certification CAO/CAD complète sur **Solid Edge**, **entièrement gratuite aux trois niveaux** (Associate, Professional, Expert), confirmé directement sur le portail officiel `cadcertification.sw.siemens.com` — une ancienne FAQ PDF Siemens datée de 2016 mentionnait un tarif payant (99 $), **obsolète** : le programme a été restructuré depuis sous ce nouveau portail, entièrement gratuit.
+
+```text
+Associate       gratuit — 1-2 ans d'expérience visés (étudiants/débutants)
+Professional    gratuit — 2+ ans d'expérience
+Expert          gratuit — 3-5 ans, nécessite Professional réussi
+```
+
+Préparation également gratuite via le Siemens Learning Center.
+
+Source :
+
+- https://cadcertification.sw.siemens.com/solid-edge/
+- https://cadcertification.sw.siemens.com/courses/solid-edge-associate/
+- https://cadcertification.sw.siemens.com/courses/solid-edge-professional/
+- https://cadcertification.sw.siemens.com/courses/solid-edge-expert/
+
+**Valeur : ⭐⭐⭐⭐⭐** — rare cas d'une certification CAO enterprise complète et gratuite à tous les niveaux, alors que l'équivalent Autodesk (`tools-platforms-under-500.md`) est payant (150-250 $ par examen Certiport).
+
+---
+
+## Stripe Certification — développeur/architecte paiements, gratuit
+
+**Absent du dépôt jusqu'à cette revue.** Stripe (infrastructure de paiement dominante) propose 4 certifications **entièrement gratuites**, confirmées directement sur `docs.stripe.com/partners/training-and-certification` :
+
+```text
+Associate Architect         gratuit — 90 min, 45-50 QCM, ~1 an d'XP visé
+Professional Impl. Architect gratuit — 90 min, 45-50 QCM, ~2+ ans d'XP visé
+Associate Developer          gratuit — coding challenge 6-8h (30 j pour finir)
+Professional Developer        gratuit — coding challenge 15-20h (30 j pour finir)
+```
+
+**Attention — accès potentiellement limité aux partenaires :** la page officielle est intitulée *« Stripe certification for partners »* et indique que réussir 2 certifications permet de devenir *Stripe verified partner*. Le texte précise *« All partners can complete certifications, regardless of their partner track »* — il n'est **pas explicitement confirmé** qu'un développeur non-partenaire, hors toute organisation partenaire Stripe, puisse s'inscrire librement. À vérifier au moment de l'inscription plutôt que présumé pleinement ouvert.
+
+Source :
+
+- https://docs.stripe.com/partners/training-and-certification
+- https://www.stripe.training/page/certifications
+
+**Valeur : ⭐⭐⭐⭐** si l'accès individuel est confirmé — signal fort pour un profil développeur paiements/fintech, écosystème quasi absent du reste du dépôt.
+
+---
+
+## Airtable Certification — gratuit, ouvert à tout compte (même plan gratuit)
+
+**Absent du dépôt jusqu'à cette revue.** Airtable (no-code database/workflow, très utilisé en ops) propose deux certifications **entièrement gratuites**, confirmées via la communauté officielle Airtable : *« Airtable Academy is now open to all customers, whether you're using the Free, Team, Business or Enterprise Scale plan »*.
+
+```text
+Airtable Builder Certification    gratuit — 65 questions, seuil 75 %
+Airtable Admin Certification      gratuit — 65 questions, seuil 75 %
+```
+
+- validité : **2 ans** ;
+- accessible même avec un compte Airtable **gratuit** — pas de restriction organisationnelle contraignante, contrairement à Stripe ci-dessus.
+
+Source :
+
+- https://community.airtable.com/announcements-6/airtable-academy-now-open-for-all-customers-no-matter-your-plan-1564
+- https://academy.airtable.com/page/airtable-certification
+- https://academy.airtable.com/certification-airtable-admin
+
+**Valeur : ⭐⭐⭐⭐⭐** — accès pleinement confirmé (contrairement à Stripe), bon signal pour un profil ops/no-code.
+
+---
+
+## Make (ex-Integromat) Academy — gratuit, absent du dépôt jusqu'à cette revue
+
+**Absent du dépôt jusqu'à cette revue.** Make (iPaaS/automation no-code, concurrent de Zapier) propose une qualification **entièrement gratuite**, confirmée directement sur le blog officiel Make : *« The Make Academy offers free qualifications to level up your automation skills »*.
+
+```text
+Make Foundation qualification    gratuit
+```
+
+- 4 tutoriels (création de scénario, scénarios complexes, calcul des opérations, outils internes Make) + évaluation finale ;
+- badge numérique partageable après réussite ;
+- accessible avec un **compte Make gratuit** (un compte payant donne plus de marge de manœuvre technique, mais n'est pas requis pour la certification elle-même).
+
+**Attention niveau de preuve — piège évité :** un domaine tiers `makecertification.com` existe et n'a **aucun rapport** avec Make.com (organisme distinct, contact en Éthiopie) — ne pas confondre lors d'une recherche future.
+
+Source :
+
+- https://www.make.com/en/blog/learn-automation-make-academy
+
+**Valeur : ⭐⭐⭐⭐** — bon point d'entrée automation no-code gratuit ; Zapier (concurrent direct) n'a en comparaison aucun prix de certification publique confirmé lors de cette revue (programme "Experts" semble orienté agences/partenaires plutôt qu'examen individuel).
+
+---
+
 ## IBM SkillsBuild — digital credentials gratuits
 
 IBM SkillsBuild propose gratuitement apprentissage et plusieurs digital credentials validés.
@@ -881,6 +994,7 @@ Source :
 | anciennes campagnes Microsoft Ignite | ❌ promotions historiques |
 | anciennes campagnes Nutanix gratuites | ❌ promotions historiques |
 | Postman Student Expert | ❌ programme Student sunset en mars 2026 |
+| Box Certified Professional | ♻️ retiré, remplacé par Box Intelligent Content Expert — **gratuit**, voir section B |
 
 ---
 

@@ -11,7 +11,7 @@ tags:
   - domain/itsm-middleware
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # ITSM / enterprise tooling certifications — ServiceNow, Atlassian, BMC — 2026
@@ -256,6 +256,61 @@ Source :
 ### Verdict
 
 Credential réel, mais **checkout/contact-required** pour le prix.
+
+---
+
+# 4. Zendesk — absent du dépôt jusqu'à cette revue
+
+Zendesk (help desk / customer support, alternative plus légère à ServiceNow pour un profil support client plutôt qu'ITSM enterprise) n'avait aucune mention dans le dépôt. Prix confirmés directement sur la page officielle de l'examen Support Administrator Expert.
+
+```text
+Niveau Specialist (Guide, Chat, Talk, Omnichannel Agent...)    199 $ chacun
+Niveau Expert (Support Administrator, Explore CX Analyst,
+  App Developer)                                               350 $ chacun
+```
+
+## Support Administrator Expert — détail confirmé
+
+- **78 questions**, QCM, **105 minutes** ;
+- score de passage : **65 %** ;
+- pas de prérequis formel, mais Zendesk recommande **3 mois d'expérience** comme Support Administrator et d'avoir suivi le Foundational Support Learning Path ;
+- recertification nécessaire au fil des mises à jour produit (guides d'examen + practice exams + repassage).
+
+Des bundles multi-certifications existent pour réduire le coût unitaire.
+
+Source :
+
+- https://academy.zendesk.com/certification-zendesk-support-administrator-expert-exam
+- https://academy.zendesk.com/
+
+**Valeur : ⭐⭐⭐⭐** pour un profil support client / CX — écosystème plus accessible que ServiceNow pour des équipes support pur (moins orienté ITSM enterprise complexe), prix raisonnable au niveau Specialist (199 $).
+
+---
+
+# 5. Intercom (Fin Academy) — gratuit, absent du dépôt jusqu'à cette revue
+
+**Intercom** (customer support/messaging, plateforme rebrandée autour de son IA **Fin** — portail désormais `academy.fin.ai`) propose deux certifications **entièrement gratuites**, confirmées directement sur la FAQ officielle : *« Taking courses on Fin Academy is free! »*.
+
+```text
+Support Agent Certification       gratuit
+Support Manager Certification     gratuit
+```
+
+## Support Agent — détail confirmé
+
+- **55 questions**, QCM, **90 minutes** ;
+- score de passage : **75 % (42/55)** ;
+- **open-book** — ressources autorisées pendant l'examen ;
+- couvre Inbox, conversations/tickets, configuration Messenger, Outbound/Series, Fin AI Agent, Workflows, Help Center, permissions et data model ;
+- credential délivré via **Accredible**.
+
+Source :
+
+- https://academy.fin.ai/page/faqs
+- https://academy.fin.ai/support-agent-certification
+- https://academy.fin.ai/support-manager-certification
+
+**Valeur : ⭐⭐⭐⭐⭐** — alternative gratuite crédible à Zendesk (payant) ci-dessus, bon signal pour un profil support client sur un outil largement adopté par les startups/scale-ups.
 
 ---
 

@@ -11,7 +11,7 @@ tags:
   - domain/security
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Cybersécurité premium — certifications pratiques et parcours >500 €
@@ -218,6 +218,28 @@ Source :
 ### GSE
 
 Le GIAC Security Expert et les parcours multi-GIAC doivent être évalués comme des trajectoires cumulatives avec plusieurs prérequis, et non comme un simple voucher.
+
+---
+
+# 8. Recorded Future — Certified Analyst, employer/customer-funded
+
+**Recorded Future** (leader mondial threat intelligence, complémentaire à Mandiant §11 de `practical-cyber-under-500.md`) propose une certification **Certified Analyst**, mais sur un modèle **exclusivement customer-funded** — pas un examen individuel achetable en direct.
+
+```text
+Virtual Certified Analyst Lab (client existant)         2 500 $
+  — 1 place + 1 tentative d'examen, événements ouverts
+Private Virtual Certified Analyst Lab (jusqu'à 15)       3 500 $
+  — délivrance privée pour un client, prix non par personne
+Private in-person Certified Analyst Lab (jusqu'à 15)    25 000 $
+```
+
+**Prérequis stricts :** réservé aux clients Recorded Future ayant terminé l'onboarding, suivi le New User eLearning et utilisé le produit depuis **au moins 6 mois**. Formation de 3 jours (live, virtuelle ou présentiel) + examen cumulatif final via Recorded Future University.
+
+Source (catalogue officiel de formation) :
+
+- https://assets.recordedfuture.com/Training/Recorded-Future-Course-Catalog.pdf
+
+**Verdict :** à classer en **employer/customer-funded**, dans la même catégorie que Workday et SAP LeanIX déjà documentés ailleurs dans le dépôt — pas un credential autofinançable à l'unité comme Mandiant MIR (250 $, accessible à tout profil expérimenté sans être client).
 
 ---
 

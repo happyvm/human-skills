@@ -11,7 +11,7 @@ tags:
   - domain/business-soft-skills
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Marketing, digital marketing & commercial credentials
@@ -29,8 +29,14 @@ verified: 2026-08-28
 | HubSpot Academy certifications | **0 €** | vendor certification |
 | Google Ads certifications | **0 €** | platform certification |
 | Klaviyo Academy certifications (Practitioner / Deliverability / Digital Marketing) | **0 €** | vendor certification |
+| Iterable Foundations Certification | **0 €** | vendor certification |
+| Braze Practitioner Exam | **50 $** | vendor certification |
+| Braze Marketer Exam | **100 $** | vendor certification |
 | Salesforce Accredited Professional examples | **150 $** | proctored vendor credential |
+| Braze Digital Strategist Exam | **150 $** | vendor certification |
 | Salesforce Marketing / Consultant exams | **200 $** | certification vendor |
+| Salesloft Administrator Exam | **200 $** | vendor certification |
+| Outreach Certified Administrator | **299 $** | vendor certification |
 | AMA PCM Marketing Management — exam only | **249 $ membre / 349 $ non-membre** | professional certification |
 | AMA PCM prep + exam | **749 $ / 849 $** | bundle |
 | CIM Level 6 Diploma assessments | **£660** | + tuition + membership |
@@ -194,6 +200,77 @@ Trailhead learning est généralement gratuit, ce qui permet de maintenir de nom
 
 ---
 
+# 6 bis. Outreach — sales engagement, absent du dépôt jusqu'à cette revue
+
+**Outreach** (plateforme de sales engagement, Gartner Leader du secteur, alternative à Salesloft) n'avait aucune mention.
+
+**Outreach Certified Administrator — 299 $**, confirmé directement sur la FAQ officielle :
+
+```text
+Prix              299 $ + taxes locales
+Format             100 questions, 120 minutes
+Score requis       64 %
+Livraison          proctoré, centre de test ou en ligne
+Langue              anglais uniquement
+Retake              1 gratuit, puis tarif standard
+```
+
+Source :
+
+- https://university.outreach.io/page/certification-faq
+
+**Valeur : ⭐⭐⭐⭐** pour un profil RevOps/sales ops déjà sur Outreach — écosystème sales engagement peu couvert par ailleurs dans ce dépôt (au-delà du CRM Salesforce/HubSpot déjà documenté).
+
+## Salesloft — principal concurrent d'Outreach
+
+**Salesloft Administrator Exam — 200 $** (Salesloft Academy officiel).
+
+```text
+Format         mix QCM / select-all-that-apply
+Durée           ~50 min de contenu, fenêtre de 2h une fois ouvert
+Score requis    65 %
+Recertification gratuite (cycle annuel)
+```
+
+**Attention niveau de preuve :** prix cité par une source décrivant la plateforme Salesloft Academy officielle, mais l'accès direct à `academy.salesloft.com` a renvoyé une erreur 403 lors de cette revue — à reconfirmer au moment de l'inscription.
+
+Source :
+
+- https://academy.salesloft.com/salesloft-administrator-exam (accès direct bloqué)
+- https://academy.salesloft.com/2025-recertification-salesloft-administrator
+
+---
+
+# 6 ter. Braze — customer engagement platform, absent du dépôt jusqu'à cette revue
+
+**Braze** (plateforme de customer engagement / marketing automation, Forrester Wave Leader) n'avait aucune mention. Grille complète confirmée directement sur le PDF officiel "Get Braze Certified" :
+
+```text
+Braze Practitioner Exam                  50 $
+Braze Marketer Exam                     100 $
+Braze Digital Strategist Exam           150 $
+Braze Certified Developer
+  (Android / iOS / Web SDK, chacun)     175 $
+```
+
+Prix hors taxes locales.
+
+## Format et validité
+
+- validité **3 ans** ;
+- en cas d'échec : **14 jours** d'attente avant repassage, **max 3 tentatives / 365 jours**, paiement intégral à chaque tentative ;
+- une fois réussi, impossible de repasser le même examen avant 3 ans ;
+- promotions ponctuelles observées (jusqu'à -50 % via bootcamp, ou -100 % lors de campagnes spécifiques).
+
+Source :
+
+- https://d6d4ismr40iw.cloudfront.net/organization/cefefe0c-bbfe-4874-a35f-b08f734d759a/images/43hZpH1ZSrqrFBhFUAEZ_Certifications%20One%20Pager.pdf (PDF officiel)
+- https://learning.braze.com/page/certification
+
+**Valeur : ⭐⭐⭐⭐⭐** — grille très lisible et accessible (dès 50 $), pertinente pour un profil martech/CRM engagement, écosystème peu couvert par ailleurs dans ce dépôt.
+
+---
+
 # 7. Gratuit
 
 ## Klaviyo Academy
@@ -217,6 +294,28 @@ Source :
 - https://academy.klaviyo.com/en-us/credentials
 
 Pertinent pour toute personne qui gère réellement des flux Klaviyo (welcome series, abandoned cart, deliverability) plutôt qu'un généraliste marketing.
+
+## Iterable Foundations Certification — gratuit, absent du dépôt jusqu'à cette revue
+
+**CERT — 🌍 INT — 0 €**
+
+**Iterable** (customer engagement/marketing automation, concurrent direct de Braze ci-dessus) propose une certification **entièrement gratuite**, ouverte à tout invité ou client via Iterable Academy :
+
+```text
+Format            ~40 questions QCM, open-book
+Durée              ~3 heures
+Score requis        80 %
+Validité            24 mois
+```
+
+Couvre : configuration de compte/administration, gestion des données client et segmentation, canaux email/mobile et bonnes pratiques de délivrabilité, templates personnalisés (Handlebars, outils IA).
+
+Source :
+
+- https://academy.iterable.com/foundations-certification-exam-course
+- https://academy.iterable.com/page/certifications
+
+**Valeur : ⭐⭐⭐⭐⭐** — coût nul face à l'équivalent payant Braze (50-175 $ ci-dessus), bon point d'entrée martech/CRM engagement.
 
 Le dépôt contient déjà dans `free-non-it.md` :
 

@@ -11,7 +11,7 @@ tags:
   - domain/network
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Network Security, ADC, SASE & firewalls — sous 500 $
@@ -417,6 +417,24 @@ Akamai propose un [Network Engineering Professional Certificate gratuit sur Cour
 5. **Check Point CCSA — 300 $** ;
 6. **Fortinet FCP — ~400 $ minimum** ;
 7. **Zscaler ZTCA — 300 $**.
+
+---
+
+# Wiz — CNAPP/cloud security, absent du dépôt jusqu'à cette revue
+
+**Wiz** (CNAPP, l'un des acteurs à la croissance la plus rapide du secteur cloud security posture management) n'avait aucune mention. Programme officiel confirmé via `wiz.io/wiz-certified` (Cloud User, Cloud Fundamentals, Defend Fundamentals), mais **la page officielle n'affiche pas les prix** (redirection vers l'académie / contact WizCerts@wiz.io).
+
+```text
+Wiz Certified Cloud Fundamentals    150 $ (source unique, voir note)
+Format                              60 questions, 150 min, seuil 700/1000
+```
+
+**Attention niveau de preuve — plus faible que les autres entrées de ce lot :** le prix de 150 $ ne repose que sur **une seule source tierce** (un article détaillé d'un candidat ayant passé l'examen, décrivant précisément le format), sans deuxième source indépendante pour corroborer. Traiter comme une indication à vérifier au moment de l'inscription plutôt qu'un tarif confirmé.
+
+Source :
+
+- https://www.wiz.io/wiz-certified (programme confirmé, prix absent)
+- https://medium.com/@paulschwarzenberger/how-i-prepared-for-the-new-wiz-certification-15935a2a6633 (prix 150 $, source unique)
 
 ---
 

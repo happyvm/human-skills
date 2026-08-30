@@ -11,14 +11,14 @@ tags:
   - domain/devops-automation
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Outils, plateformes et certifications éditeurs sous 500
 
 > Certifications techniques ou métiers qui ne rentrent pas proprement dans les catégories cloud / réseau / cyber classiques.
 >
-> **Vérification : 28 août 2026**
+> **Vérification : 30 août 2026**
 
 ---
 
@@ -26,8 +26,12 @@ verified: 2026-08-28
 
 | Certification / famille | Domaine | Prix officiel indicatif | Valeur |
 |---|---|---:|:---:|
+| Unreal Engine 3D Fundamentals | Game dev / 3D / VFX / XR | **50 $** | ⭐⭐⭐⭐⭐ |
+| Salesforce Certified Tableau Desktop Foundations | BI / Data analytics | **75 $** | ⭐⭐⭐⭐⭐ |
 | Datadog Certification | Observabilité | **100 $** | ⭐⭐⭐⭐ |
 | Microsoft Office Specialist | Productivité / Office | **100 $ env.** | ⭐⭐⭐⭐ |
+| Talend Data Integration v7 Certified Developer | Data integration | **120 $** | ⭐⭐⭐⭐ |
+| Notion Administrator Certification | No-code workspace | **100-150 $** | ⭐⭐⭐⭐ |
 | Adobe Certified Professional | Création numérique | **150 $ US online** | ⭐⭐⭐ |
 | UiPath Associate | RPA / Agentic Automation | **150 $** | ⭐⭐⭐⭐ |
 | Confluent Certified | Kafka / Streaming | **150 $** | ⭐⭐⭐⭐⭐ |
@@ -35,9 +39,13 @@ verified: 2026-08-28
 | IBM Professional / Associate — nombreux examens | IBM / Data / Security / Systems | **200 $ typique US** | ⭐⭐⭐⭐ |
 | dbt Analytics Engineering | Data engineering | **200 $** | ⭐⭐⭐⭐ |
 | Autodesk Certified Professional | CAO / Design | **200 $** | ⭐⭐⭐⭐ |
+| Qlik (toute certification) | BI / Data analytics | **250 $** | ⭐⭐⭐⭐ |
+| Salesforce Certified Tableau Data Analyst | BI / Data analytics | **250 $** | ⭐⭐⭐⭐ |
 | Autodesk Certified Expert | CAO / Design | **250 $** | ⭐⭐⭐⭐ |
+| Esri Foundation / Associate | GIS | **275-295 $** | ⭐⭐⭐⭐ |
 | HPE HPE0/HPE6 exams | Infrastructure | **260 $** pays développés | ⭐⭐⭐⭐ |
 | UiPath Professional | RPA / Automation | **300 $** | ⭐⭐⭐⭐ |
+| Esri Professional | GIS | **325 $** | ⭐⭐⭐⭐ |
 | ServiceNow CSA / CAD / CPOA | ITSM / Platform | **300 $ + taxes** | ⭐⭐⭐⭐⭐ |
 | HPE HPE7 exams | Infrastructure | **350 $** pays développés | ⭐⭐⭐⭐ |
 | ServiceNow CIS | ITSM / spécialisation | **450 $ + taxes** | ⭐⭐⭐⭐–⭐⭐⭐⭐⭐ |
@@ -273,6 +281,23 @@ Certifications disponibles notamment sur :
 
 Source : https://certifiedprofessional.adobe.com/en/faq
 
+## Adobe Digital Experience Certification (Marketo Engage, AEM, etc.) — programme distinct, absent du dépôt jusqu'à cette revue
+
+À ne pas confondre avec Adobe Certified Professional ci-dessus (créatif, via Certiport) : le programme **Adobe Digital Experience Certification** couvre l'ensemble du portefeuille entreprise Adobe Experience Cloud — **Marketo Engage** (ex-Marketo), **Adobe Experience Manager (AEM)** (CMS/DXP, confirmé sur la même grille — ex. AEM Foundations), Analytics, Target, Campaign, Workfront — délivré via **Webassessor**, avec une grille de prix distincte et standardisée mondialement :
+
+```text
+Professional level    125 $ (global) / 95 $ (Inde)
+Expert level           225 $ (global) / 150 $ (Inde)
+Master level            225 $ (global) / 150 $ (Inde)
+```
+
+Remises : partenaires Adobe -33 %, employés Adobe 80 $/examen, étudiants -33 % (validation requise), achat en volume -20 à -33 % selon quantité.
+
+Source :
+
+- https://certification.adobe.com/certifications/learn-more
+
+**Valeur : ⭐⭐⭐⭐** pour un profil marketing automation B2B — Marketo Engage reste une référence enterprise malgré la concurrence HubSpot, avec un coût d'entrée (125 $ Professional) nettement inférieur aux certifications Salesforce Marketing Cloud équivalentes.
 **Valeur : ⭐⭐⭐** généraliste ; plus forte dans les métiers créatifs.
 
 ---
@@ -317,3 +342,153 @@ Source : https://store.certiport.com/shop/certiport-products
 > Le store cité est US-only. En France, le tarif doit être obtenu auprès d'un centre / Solution Provider Certiport.
 
 Ces credentials sont surtout intéressants pour élargir `human-skills` au-delà du profil IT senior : étudiants, reconversion, management, entrepreneuriat, éducation, création et compétences numériques.
+
+---
+
+# 13. Qlik — absent du dépôt jusqu'à cette revue
+
+Qlik (BI/data analytics, concurrent de Power BI et Tableau — ni l'un ni l'autre n'avait de fichier dédié dans le dépôt avant cette revue) propose un tarif unique, quel que soit l'examen :
+
+```text
+Toute certification Qlik    250 $
+```
+
+- Qlik Sense Data Architect — 90 min, 50 questions, seuil de réussite 62 % ;
+- Qlik Sense Data Analyst / Cloud Analytics Developer — depuis avril 2026, 120 min, 50 questions, seuil 62 %, proctoré en ligne sur la plateforme Qlik Learning ;
+- paiement en dollars US par carte via Pearson VUE (ou Qlik Learning), converti automatiquement en devise locale par la banque — **pas de tarification multi-devises publiée par Qlik**.
+
+**Attention niveau de preuve :** le prix de **250 $** est corroboré par plusieurs sources tierces indépendantes citant Pearson VUE (aucune contradiction trouvée), mais **la page officielle qlik.com/learning.qlik.com ne l'affiche pas directement en clair** (checkout requis) — à re-vérifier au moment de l'achat plutôt que traité comme un tarif catalogue garanti.
+
+Source :
+
+- https://www.qlik.com/us/services/training/certifications
+- https://learning.qlik.com/student/page/2161345-qlik-sense-data-architect-certification-exam-details
+- https://www.analyticsexam.com/faq/how-much-does-qlik-certification-exam-cost
+
+**Valeur : ⭐⭐⭐⭐** pour un profil BI/data déjà en poste sur Qlik — moins universellement recherché que Power BI (`public-cloud-multicloud-under-500.md`), mais confirmé actif et largement implanté en environnement entreprise (banque, assurance, retail).
+
+## Talend — désormais sous la même bannière Qlik, pas un tarif uniforme
+
+**Talend** (data integration, racheté par Qlik en 2023) reste actif comme ligne de certifications distincte sous `qlik.com/us/services/training/certifications`, mais **le tarif n'est pas uniformément 250 $** contrairement au reste du catalogue Qlik ci-dessus :
+
+```text
+Talend Data Integration v7 Certified Developer     120 $
+Qlik Talend Data Quality Implementer               250 $
+Talend Cloud Certified Administrator          non chiffré lors de cette revue
+```
+
+Inscription via compte **Qlik Learning**, mêmes conditions générales que le reste du catalogue Qlik.
+
+Source :
+
+- https://learning.qlik.com/student/page/2169987-talend-cloud-certified-administrator-exam-details
+- https://learning.qlik.com/student/page/2180677-talend-data-integration-certified-developer-using-talend-studio-exam-details
+
+---
+
+# 14. Tableau — absent du dépôt jusqu'à cette revue
+
+Tableau (racheté par Salesforce) a migré l'intégralité de son schéma de certification sur la plateforme **Trailhead Academy / Pearson** en juillet 2025 — les anciens noms ("Tableau Desktop Specialist") ont été renommés "Salesforce Certified Tableau …".
+
+| Certification | Niveau | Prix confirmé | Portée |
+|---|---|---:|:---:|
+| Salesforce Certified Tableau Desktop Foundations (ex-Desktop Specialist) | Fondation | **75 $** + taxes | 🌍 INT |
+| Salesforce Certified Tableau Data Analyst | Avancé | **250 $** | 🌍 INT |
+| Salesforce Certified Tableau Server Administrator | Avancé | **200 $** (non confirmé officiellement — voir note) | 🌍 INT |
+| Salesforce Certified Tableau Consultant | Avancé | **200 $** (non confirmé officiellement — voir note) | 🌍 INT |
+| Salesforce Certified Tableau Architect | Avancé | **400 $** (non confirmé officiellement — voir note) | 🌍 INT |
+
+## Desktop Foundations
+
+Confirmé via un article d'aide Salesforce officiel : **75 $ US / 10 000 ¥ JPY + taxes locales**, un retake gratuit inclus en cas d'échec (contre 100 $ et retake payant avant la migration de juillet 2025). Maintenance annuelle requise via de courts modules Trailhead pour rester valide (pas un renouvellement payant).
+
+Source :
+
+- https://help.salesforce.com/s/articleView?id=005298988&language=en_US&type=1
+
+## Data Analyst
+
+**250 $**, examen de 2h. Cohérent avec le tarif "Tableau-specific certifications" cité par un prestataire de prep (250 $ / retake 125 $) pour l'ensemble Data Analyst / Consultant / Server Admin.
+
+## Server Administrator, Consultant, Architect — prix non confirmé, sources contradictoires
+
+**Statut : recherché 2026-08-29, sans résultat fiable.** Deux sources tierces se contredisent : l'une chiffre Server Administrator et Consultant à 200 $ chacun et Architect à 400 $ ; une autre indique un tarif uniforme de 250 $ pour "Data Analyst, Consultant, Server Admin" (sans mentionner Architect séparément). Aucune page officielle Salesforce/Trailhead consultée n'affiche ces montants en clair. Ne pas trancher arbitrairement entre les deux — à revérifier directement au moment de l'inscription, ou dans ~6 mois.
+
+Source (à confirmer) :
+
+- https://www.tableau.com/learn/certification (liste les 5 certifications, sans prix)
+- https://trailhead.salesforce.com/en/help?article=Guide-to-Certification-Exams-at-Tableau-Conference
+
+**Valeur : ⭐⭐⭐⭐⭐** pour Desktop Foundations comme point d'entrée très abordable (75 $) sur un outil BI parmi les plus demandés du marché ; ⭐⭐⭐⭐ pour Data Analyst.
+
+---
+
+# 15. Unreal Engine 3D Fundamentals — absent du dépôt jusqu'à cette revue
+
+Credential développé par **Epic Games** (compétences officielles) et délivré via la plateforme **Gameplan** (partenaire de délivrance officiel depuis septembre 2025) — le seul crédential Unreal Engine trouvé dans ce dépôt jusqu'ici étant l'absence totale de mention, alors que la certification équivalente Unity (Certiport, §12 ci-dessus) y figurait déjà.
+
+```text
+Prix (voucher individuel)   50 $ — inclut 1 voucher + 2 retakes + badge numérique
+Format                      40 questions, 10 thématiques, 60 minutes
+Expérience recommandée      ~100 h sur Unreal Engine 5
+Débouchés visés             game dev, animation, virtual production, VFX
+                             ciné/TV, architecture/ingénierie XR, simulation
+```
+
+Thématiques couvertes : navigation éditeur, gestion de fichiers, Blueprint scripting, matériaux, éclairage, world building, Sequencer, MetaSounds, Niagara (VFX), UMG (UI).
+
+Source :
+
+- https://gameplan.com/certifications/unreal-engine-3d-fundamentals
+- https://esportsadvocate.net/2025/09/gameplan-launches-unreal-engine-3d-fundamentals-certification/
+
+**Valeur : ⭐⭐⭐⭐⭐** — coût d'entrée minime (50 $, retakes inclus) pour une certification officiellement conçue par Epic Games, sur un débouché professionnel large (jeu vidéo, VFX, architecture/XR, simulation) largement sous-représenté dans ce dépôt jusqu'ici.
+
+---
+
+# 16. Esri — GIS, absent du dépôt jusqu'à cette revue
+
+**Esri** (ArcGIS, éditeur GIS dominant — gouvernement, utilities, urbanisme, environnement, logistique) n'avait aucune mention. Prix confirmés directement sur la page officielle de pricing.
+
+```text
+Foundation      275 $  (0-2 ans d'expérience)
+Associate       295 $  (2-4 ans d'expérience)
+Professional    325 $  (4+ ans d'expérience)
+Beta exam       250 $  (tarif réduit)
+```
+
+- voucher valide **1 an** à partir de l'achat ;
+- **3 tentatives max** par version d'examen — 14 jours d'attente avant la 2e tentative, 90 jours avant la 3e ;
+- chaque tentative nécessite un nouveau voucher (pas de retake gratuit).
+
+Source :
+
+- https://www.esri.com/en-us/training/certification/pricing-policies
+- https://www.esri.com/training/certification-find-exam/search/
+
+**Valeur : ⭐⭐⭐⭐** pour un profil géospatial/GIS — Esri est de facto le standard de l'industrie GIS, avec une base installée massive dans le secteur public (collectivités, agences environnementales, cadastre) et les utilities, peu couvert par ailleurs dans les dépôts de certifications IT généralistes.
+
+---
+
+# 17. Notion — absent du dépôt jusqu'à cette revue
+
+**Notion** (no-code workspace/wiki, très adopté en startups/scale-ups) n'avait aucune mention. Grille confirmée directement sur la page officielle d'aide Notion :
+
+```text
+Administrator Certification         100-150 $ selon track
+```
+
+## Format et prérequis
+
+- prérequis : réussir **3 badges** (Essentials, Workflows, Advanced) à **75 %** minimum chacun avant de pouvoir passer la certification ;
+- examen final : **80 %** minimum requis ;
+- **1 achat = 2 tentatives** ;
+- examen **proctoré** (webcam + partage d'écran).
+
+Il existe également des **certifications Partner** (Service Specialist, Sales Specialist, Technical Specialist) — statut d'accès (partenaire uniquement ou ouvert) non confirmé avec certitude lors de cette revue.
+
+Source :
+
+- https://www.notion.com/help/badges-and-certifications
+
+**Valeur : ⭐⭐⭐⭐** pour un profil ops/no-code déjà utilisateur avancé de Notion — parcours structuré avec prérequis progressifs plutôt qu'un simple examen isolé.
