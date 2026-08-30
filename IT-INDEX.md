@@ -375,6 +375,7 @@ AMD ROCm Professional est annoncé plus tard en 2026, Expert début 2027. Prix p
 
 - [`certifications/itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md`](certifications/itsm-enterprise-tooling-servicenow-atlassian-bmc-2026.md)
 - [`certifications/lean-it-lean-management-2026.md`](certifications/lean-it-lean-management-2026.md) — Lean IT (EXIN, retrait PeopleCert fin 2026), IASSC, SME/AME/Shingo, IISE, Kaizen Institute.
+- [`certifications/netsuite-certification-2026.md`](certifications/netsuite-certification-2026.md) — Oracle NetSuite (ERP cloud) : SuiteFoundation confirmé 250 $, certifications avancées à prix contradictoire selon les sources.
 
 ```text
 Atlassian Certificates                       0 $  unproctored

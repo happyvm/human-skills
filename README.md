@@ -38,6 +38,7 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 - [`certifications/paid-under-500.md`](certifications/paid-under-500.md) — catalogue général.
 - [`certifications/business-finance-under-500.md`](certifications/business-finance-under-500.md) — PMI, Scrum.org, ISACA, TOGAF, Lean Six Sigma, CFA Investment Foundations, langues, business.
 - [`certifications/bcs-chartered-institute-it-2026.md`](certifications/bcs-chartered-institute-it-2026.md) — BCS (UK) : IA, business analysis, data protection, DevOps, architecture, sécurité info, SIAM, ISTQB, agile, transformation.
+- [`certifications/netsuite-certification-2026.md`](certifications/netsuite-certification-2026.md) — Oracle NetSuite : SuiteFoundation (250 $ confirmé), Administrator, ERP Consultant, SuiteCloud Developer.
 
 ## Entrepreneuriat, startup & création d'entreprise
 
