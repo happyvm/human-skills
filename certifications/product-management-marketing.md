@@ -11,7 +11,7 @@ tags:
   - domain/business-soft-skills
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Product management, product marketing & pricing
@@ -26,6 +26,9 @@ verified: 2026-08-28
 
 | Credential / programme | Prix | Type |
 |---|---:|---|
+| Pendo Product Discovery Certification | **0 € actuellement** (149 $ tarif normal) | vendor certification |
+| WalkMe Solution Builder Certification | **499 $** | vendor certification |
+| SAP C_WME (WalkMe Digital Adoption Consultant) | **578 $** | certification SAP |
 | AIPMM Certified Product Manager — CPM | **500 $** | certification de personne / examen |
 | AIPMM Certified Product Marketing Manager — CPMM | **500 $** | certification de personne / examen |
 | AIPMM Certified Brand Manager — CBM | **500 $** | certification de personne / examen |
@@ -224,6 +227,47 @@ Source :
 - https://www.scrum.org/assessments/professional-scrum-product-owner-ii-certification
 
 **Verdict :** PSPO II à 500 $ reste un signal fort pour un profil Product Owner confirmé, avant d'envisager PSPO III dont le TCO doit être vérifié au cas par cas.
+
+---
+
+# 9. Pendo — Product Discovery Certification, actuellement gratuit
+
+**Pendo** (analytics produit / digital adoption, très utilisé côté product management) n'avait aucune mention. Confirmé directement sur la page officielle :
+
+```text
+Prix normal        149 $
+Prix actuel           0 € — "we're offering the course for free for everyone"
+```
+
+**Aucune date de fin annoncée** pour cette gratuité promotionnelle — à vérifier au moment de l'inscription, le tarif pouvant revenir à 149 $ sans préavis.
+
+Source :
+
+- https://www.pendo.io/product-management-basics-certification/
+
+**Valeur : ⭐⭐⭐⭐⭐ tant que gratuit** — excellent complément pratique aux certifications généralistes AIPMM/Pragmatic ci-dessus, orienté outil plutôt que théorie.
+
+---
+
+# 10. WalkMe (SAP) — digital adoption platform, absent du dépôt jusqu'à cette revue
+
+**WalkMe** (plateforme de digital adoption, racheté par SAP en 2024) propose deux certifications :
+
+```text
+SAP Certified Associate — WalkMe Digital Adoption
+  Consultant (C_WME)                                 578 $
+WalkMe Solution Builder Certification                 499 $
+```
+
+Le C_WME suit la grille tarifaire SAP standard déjà documentée ailleurs dans le dépôt (examens SAP individuels ~560-580 $) — cohérent, pas une anomalie. 20h de formation gratuite disponible ("WalkMe journey") avant l'examen.
+
+**Attention niveau de preuve :** prix corroboré par une source spécialisée SAP (ERPPrep), mais non reconfirmé directement sur `training.sap.com` (page bloquée lors de cette revue) — à revérifier au checkout.
+
+Source :
+
+- https://www.erpprep.com/blog/what-sap-walkme-digital-adoption-consultant-certification-c-wme-really-costs-whether-it-pays
+
+**Valeur : ⭐⭐⭐** — coût élevé pour un outil de niche comparé aux autres entrées de ce fichier, pertinent surtout pour un profil déjà engagé dans l'écosystème SAP.
 
 ---
 
