@@ -3,7 +3,7 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **99**
-- credential-like table rows scanned: **1470**
+- credential-like table rows scanned: **1475**
 - exact normalized names present in 2+ files: **82**
 - specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
@@ -58,12 +58,12 @@
 ### CPSA, CPTIA, CPIA
 
 - `cyber-premium-over-500.md:31` — `| Practitioner | CPSA, CPTIA, CPIA | **275 £** |`
-- `practical-cyber-under-500.md:214` — `| Practitioner | CPSA, CPTIA, CPIA | **275 £** |`
+- `practical-cyber-under-500.md:216` — `| Practitioner | CPSA, CPTIA, CPIA | **275 £** |`
 
 ### CRT, CRTIA, CRIA
 
 - `cyber-premium-over-500.md:32` — `| Registered | CRT, CRTIA, CRIA | **600 £** |`
-- `practical-cyber-under-500.md:215` — `| Registered | CRT, CRTIA, CRIA | **600 £** |`
+- `practical-cyber-under-500.md:217` — `| Registered | CRT, CRTIA, CRIA | **600 £** |`
 
 ### Expert practical exam
 
@@ -175,7 +175,7 @@
 | 116 | `paid-under-500.md` |
 | 64 | `entrepreneurship-startup-business-creation-2026.md` |
 | 56 | `paid-over-500.md` |
-| 48 | `practical-cyber-under-500.md` |
+| 53 | `practical-cyber-under-500.md` |
 | 48 | `tools-platforms-under-500.md` |
 | 39 | `networking-wireless-ai-infra.md` |
 | 37 | `entrepreneur-international-functional-credentials-2026.md` |
@@ -212,8 +212,8 @@
 | 194 | `general-it` |
 | 162 | `business-management` |
 | 108 | `governance-grc` |
+| 83 | `security` |
 | 81 | `governance` |
-| 78 | `security` |
 | 76 | `ai-infrastructure` |
 | 73 | `supply-chain` |
 | 60 | `network` |

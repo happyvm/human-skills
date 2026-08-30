@@ -321,11 +321,12 @@ Free course             oui selon cours
 Certification exam      Buy certification exam
 ```
 
-Les certifications Tenable VM / Security Center / OT ne doivent donc pas être classées gratuites.
+Les certifications Tenable VM / Security Center / OT ne doivent donc pas être classées gratuites. **Prix confirmés (215 $ écrit / 325 $ pratique / 540 $ bundle) désormais documentés dans `practical-cyber-under-500.md` §10**, avec Rapid7 (autre angle mort comblé lors de la même revue).
 
 Source :
 
 - https://www.tenable.com/education
+- https://www.tenable.com/buy/certification
 
 ---
 
