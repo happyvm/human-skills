@@ -347,6 +347,18 @@ Concentration  300 $
 Total          700 $ ≈ 601 €
 ```
 
+### Concentration ENNA — ThousandEyes/network assurance, absente du dépôt jusqu'à cette revue
+
+Cisco a ajouté un nouvel examen de concentration CCNP Enterprise autour de **ThousandEyes** (observabilité réseau/digital experience monitoring, racheté par Cisco) : **300-445 ENNA** (Enterprise Network Assurance), couvrant plateformes, collecte de données, analyse, insights et alertes ThousandEyes.
+
+Prix non affiché directement sur la page d'annonce ThousandEyes, mais **cohérent avec la grille standard Cisco 300 $ pour toute concentration CCNP** déjà établie ci-dessus — pas de raison identifiée qu'il déroge à cette règle uniforme.
+
+Source :
+
+- https://www.thousandeyes.com/blog/introducing-new-enterprise-network-assurance-certification
+
+**Valeur : ⭐⭐⭐⭐** pour un profil réseau déjà engagé dans le parcours CCNP Enterprise et travaillant sur ThousandEyes — bon signal observabilité réseau à ajouter au portefeuille Cisco sans coût supplémentaire hors norme.
+
 ## CCIE
 
 Ordre de grandeur minimal pour les examens :
