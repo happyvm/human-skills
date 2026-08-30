@@ -655,6 +655,28 @@ Source :
 
 ---
 
+## Stripe Certification — développeur/architecte paiements, gratuit
+
+**Absent du dépôt jusqu'à cette revue.** Stripe (infrastructure de paiement dominante) propose 4 certifications **entièrement gratuites**, confirmées directement sur `docs.stripe.com/partners/training-and-certification` :
+
+```text
+Associate Architect         gratuit — 90 min, 45-50 QCM, ~1 an d'XP visé
+Professional Impl. Architect gratuit — 90 min, 45-50 QCM, ~2+ ans d'XP visé
+Associate Developer          gratuit — coding challenge 6-8h (30 j pour finir)
+Professional Developer        gratuit — coding challenge 15-20h (30 j pour finir)
+```
+
+**Attention — accès potentiellement limité aux partenaires :** la page officielle est intitulée *« Stripe certification for partners »* et indique que réussir 2 certifications permet de devenir *Stripe verified partner*. Le texte précise *« All partners can complete certifications, regardless of their partner track »* — il n'est **pas explicitement confirmé** qu'un développeur non-partenaire, hors toute organisation partenaire Stripe, puisse s'inscrire librement. À vérifier au moment de l'inscription plutôt que présumé pleinement ouvert.
+
+Source :
+
+- https://docs.stripe.com/partners/training-and-certification
+- https://www.stripe.training/page/certifications
+
+**Valeur : ⭐⭐⭐⭐** si l'accès individuel est confirmé — signal fort pour un profil développeur paiements/fintech, écosystème quasi absent du reste du dépôt.
+
+---
+
 ## IBM SkillsBuild — digital credentials gratuits
 
 IBM SkillsBuild propose gratuitement apprentissage et plusieurs digital credentials validés.
