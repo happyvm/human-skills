@@ -11,7 +11,7 @@ tags:
   - domain/general-it
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Certifications et credentials IT gratuits — vérifiés 2026
@@ -608,6 +608,30 @@ Source : https://www.academy.attackiq.com/
 
 ---
 
+## Box Intelligent Content Expert — nouvelle certification gratuite (remplace le Box Certified Professional payant, retiré)
+
+**Absent du dépôt jusqu'à cette revue.** Box a retiré son ancien programme payant **Box Certified Professional (BCP)** et l'a remplacé par le **Box Intelligent Content Expert (ICE)**, **gratuit**, confirmé sur plusieurs pages officielles Box (support, community, training.box.com).
+
+```text
+Ancien programme    Box Certified Professional — payant, retiré
+Nouveau programme    Box Intelligent Content Expert — 0 $
+Format                45 questions
+Contenu               déploiement Box, AI, Relay, Metadata
+Badge                  numérique partageable LinkedIn
+```
+
+Destiné en priorité aux administrateurs Box.
+
+Source :
+
+- https://www.box.com/resources/intelligent-content-expert-certification
+- https://support.box.com/hc/en-us/articles/42153466746771-Intelligent-Content-Expert-Certification-FAQs
+- https://community.box.com/general-15/get-certified-for-free-as-an-intelligent-content-expert-now-live-31714
+
+**Valeur : ⭐⭐⭐⭐** pour un profil administrateur ECM/content management déjà sur Box — coût nul, bon signal pour un métier peu couvert par ailleurs dans ce dépôt.
+
+---
+
 ## IBM SkillsBuild — digital credentials gratuits
 
 IBM SkillsBuild propose gratuitement apprentissage et plusieurs digital credentials validés.
@@ -881,6 +905,7 @@ Source :
 | anciennes campagnes Microsoft Ignite | ❌ promotions historiques |
 | anciennes campagnes Nutanix gratuites | ❌ promotions historiques |
 | Postman Student Expert | ❌ programme Student sunset en mars 2026 |
+| Box Certified Professional | ♻️ retiré, remplacé par Box Intelligent Content Expert — **gratuit**, voir section B |
 
 ---
 

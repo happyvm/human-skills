@@ -337,6 +337,6 @@ Source :
 - dbt avancé ;
 - Cloudera (recherché 2026-08-30 en marge de Teradata, pas encore approfondi) ;
 - Informatica ;
-- Collibra ;
-- Alation ;
+- Collibra (recherché 2026-08-30 dans le cadre d'un balayage Gartner data governance/MDM, sans résultat : "Collibra ne publie pas le prix Ranger publiquement", contact requis) ;
+- Alation (recherché 2026-08-30, sans résultat : programme confirmé actif — Professional Implementer, 45 questions non-proctored, 70 % — mais aucun prix public trouvé) ;
 - data governance certifications.
