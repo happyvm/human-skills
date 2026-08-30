@@ -11,7 +11,7 @@ tags:
   - domain/security
   - scope/international
 status: active
-verified: 2026-08-29
+verified: 2026-08-30
 ---
 
 # Cybersécurité pratique — certifications sous 500 € / $ / £
@@ -32,6 +32,7 @@ Les prix sont conservés dans leur devise officielle. Pour les prix proches du s
 | Rapid7 Certified Administrator / Specialist (InsightVM/IDR/Connect/AppSec) | Vulnerability mgmt / SIEM / SOAR / AppSec | **215 $ chacun** | Non requis | Voucher séparé | ⭐⭐⭐⭐ |
 | Tenable Specialist (VM / Security Center / OT) — écrit seul | Vulnerability mgmt / OT | **215 $** (325 $ pratique, 540 $ bundle) | Non requis | — | ⭐⭐⭐⭐ |
 | TCM PHDA | Help Desk / IT support pratique | **199 $** | ✅ | ✅ 1 | ⭐⭐⭐ |
+| Mandiant Incident Response (MIR) | Threat intel / Incident Response | **250 $** | Non requis | Voucher séparé | ⭐⭐⭐⭐⭐ |
 | HTB CPTS / CDSA / CWES / COAE | Pentest / SOC / Web / AI | **210 $ / 249,90 $ TTC indicatif** | Non avec voucher seul | Selon conditions | ⭐⭐⭐⭐⭐ |
 | TCM PJPT / PWPA / PAPA / PMPA / PIPA / PSAA | Plusieurs | **249 $** | ✅ | ✅ 1 | ⭐⭐⭐⭐ |
 | Altered Security CRTP | Active Directory | **249 $ / 30 jours** | ✅ | examen inclus | ⭐⭐⭐⭐⭐ |
@@ -329,6 +330,37 @@ Source :
 ## Qualys — statut non confirmé, ne pas documenter de prix
 
 Le **Qualys Certified Specialist — VMDR** semble **gratuit pour les clients Qualys existants**, mais aucun tarif public non-client n'a été trouvé lors de cette revue. Statut : recherché 2026-08-29, sans résultat fiable — à ne pas confondre avec un prix catalogue individuel classique.
+
+---
+
+# 11. Mandiant Academy (Google Cloud Security) — angle mort threat intel/IR comblé lors de cette revue
+
+**Mandiant** (racheté par Google Cloud, référence mondiale en threat intelligence et incident response — équipe derrière la plupart des grandes attributions d'attaques médiatisées) n'avait aucune mention dans le dépôt.
+
+## Mandiant Incident Response (MIR) — 250 $
+
+Confirmé directement sur la page d'inscription officielle (`mandiantacademy.swoogo.com/mir-cert`) et le guide d'examen officiel PDF :
+
+```text
+Prix                 250 $ par tentative
+Format                50 questions QCM, 60 minutes
+Score de passage      70 % (pass/fail, pas de score détaillé)
+Livraison             remote online proctored, Kryterion Webassessor
+Standard               conforme ANSI/ISO 17024
+Validité               3 ans, recertification par repassage
+                       (fenêtre ouverte 60 j avant expiration)
+Prérequis recommandé   3-5 ans d'expérience incident response
+```
+
+Étude non fournie avant l'examen — pas open-book, l'examen évalue une expérience terrain réelle plutôt qu'un bachotage.
+
+Source :
+
+- https://mandiantacademy.swoogo.com/mir-cert
+- https://services.google.com/fh/files/misc/incident_response_exam_guide.pdf (guide d'examen officiel complet)
+- https://cloud.google.com/learn/security/mandiant-academy-certifications
+
+**Valeur : ⭐⭐⭐⭐⭐** — signal très fort pour un profil IR/threat hunting sénior, marque reconnue dans l'industrie, prix raisonnable comparé à GIAC/SANS (souvent 1000$+) pour un niveau de crédibilité comparable sur le marché du travail.
 
 ---
 
