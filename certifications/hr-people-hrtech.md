@@ -11,7 +11,7 @@ tags:
   - domain/hr-people
   - scope/mixed
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # HR, People profession & HR technology
@@ -332,14 +332,40 @@ Le coût exact France doit donc être collecté provider par provider.
 Élément structurant découvert : **Workday ne vend pas ses certifications au grand public**. L'accès aux formations et examens de certification officiels passe par le statut d'**organisation Workday Partner** — un consultant indépendant ou un candidat autofinancé ne peut généralement pas s'inscrire directement.
 
 - coût observé (via crédits Workday, cadre partenaire) : **1 500–2 500 $ par certification**, souvent **2 000–5 000 $ au total** selon le parcours ;
-- modèle de crédits, pas un simple prix d'examen public ;
-- SAP SuccessFactors et Oracle HCM restent à vérifier (probablement un modèle d'accès similaire via partenaires/Oracle University).
+- modèle de crédits, pas un simple prix d'examen public.
 
 Source :
 
 - https://rising.workday.com/us/experience/pro-certification.html
 
 **Verdict :** à classer en **employer/partner-funded**, pas en credential autofinançable — très différent des certifications Microsoft/AWS/Google du reste du dépôt.
+
+## SAP SuccessFactors — accès mixte, partiellement autofinançable
+
+Contrairement à Workday, **SAP SuccessFactors n'est pas intégralement partner-gated** :
+
+- la certification **SuccessFactors Learning (C_THR88)** est **exclusivement réservée aux consultants partenaires SAP enregistrés** — un client ou consultant indépendant ne peut pas obtenir les droits de provisioning même après réussite ;
+- d'autres modules SuccessFactors (ex. **Employee Central Core**) suivent le **modèle d'examen SAP standard**, déjà documenté dans `mainframe-enterprise-software.md` (SAP) : **230 $ pour 1 tentative / 576 $ pour 6 tentatives** ;
+- une offre spécifique observée pour SuccessFactors : bundle 2 tentatives + 10h d'accès practice system à **276 $** (contrat 12 mois, 1 utilisateur), alternative à l'examen standard à ~560 $ aux USA.
+
+**Verdict :** vérifier module par module — ne pas supposer un accès partner-only uniforme comme Workday.
+
+## Oracle HCM Cloud — modèle SAP-like, autofinançable
+
+Contrairement à Workday, **Oracle HCM Cloud est accessible individuellement**, même tarif que le reste de l'écosystème Oracle (cf. `netsuite-certification-2026.md`) :
+
+```text
+Oracle Certified Professional — Global Human Resources
+  Cloud Implementation Professional          ~245 $
+```
+
+- **90 minutes**, ~55-65 questions QCM, Pearson VUE/OnVUE.
+
+Source :
+
+- https://education.oracle.com/oracle-certification-path/pPillar_645
+
+**Verdict :** accessible directement, pas de statut partenaire requis contrairement à Workday.
 
 ---
 
@@ -360,7 +386,6 @@ Source :
 
 - exact CIPD Level 3/5/7 providers France / remote TCO ;
 - HRCI recertification TCO — déjà chiffré dans `management-transformation-over-500.md` §5 ;
-- SAP SuccessFactors / Oracle HCM — modèle d'accès exact (probablement partner-gated comme Workday) ;
 - payroll credentials — voir PayrollOrg CPP/FPC dans `compensation-total-rewards.md` ;
 - talent acquisition credentials ;
 - workforce analytics ;
