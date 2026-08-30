@@ -3,9 +3,9 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **99**
-- credential-like table rows scanned: **1485**
-- exact normalized names present in 2+ files: **82**
-- specialist↔specialist file pairs with exact overlap: **12**
+- credential-like table rows scanned: **1487**
+- exact normalized names present in 2+ files: **84**
+- specialist↔specialist file pairs with exact overlap: **13**
 - conservative near-duplicate candidates: **0**
 
 ## Interpretation
@@ -22,6 +22,7 @@
 | 3 | `ibm-enterprise-security-ai-under-500.md` | `mainframe-enterprise-software.md` | IBM Db2 13 for z/OS DBA Professional, IBM MQ 9.4 Administrator Professional, IBM z/OS v3.x Administrator Professional |
 | 3 | `hpe-morpheus-private-cloud-2026.md` | `virtualization-private-cloud-under-500.md` | Nutanix NCM-MCI, Nutanix NCP-MCI, VMware VCP-VCF Architect |
 | 2 | `cyber-premium-over-500.md` | `practical-cyber-under-500.md` | CPSA, CPTIA, CPIA, CRT, CRTIA, CRIA |
+| 2 | `api-management-specialists-2026.md` | `middleware-api-integration-2026.md` | Gateway Certified Associate, Konnect Certified Associate |
 | 2 | `compensation-total-rewards.md` | `management-transformation-over-500.md` | GPHR, HRCI SPHR / SPHRi / GPHR |
 | 2 | `cloud-native-platform-engineering-under-500.md` | `observability-sre-devops-under-500.md` | OpenTelemetry Certified Associate, Prometheus Certified Associate |
 | 1 | `ai-governance-risk-safety.md` | `privacy-dpo-france.md` | IAPP AIGP |
@@ -39,6 +40,7 @@
 | 3 | `mainframe` | `security` |
 | 3 | `virtualization` | `virtualization` |
 | 2 | `security` | `security` |
+| 2 | `itsm-middleware` | `itsm-middleware` |
 | 2 | `governance-grc` | `hr-people` |
 | 2 | `kubernetes-platform` | `observability` |
 | 1 | `ai-infrastructure` | `legal` |
@@ -70,6 +72,11 @@
 - `arista-academy-certification-2026.md:30` — `| Expert | Expert practical exam | **1 995 $** |`
 - `network-datacenter-advanced-under-500.md:37` — `| Arista | Expert practical exam | **1 995 $** | ❌ >500 |`
 
+### Gateway Certified Associate
+
+- `api-management-specialists-2026.md:31` — `| Kong | Gateway Certified Associate | **275 $** | ✅ sous 500 |`
+- `middleware-api-integration-2026.md:37` — `| Kong | Gateway Certified Associate | **275 $** | ✅ sous 500 |`
+
 ### GPHR
 
 - `compensation-total-rewards.md:137` — `| GPHR | 100 $ | 495 $ | **595 $** | 🌍 INT |`
@@ -94,6 +101,11 @@
 
 - `ibm-enterprise-security-ai-under-500.md:30` — `| IBM z/OS v3.x Administrator Professional | **200 $** |`
 - `mainframe-enterprise-software.md:27` — `| IBM z/OS v3.x Administrator Professional | **200 $** | Mainframe / z/OS |`
+
+### Konnect Certified Associate
+
+- `api-management-specialists-2026.md:32` — `| Kong | Konnect Certified Associate | **275 $** | ✅ sous 500 |`
+- `middleware-api-integration-2026.md:38` — `| Kong | Konnect Certified Associate | **275 $** | ✅ sous 500 |`
 
 ### LOMA FLMI — non-member pricing
 
@@ -219,7 +231,7 @@
 | 60 | `network` |
 | 59 | `business-soft-skills` |
 | 50 | `devops-automation` |
-| 47 | `itsm-middleware` |
+| 49 | `itsm-middleware` |
 | 47 | `hr-people` |
 | 32 | `storage-backup` |
 | 32 | `pharma-regulatory` |
