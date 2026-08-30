@@ -367,6 +367,34 @@ Source :
 
 **Verdict :** accessible directement, pas de statut partenaire requis contrairement à Workday.
 
+## ADP — accessible directement, absent du dépôt jusqu'à cette revue
+
+**ADP** (payroll/HR, très dominant sur le marché US/Canada) n'avait aucune mention. Contrairement à Workday, **accessible directement sans statut partenaire**, confirmé sur la page officielle `education.adp.com` :
+
+```text
+Certified Partner ADP RUN for Partners                        100 $
+Pro Summit — Certified HR Specialist (Workforce Now)           395 $ promo (495 $ tarif normal)
+Pro Summit — Certified Payroll Specialist (Workforce Now)      475 $ promo (595 $ tarif normal)
+Pro Summit — Certified Benefits Specialist (Workforce Now)     475 $ promo (595 $ tarif normal)
+Certified HR Specialist — Workforce Now                        495 $
+Certified Time & Attendance Specialist — Workforce Now         495 $
+Certified Payroll Specialist — Workforce Now / Vantage HCM      595 $
+Certified Benefits Specialist — Workforce Now                  595 $
+Canada (Workforce Now) — Payroll / HR Specialist                510-540 $
+```
+
+Renouvellement/gift cards disponibles séparément (50-396 $).
+
+Source :
+
+- https://education.adp.com/collections/certification-exams
+
+**Valeur : ⭐⭐⭐⭐** pour un profil payroll/HR ops sur le marché nord-américain — ADP est l'un des plus gros employeurs de compétences payroll au monde, avec un ticket d'entrée (100-495 $) raisonnable pour un signal très recherché côté RH opérationnel US/Canada.
+
+## Dayforce (Ceridian) — statut moins solide
+
+**Ceridian Certified Consultant — Dayforce** semble exister (QCM scénarisés, 90-120 min, via Ceridian Learning Portal), avec un prix tiers estimé à **200-300 $**, mais **aucune source officielle directe consultée** lors de cette revue — à confirmer avant de traiter comme un tarif catalogue garanti.
+
 ---
 
 # 10. Positionnement
