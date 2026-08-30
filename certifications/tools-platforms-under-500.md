@@ -33,6 +33,7 @@ verified: 2026-08-30
 | Talend Data Integration v7 Certified Developer | Data integration | **120 $** | ⭐⭐⭐⭐ |
 | Notion Administrator Certification | No-code workspace | **100-150 $** | ⭐⭐⭐⭐ |
 | Adobe Certified Professional | Création numérique | **150 $ US online** | ⭐⭐⭐ |
+| Apple Final Cut Pro (4 niveaux) | Montage vidéo | **149 $ chacun** | ⭐⭐⭐⭐ |
 | UiPath Associate | RPA / Agentic Automation | **150 $** | ⭐⭐⭐⭐ |
 | Confluent Certified | Kafka / Streaming | **150 $** | ⭐⭐⭐⭐⭐ |
 | Autodesk Certified Associate | CAO / Design | **150 $** | ⭐⭐⭐⭐ |
@@ -492,3 +493,26 @@ Source :
 - https://www.notion.com/help/badges-and-certifications
 
 **Valeur : ⭐⭐⭐⭐** pour un profil ops/no-code déjà utilisateur avancé de Notion — parcours structuré avec prérequis progressifs plutôt qu'un simple examen isolé.
+
+---
+
+# 18. Apple Final Cut Pro — absent du dépôt jusqu'à cette revue
+
+**Apple Final Cut Pro** (montage vidéo, alternative pro à DaVinci Resolve — cf. `free-it.md` pour DaVinci gratuit) n'avait aucune mention. Programme officiel Apple délivré via **FMC Training Network** (Apple Authorized Certification Provider), confirmé directement sur la page officielle :
+
+```text
+IntroPro                149 $
+SocialPro                149 $
+VideoPro                  149 $
+Post-Production Pro       149 $
+```
+
+Tarif **uniforme** aux 4 niveaux, examens automatisés accessibles 24/7.
+
+Source :
+
+- https://fcpcertification.com/certifications/
+
+**Note :** Apple a **retiré** son ancienne certification **Logic Pro X** (audio) — ne pas la re-proposer dans une future recherche, aucun remplacement officiel identifié.
+
+**Valeur : ⭐⭐⭐⭐** pour un profil monteur vidéo sur écosystème Apple — complémentaire à DaVinci Resolve (gratuit) et Adobe Premiere/After Effects (150 $, déjà documentés) selon l'outil réellement utilisé en production.
