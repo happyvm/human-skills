@@ -3,7 +3,7 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **99**
-- credential-like table rows scanned: **1488**
+- credential-like table rows scanned: **1489**
 - exact normalized names present in 2+ files: **84**
 - specialist↔specialist file pairs with exact overlap: **13**
 - conservative near-duplicate candidates: **0**
@@ -136,7 +136,7 @@
 ### OpenTelemetry Certified Associate
 
 - `cloud-native-platform-engineering-under-500.md:40` — `| OpenTelemetry Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
-- `observability-sre-devops-under-500.md:36` — `| OpenTelemetry Certified Associate | **250 $** | CNCF |`
+- `observability-sre-devops-under-500.md:37` — `| OpenTelemetry Certified Associate | **250 $** | CNCF |`
 
 ### PMI Construction Professional — PMI-CP
 
@@ -151,7 +151,7 @@
 ### Prometheus Certified Associate
 
 - `cloud-native-platform-engineering-under-500.md:37` — `| Prometheus Certified Associate | **250 $** | proctored QCM | ⭐⭐⭐⭐ |`
-- `observability-sre-devops-under-500.md:35` — `| Prometheus Certified Associate | **250 $** | CNCF |`
+- `observability-sre-devops-under-500.md:36` — `| Prometheus Certified Associate | **250 $** | CNCF |`
 
 ### Red Hat exam standard
 
@@ -209,10 +209,10 @@
 | 19 | `language-certifications.md` |
 | 19 | `lean-it-lean-management-2026.md` |
 | 18 | `entrepreneur-france-practical-resources-2026.md` |
+| 18 | `observability-sre-devops-under-500.md` |
 | 17 | `bcs-chartered-institute-it-2026.md` |
 | 17 | `ibm-enterprise-security-ai-under-500.md` |
 | 17 | `network-datacenter-advanced-under-500.md` |
-| 17 | `observability-sre-devops-under-500.md` |
 | 16 | `compliance-aml-fpa-over-500.md` |
 
 ## Domain row volume
@@ -236,10 +236,10 @@
 | 32 | `storage-backup` |
 | 32 | `pharma-regulatory` |
 | 28 | `datacenter-facilities` |
+| 28 | `observability` |
 | 27 | `enterprise-software` |
 | 27 | `virtualization` |
 | 27 | `legal` |
-| 27 | `observability` |
 | 25 | `linux` |
 | 23 | `esg-sustainability` |
 | 23 | `real-estate` |
