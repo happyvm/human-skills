@@ -721,6 +721,32 @@ Source :
 
 ---
 
+## Blackmagic Design — DaVinci Resolve Certified End User, gratuit
+
+**Absent du dépôt jusqu'à cette revue.** DaVinci Resolve (montage vidéo/color grading, référence gratuite/pro massivement utilisée en post-prod, YouTube, cinéma indépendant) propose une certification **Certified End User** entièrement gratuite, bien corroborée par plusieurs sources indépendantes convergentes (dont un centre de formation officiel Blackmagic) :
+
+```text
+Prix               gratuit
+Format              50 questions (tirées d'une banque de 120), open-book
+Durée                60 minutes
+Score requis         85 %
+Tentatives           2 essais supplémentaires après le premier,
+                     6h d'attente entre tentatives
+```
+
+Certificat numérique envoyé par email après réussite.
+
+**Attention niveau de preuve :** la page officielle blackmagicdesign.com ne détaille pas ces éléments directement (renvoie vers plus de 250 formateurs certifiés/100 centres) — prix et format corroborés par plusieurs sources tierces convergentes (dont un centre de formation autorisé Blackmagic), à reconfirmer au moment de l'inscription.
+
+Source :
+
+- https://www.blackmagicdesign.com/products/davinciresolve/training
+- https://support.rippletraining.com/article/77-dvr-18-test-faqs (centre de formation autorisé Blackmagic)
+
+**Valeur : ⭐⭐⭐⭐⭐** — coût nul pour un signal reconnu dans un secteur (post-production vidéo) largement absent du reste du dépôt, complémentaire à Adobe Premiere/After Effects et Unreal Engine déjà documentés dans `tools-platforms-under-500.md`.
+
+---
+
 ## IBM SkillsBuild — digital credentials gratuits
 
 IBM SkillsBuild propose gratuitement apprentissage et plusieurs digital credentials validés.
