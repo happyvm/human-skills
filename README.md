@@ -59,6 +59,7 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 
 - [`certifications/practical-cyber-under-500.md`](certifications/practical-cyber-under-500.md) — HTB, TCM, Altered Security, Zero-Point, CREST Practitioner, TryHackMe, BTL1, INE, BSCP.
 - [`certifications/cyber-premium-over-500.md`](certifications/cyber-premium-over-500.md) — CREST Registered/Certified, OffSec, OSCE3/OSEE, GIAC/SANS, Altered Security bundles, Zero-Point bundles.
+- [`certifications/crowdstrike-certification-2026.md`](certifications/crowdstrike-certification-2026.md) — CrowdStrike Falcon Certification Program (8 certifications, 250 $ chacune) : Practitioner, Administrator, Responder, Hunter, SIEM Analyst/Engineer, Identity Specialist, Cloud Specialist.
 - [`certifications/industrial-ot-automation.md`](certifications/industrial-ot-automation.md) — ISA CAP/CCST, ISA/IEC 62443, SIS / functional safety, OT/ICS.
 
 ## ISO, GRC, continuité & transformation
