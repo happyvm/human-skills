@@ -382,7 +382,7 @@ Pour un profil infrastructure / architecture :
 - Entra / Microsoft Identity — déjà couvert via SC-300 dans `public-cloud-multicloud-under-500.md` ;
 - Jenkins / CloudBees current certification ;
 - GitLab current exams and mandatory training TCO ;
-- Sonar / Snyk / Checkmarx ;
+- Sonar / Snyk / Checkmarx (recherché 2026-08-30 dans le cadre d'un balayage Gartner SAST/AppSec, sans résultat : aucune certification individuelle proctorée publique identifiée pour SonarSource/SonarQube ni Checkmarx — semblent ne pas avoir de programme grand public ; Snyk propose uniquement Snyk Learn, déjà documenté comme gratuit/non-proctoré dans `free-it.md` ; Veracode également vérifié, même conclusion — aucun prix public, pricing produit uniquement sur devis) ;
 - DevSecOps Foundation / PeopleCert ;
 - policy-as-code / OPA credentials.
 
