@@ -11,7 +11,7 @@ tags:
   - domain/devops-automation
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-29
 ---
 
 # Outils, plateformes et certifications éditeurs sous 500
@@ -35,6 +35,7 @@ verified: 2026-08-28
 | IBM Professional / Associate — nombreux examens | IBM / Data / Security / Systems | **200 $ typique US** | ⭐⭐⭐⭐ |
 | dbt Analytics Engineering | Data engineering | **200 $** | ⭐⭐⭐⭐ |
 | Autodesk Certified Professional | CAO / Design | **200 $** | ⭐⭐⭐⭐ |
+| Qlik (toute certification) | BI / Data analytics | **250 $** | ⭐⭐⭐⭐ |
 | Autodesk Certified Expert | CAO / Design | **250 $** | ⭐⭐⭐⭐ |
 | HPE HPE0/HPE6 exams | Infrastructure | **260 $** pays développés | ⭐⭐⭐⭐ |
 | UiPath Professional | RPA / Automation | **300 $** | ⭐⭐⭐⭐ |
@@ -317,3 +318,27 @@ Source : https://store.certiport.com/shop/certiport-products
 > Le store cité est US-only. En France, le tarif doit être obtenu auprès d'un centre / Solution Provider Certiport.
 
 Ces credentials sont surtout intéressants pour élargir `human-skills` au-delà du profil IT senior : étudiants, reconversion, management, entrepreneuriat, éducation, création et compétences numériques.
+
+---
+
+# 13. Qlik — absent du dépôt jusqu'à cette revue
+
+Qlik (BI/data analytics, concurrent de Power BI et Tableau — ni l'un ni l'autre n'avait de fichier dédié dans le dépôt avant cette revue) propose un tarif unique, quel que soit l'examen :
+
+```text
+Toute certification Qlik    250 $
+```
+
+- Qlik Sense Data Architect — 90 min, 50 questions, seuil de réussite 62 % ;
+- Qlik Sense Data Analyst / Cloud Analytics Developer — depuis avril 2026, 120 min, 50 questions, seuil 62 %, proctoré en ligne sur la plateforme Qlik Learning ;
+- paiement en dollars US par carte via Pearson VUE (ou Qlik Learning), converti automatiquement en devise locale par la banque — **pas de tarification multi-devises publiée par Qlik**.
+
+**Attention niveau de preuve :** le prix de **250 $** est corroboré par plusieurs sources tierces indépendantes citant Pearson VUE (aucune contradiction trouvée), mais **la page officielle qlik.com/learning.qlik.com ne l'affiche pas directement en clair** (checkout requis) — à re-vérifier au moment de l'achat plutôt que traité comme un tarif catalogue garanti.
+
+Source :
+
+- https://www.qlik.com/us/services/training/certifications
+- https://learning.qlik.com/student/page/2161345-qlik-sense-data-architect-certification-exam-details
+- https://www.analyticsexam.com/faq/how-much-does-qlik-certification-exam-cost
+
+**Valeur : ⭐⭐⭐⭐** pour un profil BI/data déjà en poste sur Qlik — moins universellement recherché que Power BI (`public-cloud-multicloud-under-500.md`), mais confirmé actif et largement implanté en environnement entreprise (banque, assurance, retail).
