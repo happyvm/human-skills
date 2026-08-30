@@ -11,7 +11,7 @@ tags:
   - domain/general-it
   - scope/mixed
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Certifications au-delà de 500 € — coût réel et TCO
@@ -727,6 +727,22 @@ La formation accréditée est recommandée mais le parcours officiel permet éga
 Source :
 
 - https://certification.opengroup.org/examinations/exam-fees
+
+## SAP LeanIX — outil EA spécifique, absent du dépôt jusqu'à cette revue
+
+Contrairement à TOGAF (vendor-neutral), **SAP LeanIX** est une certification liée à l'outil de cartographie/EA management SaaS du même nom (racheté par SAP). Modèle très différent : pas de prix par examen isolé, mais un **abonnement annuel** :
+
+```text
+SAP Learning — accès certification LeanIX    1 260 € / 1 464 $ par utilisateur / an
+```
+
+Inclut sessions live, practice systems hands-on, **4 tentatives d'examen SAP par an**, et le maintien de la certification. La LeanIX Academy a été mise hors ligne le 28 février 2026, contenu migré vers SAP Learning ; les certifications sont passées à un format **scenario-based** depuis janvier 2026.
+
+Source :
+
+- https://community.leanix.net/academy-best-practices-88/important-announcement-sap-leanix-academy-1616
+
+**Verdict :** nettement au-dessus de 500 € et sur un modèle d'abonnement plutôt qu'examen isolé — à classer comme employer-funded, pas comme credential autofinançable à l'unité (même catégorie que Workday/BeyondTrust déjà documentés ailleurs dans le dépôt).
 - https://www.opengroup.org/certifications/togaf
 
 > La grille publique Open Group accessible via la recherche peut être publiée sur une infrastructure de staging et doit être revérifiée au checkout avant achat.

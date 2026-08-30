@@ -280,9 +280,9 @@ Certifications disponibles notamment sur :
 
 Source : https://certifiedprofessional.adobe.com/en/faq
 
-## Adobe Digital Experience Certification (Marketo Engage, etc.) — programme distinct, absent du dépôt jusqu'à cette revue
+## Adobe Digital Experience Certification (Marketo Engage, AEM, etc.) — programme distinct, absent du dépôt jusqu'à cette revue
 
-À ne pas confondre avec Adobe Certified Professional ci-dessus (créatif, via Certiport) : le programme **Adobe Digital Experience Certification** couvre les produits marketing/données (dont **Marketo Engage**, ex-Marketo racheté par Adobe), délivré via **Webassessor**, avec une grille de prix distincte et standardisée mondialement :
+À ne pas confondre avec Adobe Certified Professional ci-dessus (créatif, via Certiport) : le programme **Adobe Digital Experience Certification** couvre l'ensemble du portefeuille entreprise Adobe Experience Cloud — **Marketo Engage** (ex-Marketo), **Adobe Experience Manager (AEM)** (CMS/DXP, confirmé sur la même grille — ex. AEM Foundations), Analytics, Target, Campaign, Workfront — délivré via **Webassessor**, avec une grille de prix distincte et standardisée mondialement :
 
 ```text
 Professional level    125 $ (global) / 95 $ (Inde)
