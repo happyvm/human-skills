@@ -11,7 +11,7 @@ tags:
   - domain/windows-infra
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-30
 ---
 
 # Microsoft Windows Server & hybrid infrastructure — transition 2026
@@ -241,7 +241,7 @@ Le choix doit évidemment dépendre du rôle : infrastructure, hybrid cloud, ide
 - Hyper-V / SCVMM credentials Microsoft actuels : souvent intégrés plutôt que dédiés ;
 - Azure Local / Azure Stack HCI — voir `microsoft-azure-local-hci-2026.md` ;
 - Intune — déjà couvert via MD-102 (Endpoint Administrator, ~165 $ grille US) ;
-- Defender XDR — probablement couvert via SC-200 (Security Operations Analyst), à documenter ;
+- Defender XDR / Microsoft Sentinel — résolu, voir SC-200 (Security Operations Analyst Associate, 126 €) dans `public-cloud-multicloud-under-500.md` ;
 - Purview — à documenter, périmètre en partie couvert par MS-102/AB-650 ;
 - Entra advanced paths ;
 - SC-500 sortie de bêta / langues ;

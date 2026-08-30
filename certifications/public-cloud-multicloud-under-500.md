@@ -208,6 +208,14 @@ Source :
 
 - https://learn.microsoft.com/fr-fr/credentials/certifications/devops-engineer/
 
+### Security Operations Analyst Associate — SC-200
+
+Couvre **Microsoft Sentinel** (SIEM/SOAR), **Defender XDR**, **Entra ID**, **Purview** et **Defender for Cloud** — résout le backlog "Defender XDR / Sentinel à documenter" identifié dans `microsoft-windows-infrastructure-2026.md`. Prix : **126 €** (même palier Associate que le reste de l'écosystème Microsoft Certified ci-dessus), score de passage 700/1000.
+
+Source :
+
+- https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-200
+
 ### Identity and Access Administrator — SC-300
 
 Prix : **126 €**.
