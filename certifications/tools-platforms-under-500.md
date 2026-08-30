@@ -30,6 +30,7 @@ verified: 2026-08-30
 | Salesforce Certified Tableau Desktop Foundations | BI / Data analytics | **75 $** | ⭐⭐⭐⭐⭐ |
 | Datadog Certification | Observabilité | **100 $** | ⭐⭐⭐⭐ |
 | Microsoft Office Specialist | Productivité / Office | **100 $ env.** | ⭐⭐⭐⭐ |
+| Talend Data Integration v7 Certified Developer | Data integration | **120 $** | ⭐⭐⭐⭐ |
 | Adobe Certified Professional | Création numérique | **150 $ US online** | ⭐⭐⭐ |
 | UiPath Associate | RPA / Agentic Automation | **150 $** | ⭐⭐⭐⭐ |
 | Confluent Certified | Kafka / Streaming | **150 $** | ⭐⭐⭐⭐⭐ |
@@ -362,6 +363,23 @@ Source :
 - https://www.analyticsexam.com/faq/how-much-does-qlik-certification-exam-cost
 
 **Valeur : ⭐⭐⭐⭐** pour un profil BI/data déjà en poste sur Qlik — moins universellement recherché que Power BI (`public-cloud-multicloud-under-500.md`), mais confirmé actif et largement implanté en environnement entreprise (banque, assurance, retail).
+
+## Talend — désormais sous la même bannière Qlik, pas un tarif uniforme
+
+**Talend** (data integration, racheté par Qlik en 2023) reste actif comme ligne de certifications distincte sous `qlik.com/us/services/training/certifications`, mais **le tarif n'est pas uniformément 250 $** contrairement au reste du catalogue Qlik ci-dessus :
+
+```text
+Talend Data Integration v7 Certified Developer     120 $
+Qlik Talend Data Quality Implementer               250 $
+Talend Cloud Certified Administrator          non chiffré lors de cette revue
+```
+
+Inscription via compte **Qlik Learning**, mêmes conditions générales que le reste du catalogue Qlik.
+
+Source :
+
+- https://learning.qlik.com/student/page/2169987-talend-cloud-certified-administrator-exam-details
+- https://learning.qlik.com/student/page/2180677-talend-data-integration-certified-developer-using-talend-studio-exam-details
 
 ---
 
