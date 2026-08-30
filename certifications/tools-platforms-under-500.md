@@ -11,14 +11,14 @@ tags:
   - domain/devops-automation
   - scope/international
 status: active
-verified: 2026-08-29
+verified: 2026-08-30
 ---
 
 # Outils, plateformes et certifications éditeurs sous 500
 
 > Certifications techniques ou métiers qui ne rentrent pas proprement dans les catégories cloud / réseau / cyber classiques.
 >
-> **Vérification : 28 août 2026**
+> **Vérification : 30 août 2026**
 
 ---
 
@@ -26,6 +26,7 @@ verified: 2026-08-29
 
 | Certification / famille | Domaine | Prix officiel indicatif | Valeur |
 |---|---|---:|:---:|
+| Unreal Engine 3D Fundamentals | Game dev / 3D / VFX / XR | **50 $** | ⭐⭐⭐⭐⭐ |
 | Salesforce Certified Tableau Desktop Foundations | BI / Data analytics | **75 $** | ⭐⭐⭐⭐⭐ |
 | Datadog Certification | Observabilité | **100 $** | ⭐⭐⭐⭐ |
 | Microsoft Office Specialist | Productivité / Office | **100 $ env.** | ⭐⭐⭐⭐ |
@@ -381,3 +382,26 @@ Source (à confirmer) :
 - https://trailhead.salesforce.com/en/help?article=Guide-to-Certification-Exams-at-Tableau-Conference
 
 **Valeur : ⭐⭐⭐⭐⭐** pour Desktop Foundations comme point d'entrée très abordable (75 $) sur un outil BI parmi les plus demandés du marché ; ⭐⭐⭐⭐ pour Data Analyst.
+
+---
+
+# 15. Unreal Engine 3D Fundamentals — absent du dépôt jusqu'à cette revue
+
+Credential développé par **Epic Games** (compétences officielles) et délivré via la plateforme **Gameplan** (partenaire de délivrance officiel depuis septembre 2025) — le seul crédential Unreal Engine trouvé dans ce dépôt jusqu'ici étant l'absence totale de mention, alors que la certification équivalente Unity (Certiport, §12 ci-dessus) y figurait déjà.
+
+```text
+Prix (voucher individuel)   50 $ — inclut 1 voucher + 2 retakes + badge numérique
+Format                      40 questions, 10 thématiques, 60 minutes
+Expérience recommandée      ~100 h sur Unreal Engine 5
+Débouchés visés             game dev, animation, virtual production, VFX
+                             ciné/TV, architecture/ingénierie XR, simulation
+```
+
+Thématiques couvertes : navigation éditeur, gestion de fichiers, Blueprint scripting, matériaux, éclairage, world building, Sequencer, MetaSounds, Niagara (VFX), UMG (UI).
+
+Source :
+
+- https://gameplan.com/certifications/unreal-engine-3d-fundamentals
+- https://esportsadvocate.net/2025/09/gameplan-launches-unreal-engine-3d-fundamentals-certification/
+
+**Valeur : ⭐⭐⭐⭐⭐** — coût d'entrée minime (50 $, retakes inclus) pour une certification officiellement conçue par Epic Games, sur un débouché professionnel large (jeu vidéo, VFX, architecture/XR, simulation) largement sous-représenté dans ce dépôt jusqu'ici.
