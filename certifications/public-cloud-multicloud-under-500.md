@@ -11,12 +11,12 @@ tags:
   - domain/cloud
   - scope/international
 status: active
-verified: 2026-08-29
+verified: 2026-08-30
 ---
 
 # Public cloud & multicloud — certifications sous 500 € / $
 
-> AWS, Microsoft Azure, Google Cloud, Oracle OCI et Alibaba Cloud. Vérification : 28 août 2026.
+> AWS, Microsoft Azure (dont Power BI/Fabric/Power Platform/Dynamics 365), Google Cloud, Oracle OCI et Alibaba Cloud. Vérification : 30 août 2026.
 
 ---
 
@@ -258,6 +258,28 @@ PL-600   Power Platform Solution Architect Expert
 Non vérifiés page par page lors de cette revue, mais suivent structurellement le même schéma Microsoft (Fundamentals ≈ 76 €, Associate/Expert ≈ 126 € en France, renouvellement en ligne gratuit).
 
 **Valeur : ⭐⭐⭐⭐** pour un profil data analyst/BI — PL-300 en particulier est une des certifications data les plus demandées sur le marché de l'emploi France/Europe, à un coût très inférieur aux certifications cloud-native équivalentes (Databricks, Snowflake).
+
+---
+
+## Dynamics 365 — absent du dépôt jusqu'à cette revue
+
+Suite ERP/CRM de Microsoft (équivalent fonctionnel de SAP/NetSuite, cf. `netsuite-certification-2026.md`), **totalement absente du dépôt avant ce commit**. Mêmes examens Pearson VUE, même politique de renouvellement gratuit que le reste de l'écosystème Microsoft Certified — prix standard **165 $** confirmé, cohérent avec le palier Associate déjà établi (≈ 126 € en France).
+
+```text
+MB-800   Business Central Functional Consultant Associate
+MB-820   Business Central Developer Associate
+MB-210   Sales Functional Consultant Associate
+MB-230   Customer Service Functional Consultant Associate
+MB-240   Field Service Functional Consultant Associate
+MB-310   Finance Functional Consultant Associate
+MB-330   Supply Chain Management Functional Consultant Associate
+MB-500   Finance and Operations Apps Developer Associate
+MB-700   Finance and Operations Apps Solution Architect Expert
+```
+
+Non vérifiés page par page individuellement, mais confirmés au même tarif standard (165 $) par une source indépendante croisant plusieurs codes d'examen (MB-800, MB-330, MB-230).
+
+**Valeur : ⭐⭐⭐⭐** pour un profil ERP/CRM Microsoft — écosystème vaste avec forte demande côté intégrateurs (Business Central en particulier, très répandu PME/ETI en Europe), prix nettement inférieur aux certifications SAP équivalentes.
 
 ---
 
