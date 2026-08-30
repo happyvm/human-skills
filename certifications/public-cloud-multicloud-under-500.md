@@ -11,7 +11,7 @@ tags:
   - domain/cloud
   - scope/international
 status: active
-verified: 2026-08-28
+verified: 2026-08-29
 ---
 
 # Public cloud & multicloud — certifications sous 500 € / $
@@ -223,6 +223,41 @@ Prix : **126 €** pour l'examen SC-100 ; des prérequis de certification s'appl
 Source :
 
 - https://learn.microsoft.com/fr-fr/credentials/certifications/cybersecurity-architect-expert/
+
+---
+
+## Power BI, Fabric & Power Platform — absents du dépôt jusqu'à cette revue
+
+Même famille de certifications Microsoft (même Pearson VUE, même politique de renouvellement gratuit), mais sur les produits data/low-code plutôt qu'Azure pur — angle mort identifié lors de cette revue (0 mention de Power BI ou Fabric dans tout le dépôt avant ce commit).
+
+### Power BI Data Analyst Associate — PL-300
+
+Prix standard confirmé : **165 $** (le prix France n'est pas affiché directement par le rendu de la page — JS côté client — mais suit la même grille uniforme que les autres examens Associate/Expert Microsoft ci-dessus, soit **126 € observés** pour ce niveau en France).
+
+Source :
+
+- https://learn.microsoft.com/fr-fr/credentials/certifications/data-analyst-associate/
+
+### Fabric Analytics Engineer Associate — DP-600
+
+Même grille de prix que PL-300 (niveau Associate, même politique).
+
+Source :
+
+- https://learn.microsoft.com/fr-fr/credentials/certifications/fabric-analytics-engineer-associate/
+
+### Power Platform — même famille, non vérifiés individuellement
+
+```text
+PL-100   Power Platform App Maker Associate
+PL-200   Power Platform Functional Consultant Associate
+PL-400   Power Platform Developer Associate
+PL-600   Power Platform Solution Architect Expert
+```
+
+Non vérifiés page par page lors de cette revue, mais suivent structurellement le même schéma Microsoft (Fundamentals ≈ 76 €, Associate/Expert ≈ 126 € en France, renouvellement en ligne gratuit).
+
+**Valeur : ⭐⭐⭐⭐** pour un profil data analyst/BI — PL-300 en particulier est une des certifications data les plus demandées sur le marché de l'emploi France/Europe, à un coût très inférieur aux certifications cloud-native équivalentes (Databricks, Snowflake).
 
 ---
 
