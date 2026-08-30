@@ -699,6 +699,28 @@ Source :
 
 ---
 
+## Make (ex-Integromat) Academy — gratuit, absent du dépôt jusqu'à cette revue
+
+**Absent du dépôt jusqu'à cette revue.** Make (iPaaS/automation no-code, concurrent de Zapier) propose une qualification **entièrement gratuite**, confirmée directement sur le blog officiel Make : *« The Make Academy offers free qualifications to level up your automation skills »*.
+
+```text
+Make Foundation qualification    gratuit
+```
+
+- 4 tutoriels (création de scénario, scénarios complexes, calcul des opérations, outils internes Make) + évaluation finale ;
+- badge numérique partageable après réussite ;
+- accessible avec un **compte Make gratuit** (un compte payant donne plus de marge de manœuvre technique, mais n'est pas requis pour la certification elle-même).
+
+**Attention niveau de preuve — piège évité :** un domaine tiers `makecertification.com` existe et n'a **aucun rapport** avec Make.com (organisme distinct, contact en Éthiopie) — ne pas confondre lors d'une recherche future.
+
+Source :
+
+- https://www.make.com/en/blog/learn-automation-make-academy
+
+**Valeur : ⭐⭐⭐⭐** — bon point d'entrée automation no-code gratuit ; Zapier (concurrent direct) n'a en comparaison aucun prix de certification publique confirmé lors de cette revue (programme "Experts" semble orienté agences/partenaires plutôt qu'examen individuel).
+
+---
+
 ## IBM SkillsBuild — digital credentials gratuits
 
 IBM SkillsBuild propose gratuitement apprentissage et plusieurs digital credentials validés.
