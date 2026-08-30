@@ -29,6 +29,7 @@ verified: 2026-08-30
 | HubSpot Academy certifications | **0 €** | vendor certification |
 | Google Ads certifications | **0 €** | platform certification |
 | Klaviyo Academy certifications (Practitioner / Deliverability / Digital Marketing) | **0 €** | vendor certification |
+| Iterable Foundations Certification | **0 €** | vendor certification |
 | Braze Practitioner Exam | **50 $** | vendor certification |
 | Braze Marketer Exam | **100 $** | vendor certification |
 | Salesforce Accredited Professional examples | **150 $** | proctored vendor credential |
@@ -293,6 +294,28 @@ Source :
 - https://academy.klaviyo.com/en-us/credentials
 
 Pertinent pour toute personne qui gère réellement des flux Klaviyo (welcome series, abandoned cart, deliverability) plutôt qu'un généraliste marketing.
+
+## Iterable Foundations Certification — gratuit, absent du dépôt jusqu'à cette revue
+
+**CERT — 🌍 INT — 0 €**
+
+**Iterable** (customer engagement/marketing automation, concurrent direct de Braze ci-dessus) propose une certification **entièrement gratuite**, ouverte à tout invité ou client via Iterable Academy :
+
+```text
+Format            ~40 questions QCM, open-book
+Durée              ~3 heures
+Score requis        80 %
+Validité            24 mois
+```
+
+Couvre : configuration de compte/administration, gestion des données client et segmentation, canaux email/mobile et bonnes pratiques de délivrabilité, templates personnalisés (Handlebars, outils IA).
+
+Source :
+
+- https://academy.iterable.com/foundations-certification-exam-course
+- https://academy.iterable.com/page/certifications
+
+**Valeur : ⭐⭐⭐⭐⭐** — coût nul face à l'équivalent payant Braze (50-175 $ ci-dessus), bon point d'entrée martech/CRM engagement.
 
 Le dépôt contient déjà dans `free-non-it.md` :
 
