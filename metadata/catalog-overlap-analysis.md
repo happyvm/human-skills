@@ -3,7 +3,7 @@
 > Heuristic audit of Markdown catalogue tables. Exact matches are strong signals; near matches are review candidates, not automatic duplicates.
 
 - catalogues scanned: **99**
-- credential-like table rows scanned: **1482**
+- credential-like table rows scanned: **1484**
 - exact normalized names present in 2+ files: **82**
 - specialist↔specialist file pairs with exact overlap: **12**
 - conservative near-duplicate candidates: **0**
@@ -143,7 +143,7 @@
 
 ### Red Hat exam standard
 
-- `iam-devsecops-automation-under-500.md:32` — `| Red Hat exam standard | **500 $ list price** | performance-based |`
+- `iam-devsecops-automation-under-500.md:34` — `| Red Hat exam standard | **500 $ list price** | performance-based |`
 - `virtualization-private-cloud-under-500.md:36` — `| Red Hat certification exam standard | **500 $ list price** | selon examen | Linux / OpenShift / Ceph |`
 
 ### Specialist practical exam
@@ -238,8 +238,8 @@
 | 13 | `sustainability` |
 | 12 | `data-database` |
 | 11 | `project-management` |
+| 11 | `identity-iam` |
 | 10 | `safety-occupational` |
-| 9 | `identity-iam` |
 | 8 | `mainframe` |
 | 6 | `accessibility` |
 | 5 | `construction-btp` |

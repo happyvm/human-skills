@@ -11,12 +11,12 @@ tags:
   - domain/identity-iam
   - scope/international
 status: active
-verified: 2026-08-29
+verified: 2026-08-30
 ---
 
 # IAM, PAM, DevSecOps & automation — certifications sous 500 $
 
-> Okta, HashiCorp Vault, GitHub, Red Hat Ansible, Puppet et automation/security tooling. Vérification : 29 août 2026.
+> Okta, HashiCorp Vault, GitHub, Red Hat Ansible, Puppet, SailPoint et automation/security tooling. Vérification : 30 août 2026.
 
 ---
 
@@ -29,6 +29,8 @@ verified: 2026-08-29
 | Puppet Certified Professional | **200 $** | 60 QCM, 90 min, n'expire pas |
 | Okta Professional / Admin / Consultant / Developer | **250 $** | nouveau pricing unifié actuel |
 | Vault Operations Professional | **295 $** | lab + QCM, retake inclus |
+| SailPoint IdentityIQ Professional | **300 $** | corroboré, non confirmé officiellement en direct |
+| SailPoint ISC Professional | **400 $** | corroboré, non confirmé officiellement en direct |
 | Red Hat exam standard | **500 $ list price** | performance-based |
 
 ---
@@ -321,15 +323,32 @@ Source :
 
 Ces programmes restent hautement pertinents mais leur tarification publique 2026 est moins uniformément exposée.
 
-À consolider :
+## SailPoint — résolu partiellement lors de cette revue (30 août 2026)
 
-- CyberArk Defender / Sentry / Guardian ;
-- SailPoint IdentityIQ / Identity Security Cloud ;
+```text
+SailPoint Certified IdentityIQ Professional        300 $
+SailPoint ISC (Identity Security Cloud,
+  ex-IdentityNow) Professional                     400 $
+Fourchette générale Professional Certification    400–500 $ selon examen
+```
+
+**Attention niveau de preuve :** prix corroborés par plusieurs sources tierces convergentes citant Identity University (SailPoint), mais la page officielle community.sailpoint.com/.../What-is-the-fee-for-a-Professional-Certification-exam a renvoyé un accès direct bloqué (403) lors de cette revue — à reconfirmer sur `university.sailpoint.com` au moment de l'inscription.
+
+Source :
+
+- https://university.sailpoint.com/sailpoint-certified-identityiq-associate
+- https://university.sailpoint.com/sailpoint-certified-identityiq-engineer
+
+## Reste à consolider
+
+- CyberArk Defender / Sentry / Guardian — voir `cyberark-certification-status-2026.md` (checkout requis, pas de prix public) ;
 - Ping Identity ;
 - Microsoft Entra identity credentials ;
 - BeyondTrust ;
 - Delinea ;
-- One Identity.
+- One Identity ;
+- Genesys Cloud CX (recherché 2026-08-30, sans résultat fiable : sources tierces contradictoires 300 $/500 $/580 $, page officielle beyond.genesys.com sans prix affiché) ;
+- Ivanti Product Certification (recherché 2026-08-30, sans résultat : format confirmé — 75 questions, 80 min, 80 % — mais aucun prix trouvé, ni sur le PDF officiel ni via recherche).
 
 Ils restent dans la watchlist jusqu'à obtention de prix publics ou checkout régionaux fiables.
 
