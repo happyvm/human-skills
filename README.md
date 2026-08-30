@@ -49,6 +49,7 @@ Le dépôt couvre désormais IT et hors IT : cloud, infrastructure, stockage, ba
 ## Infrastructure, cloud, réseau & plateformes
 
 - [`certifications/tools-platforms-under-500.md`](certifications/tools-platforms-under-500.md) — Datadog, Confluent, dbt, UiPath, HPE, IBM, ServiceNow, Elastic, MOS, Adobe, Autodesk, etc.
+- [`certifications/low-code-nocode-pega-appian-2026.md`](certifications/low-code-nocode-pega-appian-2026.md) — Pega System Architect (~175 $), Appian Certified Associate Developer (250 $).
 - [`certifications/storage-data-protection-under-500.md`](certifications/storage-data-protection-under-500.md) — NetApp, Dell, Pure Storage, Hitachi Vantara, Nutanix, VAST, Cohesity, NetBackup/Veritas, Huawei.
 - [`certifications/networking-wireless-ai-infra.md`](certifications/networking-wireless-ai-infra.md) — Juniper, CWNP, Nokia, MEF, NVIDIA AI Infrastructure / Networking.
 - [`certifications/finops-veeam-over-500.md`](certifications/finops-veeam-over-500.md) — FinOps Professional et nouveau parcours Veeam VMCE+/VMCSE 2026.
