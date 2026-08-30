@@ -31,6 +31,7 @@ verified: 2026-08-30
 | Klaviyo Academy certifications (Practitioner / Deliverability / Digital Marketing) | **0 €** | vendor certification |
 | Salesforce Accredited Professional examples | **150 $** | proctored vendor credential |
 | Salesforce Marketing / Consultant exams | **200 $** | certification vendor |
+| Salesloft Administrator Exam | **200 $** | vendor certification |
 | Outreach Certified Administrator | **299 $** | vendor certification |
 | AMA PCM Marketing Management — exam only | **249 $ membre / 349 $ non-membre** | professional certification |
 | AMA PCM prep + exam | **749 $ / 849 $** | bundle |
@@ -215,6 +216,24 @@ Source :
 - https://university.outreach.io/page/certification-faq
 
 **Valeur : ⭐⭐⭐⭐** pour un profil RevOps/sales ops déjà sur Outreach — écosystème sales engagement peu couvert par ailleurs dans ce dépôt (au-delà du CRM Salesforce/HubSpot déjà documenté).
+
+## Salesloft — principal concurrent d'Outreach
+
+**Salesloft Administrator Exam — 200 $** (Salesloft Academy officiel).
+
+```text
+Format         mix QCM / select-all-that-apply
+Durée           ~50 min de contenu, fenêtre de 2h une fois ouvert
+Score requis    65 %
+Recertification gratuite (cycle annuel)
+```
+
+**Attention niveau de preuve :** prix cité par une source décrivant la plateforme Salesloft Academy officielle, mais l'accès direct à `academy.salesloft.com` a renvoyé une erreur 403 lors de cette revue — à reconfirmer au moment de l'inscription.
+
+Source :
+
+- https://academy.salesloft.com/salesloft-administrator-exam (accès direct bloqué)
+- https://academy.salesloft.com/2025-recertification-salesloft-administrator
 
 ---
 
